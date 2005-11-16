@@ -1,0 +1,33 @@
+SECOND CLASS COUNTY CODE - ASSESSMENT LIMITS AND EFFECTIVE APPEAL, ESCROW AND PAYMENT UNDER PROTEST
+Act of Nov. 16, 2005,
+P.L. 382,
+No. 71
+Cl. 16
+Session of 2005
+No. 2005-71
+HB 1743
+AN ACT
+Amending the act of July 28, 1953 (P.L.723, No.230), entitled, as amended, "An act relating to counties of the second class and second class A; amending, revising, consolidating and changing the laws relating thereto," further providing for assessment limits on counties of the second class; and providing for effect of appeal, escrow and payment under protest.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Section 1980.2 of the act of July 28, 1953 (P.L.723, No.230), known as the Second Class County Code, added December 21, 1998 (P.L.1088, No.146), is amended to read:
+Section 1980.2. Limits on Counties of the Second Class.--(a) Notwithstanding any provisions of the act of June 21, 1939 (P.L.626, No.294), referred to as the Second Class County Assessment Law, to the contrary or any contrary provision of any home rule charter or administrative code of a county of the second class, when a county of the second class makes its [annual] reassessment or revaluation at values based upon an established predetermined ratio as required by law or when a county of the second class changes its established predetermined ratio, each political subdivision which hereafter levies its real estate taxes on that revised [assessment or valuation] reassessment, revaluation or change in ratio shall for that year reduce its tax rate, if necessary, for the purpose of having the total amount of property tax revenue received exclusively as a result of the reassessment, revaluation or change in ratio [not to exceed one hundred five per cent of] equal, in the case of any political subdivision, the total amount of property tax revenue received in the preceding year, notwithstanding the increased valuations of properties under the annual reassessment system. [For the purpose of determining the total amount of revenue received exclusively as a result of the reassessment or change in ratio for the year, the amount to be levied on newly constructed buildings or structures or on increased valuations based on new improvements made to existing structures shall not be considered.]
+(b) After establishing a tax rate under subsection (a), a political subdivision may, by a separate and specific vote, establish a final tax rate for the first year it levies its real estate taxes on a reassessment, revaluation or change in ratio. The tax rate under this subsection shall be fixed at a figure that limits total amount of property tax revenue received exclusively as a result of the reassessment, revaluation or change in ratio not to exceed one hundred five per cent of the total amount of property tax revenue received in the preceding year, notwithstanding the increased valuations of properties under the reassessment system.
+(c) For the purpose of determining the total amount of revenue received exclusively as a result of the reassessment, revaluation or change in ratio for the year under subsections (a) and (b), the amount to be levied on newly constructed buildings or structures or on increased valuations based on new improvements made to existing structures shall not be considered.
+(d) With the approval of the court of common pleas, upon good cause shown, any political subdivision may increase the tax rate authorized under this section.
+(e) A political subdivision may adjust its calculation of the total amount of revenue to be received exclusively as a result of the reassessment, revaluation or change in ratio for the year under subsections (a) and (b) by the previous five-year average, excluding the year immediately preceding the effective date of the reassessment, revaluation or change in ratio, annual net increase or decrease in revenue resulting from final dispositions of assessment appeal.
+(f) (1) To the extent that a political subdivision imposes taxes at a rate in excess of that which is required to produce revenue in accordance with subsections (a) and (b), the political subdivision, upon the filing with it, within three years of payment of the tax, of a written and verified claim for a refund of the excess taxes paid or caused to be paid by any person or corporation of this Commonwealth, shall refund the excess taxes with interest.
+(2) Interest required under this section shall be paid at the same rate and in the same manner as the Commonwealth is required to pay pursuant to section 806.1(b.1) of the act of April 9, 1929 (P.L.343, No.176), known as "The Fiscal Code."
+(3) For purposes of this subsection, the term "political subdivision" means a county, city, borough, incorporated town, township, home rule municipality, school district, vocational school district and county institution district.
+(g) The provisions of this section shall supersede any provision in a home rule charter, county administrative code, county ordinance or rule or regulation.
+Section 2. The act is amended by adding a section to read:
+Section 1980.3. Effect of Appeal; Escrow; Payment under Protest.--Notwithstanding any contrary provisions of the act of June 21, 1939 (P.L.626, No.294), referred to as the Second Class County Assessment Law, any home rule charter or administrative code, the following shall apply in a second class county:
+(1) An appeal taken from an assessment shall not prevent the collection of taxes based on the assessment appealed.
+(2) If the assessment shall be reduced then any overpayment of taxes shall be returned to the person or persons who paid the taxes.
+(3) The appellant may protest the taxes due in writing addressed to the Board of Property Assessment.
+(4) The appellant shall notify the taxing districts of any payment under protest by delivering to them a copy of the protest.
+(5) The taxing districts shall segregate twenty-five per cent of the amount of the tax paid under protest in a separate account and may not expend any portion of any segregated amount unless the taxing districts petition the court, alleging that the segregated amount is unjustly withheld.
+(6) The court may order the use by the taxing district of a portion of any segregated amount as the court deems reasonably free from dispute, and the remainder of the segregated amount shall be held segregated by the taxing district pending the final disposition of the appeal.
+(7) Upon final disposition of the appeal, the amount of the overpayment found to be due the appellant shall be refunded to the appellant by the same taxing district.
+Section 3. This act shall take effect immediately.
+APPROVED--The 16th day of November, A. D. 2005.
+EDWARD G. RENDELL
