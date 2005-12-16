@@ -1,0 +1,23 @@
+FISCAL CODE - REPORTS TO SECRETARY OF REVENUE AND ESTABLISHMENT OF AND APPROPRIATION TO EMERGENCY ENERGY ASSISTANCE FUND
+Act of Dec. 16, 2005,
+P.L. 439,
+No. 81
+Cl. 72
+Session of 2005
+No. 2005-81
+HB 1539
+AN ACT
+Amending the act of April 9, 1929 (P.L.343, No.176), entitled, as amended, "An act relating to the finances of the State government; providing for the settlement, assessment, collection, and lien of taxes, bonus, and all other accounts due the Commonwealth, the collection and recovery of fees and other money or property due or belonging to the Commonwealth, or any agency thereof, including escheated property and the proceeds of its sale, the custody and disbursement or other disposition of funds and securities belonging to or in the possession of the Commonwealth, and the settlement of claims against the Commonwealth, the resettlement of accounts and appeals to the courts, refunds of moneys erroneously paid to the Commonwealth, auditing the accounts of the Commonwealth and all agencies thereof, of all public officers collecting moneys payable to the Commonwealth, or any agency thereof, and all receipts of appropriations from the Commonwealth, authorizing the Commonwealth to issue tax anticipation notes to defray current expenses, implementing the provisions of section 7(a) of Article VIII of the Constitution of Pennsylvania authorizing and restricting the incurring of certain debt and imposing penalties; affecting every department, board, commission, and officer of the State government, every political subdivision of the State, and certain officers of such subdivisions, every person, association, and corporation required to pay, assess, or collect taxes, or to make returns or reports under the laws imposing taxes for State purposes, or to pay license fees or other moneys to the Commonwealth, or any agency thereof, every State depository and every debtor or creditor of the Commonwealth," further providing for reports to the Secretary of Revenue; and establishing and providing for an appropriation to the Emergency Energy Assistance Fund.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Section 901 of the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, amended December 2, 1976 (P.L.1274, No.283) and repealed in part April 28, 1978 (P.L.202, No.53), is amended to read:
+Section 901. Reports to the Secretary of Revenue.--On the fifth day of each month, [and] or at such times and with such frequency as may be prescribed by the Secretary of Revenue, it shall be the duty of each judicial officer of a court not of record, city officer and county officer to render to the Department of Revenue, under oath or affirmation, returns of all moneys or as much as may be prescribed by the Secretary of Revenue, received during the applicable period for the use of the Commonwealth, designating, under proper headings, the source from which such moneys were received, and to pay the same into the State Treasury, through the Department of Revenue, less any compensation and reimbursement for expenses allowable by law for having made the collections.
+Section 2. Article XVII-A of the act is amended by adding a subarticle to read:
+SUBARTICLE F
+EMERGENCY ENERGY ASSISTANCE FUND
+Section 1751-A. Establishment of Emergency Energy Assistance Fund.
+There is established a special fund to be known as the Emergency Energy Assistance Fund.
+Section 1752-A. Appropriation to Emergency Energy Assistance Fund.
+An amount equal to not more than 1.0 mill of the gross receipts tax collected during each fiscal year under Article XI of the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, shall be appropriated for the fiscal year July 1, 2005, to June 30, 2006, from the General Fund to the Emergency Energy Assistance Fund, to be administered by the Department of Public Welfare for State-funded emergency energy assistance if the Governor issues a declaration that either weather conditions, natural or man-made disasters, or high energy prices or a combination thereof are a threat to public health within this Commonwealth and available Federal home energy assistance funds are not sufficient to meet this need. The Governor shall publish this emergency declaration in the Pennsylvania Bulletin along with the criteria and emergency regulations for this program and shall transmit copies of the declaration to the chairman and minority chairman of the Appropriations Committee of the Senate and the chairman and minority chairman of the Appropriations Committee of the House of Representatives.
+Section 3. This act shall take effect immediately.
+APPROVED--The 16th day of December, A. D. 2005.
+EDWARD G. RENDELL
