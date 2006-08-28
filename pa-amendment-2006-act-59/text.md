@@ -1,0 +1,198 @@
+JUDICIAL CODE (42 PA.C.S.) - CONSTABLES' FEES
+Act of Jun. 29, 2006, P.L. 277, No. 59 Cl. 42
+Session of 2006
+No. 2006-59
+SB 303
+AN ACT
+Amending Title 42 (Judiciary and Judicial Procedure) of the
+Pennsylvania Consolidated Statutes, further providing for
+fees for constables.
+The General Assembly of the Commonwealth of Pennsylvania
+hereby enacts as follows:
+Section 1. Section 2950 of Title 42 of the Pennsylvania
+Consolidated Statutes, amended November 30, 2004 (P.L.1618,
+No.207), is amended to read:
+§ 2950. Fees.
+(a) Travel or mileage.--Actual mileage for travel by motor
+vehicle shall be reimbursed at a rate equal to the highest rate
+allowed by the Internal Revenue Service. If travel is by other
+than motor vehicle, reimbursement shall be for actual[,]
+vouchered travel expenses.
+(b) Apportionment.--If more than one defendant is
+transported simultaneously, reimbursements shall be for actual
+miles traveled, and the travel cost shall be divided between or
+among the defendants.
+(c) Additional persons.--A constable or deputy constable
+when he is transporting a prisoner, serving a felony or
+misdemeanor warrant [other than for a summary offense] or
+serving a warrant on a juvenile or a defendant of the opposite
+sex may, at his discretion, be accompanied by a second constable
+or deputy constable who is certified under section 2947
+(relating to automatic certification) to perform judicial
+duties. In such cases, each officer shall receive the fee set
+out in this section. In all other civil, landlord-tenant and
+summary criminal cases, the issuing authority may authorize
+payment to a second officer.
+(d) Civil and landlord-tenant cases.--In civil and landlord-
+tenant cases, constable fees must be paid in advance to the
+court for services desired to be performed. These fees shall not
+be refundable to the plaintiff if a case is settled or a debt is
+satisfied less than 48 hours prior to a scheduled sale or
+ejectment, in which latter case the constable or deputy
+constable shall be paid for holding the sale or carrying out an
+ejectment, respectively.
+(e) Payment.--[Fees] All civil, landlord-tenant and criminal
+fees shall be paid by the court to the constable as soon as
+possible and in no case not more than 15 days in civil and
+landlord-tenant cases and 30 days in criminal cases after the
+service is performed and a proper request for payment is
+submitted, provided that, in criminal cases where the books and
+accounts of the relevant county offices are payable on a monthly
+basis, payment shall be made not more than 15 days after the
+close of the month.
+[(f) Specific fees.--Fees in civil cases shall be as
+follows:
+(1) For serving complaint, summons or notice on suitor
+or tenant, either personally or by leaving a copy, $10 plus
+$5 for each additional defendant at the same address.
+(2) For levying goods, including schedule of property
+levied upon and set aside, $35.
+(3) For advertising personal property to public sale, $5
+per posting (maximum of $15) plus actual cost of advertising.
+(4) For selling goods levied, $35.
+(5) For clerk at sale, $20.
+(6) For making return of not found, $10.
+(7) For executing order of possession, $10.
+(8) For ejectment, $70.
+(9) For making return of service, other than not found,
+$2.50.
+(10) For providing courtroom security as ordered, $10
+per hour, prorated to the nearest whole dollar, assessed
+against one or more parties as determined by the court.]
+(f) Civil and landlord-tenant cases.--Fees in civil and
+landlord-tenant cases shall be as follows:
+(1) For serving complaint, summons or notice on suitor
+or tenant, either personally or by leaving a copy, $13, plus
+$5 for each additional defendant at the same address, $2.50
+for each return of service, plus mileage.
+(2) For levying goods, including schedule of property
+levied upon and set aside, notice of levy and return of
+service, $75, plus mileage.
+(3) For advertising personal property for public sale,
+$7 per posting (maximum of $21), plus mileage, plus actual
+cost of advertising.
+(4) For selling goods levied, clerk, receipts and
+returns to court, $85, plus mileage.
+(5) For making return of not found, $13, plus mileage.
+Payment shall be limited to three returns of not found.
+(6) For executing order of possession, $13, plus $5 for
+each additional defendant at the same address, $2.50 for each
+return of service, plus mileage.
+(7) For ejectment, $90, $2.50 for each return of
+service, plus mileage.
+(8) For making any return of service other than not
+found, $2.50 each.
+(9) For providing courtroom security as ordered, $13 per
+hour, assessed against one or more parties as determined by
+the court.
+(10) Actual mileage for travel by motor vehicle shall be
+reimbursed at the rate equal to the highest rate allowed by
+the Internal Revenue Service. If travel is by other than
+motor vehicle, reimbursement shall be for actual vouchered
+travel expenses.
+(g) Criminal cases.--Fees in criminal cases shall be as
+follows:
+(1) For executing [a] each warrant of arrest, or for
+effectuating the payment of fines and costs by attempting to
+execute [a warrant, $15 per warrant] each warrant of arrest,
+$25 for each docket number and $2.50 for each return of
+service, plus mileage.
+(2) For taking custody of a defendant, $5 per defendant.
+(3) For conveyance of defendant to or from court, $5 per
+defendant.
+(4) For attendance at arraignment or hearing, [$5 per
+defendant] $13.
+(5) For executing discharge, $5 per defendant.
+(6) For executing commitment, $5 per defendant.
+(7) For executing release, $5 per defendant.
+(8) For making returns to the court, $2.50.
+[(9) For holding one or more defendants at the office of
+a magisterial district judge, $10 per hour beyond the first
+half hour.
+(10) For conveying defendants for fingerprinting, $5 per
+defendant.
+(11) For fingerprinting or overseeing the fingerprinting
+of defendants at the direction of the magisterial district
+judge, $10 per defendant, plus $10 per hour beyond the first
+half hour.
+(12) For providing courtroom security as ordered, $10
+per hour, prorated to the nearest whole dollar, assessed
+against one or more parties as determined by the court.
+(13) For serving subpoenas, $10 for the first witness at
+each address, plus $2.50 for each additional witness at the
+same address. The same fee shall be payable for attempting to
+service a subpoena at a wrong address supplied by the party
+requesting the service.
+(h) Similar fees.--For civil and criminal services not
+specifically provided for, the court shall pay the same fees as
+it pays for services that it determines to be similar to those
+performed.
+(i) Assessment by court.--In all criminal cases wherein the
+defendant is discharged or indigent, or the case is otherwise
+dismissed, the court shall assess to the county the fee provided
+in this section, except that, in cases of private criminal
+complaints wherein the defendant is discharged prior to the
+indictment or the filing of any information or the case is
+otherwise dismissed at the summary offense hearing, the court
+shall assess the fee to the affiant.]
+(9) Transporting each nonincarcerated defendant to jail,
+$17, plus mileage; transporting an incarcerated prisoner, $38
+per prisoner, plus an hourly rate of $13 per hour, plus
+mileage. Computation of hourly rate will apply after the
+expiration of the first hour per prisoner per hour, not to
+exceed $26 per hour per constable.
+(10) Receipt of the fees for transporting a
+nonincarcerated defendant under paragraph (9) shall not
+exclude receipt of the fees under paragraphs (6) and (8) for
+that transport.
+(11) Receipt of the fees for transporting an
+incarcerated prisoner under paragraph (9) shall exclude
+receipt of the fees under paragraphs (2), (3), (4) and (7)
+for that transport.
+(12) Actual mileage for travel by motor vehicle shall be
+reimbursed at the rate equal to the highest rate allowed by
+the Internal Revenue Service. If travel is by other than
+motor vehicle, reimbursement shall be for actual vouchered
+travel expenses.
+(13) For conveying defendants for fingerprinting, $17
+per defendant, plus $13 per hour beyond the first hour per
+defendant per hour, not to exceed $26 per hour per constable,
+plus mileage.
+(14) For holding one or more defendants at the office of
+a magisterial district judge, $13 per hour per defendant
+beyond the first half hour.
+(15) For courtroom security as ordered, $13 per hour,
+assessed against one or more parties as determined by the
+court.
+(16) In all criminal cases wherein the defendant is
+discharged or indigent or the case is otherwise dismissed,
+the court shall assess to the county the fee provided in this
+section, except that in cases of private criminal complaints
+wherein the defendant is discharged prior to the indictment
+or the filing of any information or the case is otherwise
+dismissed at the summary offense hearing, the court shall
+assess the fee to the affiant.
+(h) Subpoenas.--For serving district court-issued subpoenas
+for civil, landlord-tenant or criminal matters, $13 for first
+witness, plus $5 for each additional witness at the same
+address, $2.50 return of service for each subpoena, plus
+mileage. The same fee shall be payable for attempting to serve a
+subpoena at a wrong address supplied by the party requesting the
+service.
+(i) Similar fees.--For civil, landlord-tenant and criminal
+services not specifically provided for, the court shall pay the
+same fees as it pays for services that it determines to be
+similar to those performed.
+Section 2. This act shall take effect in 60 days.
+APPROVED--The 29th day of June, A. D. 2006.
+EDWARD G. RENDELL
