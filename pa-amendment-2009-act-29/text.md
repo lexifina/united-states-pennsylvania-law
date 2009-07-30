@@ -1,0 +1,20 @@
+CONVEYANCE - COMMONWEALTH PROPERTY IN MOUNT JOY TOWNSHIP, LANCASTER COUNTY
+Act of Jul. 30, 2009,
+P.L. 112,
+No. 29
+Cl. 85
+AN ACT
+Authorizing the Department of General Services, with the approval of the Governor, to grant and convey to Tad W. Hippensteel a pedestrian and vehicular access easement over certain lands of the Commonwealth of Pennsylvania situate in Mount Joy Township, Lancaster County.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Conveyance in Mount Joy Township, Lancaster County.
+(a) Authorization.--The Department of General Services, with the approval of the Governor, is hereby authorized on behalf of the Commonwealth of Pennsylvania to grant and convey to Tad W. Hippensteel an easement for pedestrian and vehicular access across lands of the Commonwealth of Pennsylvania situate in Mount Joy Township, Lancaster County, for $2,157 and under terms and conditions to be established in an easement agreement with the Department of General Services.
+(b) Description.--The easement to be conveyed, pursuant to subsection (a) consists of an area of approximately 0.10 acres located upon the grounds of the Department of Corrections' Training Academy in Mount Joy Township, Lancaster County, such easement area being more particularly bounded and described as follows:
+ALL THAT CERTAIN area extending through lands of the Commonwealth of Pennsylvania, situated on the westerly side of Cassell Road, (T.R. 310), located in Mount Joy Township, Lancaster County, Pennsylvania, as shown on an Access Easement Exhibit for the Commonwealth of Pennsylvania, prepared by David Miller/Associates, Incorporated, Drawing No. 07-121, dated 05/30/07, said easement being more fully bounded and described as follows:
+BEGINNING at a point in line of lands now or formerly of Tad W. Hippensteel, said point being South 32 degrees 33 minutes 20 seconds West 184.95 feet from an iron pipe (found) at the northeasterly corner of said Hippensteel lands; thence extending through lands of the Commonwealth of Pennsylvania South 63 degrees 50 minutes 13 seconds East 80.72 feet to a point on the westerly right-of-way line of Cassell Road (T.R. 310); thence extending along said westerly right-of-way line South 26 degrees 09 minutes 47 seconds West 50.00 feet to a point; thence extending through lands of the Commonwealth of Pennsylvania North 63 degrees 50 minutes 13 seconds West 86.32 feet to a point in line of lands now or formerly of Tad W. Hippensteel; thence extending along said Hippensteel lands North 32 degrees 33 minutes 20 seconds East 50.31 feet to the point of BEGINNING.
+CONTAINING: 0.10-acres more or less.
+(c) Easements.--The conveyance shall be made under and subject to all lawful and enforceable easements, servitudes and rights of others, including, but not limited to, streets, roadways and rights of any telephone, telegraph, water, electric, gas or pipeline companies, as well as under and subject to any lawful and enforceable estates or tenancies vested in third persons appearing of record, for any portion of the land or improvements erected thereon.
+(d) Deed.--The Deed of Easement shall contain such terms and conditions as shall be acceptable to the Department of General Services and shall be approved as provided by law and shall be executed by the Secretary of General Services in the name of the Commonwealth of Pennsylvania.
+(e) Costs.--Costs and fees incidental to this conveyance shall be borne by the grantee and paid to the Department of General Services.
+(f) Use of proceeds.--The Department of General Services shall utilize the proceeds from the conveyance to reimburse itself for costs and fees it incurred as a result of this conveyance. Any funds remaining after reimbursement to the Department of General Services shall be paid into the General Fund.
+(g) Expiration.--In the event that the grantee and the Department of General Services cannot reach a mutually acceptable easement agreement within 12 months of the effective date of this subsection, the authorization contained in this section shall expire.
+Section 2. This act shall take effect immediately.
