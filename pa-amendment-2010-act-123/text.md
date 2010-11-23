@@ -1,0 +1,58 @@
+PUBLIC SCHOOL CODE OF 1949 - DISQUALIFICATIONS RELATING TO TEACHER'S CERTIFICATE, MEDICAL EXAMINATIONS OF TEACHERS AND OTHER PERSONS AND ATTENDANCE IN OTHER DISTRICTS
+Act of Nov. 23, 2010,
+P.L. 1350,
+No. 123
+Cl. 24
+Session of 2010
+No. 2010-123
+SB 441
+AN ACT
+Amending the act of March 10, 1949 (P.L.30, No.14), entitled "An act relating to the public school system, including certain provisions applicable as well to private and parochial schools; amending, revising, consolidating and changing the laws relating thereto," further providing for disqualifications relating to teacher's certificate, for medical examinations of teachers and other persons; and for attendance in other districts.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Section 1209 of the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, amended April 15, 1959 (P.L.41, No.16) and June 24, 1959 (P.L.485, No.110), is amended to read:
+Section 1209. Disqualifications.--No teacher's certificate shall be granted to any person who [has]:
+(1) Has not submitted, upon a blank furnished by the [Superintendent of Public Instruction] Secretary of Education, a certificate from a physician [legally qualified to practice medicine], certified registered nurse practitioner or physician assistant licensed or certified in this Commonwealth, or in any other state or the District of Columbia, setting forth that [said] the applicant is [neither mentally nor physically disqualified, by reason of tuberculosis or any other communicable disease or by reason of mental disorder] not disqualified by reason of a mental or physical disability or a communicable disease from the successful performance of the [duties of a teacher; nor to any person who has not] essential functions of a teacher with or without a reasonable accommodation.
+(2) Does not have a good moral character[, or who is].
+(3) [in the habit of using opium or other narcotic drugs in any form, or any intoxicating drink as a beverage, or to any applicant who has a major physical disability or defect unless such a person submits a certificate signed by an official of the college or university from which he was graduated or of an appropriate rehabilitation agency, certifying that in the opinion of such official the applicant, by his work and activities, demonstrated that he is sufficiently adjusted, trained and motivated to perform the duties of a teacher, notwithstanding his impediment.] Engages in the illegal use of controlled substances or alcoholic beverages. An applicant for certification may overcome the disqualification under this paragraph and receive a teaching certificate if the applicant is reviewed by the Department of Education pursuant to the requirement of paragraph (2) and determined to be of good moral character.
+Section 2. Section 1418(d) of the act, amended July 14, 1971 (P.L.229, No.47), is amended to read:
+Section 1418. Medical Examinations of Teachers and Other Persons.--* * *
+(d) Medical examinations shall be made by the school physician of the district if provision therefor is made by the district or joint school board or by a physician, certified registered nurse practitioner or physician assistant of the employe's own choice [legally qualified to practice medicine and surgery or osteopathy or osteopathic surgery in the] licensed or certified in this Commonwealth.
+Section 3. Section 1607 of the act, amended August 11, 1959 (P.L.683, No.228), is amended to read:
+Section 1607. Attendance in Other Districts.--[Pupils] (a) Except as set forth in subsection (b), pupils residing in a school district in which no public high school is maintained may attend, during the entire term, at the expense of the school district of which they are residents, the nearest or most conveniently located high school of such class as they may desire to attend, unless the board of school directors of the district of residence shall have assigned the pupils to a high school and adequate transportation is provided thereto. Pupils who reside in a school district in which no public high school, other than a vocational high school is maintained, may attend, during the entire term, the nearest or most conveniently located academic high school. In any district which maintains a high school whose program of studies terminates before the end of the twelfth year, pupils who have satisfactorily completed the program of studies there available in other than vocational schools or departments, or have completed a program of studies equivalent to said program of studies in some other school or schools, may attend, at the expense of the school district in which they live, and for the purpose of pursuing academic studies of a higher grade, the nearest or most conveniently located high school of such type as they may desire to attend giving further high school work.
+(b) If a third class school district operating under a special board of control pursuant to section 692 has, with the approval of the Secretary of Education, curtailed its educational program by eliminating its high school and has not assigned its high school pupils to another school district and provided adequate transportation in a manner under subsection (a), the secretary shall have the following authority:
+(1) To designate two or more school districts, which shall accept on a tuition basis the high school students of the distressed school district, so long as a designated school district's border is no more than three (3) miles from the border of the distressed school district. The designation under this paragraph shall occur no later than thirty (30) days after receiving the approval of the secretary to curtail its educational program by the elimination of its high school, provided, however, that if any school district meets the criteria of this subsection on the effective date of this subsection, the designation of school districts shall occur no later than thirty (30) days after the effective date of this subsection. No designated school district shall be assigned more than one hundred sixty-five (165) students from the distressed school district.
+(2) To establish a process for the distressed school district to use to reassign its high school students to the school districts designated under paragraph (1).
+(3) To establish the per-pupil tuition rate that a school district designated under paragraph (1) shall receive for each reassigned student in a regular or special education program. For the 2010-2011 school year and each school year thereafter, the tuition rate established under this paragraph may not exceed the product of:
+(i) the tuition rate established for the 2007-2008 school year; and
+(ii) the greater of:
+(A) two percent (2%); or
+(B) the percentage increase in total budgeted revenues available to a distressed school district.
+(c) A school district designated under subsection (b)(1) shall provide transportation to reassigned students to its high school and shall be eligible for transportation reimbursement in a manner consistent with section 2541.
+(d) By August 1 of the year in which a school district is designated under subsection (b)(1) and each August 1 thereafter, the secretary shall publish on the Internet website of the Department of Education and submit to the Legislative Reference Bureau for publication in the Pennsylvania Bulletin, the following information:
+(1) The names of the school districts designated under subsection (b)(1).
+(2) The process established under subsection (b)(2).
+(3) The tuition rate established under subsection (b)(3).
+(e) Notwithstanding any other provision of statute, regulation, guideline, directive, decision or agreement to the contrary, a school district which is designated under subsection (b)(1) may not be required to include the students in its public school enrollment report for the purposes of determining an interscholastic sports classification by a private entity that is organized under the laws of this Commonwealth to administer interscholastic athletics.
+(f) A student assigned to a school district designated under subsection (b)(1) shall be included in the average daily membership of the student's school district of residence for the purpose of providing basic education funding allocations and special education funding payments pursuant to Article XXV.
+(g) By February 1 of each year, the Legislative Budget and Finance Committee shall submit an annual report to the chairman and minority chairman of the Appropriations Committee and the Education Committee of the Senate and to the chairman and minority chairman of the Appropriations Committee and the Education Committee of the House of Representatives summarizing the financial and academic status of a distressed school district under this section and include an audit of its accounts for the immediately preceding school year.
+(h) For the two (2) consecutive school years following designation under subsection (b)(1), a school district designated under subsection (b)(1) shall receive an additional per-pupil sum of five hundred dollars ($500) for students reassigned pursuant to this section. These additional funds shall be used for transition services to students, including student mentoring, tutoring, employee in-service programs designed to assist transitioning students and security expenditures.
+(i) The following apply:
+(1) No later than ninety (90) days after designating a school district under subsection (b)(1), the secretary shall establish the Education Advisory Committee, consisting of members selected by the secretary, including:
+(i) A representative of each school district designated under subsection (b)(1) recommended by the board of school directors of the designated school district.
+(ii) A member of the board of control of the distressed school district subject to this section.
+(iii) An administrator from each school district designated under subsection (b)(1) and from the distressed school district subject to this section.
+(iv) A teacher from each school district designated under subsection (b)(1) and from the distressed school district subject to this section.
+(v) An elected official representing voters in each school district designated under subsection (b)(1) and the distressed school district subject to this section.
+(vi) Three (3) residents of each of the school districts designated under subsection (b)(1).
+(vii) Three (3) residents of the distressed school district subject to this section.
+(viii) An employe of the department. The employe must not be a current member of the board of control.
+(ix) A representative of the intermediate unit in which the school districts designated under subsection (b)(1) and the distressed school district subject to this section are located.
+(2) The Education Advisory Committee shall provide a semi-annual report to the secretary. The report shall include:
+(i) An evaluation of the transition of students who have been assigned to a school district designated under subsection (b)(1).
+(ii) Recommendations for changes to the process established under subsection (b)(2).
+(iii) Recommendations for improving education opportunities for students of a distressed school district under this section.
+(3) The secretary shall provide the Education Advisory Committee a written response to the semi-annual report required under paragraph (2).
+Section 4. Any regulations of the Department of Education that are inconsistent with this act are hereby abrogated to the extent of the inconsistency.
+Section 5. This act shall take effect immediately.
+APPROVED--The 23rd day of November, A.D. 2010.
+EDWARD G. RENDELL
