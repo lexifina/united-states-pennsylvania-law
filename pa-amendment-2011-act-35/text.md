@@ -1,0 +1,24 @@
+PENNSYLVANIA FARMLAND AND FOREST LAND ASSESSMENT ACT OF 1974 - UTILIZATION OF LAND OR CONVEYANCE OF RIGHTS FOR EXPLORATION OR EXTRACTION OF GAS, OIL OR COAL BED METHANE
+Act of Jul. 7, 2011,
+P.L. 213,
+No. 35
+Cl. 53
+Session of 2011
+No. 2011-35
+HB 144
+AN ACT
+Amending the act of December 19, 1974 (P.L.973, No.319), entitled "An act prescribing the procedure under which an owner may have land devoted to agricultural use, agricultural reserve use, or forest reserve use, valued for tax purposes at the value it has for such uses, and providing for reassessment and certain interest payments when such land is applied to other uses and making editorial changes," further providing for utilization of land or conveyance of rights for exploration or extraction of gas, oil or coal bed methane.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Section 6(c.1) of the act of December 19, 1974 (P.L.973, No.319), known as the Pennsylvania Farmland and Forest Land Assessment Act of 1974, added October 27, 2010 (P.L.866, No.88), is amended to read:
+Section 6. Split-off, Separation or Transfer; Leasing for Wireless Service; Utilization of Land or Conveyance of Rights for Exploration or Extraction of Gas, Oil or Coal Bed Methane; Utilization of Land for Commercial Alternative Energy Generation; Death of Landowner; Temporary Leases.--* * *
+(c.1) The following apply:
+(1) Land subject to preferential assessment may be leased or otherwise devoted to the exploration for and removal of gas and oil, including the extraction of coal bed methane, and the development of appurtenant facilities, including new roads and bridges, pipelines and other buildings or structures, related to exploration for and removal of gas and oil and the extraction of coal bed methane.
+(2) Portions of land subject to preferential assessment may be used for exploration for and removal of gas and oil, including the extraction of coal bed methane, and the development of appurtenant facilities, including new roads and bridges, pipelines and other buildings or structures, related to those activities.
+(3) Roll-back taxes shall be imposed upon those portions of land actually devoted to activities set forth in paragraph (2), excluding land devoted to subsurface transmission or gathering lines, which shall not be subject to roll-back tax. The portion of land subject to roll-back tax shall be the [restored] well site and land which is incapable of being immediately used for the agricultural use, agricultural reserve or forest reserve activities required under section 3, as [measured from the] determined when a well [site restoration] production report [approved by] is first due to the Department of Environmental Protection as required by section 212 of the act of December 19, 1984 (P.L.1140, No.223), known as the "Oil and Gas Act," and 25 Pa. Code [78.65 (relating to site restoration)] § 78.121 (relating to production reporting) or its subsequent version. A copy of this report shall be [submitted] provided by the Department of Environmental Protection to the county assessor within ten days of its [approval] submission. The fair market value of the [restored] well site and land which is incapable of being immediately used for the agricultural use, agricultural reserve or forest reserve activities required under section 3 shall be adjusted retroactively to the date a permit was approved under section 201 of [the act of December 19, 1984 (P.L.1140, No.223), known as] the "Oil and Gas Act." The tax calculated based on the adjusted fair market value shall be due and payable in the tax year immediately following the year in which a well production report is provided to the county assessor. Roll-back taxes shall become due upon the [filing of the approved well site restoration] receipt of a well production report [with] by the county assessor. The utilization of a portion of land for activities set forth in paragraph (2) shall not invalidate the preferential assessment of the land which is not so utilized and the land shall continue to receive preferential assessment if it continues to meet the requirements of section 3.
+(4) Notwithstanding paragraph (3), no roll-back tax shall be imposed upon a landowner for activities related to the exploration for or removal of oil or gas, including the extraction of coal bed methane, conducted by parties other than the landowner that hold the rights to conduct such activities pursuant to an instrument, conveyance or other vesting of the rights if the transfer of the rights occurred:
+(i) before the land was enrolled for preferential assessment under this act; and
+(ii) before the effective date of this section.
+* * *
+Section 2. This act shall take effect immediately.
+APPROVED--The 7th day of July, A.D. 2011.
+TOM CORBETT
