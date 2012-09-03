@@ -1,0 +1,26 @@
+TRANSPORTATION (74 PA.C.S.) - DESIGNATION OF U.S. ROUTE 202 PARKWAY IN MONTGOMERY AND BUCKS COUNTY AS SCENIC BYWAY AND DESIGNATION OF BRIDGE ON U.S. ROUTE 202 PARKWAY IN MONTGOMERY TOWNSHIP, MONTGOMERY COUNTY AS THE CHIEF RICHARD J. BRADY BRIDGE
+Act of Jul. 5, 2012,
+P.L. 1140,
+No. 140
+Cl. 74
+Session of 2012
+No. 2012-140
+SB 1551
+AN ACT
+Amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in scenic byways, providing for the designation of the 8.6 mile U.S. Route 202 Parkway between State Route 63 (Welsh Road) and State Route 611 in Montgomery and Bucks Counties as a scenic byway; and designating a bridge on that portion of U.S. Route 202 Parkway over Pennsylvania Route 309, Montgomery Township, Montgomery County, as the Chief Richard J. Brady Bridge.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Title 74 of the Pennsylvania Consolidated Statutes is amended by adding a section to read:
+§ 8309. Designation of U.S. Route 202 Parkway as scenic byway.
+(a) General rule.--Because of its outstanding scenic, historic, recreational, cultural, natural and archeological characteristics, the 8.6 mile U.S. Route 202 Parkway between State Route 63 (Welsh Road) in Montgomery Township and State Route 611 in Doylestown Township is hereby designated as a scenic byway.
+(b) Effect of designation.--No outdoor advertising device, as defined in section 3 of the act of December 15, 1971 (P.L.596, No.160), known as the Outdoor Advertising Control Act of 1971, may be erected:
+(1) within 660 feet of the nearest edge of the right-of-way; or
+(2) more than 660 feet from the nearest edge of the right-of-way, outside of urban areas, if the sign is visible from the main-traveled way of the scenic byway and the purpose of the sign is that its message be read from the main-traveled way of the scenic byway, except:
+(i) the official signs and notices which are required or authorized by law and which conform to the national standards promulgated by the Secretary of Transportation of the United States pursuant to 23 U.S.C. § 131 (relating to control of outdoor advertising);
+(ii) outdoor advertising devices advertising the sale or lease of the real property upon which they are located;
+(iii) outdoor advertising devices advertising activities conducted on the property on which they are located, including devices which display a message that may be changed at reasonable intervals by electronic process or remote control;
+(iv) directional signs, including, but not limited to, signs pertaining to natural wonders, scenic and historical attractions and other points of interest to the traveling public which conform to the national standards promulgated by the Secretary of Transportation of the United States pursuant to 23 U.S.C. § 131; and
+(v) signs approved by the department designating the route as a scenic byway installed in accordance with department requirements.
+Section 2. The bridge on U.S. Route 202 Parkway over Pennsylvania Route 309 in Montgomery Township, Montgomery County, is designated as the Chief Richard J. Brady Bridge. The Department of Transportation shall erect and maintain appropriate signs displaying the name of the bridge to traffic in both directions.
+Section 3. This act shall take effect in 60 days.
+APPROVED--The 5th day of July, A.D. 2012.
+TOM CORBETT
