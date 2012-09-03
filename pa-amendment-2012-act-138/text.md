@@ -1,0 +1,75 @@
+OCCUPATIONAL THERAPY PRACTICE ACT - CREATION OF BOARD, REQUIREMENTS FOR LICENSURE, PRACTICE AND REFERRAL, RENEWAL OF LICENSE, REFUSAL, SUSPENSION OR REVOCATION OF LICENSE AND IMPAIRED PROFESSIONALS PROGRAM
+Act of Jul. 5, 2012,
+P.L. 1132,
+No. 138
+Cl. 63
+Session of 2012
+No. 2012-138
+SB 1528
+AN ACT
+Amending the act of June 15, 1982 (P.L.502, No.140), entitled "An act regulating the practice and licensure of occupational therapy, creating the State Board of Occupational Therapy Education and Licensure with certain powers and duties and prescribing penalties," further providing for definitions, for creation of board, for requirements for licensure, for practice and referral, for renewal of license and for refusal, suspension or revocation of license; and providing for impaired professionals program.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. The definition of "occupational therapy" in section 3 of the act of June 15, 1982 (P.L.502, No.140), known as the Occupational Therapy Practice Act, is amended to read:
+Section 3. Definitions.
+The following words and phrases when used in this act shall have, unless the context clearly indicates otherwise, the meanings given to them in this section:
+* * *
+"Occupational therapy." The evaluation of learning and performance skills and the analysis, selection and adaptation of activities for an individual whose abilities to cope with the activities of daily living, to perform tasks normally performed at a given stage of development and to perform essential vocational tasks which are threatened or impaired by that person's developmental deficiencies, aging process, environmental deprivation or physical, psychological, injury or illness, through specific techniques which include:
+(1) Planning and implementing activity programs to improve sensory and motor functioning at the level of performance normal for the individual's stage of development.
+(2) Teaching skills, behaviors and attitudes crucial to the individual's independent, productive and satisfying social functioning.
+(3) The design, fabrication and application of [splints] orthotics to enhance performance in occupations, not to include prosthetic [or orthotic] devices, and the adaptation of equipment necessary to assist patients in adjusting to a potential or actual impairment and instructing in the use of such devices and equipment.
+(4) Analyzing, selecting and adapting activities to maintain the individual's optimal performance of tasks to prevent disability.
+* * *
+Section 2. Section 4 of the act is amended by adding a subsection to read:
+Section 4. Creation of board, appointment and term of members, officers.
+* * *
+(f) A member who fails to attend three meetings in 18 months shall forfeit the member's seat unless the commissioner, upon written request from the member, finds that the member should be excused from a meeting because of illness or death of a family member.
+Section 3. Section 8 of the act is amended to read:
+Section 8. Requirements for licensure.
+An applicant applying for a license as an occupational therapist or as an occupational therapy assistant shall submit a written application on forms provided by the board evidencing and showing to the satisfaction of the board that he or she:
+(1) Is of good moral character.
+(2) Has completed the academic requirements of an approved educational program in occupational therapy recognized by the board with the advice and consultation of recognized national accrediting agencies and professional organizations including the American Occupational Therapy Association as follows:
+(i) For an occupational therapist, a four-year program, or its equivalent as established by the board.
+(ii) For an occupational therapy assistant, a two-year program, or its equivalent as established by the board.
+(3) Has successfully completed a period of supervised fieldwork experience at a recognized educational institute or a training program approved by the educational institution where the academic requirements met were as follows:
+(i) For an occupational therapist a minimum of six months of supervised fieldwork experience.
+(ii) For an occupational therapy assistant, a minimum of two months of supervised fieldwork.
+(4) Has passed an examination approved by the board.
+(5) Has professional liability insurance in accordance with the following provisions:
+(i) Effective by the next biennial period for license renewal following the effective date of this paragraph, an occupational therapist shall obtain and maintain professional liability insurance as specified in subparagraphs (ii) and (iii). The occupational therapist shall notify the board within 30 days of the occupational therapist's failure to be covered by the required insurance. Failure to notify the board shall be actionable under section 16. Further, the license of the occupational therapist shall automatically be suspended upon failure to be covered by the required insurance and shall not be restored until submission to the board of satisfactory evidence that the occupational therapist has the required professional liability insurance coverage.
+(ii) The board shall accept from an occupational therapist as satisfactory evidence of insurance coverage under this paragraph any or all of the following: self-insurance, personally purchased professional liability insurance, professional liability insurance coverage provided by the occupational therapist's employer or any similar type of coverage acceptable to the board.
+(iii) The level of professional liability insurance coverage shall be in the minimum amount of $1,000,000 per occurrence or claims made. Failure to maintain the required insurance coverage shall subject the occupational therapist to disciplinary proceedings.
+(iv) The applicant for an occupational therapist's license shall provide proof that the applicant has obtained professional liability insurance in accordance with subparagraph (iii). It is sufficient if:
+(A) the applicant files with the application a copy of a letter from the applicant's professional liability insurance carrier indicating that the applicant will be covered against professional liability in the required amounts effective upon the issuance of the applicant's license to practice occupational therapy in this Commonwealth; or
+(B) the applicant certifies that the applicant will be covered by an employer against professional liability in required amounts upon the commencement of employment as an occupational therapist, provided that the applicant does not practice occupational therapy prior to the commencement of such employment.
+(v) Within 30 days after the issuance of a license or within 30 days after the commencement of employment as described in subparagraph (iv), the occupational therapist shall submit to the board the certificate of insurance or a copy of the policy declaration page.
+(vi) The board shall adopt, by regulation, standards and procedures established by the Insurance Commissioner for self-insurance. In the absence of these standards and procedures, the board, after consultation with the Insurance Commissioner, shall establish standards and procedures by regulation for self-insurance under this paragraph.
+Section 4. Section 14 of the act, amended May 18, 2004 (P.L.220, No.30), is amended to read:
+Section 14. Practice and referral.
+(a) An occupational therapist may enter a case for the purposes of providing indirect services, consultation, evaluating an individual as to the need for services and other occupational therapy services for conditions such as perceptual, cognitive, sensory integration and similar conditions. Implementation of direct occupational therapy to an individual for a specific medical condition shall be based on a referral from a licensed physician, licensed optometrist [or a], licensed podiatrist[.], licensed certified registered nurse practitioner or licensed physician assistant.
+(b) This act shall not be construed as authorization for an occupational therapist or occupational therapy assistant to practice a branch of the healing arts except as described in this act.
+Section 5. Sections 15(a) and 16(c) of the act are amended to read:
+Section 15. Renewal of license; effect of license suspension or revocation.
+(a) A license issued under this act shall be renewed biennially upon payment of the renewal fee prescribed in section 17. It shall expire unless renewed in the manner prescribed by the regulations of the board. The board may provide for the late renewal of a license upon the payment of a late fee. A late renewal of a license shall not be granted more than four years after its expiration. A license shall be renewed after the four-year period only by complying with section 11. The board may establish additional requirements for license renewal designed to assure continued competency of the applying occupational therapist or occupational therapy assistant.
+* * *
+Section 16. Refusal, suspension or revocation of license; refusal to renew; penalties; injunctive relief.
+* * *
+(c) (1) A person who violates a provision of this act is guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than $100 nor more than $500 or by imprisonment for not less than 30 days nor more than 90 days, or by both such fine and imprisonment and for each additional offense that person shall be subject to either a fine of not less than $500 or imprisonment of not less than six months, at the discretion of the court.
+(2) In addition to any other civil remedy or criminal penalty provided for in this act, the board may levy a civil penalty on a person who violates a provision of this act in accordance with the act of July 2, 1993 (P.L.345, No.48), entitled "An act empowering the General Counsel or his designee to issue subpoenas for certain licensing board activities; providing for hearing examiners in the Bureau of Professional and Occupational Affairs; providing additional powers to the Commissioner of Professional and Occupational Affairs; and further providing for civil penalties and license suspension."
+(3) Fines and civil penalties collected under the provisions of this act shall be paid into the State Treasury for the use of the Commonwealth.
+* * *
+Section 6. The act is amended by adding a section to read:
+Section 16.1. Impaired professionals program.
+(a) The board, with the approval of the Commissioner of Professional and Occupational Affairs, shall appoint and fix the compensation of a professional consultant with education and experience in the identification, treatment and rehabilitation of persons with physical or mental impairments. Such consultant shall be accountable to the board and shall act as a liaison between the board and treatment programs, such as alcohol and drug treatment programs licensed by the Department of Health, psychological counseling and impaired professionals support groups approved by the board and which provide services to licensees under this act.
+(b) (1) The board may defer and ultimately dismiss any of the types of corrective action set forth in this act for an impaired professional so long as the licensee is progressing satisfactorily in an approved treatment program, provided that the provisions of this subsection shall not apply to a licensee who has been convicted of, pleaded guilty to or entered a plea of nolo contendere to a felonious act prohibited by the act of April 14, 1972 (P.L.233, No.64), known as "The Controlled Substance, Drug, Device and Cosmetic Act," or the conviction of a felony relating to a controlled substance in a court of law of the United States or any other state, territory or country.
+(2) (i) An approved program provider shall, upon request, disclose to the consultant such information in its possession regarding an impaired professional in treatment which the program provider is not prohibited from disclosing by an act of this Commonwealth, another state or the United States.
+(ii) The requirement of disclosure by an approved program provider under subparagraph (i) shall apply in the case of an impaired professional who enters an agreement in accordance with this section, an impaired professional who is the subject of a board investigation or disciplinary proceeding and an impaired professional who voluntarily enters a treatment program other than under the provisions of this section but who fails to complete the program successfully or to adhere to an after-care plan developed by the program provider.
+(c) (1) An impaired professional who enrolls in an approved treatment program shall enter into an agreement with the board under which the professional's license shall be suspended or revoked but enforcement of that suspension or revocation may be stayed for the length of time the professional remains in the program and makes satisfactory progress, complies with the terms of the agreement and adheres to any limitations on his practice imposed by the board to protect the public.
+(2) Failure to enter into such an agreement shall disqualify the professional from the impaired professional program and shall activate an immediate investigation and disciplinary proceeding by the board.
+(d) If, in the opinion of such consultant after consultation with the provider, an impaired professional who is enrolled in an approved treatment program has not progressed satisfactorily, the consultant shall disclose to the board all information in his or her possession regarding such professional, and the board shall institute proceedings to determine if the stay of the enforcement of the suspension or revocation of the impaired professional's license shall be vacated.
+(e) An approved program provider who makes a disclosure pursuant to this section shall not be subject to civil liability for such disclosure or its consequences.
+(f) (1) Any hospital or health care facility, peer or colleague who has substantial evidence that a professional has an active addictive disease for which the professional is not receiving treatment, is diverting a controlled substance or is mentally or physically incompetent to carry out the duties of his license shall make or cause to be made a report to the board, provided that any person or facility who acts in a treatment capacity to impaired professionals in an approved treatment program is exempt from the mandatory reporting requirement of this subsection.
+(2) Any person or facility who reports pursuant to this section in good faith and without malice shall be immune from any civil or criminal liability arising from such report. Failure to provide such report within a reasonable time from receipt of knowledge of impairment shall subject the person or facility to a fine not to exceed $1,000.
+(3) The board shall levy this penalty only after affording the accused party the opportunity for a hearing, as provided in 2 Pa.C.S. (relating to administrative law and procedure).
+Section 7. This act shall take effect in 60 days.
+APPROVED--The 5th day of July, A.D. 2012.
+TOM CORBETT
