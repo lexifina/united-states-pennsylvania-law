@@ -1,0 +1,25 @@
+VEHICLE CODE (75 PA.C.S.) - TRANSFER OF VEHICLE OWNERSHIP AND CERTIFICATE OF SALVAGE REQUIRED
+Act of Oct. 24, 2012,
+P.L. 1431,
+No. 178
+Cl. 75
+Session of 2012
+No. 2012-178
+HB 2467
+AN ACT
+Amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in certificate of title and security interests, further providing for transfer of ownership of vehicle and for certificate of salvage required.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Sections 1111(a.1) and (b) and 1161(b) of Title 75 of the Pennsylvania Consolidated Statutes are amended to read:
+§ 1111. Transfer of ownership of vehicle.
+* * *
+(a.1) Exception for dealers.--When a certificate of title for a vehicle acquired by a licensed dealer for the purpose of resale is encumbered by a lien or when there is a manufacturer's statement of origin for a new vehicle, delivery of the certificate of title or manufacturer's statement of origin by the dealer as a transferor at the time of delivery of the vehicle upon resale shall not be required [for a vehicle being titled in this Commonwealth] if, prior to delivery of the vehicle, the dealer obtains the applicable powers of attorney to properly execute transfer of the title or manufacturer's statement of origin and the dealer requests and receives the departmental verification of any lienholders, ownership, odometer information[,] and title brands, on titled vehicles, and any other information that the department deems necessary to be verified. Upon payment of the established fee, the department shall provide the dealer or authorized messenger service with verification of the required information. The department may supply the verified information by either written or electronic means. The application and a properly assigned certificate of title or manufacturer's statement of origin shall be delivered to the department within the time period prescribed by section 1103.1 (relating to application for certificate of title). If a dealer sells a vehicle after verification of the required information for a certificate of title encumbered by a lien, but fails to satisfy the lien or deliver an assignment and warranty of title to the dealer's transferee within 90 days of the date of purchase, and this failure is the result of an act or omission by the dealer, the dealer shall accept return of the vehicle from the transferee and shall refund the purchase price less actual depreciation of the vehicle while it was within the possession of the transferee. In refunding the purchase price, the price shall include the listed dollar value of any trade-in vehicle as stated in the sales transaction document in lieu of returning the transferee's trade-in vehicle.
+* * *
+(b) Duty of transferee.--Except as otherwise provided in section 1113 (relating to transfer to or from manufacturer or dealer), the transferee shall, within [ten] 20 days of the assignment or reassignment of the certificate of title, apply for a new title by presenting to the department the properly completed certificate of title, sworn to before a notary public or other officer empowered to administer oaths or verified before an issuing agent, who is licensed as a vehicle dealer by the State Board of Vehicle Manufacturers, Dealers and Salespersons, or its employee, and accompanied by such forms as the department may require.
+* * *
+§ 1161. Certificate of salvage required.
+* * *
+(b) Application for certificate of salvage.--An owner who transfers a vehicle to be destroyed or dismantled, salvaged or recycled shall assign the certificate of title to the person to whom the vehicle is transferred. Except as provided in section 1163, the transferee shall immediately present the assigned certificate of title to the department or an authorized agent of the department with an application for a certificate of salvage upon a form furnished and prescribed by the department. An insurer as defined in section 1702 to which title to a vehicle is assigned upon payment to the insured or claimant of the replacement value of a vehicle shall be regarded as a transferee under this subsection, and an assignment of title to an insurer under this subsection is exempt from the requirements of notarization and verification in section 1111(a) (relating to transfer of ownership of vehicle). If an owner retains possession of a vehicle which is damaged to the extent that it qualifies for vehicle replacement payment, the owner shall apply for a certificate of salvage immediately. In this case, an insurer shall not pay vehicle replacement value until the owner produces evidence to the insurer that the certificate of salvage has been issued. A self-insurer as defined in section 1702 shall apply for a certificate of salvage when a vehicle is damaged to the extent that the cost of repairs would exceed the replacement value of the vehicle as certified by a licensed motor vehicle physical damage appraiser.
+* * *
+Section 2. This act shall take effect in 60 days.
+APPROVED--The 24th day of October, A.D. 2012.
+TOM CORBETT
