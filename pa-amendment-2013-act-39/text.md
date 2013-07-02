@@ -1,0 +1,20 @@
+LOCAL TAX ENABLING ACT - LIMITATIONS ON RATES OF SPECIFIC TAXES
+Act of Jul. 2, 2013,
+P.L. 240,
+No. 39
+Cl. 53
+Session of 2013
+No. 2013-39
+HB 1172
+AN ACT
+Amending the act of December 31, 1965 (P.L.1257, No.511), entitled "An act empowering cities of the second class, cities of the second class A, cities of the third class, boroughs, towns, townships of the first class, townships of the second class, school districts of the second class, school districts of the third class and school districts of the fourth class including independent school districts, to levy, assess, collect or to provide for the levying, assessment and collection of certain taxes subject to maximum limitations for general revenue purposes; authorizing the establishment of bureaus and the appointment and compensation of officers, agencies and employes to assess and collect such taxes; providing for joint collection of certain taxes, prescribing certain definitions and other provisions for taxes levied and assessed upon earned income, providing for annual audits and for collection of delinquent taxes, and permitting and requiring penalties to be imposed and enforced, including penalties for disclosure of confidential information, providing an appeal from the ordinance or resolution levying such taxes to the court of quarter sessions and to the Supreme Court and Superior Court," further providing for limitations on rates of specific taxes.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Section 311(2) of the act of December 31, 1965 (P.L.1257, No.511), known as The Local Tax Enabling Act, amended October 15, 2008 (P.L.1615, No.130), is amended to read:
+Section 311. Limitations on Rates of Specific Taxes.--No taxes levied under the provisions of this chapter shall be levied by any political subdivision on the following subjects exceeding the rates specified in this section:
+* * *
+(2) On each dollar of the whole volume of business transacted by wholesale dealers in goods, wares and merchandise, one mill, by retail dealers in goods, wares and merchandise and by proprietors of restaurants or other places where food, drink and refreshments are served, one and one-half mills; except in cities of the second class, where rates shall not exceed one mill on wholesale dealers and two mills on retail dealers and proprietors. No such tax shall be levied on the dollar volume of business transacted by wholesale and retail dealers derived from the resale of goods, wares and merchandise, taken by any dealer as a trade-in or as part payment for other goods, wares and merchandise, except to the extent that the resale price exceeds the trade-in allowance. When a political subdivision which currently levies, assesses or collects a mercantile or business privilege tax on gross receipts under section 533 of the act of December 13, 1988 (P.L.1121, No.145), known as the "Local Tax Reform Act," merges with one or more political subdivisions to form a new political subdivision on or after August 1, 2008, the new political subdivision may levy that mercantile or business privilege tax[, but not at a rate greater than the] in the first year following the merger at a rate necessary to generate the same revenues generated in the last fiscal year that the merging political subdivision generated before the merger. Such rate shall remain in effect for the new political subdivision in subsequent years, but the revenue-neutral limitation shall only apply to the first year following the merger. If the merging political subdivision had previously shared the rate of taxation with another political subdivision, the nonmerging political subdivision which had shared the rate is capped at the rate it was previously levying.
+* * *
+Section 2. The amendment of section 311(2) of the act shall apply retroactively to any mercantile or business privilege tax due and payable on or after July 1, 2012.
+Section 3. This act shall take effect immediately.
+APPROVED--The 2nd day of July, A.D. 2013.
+TOM CORBETT
