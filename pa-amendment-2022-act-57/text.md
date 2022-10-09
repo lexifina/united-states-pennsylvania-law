@@ -1,0 +1,70 @@
+LOCAL TAX COLLECTION LAW - EFFECT OF FAILURE TO RECEIVE TAX NOTICE
+Act of Jul. 11, 2022,
+P.L. 701,
+No. 57
+Cl. 72
+Session of 2022
+No. 2022-57
+HB 430
+AN ACT
+Amending the act of May 25, 1945 (P.L.1050, No.394), entitled "An act relating to
+the collection of taxes levied by counties, county institution districts, cities of
+the third class, boroughs, towns, townships, certain school districts and vocational
+school districts; conferring powers and imposing duties on tax collectors, courts
+and various officers of said political subdivisions; and prescribing penalties," further
+providing for effect of failure to receive tax notice.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Section 7 of the act of May 25, 1945 (P.L.1050, No.394), known as the Local Tax Collection
+Law, is amended to read:
+Section 7. Effect of Failure to Receive Tax Notice.--(a) Failure to receive notice shall not relieve any taxpayer from the payment of any taxes
+imposed by any taxing district, and such taxpayer shall be charged with his taxes
+as though he had received notice.
+(b) (1) Notwithstanding any other provision of law, a taxing district shall, within ninety
+days of the effective date of this subsection, by ordinance or resolution, require
+a tax collector to waive additional charges for real estate taxes beginning in the
+first tax year after the effective date of this subsection, if the taxpayer does all
+of the following:
+(i) provides a waiver request of additional charges to the tax collector in possession
+of the claim within twelve months of a qualifying event;
+(ii) attests that a notice was not received;
+(iii) provides the tax collector in possession of the claim with one of the following:
+(A) a copy of the deed showing the date of real property transfer; or
+(B) a copy of the title following the acquisition of a mobile or manufactured home subject
+to taxation as real estate showing the date of issuance or a copy of an executed lease
+agreement between the owner of a mobile or manufactured home and the owner of a parcel
+of land on which the mobile or manufactured home will be situated showing the date
+the lease commences; and
+(iv) pays the face value amount of the tax notice for the real estate tax with the waiver
+request.
+(2) The Department of Community and Economic Development shall develop and make available
+to each taxing district a form by which a taxpayer may request a waiver of additional
+charges under this section, which shall include a space for attestation by the taxpayer.
+(3) A taxpayer granted a waiver and paying real estate tax as provided in this subsection
+shall not be subject to an action at law or in equity for an additional charge, and
+any claim existing or lien filed for an additional charge shall be deemed satisfied.
+(4) A tax collector that accepts a waiver and payment in good faith in accordance with
+this subsection shall not be personally liable for any amount due or arising from
+the real estate tax that is the subject in the waiver.
+(5) As used in this section, the following words and phrases shall have the meanings given
+to them in this subsection unless the context clearly indicates otherwise:
+The term "additional charge" shall mean any interest, fee, penalty or charge accruing
+to and in excess of the face amount of the real estate tax as provided in the real
+estate tax notice.
+The term "qualifying event" shall mean:
+(i) For purposes of real property, the date of transfer of ownership.
+(ii) For purposes of manufactured or mobile homes, the date of transfer of ownership or
+the date a lease agreement commences for the original location or relocation of a
+mobile or manufactured home on a parcel of land not owned by the owner of the mobile
+or manufactured home. The term does not include the renewal of a lease for the same
+location.
+The term "tax collector" shall mean a tax collector as defined in section 2, a delinquent
+tax collector as provided in section 26.1, the tax claim bureau or an alternative
+collector of taxes as provided in the act of July 7, 1947 (P.L.1368, No.542), known
+as the "Real Estate Tax Sale Law," an employee, agent or assignee authorized to collect
+the tax, a purchaser of claim for the tax or any other person authorized by law or
+contract to secure collection of, or take any action at law or in equity against,
+the person or property of the taxpayer for the real estate tax or amounts, liens or
+claims derived from the real estate tax.
+Section 2. This act shall take effect in 90 days.
+APPROVED--The 11th day of July, A.D. 2022.
+TOM WOLF
