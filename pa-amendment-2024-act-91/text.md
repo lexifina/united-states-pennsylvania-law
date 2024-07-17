@@ -1,0 +1,159 @@
+TRANSPORTATION (74 PA.C.S.) - STATE SAFETY OVERSIGHT OFFICE AND POWERS AND DUTIES
+Act of Jul. 17, 2024,
+P.L. 965,
+No. 91
+Cl. 74
+Session of 2024
+No. 2024-91
+SB 1246
+AN ACT
+Amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in sustainable
+mobility options, establishing the State Safety Oversight Office and providing for
+its powers and duties.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Title 74 of the Pennsylvania Consolidated Statutes is amended by adding a section
+to read:
+§ 1510.1. State Safety Oversight Office.
+(a) Establishment.--The State Safety Oversight Office is established in the department
+and shall be under the jurisdiction of the secretary. The secretary, in consultation
+with the Federal Transit Administration, shall determine an appropriate staffing level
+for the SSO Office that is commensurate with the number, size and complexity of fixed
+guideway public transportation systems in this Commonwealth. The SSO Office shall
+adhere to and have the authority and capability to perform and enforce the provisions
+and functions specified under this section, 49 U.S.C. § 5329 (relating to public transportation
+safety program) and the associated Federal regulations set forth and adopted for oversight
+for each fixed guideway public transportation system.
+(b) Program standard.--The SSO Office shall establish, adopt, administer and enforce the
+SSO program standard in a manner consistent with and compliant with the requirements specified under this section,
+49 U.S.C. § 5329 and the associated Federal regulations set forth and adopted for
+oversight for each fixed guideway public transportation system. The SSO Office shall annually review and consult with each fixed guideway public
+transportation system that the SSO Office oversees in the development of the SSO program
+standard. The consultation under this subsection must demonstrate, in writing, that the SSO Office has taken each fixed guideway public transportation system's
+comments, concerns and feedback under good faith consideration in further adopting,
+implementing and maintaining the SSO program standard.
+(c) Risk-based inspections, investigations, audits, testing and other oversight activities.--
+(1) The SSO Office shall conduct risk-based inspections, investigations, audits and other
+oversight activities at each fixed guideway public transportation system.
+(2) In carrying out the requirements under this subsection, the SSO Office shall enter
+the facilities of each fixed guideway public transportation system, at reasonable
+times and in a reasonable manner, either physically or virtually, to inspect infrastructure,
+equipment, records, personnel and data, including the data that the fixed guideway
+public transportation system collects when identifying and evaluating safety risks
+and safety events, with or without advanced notice to the fixed guideway public transportation
+system. The SSO Office shall be accompanied by trained and certified employees of
+the fixed guideway public transportation system, as deemed appropriate by the fixed
+guideway public transportation system, upon arrival at the location where the inspection
+will be conducted.
+(3) The following shall apply:
+(i) The SSO Office shall ensure that all official personnel, including representatives
+or contractors, engaged to enter onto the property of a fixed guideway public transportation
+system wear appropriate safety attire as determined in the SSO program standards.
+(ii) Official personnel of the SSO Office may not have direct access to the networks and
+computer systems of the fixed guideway public transportation system unless authorized
+by and in a format deemed appropriate by the fixed guideway public transportation
+system. Data requested by the SSO Office and provided by the fixed guideway public
+transportation system shall be accompanied by a written certification of the data's
+completeness and accuracy.
+(iii) If department personnel engage in any acts provided for under 42 Pa.C.S. § 8522 (relating
+to exceptions to sovereign immunity), the department shall be liable for damages as
+provided for under 42 Pa.C.S. Ch. 85 (relating to matters affecting government units).
+The fixed guideway public transportation system shall retain all common law and statutory
+rights and remedies to pursue causes of action for recovery of damages that may be
+caused by department contractors.
+(4) The SSO Office shall establish in the SSO program standard policies specifying the
+qualifications of inspectors, protocol for inspecting public and nonpublic portions
+of fixed guideway public transportation systems and the secure transfer and administration
+of public transportation system data.
+(d) Failure to comply.--If a fixed guideway public transportation system fails to comply
+with relevant safety-related Federal and State laws and the SSO program standard,
+the SSO Office may:
+(1) Issue a safety directive requiring the fixed guideway public transportation system
+to correct the safety deficiency.
+(2) Require the prioritization and utilization of State funding to correct the safety
+deficiency.
+(3) Issue temporary orders to reduce or stop service of the fixed guideway public transportation
+system.
+(e) Enforcement action.--In response to an imminent threat to the safety of fixed guideway
+public transportation system employees or the general public by an unacceptable hazardous
+condition, the SSO Office shall issue and enforce temporary actions or directives
+to the fixed guideway public transportation system.
+(f) Security and emergency preparedness plan oversight.--The SSO Office shall oversee
+the fixed guideway public transportation system's implementation of and compliance
+with the fixed guideway public transportation system's security and emergency preparedness
+plan as it relates to the fixed guideway public transportation system and does not
+conflict with or exceed security and emergency preparedness plan requirements developed
+and administered by the Transportation Security Administration under the United States
+Department of Homeland Security.
+(g) Safety and security certification.--The SSO Office shall oversee a fixed guideway
+public transportation system's execution of safety and security certification processes
+for new capital projects being developed and constructed for the fixed guideway public
+transportation system and do not conflict with or exceed the security certification
+developed and administered by the Transportation Security Administration under the
+United States Department of Homeland Security.
+(h) SSO Office's security oversight limitations.--The SSO Office's security oversight
+may not exceed what is provided for under subsections (f) and (g) except to the extent
+additional State security oversight is required by Federal law, regulation or directive.
+(i) Confidentiality.--Data and reports generated by or submitted to the SSO Office and
+not made publicly available under this section and pertaining to security of a fixed
+guideway public transportation system or its passenger operations are not:
+(1) Subject to access under the act of February 14, 2008 (P.L.6, No.3), known as the Right-to-Know
+Law.
+(2) Discoverable or admissible as evidence in any third-party legal action or other proceeding
+for damages.
+(j) Appeal process.--Each fixed guideway public transportation system shall have the right
+and ability to directly petition to the department when the fixed guideway public
+transportation system disagrees with any SSO program standard update adopted by the
+SSO Office or compliance or enforcement action taken by the SSO Office. The following
+apply:
+(1) Upon petition, the fixed guideway public transportation system shall be afforded a
+hearing in accordance with 2 Pa.C.S. Ch. 5 Subch. A (relating to practice and procedure
+of Commonwealth agencies).
+(2) After the hearing, the department shall respond in a timely manner with a written
+decision in accordance with 2 Pa.C.S. § 507 (relating to contents and service of adjudications).
+(3) The decision of the department shall be subject to appeal in accordance with 2 Pa.C.S.
+Ch. 7 Subch. A (relating to judicial review of Commonwealth agency action).
+(k) Definitions.--As used in this section, the following words and phrases shall have
+the meanings given to them in this subsection unless the context clearly indicates
+otherwise:
+"Fixed guideway nonrail public transportation system." As follows:
+(1) Any of the following:
+(i) Route 103 Busway operated by the transportation authority of the metropolitan area
+as defined in section 1701 (relating to definitions).
+(ii) Martin Luther King, Jr., East Busway operated by the local transportation organization
+organized and existing under the act of April 6, 1956 (1955 P.L.1414, No.465), known
+as the Second Class County Port Authority Act.
+(iii) South Busway operated by the local transportation organization organized and existing
+under the Second Class County Port Authority Act.
+(iv) West Busway operated by the local transportation organization organized and existing
+under the Second Class County Port Authority Act.
+(v) Other busways designed and constructed by the transportation authority of the metropolitan
+area as defined under section 1701 or the local transportation organization organized
+and existing under the Second Class County Port Authority Act that meet the definition
+of a "bus rapid transit" system as defined by the National Transit Database and which
+operates on a fixed guideway.
+(2) Any other busway project that has entered the preliminary engineering phase.
+"Fixed guideway public transportation system." Fixed guideway nonrail public transportation systems and rail-fixed guideway public
+transportation systems.
+"Rail-fixed guideway public transportation system." As follows:
+(1) A fixed guideway system that:
+(i) Uses rail.
+(ii) Is operated for public transportation.
+(iii) Is operated within this Commonwealth.
+(iv) Is not subject to the jurisdiction of the Federal Railroad Administration.
+(2) Any system described under paragraph (1) that is in the engineering or construction
+phase.
+"Safety and security certification." A series of processes that collectively verify the safety and security readiness associated
+with a capital project.
+"Security and emergency preparedness plan." A document developed and adopted by a rail-fixed guideway public transportation system
+describing security and emergency preparedness policies, objectives, responsibilities
+and procedures.
+"SSO Office." The State Safety Oversight Office established under this section.
+"SSO program standard." A document established and enforced by the SSO Office that identifies the processes
+and procedures that govern the activities of the SSO Office and includes minimum safety
+standards, policies and procedures that are consistent with and compliant with the
+requirements specified under this section, 49 U.S.C. § 5329 and the associated Federal
+regulations set forth and adopted for oversight for each fixed guideway public transportation
+system.
+Section 2. This act shall take effect immediately.
+APPROVED--The 17th day of July, A.D. 2024.
+JOSH SHAPIRO
