@@ -1,0 +1,41 @@
+PUBLIC SCHOOL CODE OF 1949 - NATIONAL GUARD OR RESERVE PARENT STUDENT SUPPORT
+Act of Jul. 17, 2024,
+P.L. 912,
+No. 82
+Cl. 24
+Session of 2024
+No. 2024-82
+SB 209
+AN ACT
+Amending the act of March 10, 1949 (P.L.30, No.14), entitled "An act relating to the
+public school system, including certain provisions applicable as well to private and
+parochial schools; amending, revising, consolidating and changing the laws relating
+thereto," in professional employees, providing for National Guard or Reserve parent
+student support.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. The act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949,
+is amended by adding a section to read:
+Section 1184. National Guard or Reserve Parent Student Support.--(a) Notwithstanding any other provision of law, a student shall be afforded the same rights
+as a compact student of an active duty military family under the act of February 2,
+2012 (P.L.42, No.6), known as the Interstate Compact on Educational Opportunity for
+Military Children Act, if a parent of the student is required to move to perform the
+parent's responsibilities in the service of the National Guard or Reserve resulting
+in the student having to transfer from a public school in one state to a public school
+located in this Commonwealth.
+(b) Nothing under this section shall be construed to amend the Interstate Compact on Educational
+Opportunity for Military Children under section 2 of the Interstate Compact on Educational
+Opportunity for Military Children Act.
+(c) This section shall only apply to an action taken or to be taken by an entity located
+in this Commonwealth, that affects the rights of a student described under subsection
+(a).
+(d) As used in this section, the following words and phrases shall have the meanings given
+to them in this subsection unless the context clearly indicates otherwise:
+"Compact student." A student as defined under the Interstate Compact on Educational Opportunity for Military
+Children.
+"Public school." If the term refers to a public school located in this Commonwealth, the term shall
+have the same meaning as the term "public school entity" in section 1183.
+"Student." A child of a member of the National Guard or Reserve for whom the child's public school
+receives public funding and who is formally enrolled.
+Section 2. This act shall take effect in 60 days.
+APPROVED--The 17th day of July, A.D. 2024.
+JOSH SHAPIRO
