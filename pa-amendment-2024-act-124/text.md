@@ -1,0 +1,64 @@
+HOLIDAYS AND OBSERVANCES (38 PA.C.S.) - VIETNAM WAR VETERANS DAY
+Act of Oct. 29, 2024,
+P.L. 1093,
+No. 124
+Cl. 38
+Session of 2024
+No. 2024-124
+SB 1160
+AN ACT
+Amending Title 38 (Holidays and Observances) of the Pennsylvania Consolidated Statutes,
+in veteran recognition, providing for Vietnam War Veterans Day.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Title 38 of the Pennsylvania Consolidated Statutes is amended by adding a section
+to read:
+§ 1306. Vietnam War Veterans Day.
+(a) Legislative findings and declarations.--The General Assembly finds and declares as
+follows:
+(1) The Vietnam Conflict was fought in Vietnam from 1961 to 1975 and involved North Vietnam
+and the Viet Cong in conflict with the United States and South Vietnam.
+(2) The United States became involved in the Vietnam Conflict because policymakers in
+the United States believed that if South Vietnam fell to a communist government then
+communism would spread throughout the rest of Southeast Asia.
+(3) Members of the United States Armed Forces began serving in an advisory role to South
+Vietnam in 1961.
+(4) As a result of the Gulf of Tonkin incidents on August 2 and 4, 1964, the Congress
+of the United States overwhelmingly passed the Gulf of Tonkin Resolution (Public Law
+88-408) on August 7, 1964, effectively handing over warmaking powers to President
+Lyndon B. Johnson until the time of the return of peace and security to Vietnam.
+(5) In 1965, United States Armed Forces ground combat units arrived in Vietnam.
+(6) By the end of 1965 there were 80,000 United States troops in Vietnam.
+(7) By 1969, a peak of approximately 543,000 troops was reached.
+(8) On January 27, 1973, the Paris Peace Accords were signed, requiring the release of
+all United States prisoners of war held in North Vietnam and the withdrawal of all
+United States Armed Forces from South Vietnam.
+(9) On March 29, 1973, the United States Armed Forces completed the withdrawal of combat
+troops from Vietnam.
+(10) On March 30, 1973, the last of the United States Armed Forces landed at home.
+(11) More than 58,000 members of the United States Armed Forces lost their lives in Vietnam
+and more than 300,000 members were wounded.
+(12) The Vietnam War was an extremely divisive issue among the people of the United States
+and a conflict that caused a generation of veterans to wait too long for the public
+of the United States to acknowledge and honor the efforts and services of those veterans.
+(13) The members of the United States Armed Forces who served bravely and faithfully for
+the United States during the Vietnam War were often wrongly criticized for the decisions
+of policymakers that were beyond the control of those members.
+(14) In 1982, the Vietnam Veterans Memorial was dedicated by President Ronald Reagan in
+the District of Columbia to commemorate those members of the United States Armed Forces
+who died or were declared missing in action in Vietnam.
+(15) In 2012, President Barack Obama signed a presidential proclamation designating March
+29 as the annual observance of Vietnam War Veterans Day.
+(16) In 2017, President Donald J. Trump signed into law the Vietnam War Veterans Recognition
+Act of 2017 which designates March 29 each year as National Vietnam War Veterans Day
+and amended the United States Flag Code to include National Vietnam War Veterans Day
+as a day on which the flag should be flown.
+(b) Designation.--March 29 of each year is designated as Vietnam War Veterans Day in this
+Commonwealth.
+(c) Proclamation.--The Governor shall issue annually a proclamation encouraging all public
+schools and educational institutions to observe Vietnam War Veterans Day and conduct
+exercises recognizing the contributions of all those involved in the Vietnam War and
+remembering the sacrifices they made for their country. The proclamation may not mandate
+a public school or educational institution to participate in the observance.
+Section 2. This act shall take effect in 60 days.
+APPROVED--The 29th day of October, A.D. 2024.
+JOSH SHAPIRO
