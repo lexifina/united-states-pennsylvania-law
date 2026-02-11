@@ -1,0 +1,44 @@
+COMMONWEALTH ATTORNEYS ACT - DEFINITIONS
+Act of Feb. 11, 2026,
+P.L. 9,
+No. 4
+Cl. 71
+Session of 2026
+No. 2026-04
+HB 1934
+AN ACT
+Amending the act of October 15, 1980 (P.L.950, No.164), entitled "A supplement to
+the act of April 9, 1929 (P.L.177, No.175), entitled 'An act providing for and reorganizing
+the conduct of the executive and administrative work of the Commonwealth by the Executive
+Department thereof and the administrative departments, boards, commissions, and officers
+thereof, including the boards of trustees of State Normal Schools, or Teachers Colleges;
+abolishing, creating, reorganizing or authorizing the reorganization of certain administrative
+departments, boards, and commissions; defining the powers and duties of the Governor
+and other executive and administrative officers, and of the several administrative
+departments, boards, commissions, and officers; fixing the salaries of the Governor,
+Lieutenant Governor, and certain other executive and administrative officers; providing
+for the appointment of certain administrative officers, and of all deputies and other
+assistants and employes in certain departments, boards, and commissions; and prescribing
+the manner in which the number and compensation of the deputies and all other assistants
+and employes of certain departments, boards and commissions shall be determined,'
+implementing the addition of section 4.1 to Article IV of the Constitution of Pennsylvania;
+establishing the Office of Attorney General elected by the citizens and setting forth
+powers and duties of the Attorney General; creating an Office of General Counsel and
+providing for legal services for Commonwealth agencies; transferring, reorganizing
+or reconstituting certain boards, commissions and agencies; placing certain duties
+upon the courts and district attorneys; repealing certain acts and parts of acts and
+making appropriations," in general provisions, further providing for definitions.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+Section 1. Section 102 of the act of October 15, 1980 (P.L.950, No.164), known as the Commonwealth
+Attorneys Act, is amended by adding a definition to read:
+Section 102. Definitions.
+The following words and phrases when used in this act shall have, unless the context
+clearly indicates otherwise, the meanings given to them in this section:
+* * *
+"Right to access." The term does not include access for the purpose of satisfying discovery requests
+propounded on the Office of Attorney General in a civil action, unless the agency
+in question is a party to the action and is represented by the Office of Attorney
+General.
+Section 2. This act shall take effect immediately.
+APPROVED--The 11th day of February, A.D. 2026.
+JOSH SHAPIRO
