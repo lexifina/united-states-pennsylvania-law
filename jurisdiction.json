@@ -1,0 +1,9 @@
+{
+  "path": "us-pa",
+  "code": "PA",
+  "name": "Pennsylvania",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-pennsylvania-law",
+  "build": "built: Constitution of the Commonwealth of Pennsylvania and Titles 18, 13, 15 and 68 of the Pennsylvania Consolidated Statutes, section text only (one version each, dated by the publisher's file stamp)",
+  "register_date": "2026-10-30"
+}

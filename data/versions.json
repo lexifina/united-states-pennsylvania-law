@@ -1,0 +1,75 @@
+{
+ "country": "PA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "PA Const.",
+   "title": "Constitution of the Commonwealth of Pennsylvania",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=00",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 237,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=00",
+     "sha256": "8b7ec338c229b601ea7d980b23182d8d9c9579e7f612a419c0c6ff3858386ba9"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-crimes",
+   "short": "18 Pa.C.S.",
+   "title": "Title 18 (Crimes and Offenses), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=18",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 729,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=18",
+     "sha256": "875c8f54dcb6e0543c2e55d65e190b00acd7449b5db30e1f0c1c1eb54daaeede"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-commercial-code",
+   "short": "13 Pa.C.S.",
+   "title": "Title 13 (Commercial Code), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=13",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 634,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=13",
+     "sha256": "61b97b1f68052b939386ee91c898f9298be820429a305f5117890490db5d7ce3"
+    }
+   ]
+  },
+  {
+   "slug": "title-15-corporations",
+   "short": "15 Pa.C.S.",
+   "title": "Title 15 (Corporations and Unincorporated Associations), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=15",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1045,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=15",
+     "sha256": "917fdcb0c507cabfe8ae26ae53098e5653b4e0f69188eb2009ae0ed8ce5be289"
+    }
+   ]
+  },
+  {
+   "slug": "title-68-property",
+   "short": "68 Pa.C.S.",
+   "title": "Title 68 (Real and Personal Property), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=68",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 332,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=68",
+     "sha256": "8422fffcc42d48b3aa81cd3005083d6d3f1e512d17b26acc945655e5fcb7034e"
+    }
+   ]
+  }
+ ]
+}
