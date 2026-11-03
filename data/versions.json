@@ -70,6 +70,678 @@
      "sha256": "8422fffcc42d48b3aa81cd3005083d6d3f1e512d17b26acc945655e5fcb7034e"
     }
    ]
+  },
+  {
+   "slug": "title-1-general-provisions",
+   "short": "1 Pa.C.S.",
+   "title": "Title 1 (General Provisions), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=01",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 85,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=01",
+     "sha256": "a380e191bd9b8fba9847f27fffd89b537fe680486e3d68cc65841ef487237294"
+    }
+   ]
+  },
+  {
+   "slug": "title-2-administrative-law-and-procedure",
+   "short": "2 Pa.C.S.",
+   "title": "Title 2 (Administrative Law and Procedure), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=02",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 47,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=02",
+     "sha256": "0f6500addbf430b72958c21027e9a4c67886a7bcdc07504bb1c5c7efcd036e47"
+    }
+   ]
+  },
+  {
+   "slug": "title-3-agriculture",
+   "short": "3 Pa.C.S.",
+   "title": "Title 3 (Agriculture), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=03",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 598,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=03",
+     "sha256": "e752637e2742b0e9832255f09e0e34e80d1aac574f27d8af2107bda4eb477e7f"
+    }
+   ]
+  },
+  {
+   "slug": "title-4-amusements",
+   "short": "4 Pa.C.S.",
+   "title": "Title 4 (Amusements), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=04",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 325,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=04",
+     "sha256": "4f89413b1beeacc7f3aa33209cc97ee5ec548c74d81ce06c27f03651d5c24891"
+    }
+   ]
+  },
+  {
+   "slug": "title-5-athletics-and-sports",
+   "short": "5 Pa.C.S.",
+   "title": "Title 5 (Athletics and Sports), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=05",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 112,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=05",
+     "sha256": "e1a0d1245068ce1533a500abdca97b87c0cce5f8b18dec02264a8ab31d073df4"
+    }
+   ]
+  },
+  {
+   "slug": "title-7-banks-and-banking",
+   "short": "7 Pa.C.S.",
+   "title": "Title 7 (Banks and Banking), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=07",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 26,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=07",
+     "sha256": "cf231999824e76755ee73f4827c9bf00c76b55aa7a7646f16c374a7094b276b6"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-boroughs-and-incorporated-towns",
+   "short": "8 Pa.C.S.",
+   "title": "Title 8 (Boroughs and Incorporated Towns), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=08",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 518,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=08",
+     "sha256": "28032a8c0639871db52d89e7d543805bf36b5b65d32c95e676ef0e191382e98e"
+    }
+   ]
+  },
+  {
+   "slug": "title-9-burial-grounds",
+   "short": "9 Pa.C.S.",
+   "title": "Title 9 (Burial Grounds), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=09",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 17,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=09",
+     "sha256": "905193f93a1a437821a10d22b2ac1237f5c78ca4150001a2b2d3b9003fd6e5df"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-cities",
+   "short": "11 Pa.C.S.",
+   "title": "Title 11 (Cities), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=11",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 488,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=11",
+     "sha256": "8409cef6e955d49b2341dea889ce718cc441f4bc7222e67d33e2a214c8de07d9"
+    }
+   ]
+  },
+  {
+   "slug": "title-12-commerce-and-trade",
+   "short": "12 Pa.C.S.",
+   "title": "Title 12 (Commerce and Trade), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=12",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 271,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=12",
+     "sha256": "47b2448691fa702cc3ed7922e3e2d05cd538798e4cb6133e33e6d33d86fdfe00"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-counties",
+   "short": "16 Pa.C.S.",
+   "title": "Title 16 (Counties), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=16",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 686,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=16",
+     "sha256": "67979420b87f715d73cb904690a206a27277981fb7f8d7eda4efbe6f424c4d87"
+    }
+   ]
+  },
+  {
+   "slug": "title-17-credit-unions",
+   "short": "17 Pa.C.S.",
+   "title": "Title 17 (Credit Unions), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=17",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 61,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=17",
+     "sha256": "6a11242c74a1a74459668215fa04c0415484aa2ad371b22c7ae620427f5b64ca"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-decedents-estates-and-fiduciaries",
+   "short": "20 Pa.C.S.",
+   "title": "Title 20 (Decedents, Estates and Fiduciaries), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=20",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 859,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=20",
+     "sha256": "035e152973a3ac4a620f37e073d0bb23ba29a4e16458079edcdb299e47963287"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-detectives-and-private-police",
+   "short": "22 Pa.C.S.",
+   "title": "Title 22 (Detectives and Private Police), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=22",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 24,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=22",
+     "sha256": "4eaa4164fd97fe7056453b8372a5dab1681afa3698da107e56a1692e1013cb2d"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-domestic-relations",
+   "short": "23 Pa.C.S.",
+   "title": "Title 23 (Domestic Relations), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=23",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 563,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=23",
+     "sha256": "ffdcca4039f2feb1b7b3e78128821b64c550c064ee9f38f224d7c42f9121a0d8"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-education",
+   "short": "24 Pa.C.S.",
+   "title": "Title 24 (Education), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=24",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 169,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=24",
+     "sha256": "c823fd9142ae8b66b88988882576929974b8c50927d460abf9b093f05245c2a2"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-elections",
+   "short": "25 Pa.C.S.",
+   "title": "Title 25 (Elections), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=25",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 99,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=25",
+     "sha256": "2ab1976418fc7139cb70b59bf9fcf293e01f5773c40da5b95834f366becae0cf"
+    }
+   ]
+  },
+  {
+   "slug": "title-26-eminent-domain",
+   "short": "26 Pa.C.S.",
+   "title": "Title 26 (Eminent Domain), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=26",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 72,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=26",
+     "sha256": "63638b237c046dc9f9ddbe0dd495a11680fa3d7cd8db98a7fe364d0a85854600"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-environmental-resources",
+   "short": "27 Pa.C.S.",
+   "title": "Title 27 (Environmental Resources), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=27",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 122,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=27",
+     "sha256": "f53d2f22e7da43420c56dc25ab76499e37ad484e3bd7e3e190e4d768767cccde"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-fish",
+   "short": "30 Pa.C.S.",
+   "title": "Title 30 (Fish), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=30",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 225,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=30",
+     "sha256": "46807d8e50641b359e7e1feb9d26b7ef4c3d928910794db5b6a2134202390754"
+    }
+   ]
+  },
+  {
+   "slug": "title-32-forests-waters-and-state-parks",
+   "short": "32 Pa.C.S.",
+   "title": "Title 32 (Forests, Waters and State Parks), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=32",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 18,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=32",
+     "sha256": "fb5afcfb966e2f068028b06f0ad987477ea59616290937840a74c4c5364f8df3"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-game",
+   "short": "34 Pa.C.S.",
+   "title": "Title 34 (Game), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=34",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 199,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=34",
+     "sha256": "917664b06660df7ab93c2440ef16a3b404ca92e0b3137d8f00255656bdbeabc9"
+    }
+   ]
+  },
+  {
+   "slug": "title-35-health-and-safety",
+   "short": "35 Pa.C.S.",
+   "title": "Title 35 (Health and Safety), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=35",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 390,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=35",
+     "sha256": "23b035289338f98dd718e1fba037bd20c88b6715a16df3c1a21cfc1ce2a88c51"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-historical-and-museums",
+   "short": "37 Pa.C.S.",
+   "title": "Title 37 (Historical and Museums), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=37",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 38,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=37",
+     "sha256": "d67490c823cd4b2a1a68eb6d2675f1925b7d3051bae771e127bcd5af6b962c60"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-holidays-and-observances",
+   "short": "38 Pa.C.S.",
+   "title": "Title 38 (Holidays and Observances), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=38",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 9,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=38",
+     "sha256": "b2b8b2bad852b104fe16f978ec2056122a0a6932454e76ae175f32c5cc502692"
+    }
+   ]
+  },
+  {
+   "slug": "title-40-insurance",
+   "short": "40 Pa.C.S.",
+   "title": "Title 40 (Insurance), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=40",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 216,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=40",
+     "sha256": "aed179cba13c5968074d9e675ce1460d9595b6fa6268d7bfe98e0920b3a830bb"
+    }
+   ]
+  },
+  {
+   "slug": "title-42-judiciary-and-judicial-procedure",
+   "short": "42 Pa.C.S.",
+   "title": "Title 42 (Judiciary and Judicial Procedure), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=42",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1266,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=42",
+     "sha256": "0a5588f13032dfadf4d4d60a08349f806774991cea56ef1c323138d4a4417004"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-law-and-justice",
+   "short": "44 Pa.C.S.",
+   "title": "Title 44 (Law and Justice), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=44",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 109,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=44",
+     "sha256": "b80875aa32a512e8184cf43c484a418db302b71d064eef3585767b1d10488795"
+    }
+   ]
+  },
+  {
+   "slug": "title-45-legal-notices",
+   "short": "45 Pa.C.S.",
+   "title": "Title 45 (Legal Notices), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=45",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 42,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=45",
+     "sha256": "edb679ea7001bfea21d728ad687a650f7693af7bf9925b331d897953f30fcee7"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-lodging-and-housing",
+   "short": "48 Pa.C.S.",
+   "title": "Title 48 (Lodging and Housing), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=48",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 16,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=48",
+     "sha256": "b6daace7596f8dba51256e534b381d37458dedd5639edb0eb568b62dffc209b0"
+    }
+   ]
+  },
+  {
+   "slug": "title-51-military-affairs",
+   "short": "51 Pa.C.S.",
+   "title": "Title 51 (Military Affairs), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=51",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 454,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=51",
+     "sha256": "8ca1e91b3b7ca22b4ae01999a08b85d3e4cf1d5b512b8dead56e6c73e4a8b9d3"
+    }
+   ]
+  },
+  {
+   "slug": "title-53-municipalities-generally",
+   "short": "53 Pa.C.S.",
+   "title": "Title 53 (Municipalities Generally), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=53",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 636,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=53",
+     "sha256": "47fb5bfd68e845a1f2d92eff915738ef86527f6254dcafaa5e9fdb6625fc44fc"
+    }
+   ]
+  },
+  {
+   "slug": "title-54-names",
+   "short": "54 Pa.C.S.",
+   "title": "Title 54 (Names), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=54",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 65,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=54",
+     "sha256": "b8fc920c09815deb13f763e6c50bd40c21e166293fad22e986a23f77b020bc61"
+    }
+   ]
+  },
+  {
+   "slug": "title-57-notaries-public",
+   "short": "57 Pa.C.S.",
+   "title": "Title 57 (Notaries Public), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=57",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 33,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=57",
+     "sha256": "974427e45be5b29f218c2c5ba96b27c298f25392769db867196b8866084f27d1"
+    }
+   ]
+  },
+  {
+   "slug": "title-58-oil-and-gas",
+   "short": "58 Pa.C.S.",
+   "title": "Title 58 (Oil and Gas), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=58",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 100,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=58",
+     "sha256": "5fc9bd0a8a50d35c9de82a3b217d78ab649ffc7aa0c36a644542f02cf62c4b73"
+    }
+   ]
+  },
+  {
+   "slug": "title-61-prisons-and-parole",
+   "short": "61 Pa.C.S.",
+   "title": "Title 61 (Prisons and Parole), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=61",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 254,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=61",
+     "sha256": "0b8fc95f2d95522a852982048ddaf76e25e16c71b949309c2ada976a89280755"
+    }
+   ]
+  },
+  {
+   "slug": "title-62-procurement",
+   "short": "62 Pa.C.S.",
+   "title": "Title 62 (Procurement), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=62",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 167,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=62",
+     "sha256": "5fd7ccc8241132e934bfaa5a1705c5efb984c7555bf6b478f633b64488a05300"
+    }
+   ]
+  },
+  {
+   "slug": "title-63-professions-and-occupations-state-licensed",
+   "short": "63 Pa.C.S.",
+   "title": "Title 63 (Professions and Occupations (state Licensed)), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=63",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 29,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=63",
+     "sha256": "451fa766389ffcf11d1483a95027fa71ea9d8aa7587a89b3c18bb878f7e7c2e5"
+    }
+   ]
+  },
+  {
+   "slug": "title-64-public-authorities-and-quasi-public-corporations",
+   "short": "64 Pa.C.S.",
+   "title": "Title 64 (Public Authorities and Quasi-public Corporations), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=64",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 77,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=64",
+     "sha256": "d41a5385aca5da32cfc3aaf84b758f2c18e475b3ba9e89398a9b6556b7777a00"
+    }
+   ]
+  },
+  {
+   "slug": "title-65-public-officers",
+   "short": "65 Pa.C.S.",
+   "title": "Title 65 (Public Officers), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=65",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 44,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=65",
+     "sha256": "693cb23af14de46698047ae1df847b4d3e4177f4e031bb6df21c3e515204f18e"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-public-utilities",
+   "short": "66 Pa.C.S.",
+   "title": "Title 66 (Public Utilities), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=66",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 296,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=66",
+     "sha256": "f55465d9a0ba129638a7136d059479b00d6016dc76cf96225e061fd946491943"
+    }
+   ]
+  },
+  {
+   "slug": "title-67-public-welfare",
+   "short": "67 Pa.C.S.",
+   "title": "Title 67 (Public Welfare), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=67",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 29,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=67",
+     "sha256": "7bfa1cd7b1cbd80de2574cbac078645f87b21297a3ed0618aa2bb43953043ed9"
+    }
+   ]
+  },
+  {
+   "slug": "title-71-state-government",
+   "short": "71 Pa.C.S.",
+   "title": "Title 71 (State Government), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=71",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 181,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=71",
+     "sha256": "43194108f020d8c8c3a7846584aef6ea3c78a3daf84c5cebf5ee51a0af090570"
+    }
+   ]
+  },
+  {
+   "slug": "title-72-taxation-and-fiscal-affairs",
+   "short": "72 Pa.C.S.",
+   "title": "Title 72 (Taxation and Fiscal Affairs), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=72",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 9,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=72",
+     "sha256": "59e57ac9948e24fb2cebd650dd03089184e3a2c989934a24ca8bf729f4192781"
+    }
+   ]
+  },
+  {
+   "slug": "title-73-townships",
+   "short": "73 Pa.C.S.",
+   "title": "Title 73 (Townships), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=73",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 381,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=73",
+     "sha256": "8eb165df568334b6edd570dbbda7850bd2f29cb9666eff02543faf587ef16ebc"
+    }
+   ]
+  },
+  {
+   "slug": "title-74-transportation",
+   "short": "74 Pa.C.S.",
+   "title": "Title 74 (Transportation), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=74",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 221,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=74",
+     "sha256": "9820ea278206bc53aaeec952f76dbea2c53f6e4689cac024e8787ec8bbf25ae1"
+    }
+   ]
+  },
+  {
+   "slug": "title-75-vehicles",
+   "short": "75 Pa.C.S.",
+   "title": "Title 75 (Vehicles), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=75",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1121,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=75",
+     "sha256": "b2ee15a8ebeb62ff4f9d65c510d11bd8cb3b5f0b770e05dfcde5568d956f30d2"
+    }
+   ]
+  },
+  {
+   "slug": "title-76-weights-measures-and-standards",
+   "short": "76 Pa.C.S.",
+   "title": "Title 76 (Weights, Measures and Standards), Pennsylvania Consolidated Statutes",
+   "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=76",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 7,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=76",
+     "sha256": "d6429d54d8524834c952d534285406aa112dcc4aaa1b0a2d6e02d1c7dc2d4cc7"
+    }
+   ]
   }
  ]
 }

@@ -1,12 +1,13 @@
 # How this repository was made (Pennsylvania)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Pennsylvania General Assembly: Consolidated Statutes and Constitution (palegis.us) | <https://www.palegis.us/statutes/consolidated> | 2026-10-30 | No copyright claimed on the statute text. The site's Legal Notices say the information is an information service and not a replacement for official versions. Statute text of a state is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). The unofficial annotated Purdon's Pennsylvania Statutes (West) are a separate copyrighted work and are not used. |
+| Pennsylvania General Assembly: every Consolidated Statutes title (palegis.us) | <https://www.palegis.us/statutes/consolidated> | 2026-11-03 | No copyright claimed on the statute text. The site's Legal Notices say the information is an information service and not a replacement for official versions. Statute text of a state is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). The unofficial annotated Purdon's Pennsylvania Statutes (West) are a separate copyrighted work and are not used. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -19,20 +20,68 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-13-commercial-code` | Title 13 (Commercial Code), Pennsylvania Consolidated Statutes | 1 | 2025-12-01 to 2025-12-01 |
 | `title-15-corporations` | Title 15 (Corporations and Unincorporated Associations), Pennsylvania Consolidated Statutes | 1 | 2026-07-28 to 2026-07-28 |
 | `title-68-property` | Title 68 (Real and Personal Property), Pennsylvania Consolidated Statutes | 1 | 2026-07-28 to 2026-07-28 |
+| `title-1-general-provisions` | Title 1 (General Provisions), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-2-administrative-law-and-procedure` | Title 2 (Administrative Law and Procedure), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-3-agriculture` | Title 3 (Agriculture), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-4-amusements` | Title 4 (Amusements), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-5-athletics-and-sports` | Title 5 (Athletics and Sports), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-7-banks-and-banking` | Title 7 (Banks and Banking), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-8-boroughs-and-incorporated-towns` | Title 8 (Boroughs and Incorporated Towns), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-9-burial-grounds` | Title 9 (Burial Grounds), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-11-cities` | Title 11 (Cities), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-12-commerce-and-trade` | Title 12 (Commerce and Trade), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-16-counties` | Title 16 (Counties), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-17-credit-unions` | Title 17 (Credit Unions), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-20-decedents-estates-and-fiduciaries` | Title 20 (Decedents, Estates and Fiduciaries), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-22-detectives-and-private-police` | Title 22 (Detectives and Private Police), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-23-domestic-relations` | Title 23 (Domestic Relations), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-24-education` | Title 24 (Education), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-25-elections` | Title 25 (Elections), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-26-eminent-domain` | Title 26 (Eminent Domain), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-27-environmental-resources` | Title 27 (Environmental Resources), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-30-fish` | Title 30 (Fish), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-32-forests-waters-and-state-parks` | Title 32 (Forests, Waters and State Parks), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-34-game` | Title 34 (Game), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-35-health-and-safety` | Title 35 (Health and Safety), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-37-historical-and-museums` | Title 37 (Historical and Museums), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-38-holidays-and-observances` | Title 38 (Holidays and Observances), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-40-insurance` | Title 40 (Insurance), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-42-judiciary-and-judicial-procedure` | Title 42 (Judiciary and Judicial Procedure), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-44-law-and-justice` | Title 44 (Law and Justice), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-45-legal-notices` | Title 45 (Legal Notices), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-48-lodging-and-housing` | Title 48 (Lodging and Housing), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-51-military-affairs` | Title 51 (Military Affairs), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-53-municipalities-generally` | Title 53 (Municipalities Generally), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-54-names` | Title 54 (Names), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-57-notaries-public` | Title 57 (Notaries Public), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-58-oil-and-gas` | Title 58 (Oil and Gas), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-61-prisons-and-parole` | Title 61 (Prisons and Parole), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-62-procurement` | Title 62 (Procurement), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-63-professions-and-occupations-state-licensed` | Title 63 (Professions and Occupations (state Licensed)), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-64-public-authorities-and-quasi-public-corporations` | Title 64 (Public Authorities and Quasi-public Corporations), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-65-public-officers` | Title 65 (Public Officers), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-66-public-utilities` | Title 66 (Public Utilities), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-67-public-welfare` | Title 67 (Public Welfare), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-71-state-government` | Title 71 (State Government), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-72-taxation-and-fiscal-affairs` | Title 72 (Taxation and Fiscal Affairs), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-73-townships` | Title 73 (Townships), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-74-transportation` | Title 74 (Transportation), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-75-vehicles` | Title 75 (Vehicles), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-76-weights-measures-and-standards` | Title 76 (Weights, Measures and Standards), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 5 commits:
+The build made 53 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5 | first version of an act |
+| 53 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-30.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 5 tags.
+- 53 tags.
 
 ## Dates
 
@@ -44,8 +93,8 @@ When a law gives no date of its own, the default rule applies: Each file is the 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ec1963f4892f8f757e2f29a98642c24cea8b0d85d321223bce1dbb39ae094e20` (5668395 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3e59cb6f05eccb94a9ec14431a7f6781221e83ef`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `c68cd5268ba205e11e79adcc093e06cae29af610345fc3817c61e74632224a1b` (26298995 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -61,6 +110,8 @@ No second build of this corpus has been compared yet.
 - Only the text of each section is kept. The Source parentheticals, cross references, annotations and editor's notes that follow each section are left out.
 - Unit keys are the section number with each run of digits padded to five places (Title 18 Sec. 301 is sec-00301; Sec. 3011.1 is sec-03011-00001). Constitution keys use the publisher's own section code (00c107 is sec-00107), and the label gives article and section.
 - Typographic quotes and dashes were made plain, non-breaking spaces were made ordinary spaces and runs of spaces were collapsed; the publisher's wording and "--" run-in heading separators are kept.
+- Wave 3 (2026-11-03): every other Consolidated Statutes title with text is added, one act per title, parsed as in the first build. Titles the publisher lists without any section (reserved) are left out.
+- Each new title is dated by the retrieval day (2026-11-03) and credited to the publisher as the oldest version available, so its current wording is never dated before its latest amendment took effect; the file's "revised" stamp is given in the version note.
 
 ## What AI did and did not do
 

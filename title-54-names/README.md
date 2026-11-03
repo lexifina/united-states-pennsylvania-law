@@ -1,0 +1,71 @@
+# Title 54 (Names), Pennsylvania Consolidated Statutes
+
+54 Pa.C.S. · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=54>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| 54 Pa.C.S. Sec. 101 | [sec-00101.md](sec-00101.md) | 0 |  |
+| 54 Pa.C.S. Sec. 102 | [sec-00102.md](sec-00102.md) | 0 |  |
+| 54 Pa.C.S. Sec. 103 | [sec-00103.md](sec-00103.md) | 0 |  |
+| 54 Pa.C.S. Sec. 301 | [sec-00301.md](sec-00301.md) | 0 |  |
+| 54 Pa.C.S. Sec. 302 | [sec-00302.md](sec-00302.md) | 0 |  |
+| 54 Pa.C.S. Sec. 303 | [sec-00303.md](sec-00303.md) | 0 |  |
+| 54 Pa.C.S. Sec. 304 | [sec-00304.md](sec-00304.md) | 0 |  |
+| 54 Pa.C.S. Sec. 311 | [sec-00311.md](sec-00311.md) | 0 |  |
+| 54 Pa.C.S. Sec. 312 | [sec-00312.md](sec-00312.md) | 0 |  |
+| 54 Pa.C.S. Sec. 313 | [sec-00313.md](sec-00313.md) | 0 |  |
+| 54 Pa.C.S. Sec. 321 | [sec-00321.md](sec-00321.md) | 0 |  |
+| 54 Pa.C.S. Sec. 331 | [sec-00331.md](sec-00331.md) | 0 |  |
+| 54 Pa.C.S. Sec. 332 | [sec-00332.md](sec-00332.md) | 0 |  |
+| 54 Pa.C.S. Sec. 501 | [sec-00501.md](sec-00501.md) | 0 |  |
+| 54 Pa.C.S. Sec. 502 | [sec-00502.md](sec-00502.md) | 0 |  |
+| 54 Pa.C.S. Sec. 503 | [sec-00503.md](sec-00503.md) | 0 |  |
+| 54 Pa.C.S. Sec. 504 | [sec-00504.md](sec-00504.md) | 0 |  |
+| 54 Pa.C.S. Sec. 505 | [sec-00505.md](sec-00505.md) | 0 |  |
+| 54 Pa.C.S. Sec. 506 | [sec-00506.md](sec-00506.md) | 0 |  |
+| 54 Pa.C.S. Sec. 701 | [sec-00701.md](sec-00701.md) | 0 |  |
+| 54 Pa.C.S. Sec. 702 | [sec-00702.md](sec-00702.md) | 0 |  |
+| 54 Pa.C.S. Sec. 703 | [sec-00703.md](sec-00703.md) | 0 |  |
+| 54 Pa.C.S. Sec. 704 | [sec-00704.md](sec-00704.md) | 0 |  |
+| 54 Pa.C.S. Sec. 704.1 | [sec-00704-00001.md](sec-00704-00001.md) | 0 |  |
+| 54 Pa.C.S. Sec. 705 | [sec-00705.md](sec-00705.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1101 | [sec-01101.md](sec-01101.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1102 | [sec-01102.md](sec-01102.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1103 | [sec-01103.md](sec-01103.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1111 | [sec-01111.md](sec-01111.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1112 | [sec-01112.md](sec-01112.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1113 | [sec-01113.md](sec-01113.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1114 | [sec-01114.md](sec-01114.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1115 | [sec-01115.md](sec-01115.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1116 | [sec-01116.md](sec-01116.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1121 | [sec-01121.md](sec-01121.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1122 | [sec-01122.md](sec-01122.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1123 | [sec-01123.md](sec-01123.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1124 | [sec-01124.md](sec-01124.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1125 | [sec-01125.md](sec-01125.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1126 | [sec-01126.md](sec-01126.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1301 | [sec-01301.md](sec-01301.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1302 | [sec-01302.md](sec-01302.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1311 | [sec-01311.md](sec-01311.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1312 | [sec-01312.md](sec-01312.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1313 | [sec-01313.md](sec-01313.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1314 | [sec-01314.md](sec-01314.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1321 | [sec-01321.md](sec-01321.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1322 | [sec-01322.md](sec-01322.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1331 | [sec-01331.md](sec-01331.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1501 | [sec-01501.md](sec-01501.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1502 | [sec-01502.md](sec-01502.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1511 | [sec-01511.md](sec-01511.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1512 | [sec-01512.md](sec-01512.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1513 | [sec-01513.md](sec-01513.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1514 | [sec-01514.md](sec-01514.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1515 | [sec-01515.md](sec-01515.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1521 | [sec-01521.md](sec-01521.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1522 | [sec-01522.md](sec-01522.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1523 | [sec-01523.md](sec-01523.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1524 | [sec-01524.md](sec-01524.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1525 | [sec-01525.md](sec-01525.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1531 | [sec-01531.md](sec-01531.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1701 | [sec-01701.md](sec-01701.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1702 | [sec-01702.md](sec-01702.md) | 0 |  |
+| 54 Pa.C.S. Sec. 1703 | [sec-01703.md](sec-01703.md) | 0 |  |
