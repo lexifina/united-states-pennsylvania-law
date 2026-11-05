@@ -742,6 +742,90 @@
      "sha256": "d6429d54d8524834c952d534285406aa112dcc4aaa1b0a2d6e02d1c7dc2d4cc7"
     }
    ]
+  },
+  {
+   "slug": "landlord-and-tenant-act-1951",
+   "short": "THE LANDLORD AND TENANT ACT OF 1951",
+   "title": "THE LANDLORD AND TENANT ACT OF 1951",
+   "url": "https://www.palegis.us/statutes/unconsolidated/law-information?sessYr=1951&sessInd=0&actNum=0020.&plPageNum=0069",
+   "versions": [
+    {
+     "from": "2024-09-15",
+     "units": 1,
+     "source_url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?iFrame=true&txtType=HTM&SessYr=1951&SessInd=0&ActNum=0020.",
+     "sha256": "582187c7e3836d31ff890d7998eb5a7cefc0c293babe90539808468150addb5e"
+    }
+   ]
+  },
+  {
+   "slug": "payment-of-the-wages-of-labor-1859",
+   "short": "PAYMENT OF THE WAGES OF LABOR",
+   "title": "PAYMENT OF THE WAGES OF LABOR",
+   "url": "https://www.palegis.us/statutes/unconsolidated/law-information?sessYr=1859&sessInd=0&actNum=0318.&plPageNum=0318",
+   "versions": [
+    {
+     "from": "1859-03-30",
+     "units": 1,
+     "source_url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?iFrame=true&txtType=HTM&SessYr=1859&SessInd=0&ActNum=0318.",
+     "sha256": "e3ab2afc0fc99be9de4641e3a18490f6f414dfe5dcf77f848ecdebb9e1478e53"
+    }
+   ]
+  },
+  {
+   "slug": "employment-of-labor-regulated-1887",
+   "short": "EMPLOYMENT OF LABOR REGULATED",
+   "title": "EMPLOYMENT OF LABOR REGULATED",
+   "url": "https://www.palegis.us/statutes/unconsolidated/law-information?sessYr=1887&sessInd=0&actNum=0122.&plPageNum=0181",
+   "versions": [
+    {
+     "from": "1887-05-23",
+     "units": 1,
+     "source_url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?iFrame=true&txtType=HTM&SessYr=1887&SessInd=0&ActNum=0122.",
+     "sha256": "6db28efdc4b151ad221c56b5c501560f910f0f30f1fe305f4f7b53640d29a9f2"
+    }
+   ]
+  },
+  {
+   "slug": "liquor-code-1951",
+   "short": "LIQUOR CODE",
+   "title": "LIQUOR CODE",
+   "url": "https://www.palegis.us/statutes/unconsolidated/law-information?sessYr=1951&sessInd=0&actNum=0021.&plPageNum=0090",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?iFrame=true&txtType=HTM&SessYr=1951&SessInd=0&ActNum=0021.",
+     "sha256": "af0f7ef3b1226d4450764d9d6f68a9b237bf6df2cc95eafec98ae02c50cb3bf4"
+    }
+   ]
+  },
+  {
+   "slug": "pennsylvania-labor-relations-act-1937",
+   "short": "PENNSYLVANIA LABOR RELATIONS ACT",
+   "title": "PENNSYLVANIA LABOR RELATIONS ACT",
+   "url": "https://www.palegis.us/statutes/unconsolidated/law-information?sessYr=1937&sessInd=0&actNum=0294.&plPageNum=1168",
+   "versions": [
+    {
+     "from": "1990-10-12",
+     "units": 1,
+     "source_url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?iFrame=true&txtType=HTM&SessYr=1937&SessInd=0&ActNum=0294.",
+     "sha256": "710e4aab5dc55c15d79cbd40e0c09977bc04adbc96c7ef404648754904374ad9"
+    }
+   ]
+  },
+  {
+   "slug": "pennsylvania-labor-mediation-act-1937",
+   "short": "PENNSYLVANIA LABOR MEDIATION ACT",
+   "title": "PENNSYLVANIA LABOR MEDIATION ACT",
+   "url": "https://www.palegis.us/statutes/unconsolidated/law-information?sessYr=1937&sessInd=0&actNum=0177.&plPageNum=0674",
+   "versions": [
+    {
+     "from": "1990-07-03",
+     "units": 1,
+     "source_url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?iFrame=true&txtType=HTM&SessYr=1937&SessInd=0&ActNum=0177.",
+     "sha256": "4a01d80a7d7f268b2cbbad50775c2a5e2284b586fe58f984232765c8d34bf982"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,16 @@
+{
+ "parts": {
+  "70-verify-467.json": {
+   "acts": [
+    "employment-of-labor-regulated-1887",
+    "landlord-and-tenant-act-1951",
+    "liquor-code-1951",
+    "payment-of-the-wages-of-labor-1859",
+    "pennsylvania-labor-mediation-act-1937",
+    "pennsylvania-labor-relations-act-1937"
+   ],
+   "sha256": "14eef75c6ad7c2b04cde359c740a86688c86815cca0b9fef4f8d03661e880172"
+  }
+ },
+ "schema": 1
+}

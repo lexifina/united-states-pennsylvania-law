@@ -1,6 +1,6 @@
 # How this repository was made (Pennsylvania)
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | --- | --- | --- | --- |
 | Pennsylvania General Assembly: Consolidated Statutes and Constitution (palegis.us) | <https://www.palegis.us/statutes/consolidated> | 2026-10-30 | No copyright claimed on the statute text. The site's Legal Notices say the information is an information service and not a replacement for official versions. Statute text of a state is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). The unofficial annotated Purdon's Pennsylvania Statutes (West) are a separate copyrighted work and are not used. |
 | Pennsylvania General Assembly: every Consolidated Statutes title (palegis.us) | <https://www.palegis.us/statutes/consolidated> | 2026-11-03 | No copyright claimed on the statute text. The site's Legal Notices say the information is an information service and not a replacement for official versions. Statute text of a state is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). The unofficial annotated Purdon's Pennsylvania Statutes (West) are a separate copyrighted work and are not used. |
+| Pennsylvania General Assembly: Unconsolidated Statutes | <https://www.palegis.us/statutes/unconsolidated> | 2026-11-05 | Pennsylvania General Assembly public statute text; Legal Notices present the site as an information service. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -68,20 +69,26 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-74-transportation` | Title 74 (Transportation), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
 | `title-75-vehicles` | Title 75 (Vehicles), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
 | `title-76-weights-measures-and-standards` | Title 76 (Weights, Measures and Standards), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `landlord-and-tenant-act-1951` | THE LANDLORD AND TENANT ACT OF 1951 | 1 | 2024-09-15 to 2024-09-15 |
+| `payment-of-the-wages-of-labor-1859` | PAYMENT OF THE WAGES OF LABOR | 1 | 1859-03-30 to 1859-03-30 |
+| `employment-of-labor-regulated-1887` | EMPLOYMENT OF LABOR REGULATED | 1 | 1887-05-23 to 1887-05-23 |
+| `liquor-code-1951` | LIQUOR CODE | 1 | 2026-07-20 to 2026-07-20 |
+| `pennsylvania-labor-relations-act-1937` | PENNSYLVANIA LABOR RELATIONS ACT | 1 | 1990-10-12 to 1990-10-12 |
+| `pennsylvania-labor-mediation-act-1937` | PENNSYLVANIA LABOR MEDIATION ACT | 1 | 1990-07-03 to 1990-07-03 |
 
-The build made 53 commits:
+The build made 59 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 53 | first version of an act |
+| 59 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
-- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-05.
+- 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 53 tags.
+- 59 tags.
 
 ## Dates
 
@@ -93,8 +100,8 @@ When a law gives no date of its own, the default rule applies: Each file is the 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c68cd5268ba205e11e79adcc093e06cae29af610345fc3817c61e74632224a1b` (26298995 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `48a3c96c1ed462f463d4fa98668fab5283ecc7e7e137c9c4494e4ffa15ab8a82` (27141893 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -112,6 +119,9 @@ No second build of this corpus has been compared yet.
 - Typographic quotes and dashes were made plain, non-breaking spaces were made ordinary spaces and runs of spaces were collapsed; the publisher's wording and "--" run-in heading separators are kept.
 - Wave 3 (2026-11-03): every other Consolidated Statutes title with text is added, one act per title, parsed as in the first build. Titles the publisher lists without any section (reserved) are left out.
 - Each new title is dated by the retrieval day (2026-11-03) and credited to the publisher as the oldest version available, so its current wording is never dated before its latest amendment took effect; the file's "revised" stamp is given in the version note.
+- Six unconsolidated statutes identified as continuing normative text in verification job 467 are included, each as one official-text file.
+- The official HTML body text is retained in reading order, including textual supplementary matter; hidden publisher section codes are excluded.
+- Each version note states its source-based in-force basis. The Labor Relations Act date follows Act 127 of 1990, whose section 3 makes its section 4(d) amendment effective immediately.
 
 ## What AI did and did not do
 
@@ -123,3 +133,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- A model selected the six source records and reviewed date evidence; legal wording was extracted mechanically from official HTML.

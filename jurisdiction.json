@@ -4,6 +4,6 @@
   "name": "Pennsylvania",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-pennsylvania-law",
-  "build": "built: Constitution of the Commonwealth of Pennsylvania and Titles 18, 13, 15 and 68 of the Pennsylvania Consolidated Statutes, section text only (one version each, dated by the publisher's file stamp)",
+  "build": "built: Constitution, 52 Consolidated Statutes titles with text, and six unconsolidated statutes; one available current-text version per act",
   "register_date": "2026-10-30"
 }
