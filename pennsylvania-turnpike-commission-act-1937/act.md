@@ -1,0 +1,7 @@
+# PENNSYLVANIA TURNPIKE COMMISSION ACT
+Act of May 21, 1937, P.L. 774, No. 211
+AN ACT
+To facilitate vehicular traffic between the eastern and western sections of the Commonwealth by providing for the construction, operation and maintenance of a turnpike from a point at or near Middlesex in Cumberland County to a point at or near Irwin in Westmoreland County; providing for the creation of the Pennsylvania Turnpike Commission, and conferring powers and imposing duties on said commission; authorizing the issuance of turnpike revenue bonds of the Commonwealth, payable solely from tolls, to pay the cost of such turnpike; providing that no debt of the Commonwealth shall be incurred in the exercise of any of the powers granted by this act; providing for the collection of tolls for the payment of such bonds and for the cost of maintenance, operation and repair of the turnpike; making such bonds exempt from taxation; constituting such bonds legal investments in certain instances; prescribing conditions upon which such turnpike shall become free; providing for condemnation; granting certain powers and authority to municipal subdivisions and agencies of the Commonwealth to cooperate with the commission; and authorizing the issuance of turnpike revenue refunding bonds.
+Compiler's Note: Section 21(b) of Act 61 of 1985 provided
+that Act 211 is repealed insofar as it is inconsistent
+with Act 61.
