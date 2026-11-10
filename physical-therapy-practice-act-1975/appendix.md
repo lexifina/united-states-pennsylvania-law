@@ -1,0 +1,10 @@
+APPENDIX
+-------
+Supplementary Provisions of Amendatory Statutes
+-------
+1985, DECEMBER 20, P.L.500, NO.117
+Section 11. Each rule and regulation of the board in effect on the effective date of this act shall remain in effect after such date until amended by the board, provided that the board shall immediately initiate the repeal or amendment of any rule or regulation which is inconsistent with the provisions of this act. Each fee of the board in effect on the effective date of this act, and not inconsistent with this act, shall remain in effect after such date until repealed or amended in the manner provided by law.
+Compiler's Note: Act 117 added or amended sections 2, 2.1, 3, 4, 6, 7, 7.1, 9.1 and 9.2, repealed section 10 and added or amended sections 10.2, 11, 11.1, 11.2, 11.3, 12 and 13 of Act 110.
+Section 12. This act constitutes the legislation necessary to reestablish the State Board of Physical Therapy Examiners under section 7 of the act of December 22, 1981 (P.L.508, No.142), known as the Sunset Act.
+Section 14. The presently confirmed members of the State Board of Physical Therapy Examiners constituted under section 412.1 of the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, as of the effective date of this act, shall continue to serve as board members until their present terms of office expire, provided that any present board member whose term has expired on or before the effective date of this act shall serve until a successor has been appointed and qualified, but no longer than six months after the effective date of this act.
+Section 15. Any person who holds a valid license or certificate issued by, or is listed with, the State Board of Physical Therapy Examiners under the act of October 10, 1975 (P.L.383, No.110), known as the Physical Therapy Practice Act, relating to the practice of physical therapy, prior to the effective date of this amendatory act shall, on and after the effective date hereof, be deemed to be licensed or certificated by, or to be listed with, the State Board of Physical Therapy as provided for in this amendatory act.
