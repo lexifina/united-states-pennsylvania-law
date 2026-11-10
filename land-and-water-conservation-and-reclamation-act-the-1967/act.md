@@ -1,0 +1,6 @@
+# LAND AND WATER CONSERVATION AND RECLAMATION ACT, THE
+Act of Jan. 19, (1968) 1967, P.L. 996, No. 443
+AN ACT
+Authorizing the creation of indebtedness of five hundred million dollars for the conservation and reclamation of land and water resources; defining the powers and duties of certain offices, agencies and political subdivisions; providing for the allotment of proceeds hereunder including Commonwealth grants; prescribing standards and making appropriations.
+Compiler's Note: Section 306(c) of Act 18 of 1995, which created the Department of Conservation and Natural Resources and renamed the Department of Environmental Resources as the Department of Environmental Protection, provided that the Department of Conservation and Natural Resources shall exercise the powers and duties previously vested in the Secretary of Community Affairs and the Department of Community Affairs by Act 443 of 1967.
+Compiler's Note: Section 1 of Act 165 of 1970 provided that the limits heretofore imposed by Act 443 upon the rates of interest and interest costs permitted to be paid upon bonds, obligations and indebtedness issued by the Commonwealth or its agencies or instrumentalities or authorities, and by local political subdivisions or their agencies or authorities, are hereby removed for such bonds, obligations or indebtedness.
