@@ -1,0 +1,4 @@
+# SMALL WATER SYSTEMS ASSISTANCE ACT
+Act of Mar. 16, 1992, P.L. 10, No. 5
+AN ACT
+Providing for the establishment, implementation and administration of the Small Water Systems Technical and Management Assistance Program; providing for technical, financial and management assistance for small water systems; providing for the Small Water Systems Regionalization Grant Program; providing for financial assistance for comprehensive small water systems regionalization studies; imposing additional duties on the Department of Environmental Resources; authorizing the indebtedness, with the approval of the electors, of an additional $350,000,000 for loans for the acquisition, repair, construction, reconstruction, rehabilitation, extension, expansion and improvement of water supply, storm water control and sewage treatment systems; and transferring an appropriation.
