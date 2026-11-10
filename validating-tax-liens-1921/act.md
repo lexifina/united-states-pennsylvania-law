@@ -1,0 +1,4 @@
+# VALIDATING TAX LIENS
+Act of May 20, 1921, P.L. 992, No. 357
+AN ACT
+To validate tax liens filed in the office of the prothonotary of the various counties, since the first day of June, one thousand nine hundred and fifteen, under the provisions of an act, approved the fourth day of June, one thousand nine hundred and one, entitled "An act providing when, how, upon what property, and to what extent, liens shall be allowed for taxes, and for municipal improvements, and for the removal of nuisances; the procedure upon claims filed therefor; the methods of preserving such liens and enforcing payment of such claims; the effect of judicial sales of the properties liened, and the manner of distributing the proceeds of such sales," and its supplements and amendments thereto; and providing for their collection.
