@@ -1,0 +1,4 @@
+# TEMPLE UNIVERSITY-COMMONWEALTH ACT
+Act of Nov. 30, 1965, P.L. 843, No. 355
+AN ACT
+Providing for the establishment and operation of Temple University as an instrumentality of the Commonwealth to serve as a State-related university in the higher education system of the Commonwealth; providing for change of name; providing for the composition of the board of trustees; terms of trustees, and the power and duties of such trustees; providing for preference to Pennsylvania residents in tuition; providing for public support and capital improvements; authorizing appropriations in amounts to be fixed annually by the General Assembly; providing for the auditing of accounts of expenditures from said appropriations; authorizing the issuance of bonds exempt from taxation within the Commonwealth; requiring the President to make an annual report of the operations of Temple University.
