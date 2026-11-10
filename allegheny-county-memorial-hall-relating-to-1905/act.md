@@ -1,0 +1,4 @@
+# ALLEGHENY COUNTY MEMORIAL HALL - RELATING TO
+Act of Apr. 12, 1905, P.L. 140, No. 106
+AN ACT
+Providing for the erection and maintenance of a memorial hall at the county-seat of Allegheny county, in honor of the soldiers, sailors, and marines from that county, who served in the Army and Navy of the United States in the war for the suppression of the rebellion; authorizing and directing the commissioners of said Allegheny county to erect and maintain said memorial hall, upon petition of fifty citizens, approved by two successive grand juries, the court of quarter sessions, and a majority vote of the qualified voters of said county, at a general election; designating a committee to determine what relics, records, etc., shall be placed in said memorial hall, and providing for a flagstaff and display of the flag of the United States.
