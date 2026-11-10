@@ -1,0 +1,5 @@
+# DELAWARE RIVER BRIDGE, ERECTION PROVIDED FOR
+Act of Jul. 9, 1919, P.L. 814, No. 338
+AN ACT
+Providing for the erection and construction by the Commonwealth of Pennsylvania and the State of New Jersey of a bridge over the Delaware River, connecting the city of Philadelphia and the city of Camden, and the approaches thereto; providing for a joint commission for that purpose, and defining its powers and duties; providing for an independent commission in this Commonwealth in relation thereto, and defining its powers and duties; providing for the payment of a part of the cost thereof by the city of Philadelphia; and providing for the acquiring, approaches thereof; providing for the turning over of said bridge upon its completion; and making an appropriation for the purposes of this act.
+Whereas, The State of New Jersey has expressed a willingness to join the Commonwealth of Pennsylvania in the construction of a bridge over the Delaware River between Philadelphia and Camden for the development of the trade and relations between the two States,
