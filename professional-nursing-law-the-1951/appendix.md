@@ -1,0 +1,10 @@
+APPENDIX
+-------
+Supplementary Provisions of Amendatory Statutes
+-------
+1985, DECEMBER 20, P.L.409, NO.109
+Section 15. This act, with respect to the State Board of Nurse Examiners, shall constitute the legislation required to reestablish an agency pursuant to the act of December 22, 1981 (P.L.508, No.142), known as the Sunset Act.
+Compiler's Note: Act 109 added or amended sections 1, 2, 2.1, 2.2, 3, 4, 5, 6, 6.1, 6.2, 7, 8, 11, 11.1, 11.2, 11.3, 13, 14, 14.1, 15, 15.1, 15.2, 15.3, 15.4 and 15.5 and repealed section 16.1 of Act 69.
+Section 17. The presently confirmed members of the State Board of Nurse Examiners constituted under section 418 of the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, as of December 31, 1985, shall continue to serve as board members until their present terms of office expire, provided that any present board member whose term has expired on or before the effective date of this act shall serve until a successor has been appointed and qualified, but no longer than six months after the effective date of this act.
+Section 18. Each rule and regulation of the board in effect on December 31, 1985, and not inconsistent with this act, or the act of March 2, 1956 (1955 P.L.1211, No.376), known as the Practical Nurse Law, shall remain in effect after such date until repealed or amended by the board, provided that the board shall immediately initiate the repeal or amendment of any rule or regulation which is inconsistent with the provisions of this act. Each fee of the board in effect on December 31, 1985, and not inconsistent with this act or the Practical Nurse Law, shall remain in effect after such date until repealed or amended in accordance with the provisions of this act.
+Section 19. Any person who holds a valid license issued by the State Board of Nurse Examiners under the act of May 22, 1951 (P.L.317, No.69), known as The Professional Nursing Law, relating to the practice of nursing, prior to the effective date of this amendatory act shall, on and after the effective date hereof, be deemed to be licensed by the State Board of Nursing as provided for in this amendatory act.
