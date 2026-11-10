@@ -1,0 +1,8 @@
+# SEWAGE CONSTRUCTION PAYMENTS TO MUNICIPALITIES
+Act of Aug. 20, 1953, P.L. 1217, No. 339
+AN ACT
+Providing for payments by the Commonwealth to municipalities which have expended money to acquire and construct sewage treatment plants in accordance with the Clean Streams Program and the act, approved the twenty-second day of June, one thousand nine hundred thirty-seven (Pamphlet Laws 1987), and making an appropriation.
+Whereas, The Commonwealth of Pennsylvania under the Act of Assembly approved the twenty-second day of June, one thousand nine hundred thirty-seven (Pamphlet Laws 1987), has required certain municipalities of this Commonwealth to construct sewage treatment plants to abate the pollution of the waters of the Commonwealth and thereby preserve and improve the purity of such waters in the interest of the public health; and,
+Whereas, these municipalities have in the past and will in the future expend large sums of money to acquire and construct sewage treatment plants in accordance with the Clean Streams Program and the aforesaid Act of Assembly, which sewage treatment facilities benefit not only the local municipality but are a benefit to all of the citizens of the Commonwealth of Pennsylvania; and,
+Whereas, the responsibility to preserve and improve the purity of the waters of the Commonwealth does not rest solely upon municipal government but is also a function and responsibility of State government acting in the interest of the general public health, the Commonwealth of Pennsylvania, in consideration of the benefits resulting from the acquisition and construction, both in the past and in the future, of sewage treatment plants by municipalities.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
