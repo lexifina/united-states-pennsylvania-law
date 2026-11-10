@@ -1,0 +1,4 @@
+# TOWNSHIPS, LAND OWNERSHIP
+Act of Mar. 21, 1929, P.L. 44, No. 40
+AN ACT
+Providing that in any case where the trustees of the proprietors of any certified township of this Commonwealth have been incorporated by any law of this Commonwealth, and in the act incorporating them there is a limitation of the amount of property which may be held at any one time by such corporation, that all money or property held by such corporation over and above the limitation fixed in the act of incorporation shall be distributed amongst, and paid to, the public school district of such certified township or the public school districts of the subdivisions into which such certified township is divided; providing for the method of apportioning such money or property, and conferring power on the court of common pleas of the county in which such certified township, or the larger part thereof, is located, to enforce the provisions of this act.
