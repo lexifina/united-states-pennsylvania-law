@@ -1,0 +1,5 @@
+# WILD RESOURCE CONSERVATION ACT
+Act of Jun. 23, 1982, P.L. 597, No. 170
+AN ACT
+Providing for a voluntary contribution system to aid in the conservation of certain wild flora and fauna, establishing a special fund and providing for its administration, establishing a procedure for the protection of wild flora, establishing a permit system, imposing powers and duties on the Department of Environmental Resources and imposing penalties.
+Compiler's Note: Section 305(a)(9) of Act 18 of 1995, which created the Department of Conservation and Natural Resources and renamed the Department of Environmental Resouces as the Department of Environmental Protection, provided that the Department of Conservation and Natural Resources shall exercise the powers and duties conferred upon the Department of Environmental Resources by Act 170 of 1982 with respect to the study and protection of the Commonwealth's ecological and geological resources. Notwithstanding any provision in Act 170 to the contrary, the Department of Conservation and Natural Resources may use any funds appropriated to it to carry out the purposes of section 305 of Act 18 of 1995.
