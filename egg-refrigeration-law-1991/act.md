@@ -1,0 +1,8 @@
+# EGG REFRIGERATION LAW
+Act of Aug. 6, 1991, P.L. 321, No. 32
+AN ACT
+Regulating the refrigeration of eggs stored, distributed or held for commercial sale or use; providing for additional duties of the Department of Agriculture and the Department of Environmental Resources; and providing for civil and criminal penalties.
+Compiler's Note: Section 6 of Act 131 of 1994 provided that Act 32 is repealed insofar as it is inconsistent with Act 131.
+The General Assembly finds and declares as follows:
+(1) That the egg industry constitutes an important part of the economy of this Commonwealth. Recent national outbreaks of salmonellosis in human beings have raised concerns among consumers about the safety of eggs and foods made with eggs and have threatened the loss of egg markets within and outside this Commonwealth. A human being may contract salmonellosis if he ingests an egg or a food made with an egg containing a sufficient number of the salmonella enteritidis bacteria. The purpose of this act is to establish uniform temperature requirements for shell eggs in order to retard the growth of the salmonella enteritidis bacteria. Adequate refrigeration along with proper food preparation and handling can significantly reduce the risk that a human being will contract salmonellosis from eggs.
+(2) That the intent of this act is to preserve egg markets for Pennsylvania producers and ensure the quality of Pennsylvania eggs by establishing reasonable standards of refrigeration for shell eggs for public eating and drinking establishments, food processors, retail food stores and food distributors.
