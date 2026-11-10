@@ -1,0 +1,4 @@
+# DEPARTMENT OF LABOR AND INDUSTRY, CREATION
+Act of Jun. 2, 1913, P.L. 396, No. 267
+AN ACT
+Creating a Department of Labor and Industry; defining its powers and duties; establishing an Industrial Board; providing for the appointment of a Commissioner of Labor, inspectors, statisticians, clerks, and others to enforce the provisions of this act, and providing salaries for the same; prescribing a standard of reasonable and adequate protection to be observed in the rooms, buildings, and places where labor is employed; empowering the said Industrial Board to make, alter, amend, and repeal rules and regulations relating thereto; transferring the powers and duties of the Department of Factory Inspection to the Department of Labor and Industry, and abolishing the Department of Factory Inspection; and providing a penalty for the violation of the provisions of this act, or the rules and regulations of the said board.
