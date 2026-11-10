@@ -1,0 +1,5 @@
+# VIETNAM CONFLICT VETERANS' COMPENSATION BOND ACT
+Act of May. 15, 1969, P.L. 40, No. 14
+AN ACT
+Authorizing the issue and sale of bonds by the Commonwealth of Pennsylvania for the payment of compensation to certain veterans; creating a special fund in the State Treasury to be known as the Vietnam Conflict Veterans' Compensation Fund; defining the powers and duties of the Governor, the Auditor General, the State Treasurer, and the Board of Finance and Revenue in relation thereto; and providing for the payment of interest on and the redemption and refunding of such bonds; and making an appropriation.
+Compiler's Note: Section 1 of Act 165 of 1970 provided that the limits heretofore imposed by Act 14 upon the rates of interest and interest costs permitted to be paid upon bonds, obligations and indebtedness issued by the Commonwealth or its agencies or instrumentalities or authorities, and by local political subdivisions or their agencies or authorities, are hereby removed for such bonds, obligations or indebtedness.
