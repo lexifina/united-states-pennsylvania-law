@@ -1,0 +1,4 @@
+# AUTOMOBILE PROTECTION ASSOCIATIONS
+Act of Jun. 12, 1931, P.L. 574, No. 199
+AN ACT
+Prohibiting certain persons, corporations, associations and companies from engaging in the business of soliciting and accepting premiums or dues and selling policies or contracts guaranteeing to owners of motor vehicles the services of attorneys or providing for the towing of motor vehicles, or to hold themselves out to the public as authorized to engage in insurance business, or in the kind of business usually transacted by insurance companies, associations or exchanges, although transacted under some other name or description, unless such corporations, associations and companies are incorporated or organized as insurance companies, associations or exchanges, and registered and licensed by the Insurance Department; and providing penalties.
