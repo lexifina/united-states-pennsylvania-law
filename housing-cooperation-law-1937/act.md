@@ -1,0 +1,4 @@
+# HOUSING COOPERATION LAW
+Act of May. 26, 1937, P.L. 888, No. 232
+AN ACT
+To authorize cities, boroughs, towns, townships, counties, and other public bodies to aid housing projects of housing authorities, or of the United States of America, by furnishing parks, playgrounds, streets, and other improvements and facilities by exercising certain other powers, and by making agreements relating to such aid; to authorize cities, boroughs, towns, townships, and counties to contract with respect to the sums to be paid them for improvements, services, and facilities to be provided for the benefit of housing projects, and the occupants thereof; to authorize certain cities and counties to make an appropriation for the first years' administrative expenses of housing authorities; and to authorize certain cities, boroughs, towns, and counties to pay moneys to housing authorities.
