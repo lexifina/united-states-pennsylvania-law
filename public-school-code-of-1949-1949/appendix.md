@@ -1,0 +1,145 @@
+APPENDIX
+-------
+Supplementary Provisions of Amendatory Statutes
+-------
+1975, DECEMBER 19, P.L.511, NO.150
+Section 5. The provisions of this act shall apply to school districts of the first class A only from the first Monday of December following the election of a board of public education in accordance with section 302.1(a) of the "Public School Code of 1949."
+Compiler's Note: Act 150 added or amended sections 302.1, 633, 652.1 and 1003 of Act 14.
+1982, JUNE 25, P.L.643, NO.182
+Section 3. Within 60 days of the passage of this act, any elected Board of Public Education in any school district of the first class A, in addition to its regular annual levies may, by additional ordinance, levy the following taxes for the fiscal years beginning January 1, 1981 and January 1, 1982:
+(a) For fiscal year beginning January 1, 1981:
+(1) A total tax of 41 mills on the dollar of the total assessment of all property assessed and certified for taxation in the territory constituting the district.
+(2) A total tax of 1.5% on wages, salaries, commissions and other earned income of individuals.
+(b) For fiscal year beginning January 1, 1982:
+(1) A total tax of 36 mills on the dollar of the total assessment of all property assessed and certified for taxation in the territory constituting the district.
+(2) A total tax of 1.5% on wages, salaries, commissions and other earned income of individuals.
+1997, JUNE 19, P.L.225, NO.22
+Section 2. (a) The General Assembly finds and declares as follows:
+(1) A well-trained and well-educated work force is essential to the economic well-being of this Commonwealth.
+(2) Many of the fastest growing sectors of the economy are in areas which require technical competence and an educational background that includes a solid foundation in the chemical, physical, biological and earth sciences.
+(3) Sharing resources is a cost-effective and proven method of ensuring that all of this Commonwealth's school children have access to a high-quality science curriculum that provides hand-on experience with modern and sophisticated scientific and technical equipment to prepare students for the high-technology demands of the 21st century.
+(4) Significant opportunities exist for collaboration between the basic education and higher education systems of this Commonwealth to enhance the education of this Commonwealth's school children.
+(5) Students need the opportunity to learn science by practicing science. This Commonwealth must graduate students who are more scientifically literate and who are better able to pursue careers and jobs in fields that require such literacy.
+(6) Teachers who are the only physics or chemistry teacher in their school need not work in isolation.
+(7) Teachers require greater opportunities for professional development in science, including training to incorporate new science equipment into the teaching curricula.
+(8) It is therefore the intent of the General Assembly and a purpose of this act to direct the Department of Education to examine the feasibility of establishing the Pennsylvania Science Partnership Program to provide enhanced educational opportunities in the fields of science to this Commonwealth's school children, especially children attending schools that do not have the financial resources to provide an enriched science curriculum.
+(b) The department shall file a report with the Governor and with the chairman and minority chairman of the Education Committee of the Senate and the chairman and minority chairman of the Education Committee of the House of Representatives on the feasibility of establishing a Pennsylvania Science Partnership Program by January 1, 1998. The report shall describe the types of science partnerships created in selected communities of this Commonwealth, to be determined by the Secretary of Education. At a minimum, programs of this type in Philadelphia, Pittsburgh and at Juniata College and Lebanon Valley College shall be examined. The department shall consider the benefits of the partnership and the involvement of school districts, higher education institutions and science museums. The department shall survey school districts to determine the number of elementary and secondary education students participating in various science programs, a detailed breakdown of the costs of these programs and the impact of the programs on the level of scientific knowledge of school children.
+(c) The following words and phrases when used in this section shall have the meanings given to them in this subsection unless the context clearly indicates otherwise:
+"Department." The Department of Education of the Commonwealth.
+"Higher education institution." Any institution of higher education in this Commonwealth authorized to grant collegiate-level degrees and which has received total institutional accreditation by an accrediting agency recognized by the Federal Government, the Department of Education and the State Board of Education.
+Compiler's Note: Act 22 added Article XVII-A of Act 14.
+Section 3. (a) The sum of $1,000,000, or as much thereof as may be necessary, is hereby appropriated for the fiscal year July 1, 1997, to June 30, 1998, from the General Fund to the Department of Education to pay for temporary financial assistance under section 1725-A(b) to school districts on behalf of students enrolled in charter schools who attended a nonpublic school in the prior fiscal year.
+(b) The sum of $7,500,000, or as much there of as may be necessary, is hereby appropriated from the General Fund to the Department of Education to pay for transitional funding grants under section 1725-A(c) to school districts. These funds shall lapse June 30, 1999.
+(c) The sum of $4,000,000 of Federal funds available under the Improving America's Schools Act of 1994 (Public Law 103-382, 108 Stat. 3518) is hereby appropriated to the Department of Education for purposes of implementing the provisions of this act. These funds shall lapse June 30, 1998.
+Section 4. All acts and parts of acts are repealed insofar as they are inconsistent with this act.
+Section 5. This act shall take effect immediately.
+1997, JUNE 19, P.L.225, NO.22
+Section 26. (a) A school district of the first class shall commence the 1998-1999 school year no later than September 8, 1998, and shall provide school students with a minimum instructional year as required by section 1501 of the act to be completed no later than June 30, 1999.
+(b) All professional employees and other employees of the school district of the first class shall report for duty and fulfill their duties as required by the appropriate contract or work agreement. Any employee of the school district of the first class who fails to comply with the provisions of this section shall be subject to suspension of any certificate for a period of one year, to disciplinary action for illegal work stoppage or to other discipline as provided for in this act.
+(c) In addition to the penalties set forth in subsection (b), any employee, administrator or person responsible for unlocking, opening or maintaining a school building who does not fulfill their responsibility or impedes others from fulfilling their responsibilities shall be subject to disciplinary action. In addition, any individual who violates this section who is a member of the Pennsylvania Public School Employees' Retirement System shall be permanently barred from exercising any option for early retirement which may be authorized now or in the future.
+1998, APRIL 27, P.L.270, NO.46
+Section 26. (a) A school district of the first class shall commence the 1998-1999 school year no later than September 8, 1998, and shall provide school students with a minimum instructional year as required by section 1501 of the act to be completed no later than June 30, 1999.
+(b) All professional employees and other employees of the school district of the first class shall report for duty and fulfill their duties as required by the appropriate contract or work agreement. Any employee of the school district of the first class who fails to comply with the provisions of this section shall be subject to suspension of any certificate for a period of one year, to disciplinary action for illegal work stoppage or to other discipline as provided for in this act.
+(c) In addition to the penalties set forth in subsection (b), any employee, administrator or person responsible for unlocking, opening or maintaining a school building who does not fulfill their responsibility or impedes others from fulfilling their responsibilities shall be subject to disciplinary action. In addition, any individual who violates this section who is a member of the Pennsylvania Public School Employees' Retirement System shall be permanently barred from exercising any option for early retirement which may be authorized now or in the future.
+Compiler's Note: Act 46 added, amended or repealed sections 102, 507, 691, 696, 917.1-A, 919.1-A, 922.1-A, 1317.3, 1548, 1502-A, 1503-A, 1504-A, 1505-A, 1913-A, 2003-A.1, 2006-A, 2010-A, 2501, 2502.13, 2502.30,, 2502.35, 2509.1, 2509.3, 2509.5, 2595, 2598, and 2599.
+2010, NOVEMBER 17, P.L.996, NO.104
+Section 23. The General Assembly finds and declares, in the enactment of section 1553 of the act, the following:
+(1) Criminal acts committed against teenagers by other young persons are a serious problem in this Commonwealth.
+(2) Many of the criminal acts take the form of dating violence.
+(3) On August 15, 2007, Demi Brae Cuccia, a 16-year-old student at Gateway High School in Monroeville, Allegheny County, was fatally stabbed 16 times by her former boyfriend, who then made an unsuccessful attempt to take his own life.
+(4) The 18-year-old person arrested for the brutal attack was convicted of first degree murder and was sentenced to life in prison without parole.
+(5) In order to educate teens and their parents regarding teen dating violence, the family of Demi Brae Cuccia has established the Demi Brae Awareness Organization.
+(6) Students in our secondary schools should be educated about the dangers of teen dating violence so that other teenagers will not have to share the same fate as Demi Brae Cuccia.
+Compiler's Note: Act 104 amended or added sections 218, 221, 222, 921-A, and 921-A, Subdivision (i) of Article XI, Article XI-B, sections 1209, 1302, 1377.2, 1301-A, 1302-A, 1302.1-A, 1303-A, 1414.1, 1418, 1422.1, 1422.3, 1552 and 1553, Article XV-F, sections 1611 and 1722-A, Articles XX-E, XX-F and XX-G and section 2252.1 of Act 14.
+2011, JUNE 30, P.L.112, NO.24
+Section 42. Nothing in the amendment or addition of sections 1205.1(f) and 1205.2(a), (f) and (n.1) of the act shall be construed to supersede or preempt any provision of a collective bargaining agreement relating to continuing professional development negotiated by a school entity and an exclusive representative of the employees in accordance with the act of July 23, 1970 (P.L.563, No.195), known as the Public Employe Relations Act, which is in effect on the effective date of this section.
+Section 42.1. For the 2011-2012 fiscal year, the Department of Education may utilize up to $4,500,000 of undistributed funds not expended, encumbered or committed from appropriations for grants and subsidies made to the department to assist school districts certified on or before June 30, 2010, as an education empowerment district under section 1705-B(h)(3) of the act.
+Compiler's Note: Act 24 amended, added, deleted or repealed sections 111, 118, 221.1, 223, 615, 703, 731, 731.1, 907-A and 921-A, the heading of Article X and sections 1001, 1003, 1134, 1201, 1203, 1205.1, 1205.2, 1205.5, 1206, 1207.1, 1304, 1376, 1303-A, 1310-A, 1311-A, 1312-A, 1604-A, 1602-B, 1611-B, 1612-B, 1613-B, 1614-B, 1724-A, 1913-A, 2002-C, 2006.1-C, 2318, 2501, 2502.48, 2502.29, 2502.50, 2509.1, 2509.5, 2510.1, 2541 and 2599.1 of Act 14.
+2012, APRIL 12, P.L.239, NO.31
+Preamble:
+The General Assembly finds and declares that:
+(1) Motor vehicle accidents are the leading cause of teen fatalities in this Commonwealth.
+(2) In 2008, 154 teens between 15 and 19 years of age were killed in motor vehicle accidents in this Commonwealth.
+(3) Teen driver education introduces new teen drivers to the hazards of driving and helps to reduce the risk of motor vehicle accidents involving teens.
+(4) There is a shortage of professional educators certified by the Department of Education to teach driver education.
+(5) Due to extreme financial strain or the lack of professional educators certified by the Department of Education to teach driver education, many school districts in this Commonwealth no longer provide theoretical driver education in the classroom.
+(6) In the absence of a professional educator certified by the Department of Education to teach driver education, who is available and willing to teach in the school district, a school district should be permitted to contract with a private driver training instructor or private driver training school to teach theoretical driver education in the classroom.
+Compiler's Note: Act 31 amended section 1519 of Act 14.
+2012, JUNE 30, P.L.684, NO.82
+Section 34. This act shall apply as follows:
+(1) The amendment or addition of sections 1073, 1073.1, 1076, 1077, 1078 and 1080 of the act shall apply to contracts of district superintendents or assistant district superintendents entered into or renewed on or after November 1, 2012.
+(2) To contracts and purchases advertised on or after July 1, 2012, or immediately, whichever is later.
+Compiler's Note: Act 82 amended, added or repealed sections 102, 111, 118, 119, 120, 121, 221.1, 616, 617, 732.1, 751, 807.1, 1003, 1073, 1073.1, 1076, 1077, 1078, 1080, 1123, 1124, 1205.1, 1308, 1337.1, 1302.1-A, 1422.1, 1424 and 1524, Article XV-G, section 1607, Article XVI-C and sections 1704-B, 1913-A, 1913-B.1, 2003-A.1, 2010-A, 2104, 2319, 2502.51, 2509.1, 2509.5, 2510.2, 2574, 2599.2, 2599.4 and 2506-A of Act 14.
+2013, JULY 1, P.L.194, NO.33
+Section 2. The addition of section 1178(e) of the act shall apply to leaves of absence or military leaves of absence that are granted on or after the effective date of this section.
+Compiler's Note: Act 33 amended section 1178.
+Section 3. The addition of section 1178(e) shall not:
+(1) Create in any member of the Public School Employees' Retirement System or in any other person claiming an interest in the account of any member a contractual right, either expressed or implied, in relation to requirements for qualification of the Public School Employees' Retirement System as a qualified pension plan under the Internal Revenue Code of 1986 (Public Law 99-514, 26 U.S.C. § 1 et seq.).
+(2) Establish compliance with or affect any construction of:
+(i) 38 U.S.C. Ch. 43, known as the Uniformed Services Employment and Reemployment Rights Act.
+(ii) 24 Pa.C.S. Pt. IV or any rules or regulations adopted under 24 Pa.C.S. Pt. IV.
+2013, JULY 9, P.L.408, NO.59
+Preamble:
+The General Assembly finds and declares as follows:
+(1) It is the purpose of this act to provide fiscal support for the educational system in the Commonwealth.
+(2) Pennsylvania currently has over 3,100 public schools organized into 500 school districts, and those schools educate approximately 1.7 million students every year.
+(3) Article III, section 24, of the Constitution of Pennsylvania requires the General Assembly to adopt all appropriations for the operation of government in the Commonwealth. The Supreme Court has repeatedly affirmed that, "It is fundamental within Pennsylvania's tripartite system that the General Assembly enacts the legislation establishing those programs which the state provides for its citizens and appropriates the funds necessary for their operation."
+(4) Article III, section 11, of the Constitution of Pennsylvania requires the adoption of a general appropriation bill that embraces "nothing but appropriations." While actual appropriations can be contained in a General Appropriation Act, the achievement and implementation of a comprehensive budget involves much more than appropriations. Ultimately, the budget has to be balanced under Article VIII, section 13, of the Constitution of Pennsylvania. This may necessitate changes to sources of funding and enactment of statutes to achieve full compliance with these constitutional provisions.
+(5) Therefore, it is the intent of the General Assembly through this act to provide implementation of the 2013-2014 Commonwealth budget as it affects the operations of and funding for our educational system and promotes the health, safety and welfare of our children.
+(6) This act will:
+(i) Provide a community college funding formula.
+(ii) Provide basic education funding for the 2012-2013 school year.
+(iii) Provide for special education payments.
+(iv) Provide funds for implementing the act of December 12, 1973 (P.L.397, No.141), known as the Professional Educator Discipline Act.
+(v) Provide for payment on account of equipment purchased for area vocational-technical schools and technical institutes.
+(vi) Remove the health assessment requirement for a teacher's certification to avoid duplicate costs.
+(vii) Provide for funding to community education councils.
+(viii) Provide funding for financial aid in distance education through the Pennsylvania Higher Education Assistance Agency.
+Compiler's Note: Act 59 amended or added section 122, 616.1, 687, 732.1, 1209, 1216.1, 1913-A, 1905-D, 2133, 2502.52, 2508.5, 2509.1, 2509.5, 2510.3, 2599.2 and 2599.5 of Act 14.
+2014, JUNE 26, P.L.776, NO.70
+Preamble:
+The General Assembly finds and declares as follows:
+(1) To provide children with an understanding of the importance of the protection of human rights and the potential consequences of unchecked ignorance, discrimination and persecution, it is a matter of high priority that children in this Commonwealth be educated concerning the Holocaust, genocide and other human rights violations.
+(2) Therefore, the General Assembly strongly encourages school entities in this Commonwealth to offer instruction in the Holocaust, genocide and other human rights violations.
+Compiler's Note: Act 70 added section 1554 of Act 14.
+2016, JULY 13, P.L.716, NO.86
+Section 20. Of the amount appropriated to the Department of Education for the purpose of regional community college services in section 215 of the act of December 29, 2015 (P.L.621, No.10A), known as the General Appropriation Act of 2015, 40% shall be distributed to a nonprofit organization authorized under Article XIX-G of the act.
+Compiler's Note: Act 86 amended or added sections 125, 221.2, 510.2, 689, 694-A, Article VI-B, sections 1154, 1201.1, 1204, 1204.2, 1205.2, 1313.1, 1372, 1376, 1401, 1414.3, 1414.4, 1414.5, 1414.6, 1414.7, 1414.8, Articles XIV-A, XV-H and XV-I, sections 1605, 1703-A, 1724-A, 1725-A, 1855, 1904-A, 1913-A, 1902-C, 1902-E, Articles XIX-G and XX-B, sections 2320, 2509.1, 2509.5, 2509.8, 2510.3, 2599.6 and 2599.7 of Act 14 and repealed Article XVII-E.1 of the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code and Article XVII-F of the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971.
+Section 22. The addition of Article XIX-G of the act is a continuation of former Article XVII-E.1 of the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code. The following apply:
+(1) Except as otherwise provided in Article XIX-G of the act, all activities initiated under former Article XVII-E.1 of The Fiscal Code shall continue and remain in full force and effect and may be completed under Article XIX-G of the act. Orders, regulations, rules and decisions which were made under former Article XVII-E.1 of The Fiscal Code and which are in effect on the effective date of this section shall remain in full force and effect until revoked, vacated or modified under Article XIX-G of the act. Contracts, obligations and collective bargaining agreements entered into under former Article XVII-E.1 of The Fiscal Code are not affected nor impaired by the repeal of former Article XVII-E.1 of The Fiscal Code.
+(2) Except as set forth in paragraph (3), any difference in language between Article XIX-G of the act and former Article XVII-E.1 of The Fiscal Code is intended only to conform to the style of the Public School Code of 1949 and is not intended to change or affect the legislative intent, judicial construction or administration and implementation of former Article XVII-E.1 of The Fiscal Code.
+(3) Paragraph (2) does not apply to the addition of the following provisions:
+(i) Sections 1901.1-G and 1901.2-G of the act.
+(ii) The reference to December 31, 2016, in section 1906-G(a) of the act.
+(iii) The phrase "donations from persons" in section 1913-G of the act.
+Section 23. The addition of Article XX-B of the act is a continuation of Article XVII-F of the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971. Except as otherwise provided in Article XX-B of the act, all activities initiated under Article XVII-F of the Tax Reform Code of 1971 shall continue and remain in full force and effect and may be completed under Article XX-B of the act. Orders, regulations, rules and decisions which were made under XVII-F of the Tax Reform Code of 1971 and which are in effect on the effective date of section 21(4) of this act shall remain in full force and effect until revoked, vacated or modified under Article XX-B of the act.
+2017, NOVEMBER 6, P.L.1142, NO.55
+Section 21. Notwithstanding section 10 of the act of November 3, 2016 (P.L.1061, No.138), the act of November 3, 2016 (P.L.1061, No.138), shall apply as follows:
+(1) For a public school district, a charter school, a cyber charter school, a regional charter school or an area vocational-technical school, the act of November 3, 2016 (P.L.1061, No.138), shall apply to the 2017-2018 school year and each school year thereafter.
+(2) For a nonpublic school, the act of November 3, 2016 (P.L.1061, No.138), shall apply to the 2018-2019 school year and each school year thereafter.
+Compiler's Note: Act 55 amended, added or repealed sections 121, 126, 328, 694-A, 695-A, 732.1, 1006, 1073, 1077, 1124, 1125.1, 1131, 1204, 1216, 1337, 1402-A, 1403-A, 1405-A, 1406-A, 1407-A, 1517, 1547, 1549, 1549.1, 1729.2-A, 1913-A, 1918-A, 1906-G, 2006-B, 2001-C, 2002-C, 2004-C, 2321, 2501, 2502.53, 2509.1, 2510.3, 2599.6 and 2603-B of Act 14.
+2020, JULY 1, P.L.558, NO.50
+Section 11. All acts and parts of acts are repealed and all regulations and parts of regulations are abrogated insofar as they are inconsistent with this act.
+Compiler's Note: Act 5 amended, added or deleted by amendment sections 2001-A, 2002-A, 2003-A, 2004-A, 2005-A, 2006-A, 2008-A, 2009-A, 2010-A, 2011-A, 2017-A, 2019-A and 2021-A of Act 14.
+2020, JULY 23, P.L.695, NO.73
+Section 3. The addition of section 1425 of the act is a continuation of the act of May 30, 2012 (P.L.574, No.59), known as the Sudden Cardiac Arrest Prevention Act. Except as otherwise provided in section 1425, all activities initiated under the Sudden Cardiac Arrest Prevention Act shall continue and remain in full force and effect and may be completed under section 1425 of the act. Orders, regulations, rules and decisions which were made under the Sudden Cardiac Arrest Prevention Act and which are in effect on the effective date of section 2(2) of this act shall remain in full force and effect until revoked, vacated or modified under section 1425 of the act. Contracts, obligations and collective bargaining agreements entered into under the Sudden Cardiac Arrest Prevention Act are not affected nor impaired by the repeal of the Sudden Cardiac Arrest Prevention Act.
+Compiler's Note: Act 73 added section 1425 of Act 14.
+2022, NOVEMBER 3, P.L.1996, NO.139
+Section 5. The addition of 5 Pa.C.S. Ch. 37 is a continuation of Article XX-K of the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949. All activities initiated under Article XX-K of the Public School Code of 1949 shall continue and remain in full force and effect and may be completed under 5 Pa.C.S. Ch. 37. Orders, regulations, rules and decisions which were made under Article XX-K of the Public School Code of 1949 and which are in effect on the effective date of section 4(4) of this act shall remain in full force and effect until revoked, vacated or modified under 5 Pa.C.S. Ch. 37. Contracts, obligations and collective bargaining agreements entered into under Article XX-K of the Public School Code of 1949 are not affected nor impaired by the repeal of Article XX-K of the Public School Code of 1949.
+Compiler's Note: Act 139 amended, added or repealed the heading of Part II, Subparts A and B and Chapters 35 and 37 of Title 5.
+2024, JULY 17, P.L.945, NO.89
+Section 6. The addition of Article XX-M of the act is a continuation of 5 Pa.C.S. Ch. 37. All activities initiated under 5 Pa.C.S. Ch. 37 shall continue and remain in full force and effect and may be completed under Article XX-M of the act. Orders, regulations, rules and decisions which were made under 5 Pa.C.S. Ch. 37 and which are in effect on the effective date of section 5(2) of this act shall remain in full force and effect until revoked, vacated or modified under Article XX-M of the act. Contracts, obligations and collective bargaining agreements entered into under 5 Pa.C.S. Ch. 37 are not affected nor impaired by the repeal of 5 Pa.C.S. Ch. 37.
+Compiler's Note: Act 89 amended or added sections 2001-A and 2022-A, Articles XX-L and XX-M and section 2204-B.
+2025, NOVEMBER 12, P.L.244, NO.47
+Section 67. An individual to whom the Department of Education has issued an instructional intern certificate or career and technical intern certificate prior to the effective date of this section and which certificate is valid on the effective date of this section shall be deemed to hold an instructional experience-based certificate or career and technical experience-based certificate, as applicable, under the act and the regulations promulgated under 22 Pa. Code Ch. 49.
+Compiler's Note: Act 47 amended, added or repealed sections 122, 133, 511.1, 913-A, 1201, 1202.1, 1202.2, 1203.1, 1204.1, 1204.2, 1205.2, 1207.1, 1207.5, 1216.1, 1221, 1327.2, 1333, 1333.1, 1333.2, 1333.3, 1333.4, 1333.5, 1339, 1372, 1301-A, 1301-B, 1302-B, 1304-B, 1306-B, 1309-B, 1310-B, 1314.2-B, 1319-B, 1305-C, 1313-C, 1314-C, 1315-C, 1301-D, 1302-D, 1303-D, 1307-D, 1301-E, 1302-E, 1303-E, 1403-A, 1403.1-A, 1501-N, 1503-N, 1504-N, 1505-N, 1506-N, 1507-N, 1508-N, 1509-N, 1510-N, 1511-N, 1607, 1617, 1604-A, 1725.1-A, 1748-A, 1748.1-A, 1850.4, 1855, 1857 and 1858, Art. XVIII-B and sections 1913-A, 2001-A, 2022-A, 2006-B, 2006-H, 2002-I, 2003-I, 2005-I, 2006-I, 2011-L, 2031-L, 2032-L, 2033-L, 2034-L, 2035-L, 2036-L, 2052-L, 2054-L, 2062-L, 2204-B, 2329, 2502.56, 2509.8, 2510.3, 2599.6 and 2608-J.
+Section 68. The Cosmetology Training Through Career and Technical Center Program is a continuation of the Cosmetology Training Through Career and Technical Center Pilot Program. The conversion to a permanent program is a continuation of the pilot program and all activities initiated under the pilot program shall continue and remain in full force and effect. Orders, regulations, rules and decisions which were made under the pilot program and which are in effect on the effective date of this section shall remain in full force and effect until revoked, vacated or modified. Contracts, obligations and collective bargaining agreements entered into under the pilot program are not affected nor impaired by the conversion from the pilot program.
+Section 69. The Barber Training Through Career and Technical Center Program is a continuation of the Barber Training Through Career and Technical Center Pilot Program. The conversion to a permanent program is a continuation of the pilot program and all activities initiated under the pilot program shall continue and remain in full force and effect. Orders, regulations, rules and decisions which were made under the pilot program and which are in effect on the effective date of this section shall remain in full force and effect until revoked, vacated or modified. Contracts, obligations and collective bargaining agreements entered into under the pilot program are not affected nor impaired by the conversion from the pilot program.
+Section 70. The following apply to regulations:
+(1) Any regulation inconsistent with the addition of section 1221 of the act is abrogated to the extent of any inconsistency with the addition of section 1221 of the act.
+(2) The regulations at 22 Pa. Code Ch. 49 are abrogated to the extent of any inconsistency with this act.
+(3) The regulations at 22 Pa. Code § 49.85(c) and (d) are abrogated insofar as they are inconsistent with this act.
+Section 71. The following shall apply retroactively to July 1, 2025:
+(1) The addition of section 1207.5 of the act.
+(2) The amendment of section 1857 heading, (a), (d) introductory paragraph and (e) of the act.
+(3) The amendment of section 1858 heading, (a), (d) introductory paragraph and (e) of the act.
