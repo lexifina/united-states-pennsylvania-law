@@ -1,0 +1,4 @@
+# PUBLIC ROADS - CHANGING OR VACATING - POWERS OF COURT
+Act of May 8, 1850, P.L. 713, No. 416
+AN ACT
+Authorizing the First German Reformed congregation of Lancaster to sell certain real estate; relative to the common schools in the city of Lancaster; to a certain tavern license in Lancaster county; to Girard avenue, in the district of Penn; to authorize the school directors of North-west ward, Reading, to borrow money; relative to the sale of the real estate of George Flowers, of Philadelphia, deceased; to powers of courts of quarter sessions; to justices of the peace and their sureties; to opening and grading streets, &c., in the borough of Pottsville; to the sureties of Jacob Sallada, late surveyor general; and to Marsh and Penn streets, in the district of Kensington; and relative to actions of ejectment.
