@@ -1,0 +1,5 @@
+# AUTHORIZING SECOND CLASS A CITIES TO SELL REALTY FOR TAXES
+Act of Jun. 28, 1967, P.L. 122, No. 32
+AN ACT
+Authorizing and empowering city treasurers of cities of the second class A to sell at public sale, lands or real estate upon which the taxes, assessed and levied by the city, are delinquent and unpaid; fixing the interests of all taxing authorities where such lands are purchased by the city; providing for the distribution of moneys received as income from or resale of such lands; and providing for a method of reselling such lands purchased, by the city, or by the city at any sale for the nonpayment of taxes, free and clear of all mortgages, ground rents, interest in or claims against said lands; authorizing an agreement between cities of the second class A purchasing property at treasurer's sales and all other taxing authorities having an interest in such lands with respect to the distribution of rents, income and the proceeds of the resale of such lands.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
