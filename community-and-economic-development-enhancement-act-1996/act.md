@@ -1,0 +1,4 @@
+# COMMUNITY AND ECONOMIC DEVELOPMENT ENHANCEMENT ACT
+Act of Jun. 27, 1996, P.L. 403, No. 58
+AN ACT
+To enhance community and economic development in this Commonwealth by restructuring certain administrative functions and entities; changing the name of the Department of Commerce to the Department of Community and Economic Development; transferring functions of the Department of Community Affairs into the Department of Community and Economic Development and other agencies; providing for a Deputy Secretary for Community Affairs and Development in the Department of Community and Economic Development; establishing the Center for Local Government Services and the Local Government Advisory Committee; establishing the Small Business Advocacy Council; conferring powers and duties on the Legislative Reference Bureau; and making repeals.
