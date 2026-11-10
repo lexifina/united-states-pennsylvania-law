@@ -1,0 +1,4 @@
+# TAX LIEN, FILING OF
+Act of Apr. 28, 1899, P.L. 120, No. 98
+AN ACT
+Authorizing the prothonotaries of the several counties of this Commonwealth, in which certain taxes are by law directed to be filed as liens against real estate in the offices of such prothonotaries, to enter such liens as may appear to be unsatisfied upon convenient dockets, in which the liens aforesaid shall be separately set out for each ward, borough and township, and making such docket entries notice and evidence when completed, and further authorizing such prothonotaries hereafter to enter such tax liens alphabetically, in separate dockets, against the several persons, firms and corporations against whom the same may be levied or assessed, and making such entry notice to all persons, and providing that such liens when so entered shall not hereafter be entered upon the general judgment index.
