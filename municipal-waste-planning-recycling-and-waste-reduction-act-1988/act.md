@@ -1,0 +1,4 @@
+# MUNICIPAL WASTE PLANNING, RECYCLING AND WASTE REDUCTION ACT
+Act of Jul. 28, 1988, P.L. 556, No. 101
+AN ACT
+Providing for planning for the processing and disposal of municipal waste; requiring counties to submit plans for municipal waste management systems within their boundaries; authorizing grants to counties and municipalities for planning, resource recovery and recycling; imposing and collecting fees; establishing certain rights for host municipalities; requiring municipalities to implement recycling programs; requiring Commonwealth agencies to procure recycled materials; imposing duties; granting powers to counties and municipalities; authorizing the Environmental Quality Board to adopt regulations; authorizing the Department of Environmental Resources to implement this act; providing remedies; prescribing penalties; establishing a fund; and making repeals.
