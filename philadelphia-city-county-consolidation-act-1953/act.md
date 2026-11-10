@@ -1,0 +1,5 @@
+# PHILADELPHIA CITY - COUNTY CONSOLIDATION ACT
+Act of Aug. 26, 1953, P.L. 1476, No. 433
+AN ACT
+To carry out the intent and purpose of Article XV, Section 1 and Article XIV, Section 8 of the Constitution of Pennsylvania, and to supplement the First Class City Home Rule Act, approved April twenty-one, one thousand nine hundred forty- nine (Pamphlet Laws 665), by vesting in the Council of the City of Philadelphia full powers to legislate with respect to the election, appointment, compensation, organization, abolition, merger, consolidation, powers, functions and duties of certain officers, offices, boards and commissions of the City of Philadelphia; providing that such officers may be made appointive or abolished; altering the term of the District Attorney of Philadelphia; and establishing the status of the Sheriff, City Commissioners, Board of Revision of Taxes and Registration Commission, the members of such board and commission, and the subordinates and employes of such officers, board and commission.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
