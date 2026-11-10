@@ -1,0 +1,6 @@
+# MUNICIPALITIES FINANCIAL RECOVERY ACT
+Act of Jul. 10, 1987, P.L. 246, No. 47
+AN ACT
+Empowering the Department of Community and Economic Development to assist municipalities in avoiding financial distress; declare certain municipalities as financially distressed; providing for the restructuring of debt of financially distressed municipalities; limiting the ability of financially distressed municipalities to obtain government funding; authorizing municipalities to participate in Federal debt adjustment actions and bankruptcy actions under certain circumstances; authorizing certain taxes; and providing for the disincorporation of municipalities and the establishment of unincorporated service districts. (Title amended Oct. 31, 2014, P.L.2983, No.199)
+Compiler's Note: Section 301(a)(9) of Act 58 of 1996, which created the Department of Community and Economic Development and abolished the Department of Community Affairs, provided that housing, community assistance and other functions under Act 47 are transferred from the Department of Community Affairs to the Department of Community and Economic Development.
+Compiler's Note: Section 708(a) of Act 6 of 1991 provided that Act 47 is suspended as to cities of the first class until the termination of the Pennsylvania Intergovernmental Cooperation Authority established by Act 6.
