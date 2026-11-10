@@ -1,0 +1,5 @@
+# CAPITAL BUDGET PROJECT ITEMIZATION ACT OF 2021-2022 - ENACTMENT
+Act of Jun. 27, 2022, P.L. 142, No. 27
+An Act
+Providing for the capital budget for fiscal year 2021-2022; itemizing public improvement projects, furniture and equipment projects, transportation assistance, redevelopment assistance projects, flood control projects and Pennsylvania Fish and Boat Commission projects leased or assisted by the Department of General Services and other State agencies, together with their estimated financial costs; authorizing the incurring of debt without the approval of the electors for the purpose of financing the projects to be constructed, acquired or assisted by the Department of General Services and other State agencies; authorizing the use of current revenue for the purpose of financing the projects to be constructed, acquired or assisted by the Department of General Services and other State agencies stating the estimated useful life of the projects; and making appropriations.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
