@@ -1,0 +1,4 @@
+# SUNDAY MOTION PICTURES ACT
+Act of Jul. 2, 1935, P.L. 599, No. 211
+AN ACT
+Relating to motion picture exhibitions and sound motion picture exhibitions, together with orchestral or other instrumental musical or mechanical musical accompaniment, prelude, playing, or selection in connection with or incidental thereto on Sunday; prohibiting motion picture exhibitions and sound motion picture exhibitions, and orchestral or other instrumental musical or mechanical musical accompaniment, prelude, playing, or selection incidental thereto on Sunday during certain hours, and also during other hours, unless the electors of a municipality approve thereof; regulating the employment of persons in conducting such exhibitions on Sunday; providing for referendums to ascertain the will of the electors; and providing penalties; and repealing inconsistent laws.
