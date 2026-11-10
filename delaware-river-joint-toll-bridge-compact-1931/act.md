@@ -1,0 +1,4 @@
+# DELAWARE RIVER JOINT TOLL BRIDGE COMPACT
+Act of Jun. 25, 1931, P.L. 1352, No. 332
+AN ACT
+Providing for joint action by the Commonwealth of Pennsylvania and the State of New Jersey in the administration, operation, and maintenance of bridges over the Delaware River, and for the construction of additional bridge facilities across said river; authorizing the Governor, for these purposes, to enter into an agreement with the State of New Jersey; creating a Delaware River Joint Toll Bridge Commission and specifying the powers and duties thereof, including the power to finance the construction of additional bridges by the issuance of revenue bonds to be redeemed from revenues derived from tolls collected at such bridges; transferring to said commission all powers now exercised by existing commission created to acquire toll bridges over the Delaware River; and making an appropriation.
