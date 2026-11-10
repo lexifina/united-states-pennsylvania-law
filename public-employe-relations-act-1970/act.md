@@ -1,0 +1,6 @@
+# PUBLIC EMPLOYE RELATIONS ACT
+Act of Jul. 23, 1970, P.L. 563, No. 195
+AN ACT
+Establishing rights in public employes to organize and bargain collectively through selected representatives; defining public employes to include employes of nonprofit organizations and institutions; providing compulsory mediation and fact-finding, for collective bargaining impasses; providing arbitration for certain public employes for collective bargaining impasses; defining the scope of collective bargaining; establishing unfair employe and employer practices; prohibiting strikes for certain public employes; permitting strikes under limited conditions; providing penalties for violations; and establishing procedures for implementation.
+Compiler's Note: Section 6 of Act 88 of 1992, which added Article XI-A of the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code, provided that Act 195 is to be read in pari materia with the addition of Article XI-A, but is repealed insofar as it is inconsistent with the addition of Article XI-A.
+Compiler's Note: Section 2(d) of Act 31 of 1974 provided that Act 195 is repealed insofar as it is inconsistent with the provisions of 71 Pa.C.S. § 5955 (relating to construction of part).
