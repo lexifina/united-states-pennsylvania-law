@@ -1,0 +1,4 @@
+# LINSEED OIL LAW
+Act of Apr. 29, 1913, P.L. 123, No. 82
+AN ACT
+Regulating the storage and sale of linseed oil, and compounds and imitations thereof; fixing standards for raw and boiled linseed oil; providing penalties for violations thereof; providing for the enforcement of this act, and expenses thereof; providing for examination of samples of linseed oil; and repealing an act approved the twenty-third day of April, one thousand nine hundred and one, entitled "An act to prevent the adulteration of, and deception in the sale of, linseed or flaxseed oil," and the act approved the twenty-second day of April, one thousand nine hundred and five, entitled "An act supplemental to an act, entitled 'An act to prevent the adulteration of, and deception in the sale of linseed or flaxseed oil,' approved the twenty-third day of April, Anno Domini one thousand nine hundred and one."
