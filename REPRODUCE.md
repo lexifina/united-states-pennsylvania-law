@@ -84,6 +84,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `1977-floods-grants-for-personal-property-damage-1978` | 1977 FLOODS - GRANTS FOR PERSONAL PROPERTY DAMAGE (Act of Apr. 28, 1978, P.L. 122, No. 51) | 1 | 2026-11-10 to 2026-11-10 |
 | `2nd-class-counties-clerks-permitted-to-administer-oaths-1921` | 2ND CLASS COUNTIES, CLERKS PERMITTED TO ADMINISTER OATHS (Act of 1921, P.L. 382, No. 181) | 1 | 2026-11-10 to 2026-11-10 |
 | `abandoned-and-blighted-property-conservatorship-act-2008` | ABANDONED AND BLIGHTED PROPERTY CONSERVATORSHIP ACT (Act of Nov. 26, 2008, P.L. 1672, No. 135) | 1 | 2026-11-10 to 2026-11-10 |
+| `abandoned-property-bank-deposits-1872` | ABANDONED PROPERTY (BANK DEPOSITS) (Act of Apr. 17, 1872, P.L. 62, No. 49) | 1 | 2026-11-10 to 2026-11-10 |
 | `abatement-of-nuisances-1939` | ABATEMENT OF NUISANCES (Act of Jun. 19, 1939, P.L. 433, No. 243) | 1 | 2026-11-10 to 2026-11-10 |
 | `abatement-of-nuisances-unsafe-premises-in-first-class-cities-1961` | ABATEMENT OF NUISANCES - UNSAFE PREMISES IN FIRST CLASS CITIES (Act of Jun. 15, 1961, P.L. 445, No. 220) | 1 | 2026-11-10 to 2026-11-10 |
 | `abating-tax-penalties-1935` | ABATING TAX PENALTIES (Act of May 1, 1935, P.L. 129, No. 52) | 1 | 2026-11-10 to 2026-11-10 |
@@ -100,10 +101,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `accepting-the-provisions-of-a-federal-act-1925` | ACCEPTING THE PROVISIONS OF A FEDERAL ACT (Act of Apr. 27, 1925, P.L. 341, No. 197) | 1 | 2026-11-10 to 2026-11-10 |
 | `access-to-congregate-care-facilities-act-2021` | ACCESS TO CONGREGATE CARE FACILITIES ACT (Act of Jul. 1, 2021, P.L. 355, No. 67) | 1 | 2026-11-10 to 2026-11-10 |
 | `accident-and-health-filing-reform-act-1996` | ACCIDENT AND HEALTH FILING REFORM ACT (Act of Dec. 18, 1996, P.L. 1066, No. 159) | 1 | 2026-11-10 to 2026-11-10 |
+| `accounts-assignees-to-settle-1818` | ACCOUNTS ASSIGNEES TO SETTLE (Act of Mar. 24, 1818, P.L. 285, No. 154) | 1 | 2026-11-10 to 2026-11-10 |
+| `accounts-of-county-treasurer-mode-of-settling-1832` | ACCOUNTS OF COUNTY TREASURER MODE OF SETTLING (Act of May 3, 1832, P.L. 417, No. 167) | 1 | 2026-11-10 to 2026-11-10 |
 | `achieving-better-care-by-monitoring-all-prescriptions-program-abc-map-2014` | ACHIEVING BETTER CARE BY MONITORING ALL PRESCRIPTIONS PROGRAM (ABC-MAP) ACT (Act of Oct. 27, 2014, P.L. 2911, No. 191) | 1 | 2026-11-10 to 2026-11-10 |
 | `acids-sale-of-regulated-1923` | ACIDS, SALE OF REGULATED (Act of May 7, 1923, P.L. 139, No. 105) | 1 | 2026-11-10 to 2026-11-10 |
+| `acknowledgment-of-deeds-and-other-instruments-in-the-district-of-1870` | ACKNOWLEDGMENT OF DEEDS AND OTHER INSTRUMENTS IN THE DISTRICT OF COLUMBIA (Act of Feb. 23, (1807) 1870, P.L. 32, No. 10) | 1 | 2026-11-10 to 2026-11-10 |
 | `acknowledgments-correction-of-1878` | ACKNOWLEDGMENTS, CORRECTION OF (Act of May 25, 1878, P.L. 149, No. 189) | 1 | 2026-11-10 to 2026-11-10 |
 | `acknowledgments-of-deeds-regulated-1901` | ACKNOWLEDGMENTS OF DEEDS, REGULATED (Act of May 11, 1901, P.L. 171, No. 137) | 1 | 2026-11-10 to 2026-11-10 |
+| `acknowledgments-taken-in-territories-of-u-s-1866` | ACKNOWLEDGMENTS TAKEN IN TERRITORIES OF U.S. (Act of Apr. 12, 1866, P.L. 864, No. 853) | 1 | 2026-11-10 to 2026-11-10 |
 | `acquiring-land-for-a-state-park-1941` | ACQUIRING LAND FOR A STATE PARK (Act of Aug. 1, 1941, P.L. 609, No. 257) | 1 | 2026-11-10 to 2026-11-10 |
 | `action-in-assumpsit-permitted-against-joint-owner-1891` | ACTION IN ASSUMPSIT, PERMITTED AGAINST JOINT OWNER (Act of May 6, 1891, P.L. 41, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
 | `action-on-public-work-contracts-1931` | ACTION ON PUBLIC WORK CONTRACTS (Act of Jun. 23, 1931, P.L. 1181, No. 321) | 1 | 2026-11-10 to 2026-11-10 |
@@ -122,8 +127,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `advertising-bids-for-supplies-at-certain-state-hospital-1909` | ADVERTISING BIDS FOR SUPPLIES AT CERTAIN STATE HOSPITAL (Act of May 13, 1909, P.L. 814, No. 629) | 1 | 2026-11-10 to 2026-11-10 |
 | `advertising-by-commonwealth-regulated-1874` | ADVERTISING BY COMMONWEALTH, REGULATED (Act of May 6, 1874, P.L. 124, No. 58) | 1 | 2026-11-10 to 2026-11-10 |
 | `affordable-housing-unit-tax-exemption-act-2022` | AFFORDABLE HOUSING UNIT TAX EXEMPTION ACT (Act of Jul. 11, 2022, P.L. 703, No. 58) | 1 | 2026-11-10 to 2026-11-10 |
+| `agents-to-negotiate-loans-for-the-commonwealth-1834` | AGENTS TO NEGOTIATE LOANS FOR THE COMMONWEALTH (Act of Apr. 10, 1834, P.L. 271, No. 139) | 1 | 2026-11-10 to 2026-11-10 |
 | `agricultural-area-security-law-1981` | AGRICULTURAL AREA SECURITY LAW (Act of Jun. 30, 1981, P.L. 128, No. 43) | 1 | 2026-11-10 to 2026-11-10 |
 | `agricultural-by-product-management-technology-act-1994` | AGRICULTURAL BY-PRODUCT MANAGEMENT TECHNOLOGY ACT (Act of Dec. 12, 1994, P.L. 888, No. 128) | 1 | 2026-11-10 to 2026-11-10 |
+| `agricultural-college-of-pennsylvania-1867` | AGRICULTURAL COLLEGE OF PENNSYLVANIA (Act of Feb. 19, 1867, P.L. 28, No. 9) | 1 | 2026-11-10 to 2026-11-10 |
+| `agricultural-colleges-lands-granted-by-u-s-for-1863` | AGRICULTURAL COLLEGES - LANDS GRANTED BY U.S. FOR (Act of Apr. 1, 1863, P.L. 213, No. 227) | 1 | 2026-11-10 to 2026-11-10 |
 | `agricultural-development-act-1984` | AGRICULTURAL DEVELOPMENT ACT (Act of Jul. 2, 1984, P.L. 537, No. 108) | 1 | 2026-11-10 to 2026-11-10 |
 | `agricultural-exhibitions-law-1917` | AGRICULTURAL EXHIBITIONS LAW (Act of Jul. 25, 1917, P.L. 1195, No. 412) | 1 | 2026-11-10 to 2026-11-10 |
 | `agricultural-land-acquisition-by-aliens-law-1980` | AGRICULTURAL LAND ACQUISITION BY ALIENS LAW (Act of Apr. 6, 1980, P.L. 102, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
@@ -140,8 +148,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `akeley-bridge-designation-1988` | AKELEY BRIDGE - DESIGNATION (Act of Dec. 5, 1988, P.L. 1104, No. 132) | 1 | 2026-11-10 to 2026-11-10 |
 | `alien-insurer-domestication-law-1974` | ALIEN INSURER DOMESTICATION LAW (Act of Dec. 10, 1974, P.L. 804, No. 266) | 1 | 2026-11-10 to 2026-11-10 |
 | `alien-s-employers-required-to-deduct-taxes-from-wages-1897` | ALIEN'S EMPLOYERS REQUIRED TO DEDUCT TAXES FROM WAGES (Act of Jun. 7, 1897, P.L. 135, No. 108) | 1 | 2026-11-10 to 2026-11-10 |
+| `aliens-purchase-of-land-defects-in-titles-1814` | ALIENS PURCHASE OF LAND DEFECTS IN TITLES (Act of Mar. 22, 1814, P.L. 180, No. 103) | 1 | 2026-11-10 to 2026-11-10 |
+| `aliens-to-purchase-and-hold-real-estate-1818` | ALIENS TO PURCHASE AND HOLD REAL ESTATE (Act of Mar. 24, 1818, P.L. 297, No. 157) | 1 | 2026-11-10 to 2026-11-10 |
+| `aliens-to-purchase-and-hold-real-estate-supplement-1837` | ALIENS TO PURCHASE AND HOLD REAL ESTATE - SUPPLEMENT (Act of Mar. 31, 1837, P.L. 121, No. 59) | 1 | 2026-11-10 to 2026-11-10 |
+| `aliens-to-purchase-and-hold-real-estate-supplement-1844` | ALIENS TO PURCHASE AND HOLD REAL ESTATE - SUPPLEMENT (Act of Apr. 16, 1844, P.L. 274, No. 192) | 1 | 2026-11-10 to 2026-11-10 |
 | `allegheny-county-juvenile-court-powers-transferred-to-1953` | ALLEGHENY COUNTY JUVENILE COURT POWERS TRANSFERRED TO (Act of Aug. 19, 1953, P.L. 1164, No. 321) | 1 | 2026-11-10 to 2026-11-10 |
 | `allegheny-county-memorial-hall-relating-to-1905` | ALLEGHENY COUNTY MEMORIAL HALL - RELATING TO (Act of Apr. 12, 1905, P.L. 140, No. 106) | 1 | 2026-11-10 to 2026-11-10 |
+| `allegheny-wharf-and-land-company-incorporated-1854` | ALLEGHENY WHARF AND LAND COMPANY INCORPORATED (Act of Mar. 31, 1854, P.L. 753, No. 698) | 1 | 2026-11-10 to 2026-11-10 |
 | `alleviate-the-housing-shortage-1947` | ALLEVIATE THE HOUSING SHORTAGE (Act of Jun. 10, 1947, P.L. 486, No. 216) | 1 | 2026-11-10 to 2026-11-10 |
 | `allow-first-class-cities-to-impose-additional-school-taxes-1963` | ALLOW FIRST CLASS CITIES TO IMPOSE ADDITIONAL SCHOOL TAXES (Act of Aug. 9, 1963, P.L. 640, No. 338) | 1 | 2026-11-10 to 2026-11-10 |
 | `allow-municipalities-to-accumulate-money-over-one-year-1951` | ALLOW MUNICIPALITIES TO ACCUMULATE MONEY OVER ONE YEAR (Act of Aug. 17, 1951, P.L. 1276, No. 304) | 1 | 2026-11-10 to 2026-11-10 |
@@ -163,6 +176,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `allowing-some-insurance-companies-to-merge-or-re-incorporate-1951` | ALLOWING SOME INSURANCE COMPANIES TO MERGE OR RE-INCORPORATE (Act of Jun. 28, 1951, P.L. 941, No. 184) | 1 | 2026-11-10 to 2026-11-10 |
 | `allowing-the-department-of-forests-and-waters-to-accept-land-1949` | ALLOWING THE DEPARTMENT OF FORESTS AND WATERS TO ACCEPT LAND (Act of May 20, 1949, P.L. 1508, No. 454) | 1 | 2026-11-10 to 2026-11-10 |
 | `allowing-the-governor-to-regulate-the-flying-of-the-u-s-flag-1970` | ALLOWING THE GOVERNOR TO REGULATE THE FLYING OF THE U. S. FLAG (Act of Mar. 4, 1970, P.L. 128, No. 49) | 1 | 2026-11-10 to 2026-11-10 |
+| `allowing-the-u-s-to-acquire-land-1874` | ALLOWING THE U.S. TO ACQUIRE LAND (Act of May 14, 1874, P.L. 145, No. 80) | 1 | 2026-11-10 to 2026-11-10 |
 | `allowing-the-u-s-to-acquire-land-1887` | ALLOWING THE U.S. TO ACQUIRE LAND (Act of May 18, 1887, P.L. 121, No. 61) | 1 | 2026-11-10 to 2026-11-10 |
 | `allowing-the-u-s-to-acquire-land-1895` | ALLOWING THE U.S. TO ACQUIRE LAND (Act of Jun. 26, 1895, P.L. 394, No. 281) | 1 | 2026-11-10 to 2026-11-10 |
 | `allowing-the-united-states-to-acquire-land-1899` | ALLOWING THE UNITED STATES TO ACQUIRE LAND (Act of Apr. 11, 1899, P.L. 43, No. 43) | 1 | 2026-11-10 to 2026-11-10 |
@@ -222,8 +236,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `appointment-promotion-etc-of-deputy-sheriffs-in-second-class-counties-1974` | APPOINTMENT, PROMOTION, ETC. OF DEPUTY SHERIFFS IN SECOND CLASS COUNTIES (Act of May 31, 1974, P.L. 296, No. 94) | 1 | 2026-11-10 to 2026-11-10 |
 | `appraisal-management-company-registration-act-2012` | APPRAISAL MANAGEMENT COMPANY REGISTRATION ACT (Act of Feb. 2, 2012, P.L. 30, No. 4) | 1 | 2026-11-10 to 2026-11-10 |
 | `apprenticeship-and-training-act-the-1961` | APPRENTICESHIP AND TRAINING ACT, THE (Act of Jul. 14, 1961, P.L. 604, No. 304) | 1 | 2026-11-10 to 2026-11-10 |
+| `appropriating-ground-in-city-of-philadelphia-the-purchase-of-1870` | APPROPRIATING GROUND IN CITY OF PHILADELPHIA THE PURCHASE OF (Act of Jan. 27, 1870, P.L. 93, No. 70) | 1 | 2026-11-10 to 2026-11-10 |
+| `appropriating-grounds-for-public-purposes-1867` | APPROPRIATING GROUNDS FOR PUBLIC PURPOSES (Act of Mar. 26, 1867, P.L. 547, No. 525) | 1 | 2026-11-10 to 2026-11-10 |
 | `appropriating-money-to-the-department-of-health-1921` | APPROPRIATING MONEY TO THE DEPARTMENT OF HEALTH (Act of Mar. 30, 1921, P.L. 66, No. 36) | 1 | 2026-11-10 to 2026-11-10 |
 | `appropriating-money-to-the-highway-department-1917` | APPROPRIATING MONEY TO THE HIGHWAY DEPARTMENT (Act of Feb. 26, 1917, P.L. 3, No. 1) | 1 | 2026-11-10 to 2026-11-10 |
+| `appropriating-of-ground-for-public-use-1871` | APPROPRIATING OF GROUND FOR PUBLIC USE (Act of Mar. 15, 1871, P.L. 363, No. 338) | 1 | 2026-11-10 to 2026-11-10 |
 | `appropriations-manner-of-payment-fixed-1899` | APPROPRIATIONS, MANNER OF PAYMENT FIXED (Act of Mar. 15, 1899, P.L. 8, No. 4) | 1 | 2026-11-10 to 2026-11-10 |
 | `appropriations-to-hospitals-or-homes-prior-to-merger-1931` | APPROPRIATIONS TO HOSPITALS OR HOMES PRIOR TO MERGER (Act of Apr. 11, 1931, P.L. 29, No. 26) | 1 | 2026-11-10 to 2026-11-10 |
 | `appropriations-to-unincorporated-associations-prohibited-1911` | APPROPRIATIONS TO UNINCORPORATED ASSOCIATIONS PROHIBITED (Act of Jun. 23, 1911, P.L. 1119, No. 843) | 1 | 2026-11-10 to 2026-11-10 |
@@ -240,17 +257,25 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `assessment-of-real-estate-for-taxation-relating-to-1915` | ASSESSMENT OF REAL ESTATE FOR TAXATION, RELATING TO (Act of Jun. 3, 1915, P.L. 787, No. 346) | 1 | 2026-11-10 to 2026-11-10 |
 | `assessors-and-assistants-compensation-fixed-1919` | ASSESSORS AND ASSISTANTS COMPENSATION FIXED (Act of Apr. 4, 1919, P.L. 35, No. 22) | 1 | 2026-11-10 to 2026-11-10 |
 | `assessors-certification-act-1992` | ASSESSORS CERTIFICATION ACT (Act of Apr. 16, 1992, P.L. 155, No. 28) | 1 | 2026-11-10 to 2026-11-10 |
+| `assignment-for-benefit-of-creditors-debt-to-state-1850` | ASSIGNMENT FOR BENEFIT OF CREDITORS - DEBT TO STATE (Act of May 6, 1850, P.L. 698, No. 402) | 1 | 2026-11-10 to 2026-11-10 |
 | `assignment-of-encumberances-upon-tender-of-amount-due-1927` | ASSIGNMENT OF ENCUMBERANCES UPON TENDER OF AMOUNT DUE (Act of May 4, 1927, P.L. 710, No. 361) | 1 | 2026-11-10 to 2026-11-10 |
+| `assignment-of-property-in-trust-preferences-1849` | ASSIGNMENT OF PROPERTY IN TRUST - PREFERENCES (Act of Apr. 16, 1849, P.L. 663, No. 412) | 1 | 2026-11-10 to 2026-11-10 |
+| `assignments-prevent-preferences-of-1843` | ASSIGNMENTS - PREVENT PREFERENCES OF (Act of Apr. 17, 1843, P.L. 273, No. 131) | 1 | 2026-11-10 to 2026-11-10 |
 | `assistance-and-service-animal-integrity-act-2018` | ASSISTANCE AND SERVICE ANIMAL INTEGRITY ACT (Act of Oct. 24, 2018, P.L. 733, No. 118) | 1 | 2026-11-10 to 2026-11-10 |
 | `assistant-district-attorneys-number-and-salaries-fixed-1919` | ASSISTANT DISTRICT ATTORNEYS, NUMBER AND SALARIES FIXED (Act of Jun. 3, 1919, P.L. 370, No. 181) | 1 | 2026-11-10 to 2026-11-10 |
 | `at-risk-elderly-wireless-emergency-telephone-program-act-2006` | AT-RISK ELDERLY WIRELESS EMERGENCY TELEPHONE PROGRAM ACT (Act of Jul. 7, 2006, P.L. 356, No. 76) | 1 | 2026-11-10 to 2026-11-10 |
 | `attendant-care-services-act-1986` | ATTENDANT CARE SERVICES ACT (Act of Dec. 10, 1986, P.L. 1477, No. 150) | 1 | 2026-11-10 to 2026-11-10 |
+| `attorney-general-enjoining-duties-upon-1819` | ATTORNEY GENERAL ENJOINING DUTIES UPON (Act of Mar. 29, 1819, P.L. 266, No. 159) | 1 | 2026-11-10 to 2026-11-10 |
 | `auctioneer-and-auction-licensing-act-auctioneer-and-apprentice-1983` | AUCTIONEER AND AUCTION LICENSING ACT - AUCTIONEER AND APPRENTICE LICENSES (Act of Dec. 22, 1983, P.L. 327, No. 85) | 1 | 2026-11-10 to 2026-11-10 |
+| `auditor-general-authorize-to-print-reports-1870` | AUDITOR GENERAL AUTHORIZE TO PRINT REPORTS (Act of Apr. 9, 1870, P.L. 62, No. 41) | 1 | 2026-11-10 to 2026-11-10 |
 | `auditor-general-forms-and-vouchers-1897` | AUDITOR GENERAL, FORMS AND VOUCHERS (Act of Jul. 15, 1897, P.L. 291, No. 226) | 1 | 2026-11-10 to 2026-11-10 |
 | `auditor-general-list-of-institutions-claiming-state-aid-1897` | AUDITOR GENERAL, LIST OF INSTITUTIONS CLAIMING STATE AID (Act of Jul. 26, 1897, P.L. 421, No. 382) | 1 | 2026-11-10 to 2026-11-10 |
 | `auditor-general-s-department-staff-1913` | AUDITOR GENERAL'S DEPARTMENT STAFF (Act of Apr. 9, 1913, P.L. 46, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
 | `auditor-general-s-duties-delegation-to-chief-clerk-1909` | AUDITOR GENERAL'S DUTIES, DELEGATION TO CHIEF CLERK (Act of Apr. 23, 1909, P.L. 155, No. 108) | 1 | 2026-11-10 to 2026-11-10 |
+| `auditor-general-surveyor-general-and-county-surveyors-election-1850` | AUDITOR GENERAL, SURVEYOR GENERAL, AND COUNTY SURVEYORS ELECTION (Act of Apr. 9, 1850, P.L. 434, No. 305) | 1 | 2026-11-10 to 2026-11-10 |
+| `auditor-general-to-issue-suit-for-collection-of-due-balances-1838` | AUDITOR GENERAL TO ISSUE SUIT FOR COLLECTION OF DUE BALANCES (Act of Apr. 14, 1838, P.L. 395, No. 68) | 1 | 2026-11-10 to 2026-11-10 |
 | `auditors-compensation-and-mileage-in-counties-of-the-sixth-seventh-and-1955` | AUDITORS - COMPENSATION AND MILEAGE IN COUNTIES OF THE SIXTH, SEVENTH AND (EIGHTH CLASSES) | 1 | 2026-11-10 to 2026-11-10 |
+| `authentication-of-letters-of-attorney-and-other-offices-1859` | AUTHENTICATION OF LETTERS OF ATTORNEY AND OTHER OFFICES (Act of Apr. 2, 1859, P.L. 352, No. 355) | 1 | 2026-11-10 to 2026-11-10 |
 | `authority-over-and-use-of-toll-bridges-by-municipalities-1909` | AUTHORITY OVER AND USE OF TOLL BRIDGES BY MUNICIPALITIES (Act of Mar. 24, 1909, P.L. 67, No. 40) | 1 | 2026-11-10 to 2026-11-10 |
 | `authority-over-and-use-of-toll-bridges-by-municipalities-1909-act-41` | AUTHORITY OVER AND USE OF TOLL BRIDGES BY MUNICIPALITIES (Act of Mar. 24, 1909, P.L. 69, No. 41) | 1 | 2026-11-10 to 2026-11-10 |
 | `authorize-municipalities-to-execute-special-warranty-deeds-1941` | AUTHORIZE MUNICIPALITIES TO EXECUTE SPECIAL WARRANTY DEEDS (Act of 1941, P.L. 541, No. 221) | 1 | 2026-11-10 to 2026-11-10 |
@@ -334,6 +359,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `automobile-protection-associations-1931` | AUTOMOBILE PROTECTION ASSOCIATIONS (Act of Jun. 12, 1931, P.L. 574, No. 199) | 1 | 2026-11-10 to 2026-11-10 |
 | `autopsies-in-sixth-class-counties-1931` | AUTOPSIES IN SIXTH CLASS COUNTIES (Act of Jun. 25, 1931, P.L. 1360, No. 333) | 1 | 2026-11-10 to 2026-11-10 |
 | `auxiliary-forest-reserves-fixed-charge-on-1913` | AUXILIARY FOREST RESERVES, FIXED CHARGE ON (Act of Jun. 5, 1913, P.L. 408, No. 270) | 1 | 2026-11-10 to 2026-11-10 |
+| `badge-of-fire-department-worn-by-unauthorized-persons-1868` | BADGE OF FIRE DEPARTMENT WORN BY UNAUTHORIZED PERSONS (Act of Apr. 11, 1868, P.L. 862, No. 803) | 1 | 2026-11-10 to 2026-11-10 |
 | `ballrooms-and-public-dance-halls-licensed-and-regulated-1919` | BALLROOMS AND PUBLIC DANCE HALLS, LICENSED AND REGULATED (Act of May 16, 1919, P.L. 193, No. 120) | 1 | 2026-11-10 to 2026-11-10 |
 | `ballrooms-and-public-dance-halls-regulated-in-townships-1927` | BALLROOMS AND PUBLIC DANCE HALLS, REGULATED IN TOWNSHIPS (Act of May 11, 1927, P.L. 968, No. 461) | 1 | 2026-11-10 to 2026-11-10 |
 | `banking-code-of-1965-1965` | BANKING CODE OF 1965 (Act of Nov. 30, 1965, P.L. 847, No. 356) | 1 | 2026-11-10 to 2026-11-10 |
@@ -350,7 +376,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ben-franklin-technology-development-authority-act-the-2001` | BEN FRANKLIN TECHNOLOGY DEVELOPMENT AUTHORITY ACT, THE (Act of Jun. 22, 2001, P.L. 569, No. 38) | 1 | 2026-11-10 to 2026-11-10 |
 | `beneficial-societies-regulation-1937` | BENEFICIAL SOCIETIES, REGULATION (Act of Jun. 4, 1937, P.L. 1643, No. 342) | 1 | 2026-11-10 to 2026-11-10 |
 | `benevolent-gesture-medical-professional-liability-act-2013` | BENEVOLENT GESTURE MEDICAL PROFESSIONAL LIABILITY ACT (Act of Oct. 25, 2013, P.L. 665, No. 79) | 1 | 2026-11-10 to 2026-11-10 |
+| `betterment-act-occupying-claimants-act-1842` | BETTERMENT ACT - OCCUPYING CLAIMANTS ACT (Act of Apr. 12, 1842, P.L. 262, No. 91) | 1 | 2026-11-10 to 2026-11-10 |
 | `biennial-reports-required-by-departments-of-state-government-1919` | BIENNIAL REPORTS REQUIRED BY DEPARTMENTS OF STATE GOVERNMENT (Act of Apr. 18, 1919, P.L. 89, No. 68) | 1 | 2026-11-10 to 2026-11-10 |
+| `bills-of-exchange-1821` | BILLS OF EXCHANGE (Act of Mar. 30, 1821, P.L. 156, No. 94) | 1 | 2026-11-10 to 2026-11-10 |
+| `bills-of-exchange-protested-recovery-of-damages-1850` | BILLS OF EXCHANGE - PROTESTED - RECOVERY OF DAMAGES (Act of May 13, 1850, P.L. 746, No. 430) | 1 | 2026-11-10 to 2026-11-10 |
 | `bingo-law-1981` | BINGO LAW (Act of Jul. 10, 1981, P.L. 214, No. 67) | 1 | 2026-11-10 to 2026-11-10 |
 | `biofuel-development-and-in-state-production-incentive-act-2008` | BIOFUEL DEVELOPMENT AND IN-STATE PRODUCTION INCENTIVE ACT (Act of Jul. 10, 2008, P.L. 1009, No. 78) | 1 | 2026-11-10 to 2026-11-10 |
 | `bird-day-designation-and-observance-1968` | "BIRD DAY" - DESIGNATION AND OBSERVANCE (Act of Jun. 6, 1968, P.L. 144, No. 79) | 1 | 2026-11-10 to 2026-11-10 |
@@ -363,8 +392,20 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `board-of-commissioners-of-public-grounds-and-buildings-authorized-to-1919` | BOARD OF COMMISSIONERS OF PUBLIC GROUNDS AND BUILDINGS AUTHORIZED TO (ACQUIRE PROPERTY) | 1 | 2026-11-10 to 2026-11-10 |
 | `board-of-directors-of-sub-school-districts-1881` | BOARD OF DIRECTORS OF SUB SCHOOL DISTRICTS (Act of May 24, 1881, P.L. 29, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
 | `board-of-directors-of-the-rouse-estate-act-2004` | BOARD OF DIRECTORS OF THE ROUSE ESTATE ACT (Act of Nov. 23, 2004, P.L. 1241, No. 151) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-health-of-philadelphia-supplement-1866` | BOARD OF HEALTH OF PHILADELPHIA - SUPPLEMENT (Act of Apr. 4, 1866, P.L. 487, No. 454) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-public-charities-1869` | BOARD OF PUBLIC CHARITIES (Act of Apr. 24, 1869, P.L. 90, No. 66) | 1 | 2026-11-10 to 2026-11-10 |
 | `board-of-vehicles-act-1983` | BOARD OF VEHICLES ACT (Act of Dec. 22, 1983, P.L. 306, No. 84) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-wardens-established-for-philadelphia-port-supplement-1826` | BOARD OF WARDENS ESTABLISHED FOR PHILADELPHIA PORT - SUPPLEMENT (Act of Apr. 8, 1826, P.L. 253, No. 79) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-wardens-established-for-port-of-philadelphia-supplement-1846` | BOARD OF WARDENS ESTABLISHED FOR PORT OF PHILADELPHIA - SUPPLEMENT (Act of Feb. 4, 1846, P.L. 30, No. 27) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-wardens-for-philadelphia-regulate-pilots-and-pilotage-1804` | BOARD OF WARDENS FOR PHILADELPHIA REGULATE PILOTS AND PILOTAGE (Act of Apr. 2, 1804, P.L. 469, No. 104) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-wardens-for-port-of-philadelphia-1803` | BOARD OF WARDENS FOR PORT OF PHILADELPHIA (Act of Mar. 29, 1803, P.L. 542, No. 156) | 1 | 2026-11-10 to 2026-11-10 |
 | `board-of-wardens-of-port-of-philadelphia-abolished-1907` | BOARD OF WARDENS OF PORT OF PHILADELPHIA ABOLISHED (Act of Jun. 8, 1907, P.L. 502, No. 323) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-wardens-philadelphia-port-established-1820` | BOARD OF WARDENS PHILADELPHIA PORT ESTABLISHED (Act of Feb. 24, 1820, P.L. 40, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-wardens-philadelphia-port-supplement-1817` | BOARD OF WARDENS PHILADELPHIA PORT - SUPPLEMENT (Act of Mar. 13, 1817, P.L. 109, No. 87) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-wardens-philadelphia-port-union-mutual-insurance-company-1853` | BOARD OF WARDENS PHILADELPHIA PORT - UNION MUTUAL INSURANCE COMPANY (Act of Apr. 15, 1853, P.L. 429, No. 266) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-wardens-port-of-philadelphia-1868` | BOARD OF WARDENS - PORT OF PHILADELPHIA (Act of Apr. 8, 1868, P.L. 755, No. 698) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-wardens-port-of-philadelphia-regulation-of-pilots-and-1853` | BOARD OF WARDENS PORT OF PHILADELPHIA REGULATION OF PILOTS AND PILOTAGE (Act of Feb. 18, 1853, P.L. 88, No. 71) | 1 | 2026-11-10 to 2026-11-10 |
+| `board-of-wardens-supplement-1861` | BOARD OF WARDENS - SUPPLEMENT (Act of May 14, 1861, P.L. 745, No. 676) | 1 | 2026-11-10 to 2026-11-10 |
 | `boards-of-city-trusts-established-1901` | BOARDS OF CITY TRUSTS ESTABLISHED (Act of Jun. 4, 1901, P.L. 429, No. 239) | 1 | 2026-11-10 to 2026-11-10 |
 | `boat-and-fish-funds-capital-budget-act-for-1986-1987-1986` | BOAT AND FISH FUNDS CAPITAL BUDGET ACT FOR 1986-1987 (Act of Jul. 8, 1986, P.L. 543, No. 95) | 1 | 2026-11-10 to 2026-11-10 |
 | `boat-and-fish-funds-capital-budget-act-for-1988-1989-1990` | "BOAT AND FISH FUNDS CAPITAL BUDGET ACT FOR 1988-1989" (Act of Mar. 13, 1990, P.L. 73, No. 15) | 1 | 2026-11-10 to 2026-11-10 |
@@ -374,7 +415,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `bone-boiling-establishments-regulated-1897` | BONE BOILING ESTABLISHMENTS REGULATED (Act of May 19, 1897, P.L. 77, No. 56) | 1 | 2026-11-10 to 2026-11-10 |
 | `bone-fertilizer-law-1909` | BONE FERTILIZER LAW (Act of Apr. 23, 1909, P.L. 143, No. 95) | 1 | 2026-11-10 to 2026-11-10 |
 | `borough-bonds-redemption-and-re-issue-1879` | BOROUGH BONDS, REDEMPTION AND RE-ISSUE (Act of Jun. 11, 1879, P.L. 153, No. 163) | 1 | 2026-11-10 to 2026-11-10 |
+| `borough-codes-1851` | BOROUGH CODES (Act of Apr. 3, 1851, P.L. 320, No. 218) | 1 | 2026-11-10 to 2026-11-10 |
+| `borough-of-bridesburg-relating-to-1850` | BOROUGH OF BRIDESBURG - RELATING TO (Act of Apr. 30, 1850, P.L. 649, No. 382) | 1 | 2026-11-10 to 2026-11-10 |
 | `borough-state-highway-law-1933` | BOROUGH STATE HIGHWAY LAW (Act of Jun. 1, 1933, P.L. 1172, No. 290) | 1 | 2026-11-10 to 2026-11-10 |
+| `boroughs-incorporation-of-1834` | BOROUGHS, INCORPORATION OF (Act of Apr. 1, 1834, P.L. 163, No. 98) | 1 | 2026-11-10 to 2026-11-10 |
 | `boroughs-located-in-more-than-one-county-1927` | BOROUGHS LOCATED IN MORE THAN ONE COUNTY (Act of May 7, 1927, P.L. 853, No. 431) | 1 | 2026-11-10 to 2026-11-10 |
 | `boroughs-permitted-to-buy-fire-fighting-equipment-1923` | BOROUGHS, PERMITTED TO BUY FIRE FIGHTING EQUIPMENT (Act of Apr. 18, 1923, P.L. 70, No. 46) | 1 | 2026-11-10 to 2026-11-10 |
 | `boroughs-permitted-to-levy-tax-for-building-fire-houses-etc-1927` | BOROUGHS PERMITTED TO LEVY TAX FOR BUILDING FIRE HOUSES, ETC. (Act of May 4, 1927, P.L. 673, No. 338) | 1 | 2026-11-10 to 2026-11-10 |
@@ -386,6 +430,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `breach-of-personal-information-notification-act-2005` | BREACH OF PERSONAL INFORMATION NOTIFICATION ACT (Act of Dec. 22, 2005, P.L. 474, No. 94) | 1 | 2026-11-10 to 2026-11-10 |
 | `breast-density-notification-act-2013` | BREAST DENSITY NOTIFICATION ACT (Act of Nov. 1, 2013, P.L. 970, No. 86) | 1 | 2026-11-10 to 2026-11-10 |
 | `breeding-of-horses-regulated-1907` | BREEDING OF HORSES REGULATED (Act of Apr. 25, 1907, P.L. 114, No. 92) | 1 | 2026-11-10 to 2026-11-10 |
+| `bridge-being-erected-over-the-susquehanna-northumberland-county-1809` | BRIDGE BEING ERECTED OVER THE SUSQUEHANNA - NORTHUMBERLAND COUNTY (Act of Mar. 25, 1809, P.L. 100, No. 54) | 1 | 2026-11-10 to 2026-11-10 |
 | `bridge-construction-of-authorized-1943` | BRIDGE, CONSTRUCTION OF AUTHORIZED (Act of Jun. 4, 1943, P.L. 883, No. 369) | 1 | 2026-11-10 to 2026-11-10 |
 | `bridge-fencing-safety-act-2018` | BRIDGE FENCING SAFETY ACT (Act of Jun. 28, 2018, P.L. 435, No. 65) | 1 | 2026-11-10 to 2026-11-10 |
 | `bridge-over-the-delaware-joint-maintenance-1917` | BRIDGE OVER THE DELAWARE JOINT MAINTENANCE (Act of Jul. 25, 1917, P.L. 1180, No. 405) | 1 | 2026-11-10 to 2026-11-10 |
@@ -395,9 +440,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `bridges-construction-and-maintenance-1935` | BRIDGES, CONSTRUCTION AND MAINTENANCE (Act of Jul. 15, 1935, P.L. 998, No. 317) | 1 | 2026-11-10 to 2026-11-10 |
 | `bridges-erection-or-acquisition-of-1923` | BRIDGES, ERECTION OR ACQUISITION OF (Act of Jun. 28, 1923, P.L. 875, No. 332) | 1 | 2026-11-10 to 2026-11-10 |
 | `bridges-over-the-delaware-river-1923` | BRIDGES OVER THE DELAWARE RIVER (Act of Jul. 13, 1923, P.L. 1093, No. 450) | 1 | 2026-11-10 to 2026-11-10 |
+| `bridges-over-the-juniata-relating-to-1850` | BRIDGES OVER THE JUNIATA - RELATING TO (Act of Mar. 11, 1850, P.L. 172, No. 149) | 1 | 2026-11-10 to 2026-11-10 |
 | `bridges-toll-authorized-1933` | BRIDGES, TOLL AUTHORIZED (Act of Mar. 16, 1933, P.L. 12, No. 10) | 1 | 2026-11-10 to 2026-11-10 |
+| `brokers-and-private-bankers-relating-to-1861` | BROKERS AND PRIVATE BANKERS - RELATING TO (Act of May 16, 1861, P.L. 708, No. 660) | 1 | 2026-11-10 to 2026-11-10 |
+| `building-inspectors-relating-to-1862` | BUILDING INSPECTORS - RELATING TO (Act of Apr. 5, 1862, P.L. 271, No. 272) | 1 | 2026-11-10 to 2026-11-10 |
 | `buildings-public-contracts-1913` | BUILDINGS PUBLIC, CONTRACTS (Act of May 1, 1913, P.L. 155, No. 104) | 1 | 2026-11-10 to 2026-11-10 |
 | `buildings-regulated-in-first-class-cities-1915` | BUILDINGS REGULATED IN FIRST CLASS CITIES (Act of May 11, 1915, P.L. 285, No. 175) | 1 | 2026-11-10 to 2026-11-10 |
+| `buildings-regulated-in-philadelphia-1856` | BUILDINGS REGULATED IN PHILADELPHIA (Act of Apr. 11, 1856, P.L. 319, No. 341) | 1 | 2026-11-10 to 2026-11-10 |
 | `bureau-of-employment-established-1915` | BUREAU OF EMPLOYMENT ESTABLISHED (Act of Jun. 4, 1915, P.L. 833, No. 373) | 1 | 2026-11-10 to 2026-11-10 |
 | `bureau-of-health-created-1895` | BUREAU OF HEALTH CREATED (Act of Jun. 26, 1895, P.L. 350, No. 258) | 1 | 2026-11-10 to 2026-11-10 |
 | `bureau-of-housing-establishment-1913` | BUREAU OF HOUSING, ESTABLISHMENT (Act of Jul. 24, 1913, P.L. 1015, No. 459) | 1 | 2026-11-10 to 2026-11-10 |
@@ -415,6 +464,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `butter-and-cheese-manufacturer-s-protected-1881` | BUTTER AND CHEESE, MANUFACTURER'S PROTECTED (Act of Jun. 10, 1881, P.L. 116, No. 134) | 1 | 2026-11-10 to 2026-11-10 |
 | `butter-sale-of-regulated-1899` | BUTTER, SALE OF REGULATED (Act of May 4, 1899, P.L. 191, No. 121) | 1 | 2026-11-10 to 2026-11-10 |
 | `c-l-schmitt-bridge-designation-1984` | C. L. SCHMITT BRIDGE - DESIGNATION (Act of Jun. 21, 1984, P.L. 430, No. 89) | 1 | 2026-11-10 to 2026-11-10 |
+| `cameron-county-being-erected-1860` | CAMERON COUNTY - BEING ERECTED (Act of Mar. 29, 1860, P.L. 697, No. 598) | 1 | 2026-11-10 to 2026-11-10 |
 | `canal-properties-acquisition-of-1939` | CANAL PROPERTIES, ACQUISITION OF (Act of Jun. 21, 1939, P.L. 622, No. 291) | 1 | 2026-11-10 to 2026-11-10 |
 | `cancer-drug-repository-program-act-2008` | CANCER DRUG REPOSITORY PROGRAM ACT (Act of May 13, 2008, P.L. 139, No. 14) | 1 | 2026-11-10 to 2026-11-10 |
 | `capital-budget-1982-1983-game-fund-projects-1983` | CAPITAL BUDGET 1982-1983, GAME FUND PROJECTS (Act of Jul. 22, 1983, P.L. 129, No. 33) | 1 | 2026-11-10 to 2026-11-10 |
@@ -496,6 +546,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ceding-jurisdiction-of-road-to-united-states-1907` | CEDING JURISDICTION OF ROAD TO UNITED STATES (Act of Mar. 28, 1907, P.L. 36, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
 | `ceding-jurisdiction-to-the-united-states-1937` | CEDING JURISDICTION TO THE UNITED STATES (Act of Jul. 1, 1937, P.L. 2656, No. 519) | 1 | 2026-11-10 to 2026-11-10 |
 | `ceding-jurisdiction-to-u-s-1895` | CEDING JURISDICTION TO U.S. (Act of Jun. 26, 1895, P.L. 371, No. 262) | 1 | 2026-11-10 to 2026-11-10 |
+| `cemeteries-and-graveyards-protected-1849` | CEMETERIES AND GRAVEYARDS PROTECTED (Act of Apr. 5, 1849, P.L. 397, No. 296) | 1 | 2026-11-10 to 2026-11-10 |
 | `cemetery-and-funeral-merchandise-trust-fund-law-1963` | CEMETERY AND FUNERAL MERCHANDISE TRUST FUND LAW (Act of Aug. 14, 1963, P.L. 1059, No. 459) | 1 | 2026-11-10 to 2026-11-10 |
 | `cemetery-companies-errors-in-burials-1987` | CEMETERY COMPANIES - ERRORS IN BURIALS (Act of Jul. 13, 1987, P.L. 352, No. 68) | 1 | 2026-11-10 to 2026-11-10 |
 | `cemetery-directors-authorized-to-remove-decayed-headstones-1919` | CEMETERY DIRECTORS AUTHORIZED TO REMOVE DECAYED HEADSTONES (Act of May 16, 1919, P.L. 201, No. 124) | 1 | 2026-11-10 to 2026-11-10 |
@@ -504,9 +555,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `certain-boroughs-to-become-legalized-upon-recording-of-their-charters-1883` | CERTAIN BOROUGHS TO BECOME LEGALIZED UPON RECORDING OF THEIR CHARTERS (Act of Jun. 27, 1883, P.L. 161, No. 145) | 1 | 2026-11-10 to 2026-11-10 |
 | `certain-offenses-arrest-without-warrant-1897` | CERTAIN OFFENSES - ARREST WITHOUT WARRANT (Act of Jun. 4, 1897, P.L. 121, No. 101) | 1 | 2026-11-10 to 2026-11-10 |
 | `chain-dam-hydroelectric-facility-leasing-act-1984` | CHAIN DAM HYDROELECTRIC FACILITY LEASING ACT (Act of Dec. 19, 1984, P.L. 1138, No. 222) | 1 | 2026-11-10 to 2026-11-10 |
+| `chancery-powers-in-erie-county-extended-1853` | CHANCERY POWERS IN ERIE COUNTY EXTENDED (Act of Mar. 11, 1853, P.L. 165, No. 124) | 1 | 2026-11-10 to 2026-11-10 |
 | `charitable-gift-annuity-exemption-act-1996` | CHARITABLE GIFT ANNUITY EXEMPTION ACT (Act of Oct. 16, 1996, P.L. 712, No. 127) | 1 | 2026-11-10 to 2026-11-10 |
 | `charitable-institutions-required-to-submit-plans-before-erecting-1919` | CHARITABLE INSTITUTIONS REQUIRED TO SUBMIT PLANS BEFORE ERECTING (BUILDINGS) | 1 | 2026-11-10 to 2026-11-10 |
 | `charitable-societies-relating-to-1889` | CHARITABLE SOCIETIES - RELATING TO (Act of Apr. 22, 1889, P.L. 42, No. 40) | 1 | 2026-11-10 to 2026-11-10 |
+| `charities-contributions-to-1874` | CHARITIES, CONTRIBUTIONS TO (Act of May 15, 1874, P.L. 194, No. 128) | 1 | 2026-11-10 to 2026-11-10 |
 | `charles-e-attig-jr-memorial-highway-designation-1984` | CHARLES E. ATTIG, JR. MEMORIAL HIGHWAY - DESIGNATION (Act of Jul. 5, 1984, P.L. 601, No. 122) | 1 | 2026-11-10 to 2026-11-10 |
 | `check-casher-licensing-act-1998` | CHECK CASHER LICENSING ACT (Act of Feb. 18, 1998, P.L. 146, No. 22) | 1 | 2026-11-10 to 2026-11-10 |
 | `chesapeake-bay-commission-establishing-1985` | CHESAPEAKE BAY COMMISSION - ESTABLISHING (Act of Jun. 25, 1985, P.L. 64, No. 25) | 1 | 2026-11-10 to 2026-11-10 |
@@ -520,6 +573,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `children-expenses-of-maintenance-and-instruction-1903` | CHILDREN, EXPENSES OF MAINTENANCE AND INSTRUCTION (Act of Mar. 27, 1903, P.L. 83, No. 77) | 1 | 2026-11-10 to 2026-11-10 |
 | `children-in-foster-care-act-2010` | CHILDREN IN FOSTER CARE ACT (Act of Nov. 23, 2010, P.L. 1264, No. 119) | 1 | 2026-11-10 to 2026-11-10 |
 | `children-s-health-care-act-1992` | CHILDREN'S HEALTH CARE ACT (Act of Dec. 2, 1992, P.L. 741, No. 113) | 1 | 2026-11-10 to 2026-11-10 |
+| `children-s-homes-relating-to-1862` | CHILDREN'S HOMES - RELATING TO (Act of Apr. 16, 1862, P.L. 538, No. 513) | 1 | 2026-11-10 to 2026-11-10 |
 | `children-s-trust-fund-act-1988` | CHILDREN'S TRUST FUND ACT (Act of Dec. 15, 1988, P.L. 1235, No. 151) | 1 | 2026-11-10 to 2026-11-10 |
 | `children-with-hearing-defects-1937` | CHILDREN WITH HEARING DEFECTS (Act of Jul. 2, 1937, P.L. 2721, No. 554) | 1 | 2026-11-10 to 2026-11-10 |
 | `childrens-hospitals-establishment-1925` | CHILDRENS' HOSPITALS, ESTABLISHMENT (Act of May 14, 1925, P.L. 749, No. 408) | 1 | 2026-11-10 to 2026-11-10 |
@@ -539,6 +593,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `cities-authorized-to-build-sewers-1905` | CITIES, AUTHORIZED TO BUILD SEWERS (Act of Apr. 10, 1905, P.L. 125, No. 94) | 1 | 2026-11-10 to 2026-11-10 |
 | `cities-authorized-to-build-viaducts-or-bridges-1903` | CITIES AUTHORIZED TO BUILD VIADUCTS OR BRIDGES (Act of Mar. 26, 1903, P.L. 71, No. 71) | 1 | 2026-11-10 to 2026-11-10 |
 | `cities-dams-on-navigable-rivers-1913` | CITIES, DAMS ON NAVIGABLE RIVERS (Act of Jun. 5, 1913, P.L. 423, No. 282) | 1 | 2026-11-10 to 2026-11-10 |
+| `cities-divided-into-classes-1874` | CITIES, DIVIDED INTO CLASSES (Act of May 23, 1874, P.L. 230, No. 152) | 1 | 2026-11-10 to 2026-11-10 |
 | `cities-first-class-relating-to-loans-1915` | CITIES, FIRST CLASS - RELATING TO LOANS (Act of Jun. 5, 1915, P.L. 846, No. 379) | 1 | 2026-11-10 to 2026-11-10 |
 | `cities-may-acquire-real-estate-for-certain-purposes-1903` | CITIES MAY ACQUIRE REAL ESTATE FOR CERTAIN PURPOSES (Act of Mar. 26, 1903, P.L. 63, No. 64) | 1 | 2026-11-10 to 2026-11-10 |
 | `cities-of-second-class-department-of-public-safety-1903` | CITIES OF SECOND CLASS; DEPARTMENT OF PUBLIC SAFETY (Act of Mar. 25, 1903, P.L. 54, No. 57) | 1 | 2026-11-10 to 2026-11-10 |
@@ -552,6 +607,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `city-controllers-authorized-to-appoint-probate-clerks-1897` | CITY CONTROLLERS AUTHORIZED TO APPOINT PROBATE CLERKS (Act of Jun. 15, 1897, P.L. 159, No. 132) | 1 | 2026-11-10 to 2026-11-10 |
 | `city-employees-granted-sick-leave-1913` | CITY EMPLOYEES, GRANTED SICK LEAVE (Act of Jun. 12, 1913, P.L. 492, No. 326) | 1 | 2026-11-10 to 2026-11-10 |
 | `city-gauger-relating-to-1879` | CITY GAUGER - RELATING TO (Act of Jun. 28, 1879, P.L. 179, No. 196) | 1 | 2026-11-10 to 2026-11-10 |
+| `city-mayors-granted-salaries-1874` | CITY MAYORS, GRANTED SALARIES (Act of Jun. 8, 1874, P.L. 277, No. 161) | 1 | 2026-11-10 to 2026-11-10 |
 | `city-rent-withholding-act-1965` | CITY RENT WITHHOLDING ACT (Act of Jan. 24, (1966) 1965, P.L. 1534, No. 536) | 1 | 2026-11-10 to 2026-11-10 |
 | `city-road-assessments-includes-eminent-domain-awards-1891` | CITY ROAD ASSESSMENTS, INCLUDES EMINENT DOMAIN AWARDS (Act of May 26, 1891, P.L. 117, No. 103) | 1 | 2026-11-10 to 2026-11-10 |
 | `city-state-highway-law-1931` | CITY STATE HIGHWAY LAW (Act of Jun. 22, 1931, P.L. 720, No. 262) | 1 | 2026-11-10 to 2026-11-10 |
@@ -566,10 +622,12 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `clerk-of-courts-fee-law-1982` | CLERK OF COURTS FEE LAW (Act of Jun. 18, 1982, P.L. 547, No. 158) | 1 | 2026-11-10 to 2026-11-10 |
 | `clerk-of-orphans-court-fee-law-1981` | CLERK OF ORPHANS' COURT FEE LAW (Act of Jul. 1, 1981, P.L. 193, No. 58) | 1 | 2026-11-10 to 2026-11-10 |
 | `clerks-and-employes-of-state-treasury-salaries-fixed-1915` | CLERKS AND EMPLOYES OF STATE TREASURY SALARIES FIXED (Act of Jun. 1, 1915, P.L. 663, No. 294) | 1 | 2026-11-10 to 2026-11-10 |
+| `clerks-to-administer-oaths-and-affirmations-1866` | CLERKS TO ADMINISTER OATHS AND AFFIRMATIONS (Act of Mar. 30, 1866, P.L. 109, No. 98) | 1 | 2026-11-10 to 2026-11-10 |
 | `clinical-laboratory-act-the-1951` | CLINICAL LABORATORY ACT, THE (Act of Sep. 26, 1951, P.L. 1539, No. 389) | 1 | 2026-11-10 to 2026-11-10 |
 | `cmv-education-and-newborn-screening-act-2022` | CMV EDUCATION AND NEWBORN SCREENING ACT (Act of Jun. 27, 2022, P.L. 388, No. 29) | 1 | 2026-11-10 to 2026-11-10 |
 | `co-operative-agricultural-association-corporate-net-income-tax-act-1945` | "CO-OPERATIVE AGRICULTURAL ASSOCIATION CORPORATE NET INCOME TAX ACT" (Act of May. 23, 1945, P.L. 893, No. 360) | 1 | 2026-11-10 to 2026-11-10 |
 | `coal-and-gas-resource-coordination-act-1984` | COAL AND GAS RESOURCE COORDINATION ACT (Act of Dec. 18, 1984, P.L. 1069, No. 214) | 1 | 2026-11-10 to 2026-11-10 |
+| `coal-hill-and-upper-st-clair-turnpike-and-plank-road-company-1854` | COAL HILL AND UPPER ST. CLAIR TURNPIKE AND PLANK ROAD COMPANY (Act of May. 5, 1854, P.L. 572, No. 566) | 1 | 2026-11-10 to 2026-11-10 |
 | `coal-mine-emergency-medical-personnel-law-1976` | COAL MINE EMERGENCY MEDICAL PERSONNEL LAW (Act of Jul. 9, 1976, P.L. 931, No. 178) | 1 | 2026-11-10 to 2026-11-10 |
 | `coal-mines-electric-machine-use-1945` | COAL MINES - ELECTRIC MACHINE USE (Act of May 15, 1945, P.L. 526, No. 206) | 1 | 2026-11-10 to 2026-11-10 |
 | `coal-mines-employment-of-minors-regulated-1905` | COAL MINES, EMPLOYMENT OF MINORS REGULATED (Act of May 2, 1905, P.L. 344, No. 222) | 1 | 2026-11-10 to 2026-11-10 |
@@ -582,6 +640,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `coal-refuse-disposal-control-act-1968` | COAL REFUSE DISPOSAL CONTROL ACT (Act of Sep. 24, 1968, P.L. 1040, No. 318) | 1 | 2026-11-10 to 2026-11-10 |
 | `coal-sale-to-charitable-institution-1923` | COAL, SALE TO CHARITABLE INSTITUTION (Act of May 25, 1923, P.L. 453, No. 244) | 1 | 2026-11-10 to 2026-11-10 |
 | `cocaine-sale-and-possession-regulated-1909` | COCAINE, SALE AND POSSESSION REGULATED (Act of May 8, 1909, P.L. 487, No. 270) | 1 | 2026-11-10 to 2026-11-10 |
+| `collection-of-mineral-statistics-1871` | COLLECTION OF MINERAL STATISTICS (Act of May 9, 1871, P.L. 261, No. 242) | 1 | 2026-11-10 to 2026-11-10 |
 | `collective-bargaining-arbitration-panel-payment-of-costs-1976` | COLLECTIVE BARGAINING ARBITRATION PANEL - PAYMENT OF COSTS (Act of May 20, 1976, P.L. 142, No. 67) | 1 | 2026-11-10 to 2026-11-10 |
 | `college-and-university-student-vaccination-act-2002` | COLLEGE AND UNIVERSITY STUDENT VACCINATION ACT (Act of Jun. 28, 2002, P.L. 492, No. 83) | 1 | 2026-11-10 to 2026-11-10 |
 | `columbia-county-veterans-memorial-bridge-designation-1987` | COLUMBIA COUNTY VETERANS MEMORIAL BRIDGE - DESIGNATION (Act of Jun. 10, 1987, P.L. 22, No. 8) | 1 | 2026-11-10 to 2026-11-10 |
@@ -593,12 +652,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `commercial-manure-hauler-and-broker-certification-act-2004` | COMMERCIAL MANURE HAULER AND BROKER CERTIFICATION ACT (Act of Jun. 28, 2004, P.L. 454, No. 49) | 1 | 2026-11-10 to 2026-11-10 |
 | `commercial-real-estate-broker-lien-act-1998` | COMMERCIAL REAL ESTATE BROKER LIEN ACT (Act of Mar. 20, 1998, P.L. 197, No. 34) | 1 | 2026-11-10 to 2026-11-10 |
 | `commission-created-for-erection-of-delaware-river-bridge-1927` | COMMISSION CREATED FOR ERECTION OF DELAWARE RIVER BRIDGE (Act of Apr. 11, 1927, P.L. 181, No. 152) | 1 | 2026-11-10 to 2026-11-10 |
+| `commission-merchants-relating-to-1857` | COMMISSION MERCHANTS - RELATING TO (Act of May 21, 1857, P.L. 639, No. 675) | 1 | 2026-11-10 to 2026-11-10 |
 | `commission-of-soldiers-orphan-schools-relating-to-1905` | COMMISSION OF SOLDIERS ORPHAN SCHOOLS - RELATING TO (Act of Apr. 17, 1905, P.L. 195, No. 137) | 1 | 2026-11-10 to 2026-11-10 |
 | `commission-to-replace-monuments-1876` | COMMISSION TO REPLACE MONUMENTS (Act of May 8, 1876, P.L. 142, No. 115) | 1 | 2026-11-10 to 2026-11-10 |
 | `commissioned-officers-in-armed-forces-to-administer-oaths-1953` | COMMISSIONED OFFICERS IN ARMED FORCES TO ADMINISTER OATHS (Act of Aug. 19, 1953, P.L. 1104, No. 301) | 1 | 2026-11-10 to 2026-11-10 |
 | `commissioner-of-mental-health-appointment-powers-duties-1987` | COMMISSIONER OF MENTAL HEALTH - APPOINTMENT, POWERS & DUTIES (Act of Jul. 9, 1987, P.L. 207, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
 | `commissioners-in-chancery-in-foreign-countries-authorized-to-1877` | COMMISSIONERS IN CHANCERY IN FOREIGN COUNTRIES AUTHORIZED TO ACKNOWLEDGE (DEEDS) | 1 | 2026-11-10 to 2026-11-10 |
+| `commissioners-of-deeds-relating-to-1856` | COMMISSIONERS OF DEEDS - RELATING TO (Act of Apr. 9, 1856, P.L. 294, No. 310) | 1 | 2026-11-10 to 2026-11-10 |
+| `commissioners-of-philadelphia-to-borrow-money-1851` | COMMISSIONERS OF PHILADELPHIA TO BORROW MONEY (Act of Apr. 3, 1851, P.L. 868, No. 381) | 1 | 2026-11-10 to 2026-11-10 |
 | `commissioners-of-public-parks-1917` | COMMISSIONERS OF PUBLIC PARKS (Act of Jul. 5, 1917, P.L. 697, No. 257) | 1 | 2026-11-10 to 2026-11-10 |
+| `commissioners-to-lay-out-state-roads-1838` | COMMISSIONERS TO LAY OUT STATE ROADS (Act of Apr. 16, 1838, P.L. 637, No. 97) | 1 | 2026-11-10 to 2026-11-10 |
+| `commissioners-to-take-acknowledgments-of-deeds-in-foreign-land-1856` | COMMISSIONERS TO TAKE ACKNOWLEDGMENTS OF DEEDS IN FOREIGN LAND (Act of Apr. 21, 1856, P.L. 484, No. 508) | 1 | 2026-11-10 to 2026-11-10 |
 | `commissioning-institutional-employes-as-police-officers-1943` | COMMISSIONING INSTITUTIONAL EMPLOYES AS POLICE OFFICERS (Act of May 21, 1943, P.L. 469, No. 210) | 1 | 2026-11-10 to 2026-11-10 |
 | `commitment-of-minors-to-charitable-institutions-1893` | COMMITMENT OF MINORS TO CHARITABLE INSTITUTIONS (Act of Jun. 8, 1893, P.L. 399, No. 301) | 1 | 2026-11-10 to 2026-11-10 |
 | `commonwealth-acquisition-of-land-for-parks-and-recreation-1961` | COMMONWEALTH - ACQUISITION OF LAND FOR PARKS AND RECREATION, (CONSERVATION, ETC.) | 1 | 2026-11-10 to 2026-11-10 |
@@ -609,6 +673,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `commonwealth-bonds-destruction-of-1925` | COMMONWEALTH BONDS, DESTRUCTION OF (Act of Apr. 27, 1925, P.L. 319, No. 180) | 1 | 2026-11-10 to 2026-11-10 |
 | `commonwealth-documents-law-1968` | COMMONWEALTH DOCUMENTS LAW (Act of Jul. 31, 1968, P.L. 769, No. 240) | 1 | 2026-11-10 to 2026-11-10 |
 | `commonwealth-higher-education-modernization-act-2012` | COMMONWEALTH HIGHER EDUCATION MODERNIZATION ACT (Act of Jul. 5, 2012, P.L. 962, No. 104) | 1 | 2026-11-10 to 2026-11-10 |
+| `commonwealth-officials-conflict-of-interest-1874` | COMMONWEALTH OFFICIALS, CONFLICT OF INTEREST (Act of May 15, 1874, P.L. 186, No. 120) | 1 | 2026-11-10 to 2026-11-10 |
 | `commonwealth-printing-prevailing-wage-etc-compliance-1961` | COMMONWEALTH PRINTING - PREVAILING WAGE, ETC. COMPLIANCE (Act of Aug. 21, 1961, P.L. 1014, No. 455) | 1 | 2026-11-10 to 2026-11-10 |
 | `commonwealth-property-inventory-provided-1972` | COMMONWEALTH PROPERTY, INVENTORY PROVIDED (Act of Jun. 15, 1972, P.L. 395, No. 117) | 1 | 2026-11-10 to 2026-11-10 |
 | `commonwealth-property-recovery-act-1957` | COMMONWEALTH PROPERTY RECOVERY ACT (Act of Jul. 5, 1957, P.L. 505, No. 284) | 1 | 2026-11-10 to 2026-11-10 |
@@ -620,6 +685,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `community-development-research-and-training-act-1968` | COMMUNITY DEVELOPMENT RESEARCH AND TRAINING ACT (Act of Jul. 20, 1968, P.L. 456, No. 214) | 1 | 2026-11-10 to 2026-11-10 |
 | `community-economic-recovery-program-act-1986` | COMMUNITY ECONOMIC RECOVERY PROGRAM ACT (Act of Jul. 9, 1986, P.L. 1232, No. 112) | 1 | 2026-11-10 to 2026-11-10 |
 | `compact-for-education-1967` | "COMPACT FOR EDUCATION" (Act of Jun. 21, 1967, P.L. 111, No. 26) | 1 | 2026-11-10 to 2026-11-10 |
+| `company-incorporated-to-erect-a-bridge-over-juniata-1850` | COMPANY INCORPORATED TO ERECT A BRIDGE OVER JUNIATA (Act of Mar. 22, 1850, P.L. 262, No. 219) | 1 | 2026-11-10 to 2026-11-10 |
 | `compensation-of-chain-carriers-1876` | COMPENSATION OF CHAIN CARRIERS (Act of May 8, 1876, P.L. 136, No. 103) | 1 | 2026-11-10 to 2026-11-10 |
 | `computation-of-time-standard-fixed-1883` | COMPUTATION OF TIME, STANDARD FIXED (Act of Jun. 20, 1883, P.L. 136, No. 122) | 1 | 2026-11-10 to 2026-11-10 |
 | `concerning-accident-and-health-insurance-1971` | CONCERNING ACCIDENT AND HEALTH INSURANCE (Act of Aug. 12, 1971, P.L. 313, No. 78) | 1 | 2026-11-10 to 2026-11-10 |
@@ -655,6 +721,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `conservation-and-preservation-easements-act-2001` | CONSERVATION AND PRESERVATION EASEMENTS ACT (Act of Jun. 22, 2001, P.L. 390, No. 29) | 1 | 2026-11-10 to 2026-11-10 |
 | `conservation-district-law-1945` | CONSERVATION DISTRICT LAW (Act of May. 15, 1945, P.L. 547, No. 217) | 1 | 2026-11-10 to 2026-11-10 |
 | `consolidated-rail-corporation-actions-and-advisory-committee-1990` | CONSOLIDATED RAIL CORPORATION ACTIONS AND ADVISORY COMMITTEE (Act of Jul. 11, 1990, P.L. 507, No. 120) | 1 | 2026-11-10 to 2026-11-10 |
+| `consolidating-philadelphia-supplement-1857` | CONSOLIDATING PHILADELPHIA - SUPPLEMENT (Act of May 13, 1857, P.L. 489, No. 545) | 1 | 2026-11-10 to 2026-11-10 |
+| `consolidating-philadelphia-supplement-1858` | CONSOLIDATING PHILADELPHIA - SUPPLEMENT (Act of Mar. 15, 1858, P.L. 114, No. 146) | 1 | 2026-11-10 to 2026-11-10 |
+| `consolidating-the-city-of-philadelphia-1855` | CONSOLIDATING THE CITY OF PHILADELPHIA (Act of Apr. 21, 1855, P.L. 264, No. 281) | 1 | 2026-11-10 to 2026-11-10 |
+| `consolidation-of-philadelphia-fresh-and-pure-water-1866` | CONSOLIDATION OF PHILADELPHIA - FRESH AND PURE WATER (Act of Apr. 11, 1866, P.L. 635, No. 619) | 1 | 2026-11-10 to 2026-11-10 |
 | `constable-election-1911` | CONSTABLE, ELECTION (Act of Jun. 9, 1911, P.L. 727, No. 299) | 1 | 2026-11-10 to 2026-11-10 |
 | `constable-law-rev-1992-102-1917` | CONSTABLE LAW (REV. 1992-102) (Act of Jul. 20, 1917, P.L. 1158, No. 401) | 1 | 2026-11-10 to 2026-11-10 |
 | `constable-vacancies-in-office-1929` | CONSTABLE, VACANCIES IN OFFICE (Act of Mar. 20, 1929, P.L. 32, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
@@ -679,6 +749,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `contractor-and-subcontractor-payment-act-1994` | CONTRACTOR AND SUBCONTRACTOR PAYMENT ACT (Act of Feb. 17, 1994, P.L. 73, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
 | `contracts-wages-stipulated-1937` | CONTRACTS, WAGES STIPULATED (Act of Mar. 16, 1937, P.L. 98, No. 26) | 1 | 2026-11-10 to 2026-11-10 |
 | `controlled-substance-drug-device-and-cosmetic-act-the-1972` | CONTROLLED SUBSTANCE, DRUG, DEVICE AND COSMETIC ACT, THE (Act of Apr. 14, 1972, P.L. 233, No. 64) | 1 | 2026-11-10 to 2026-11-10 |
+| `controllers-and-commissioners-of-philadelphia-sell-or-convey-property-1828` | CONTROLLERS AND COMMISSIONERS OF PHILADELPHIA SELL OR CONVEY PROPERTY (Act of Apr. 14, 1828, P.L. 458, No. 196) | 1 | 2026-11-10 to 2026-11-10 |
+| `controllers-of-public-schools-of-the-first-school-district-1867` | CONTROLLERS OF PUBLIC SCHOOLS OF THE FIRST SCHOOL DISTRICT (Act of Apr. 5, 1867, P.L. 779, No. 726) | 1 | 2026-11-10 to 2026-11-10 |
 | `convey-property-at-indiantown-gap-to-united-states-for-national-1976` | CONVEY PROPERTY AT INDIANTOWN GAP TO UNITED STATES FOR NATIONAL CEMETERY (Act of Jun. 24, 1976, P.L. 436, No. 106) | 1 | 2026-11-10 to 2026-11-10 |
 | `conveyance-borough-of-mahaffey-clearfield-county-1981` | CONVEYANCE - BOROUGH OF MAHAFFEY, CLEARFIELD COUNTY (Act of May. 14, 1981, P.L. 52, No. 18) | 1 | 2026-11-10 to 2026-11-10 |
 | `conveyance-borough-of-norristown-montgomery-county-1982` | CONVEYANCE - BOROUGH OF NORRISTOWN, MONTGOMERY COUNTY (Act of May 12, 1982, P.L. 414, No. 120) | 1 | 2026-11-10 to 2026-11-10 |
@@ -791,6 +863,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `conveyance-various-cities-in-pennsylvania-1974` | CONVEYANCE - VARIOUS CITIES IN PENNSYLVANIA (Act of Dec. 13, 1974, P.L. 933, No. 308) | 1 | 2026-11-10 to 2026-11-10 |
 | `conveyance-warren-campus-edinboro-state-college-to-warren-county-1980` | CONVEYANCE - WARREN CAMPUS, EDINBORO STATE COLLEGE TO WARREN COUNTY (Act of Jun. 13, 1980, P.L. 221, No. 66) | 1 | 2026-11-10 to 2026-11-10 |
 | `conveyance-york-county-1985` | CONVEYANCE - YORK COUNTY (Act of Jul. 3, 1985, P.L. 139, No. 40) | 1 | 2026-11-10 to 2026-11-10 |
+| `conveyances-buildings-party-wall-passes-with-ground-1849` | CONVEYANCES - BUILDINGS - PARTY WALL PASSES WITH GROUND (Act of Apr. 10, 1849, P.L. 600, No. 377) | 1 | 2026-11-10 to 2026-11-10 |
 | `conveyances-commonwealth-property-1984` | CONVEYANCES - COMMONWEALTH PROPERTY (Act of Dec. 21, 1984, P.L. 1227, No. 233) | 1 | 2026-11-10 to 2026-11-10 |
 | `conveying-land-to-the-united-states-1933` | CONVEYING LAND TO THE UNITED STATES (Act of May 22, 1933, P.L. 904, No. 162) | 1 | 2026-11-10 to 2026-11-10 |
 | `conveying-land-to-the-united-states-1941` | CONVEYING LAND TO THE UNITED STATES (Act of May 19, 1941, P.L. 45, No. 26) | 1 | 2026-11-10 to 2026-11-10 |
@@ -803,9 +876,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `coroners-salary-fixed-in-fourth-class-counties-1927` | CORONERS SALARY FIXED IN FOURTH CLASS COUNTIES (Act of Apr. 7, 1927, P.L. 168, No. 140) | 1 | 2026-11-10 to 2026-11-10 |
 | `corporal-david-william-witmer-memorial-highway-designation-1984` | CORPORAL DAVID WILLIAM WITMER MEMORIAL HIGHWAY - DESIGNATION (Act of Dec. 12, 1984, P.L. 984, No. 197) | 1 | 2026-11-10 to 2026-11-10 |
 | `corporation-taxes-notice-of-sale-of-corporate-property-1911` | CORPORATION TAXES - NOTICE OF SALE OF CORPORATE PROPERTY (Act of Jun. 21, 1911, P.L. 1098, No. 830) | 1 | 2026-11-10 to 2026-11-10 |
+| `corporations-and-estates-held-for-corporate-religious-and-charitable-1855` | CORPORATIONS AND ESTATES HELD FOR CORPORATE, RELIGIOUS AND CHARITABLE USES (Act of Apr. 26, 1855, P.L. 328, No. 347) | 1 | 2026-11-10 to 2026-11-10 |
 | `corporations-defining-liabilities-of-certain-partners-1917` | CORPORATIONS - DEFINING LIABILITIES OF CERTAIN PARTNERS (Act of Apr. 12, 1917, P.L. 67, No. 38) | 1 | 2026-11-10 to 2026-11-10 |
 | `corporations-priorities-of-debts-1911` | CORPORATIONS, PRIORITIES OF DEBTS (Act of Jun. 15, 1911, P.L. 955, No. 772) | 1 | 2026-11-10 to 2026-11-10 |
 | `corporations-reports-to-auditor-general-1901` | CORPORATIONS - REPORTS TO AUDITOR GENERAL (Act of Jun. 24, 1901, P.L. 596, No. 290) | 1 | 2026-11-10 to 2026-11-10 |
+| `corporations-supplement-1865` | CORPORATIONS - SUPPLEMENT (Act of Mar. 23, 1865, P.L. 631, No. 626) | 1 | 2026-11-10 to 2026-11-10 |
 | `cosmetology-law-1933` | COSMETOLOGY LAW (Act of May 3, 1933, P.L. 242, No. 86) | 1 | 2026-11-10 to 2026-11-10 |
 | `cosmetology-licensure-compact-act-2026` | COSMETOLOGY LICENSURE COMPACT ACT (Act of Jul. 20, 2026, P.L. 502, No. 43) | 1 | 2026-11-10 to 2026-11-10 |
 | `cost-of-litigation-authorized-to-be-paid-by-justice-department-1927` | COST OF LITIGATION AUTHORIZED TO BE PAID BY JUSTICE DEPARTMENT (Act of Apr. 18, 1927, P.L. 308, No. 174) | 1 | 2026-11-10 to 2026-11-10 |
@@ -826,6 +901,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `counties-war-monuments-1909` | COUNTIES, WAR MONUMENTS (Act of Apr. 27, 1909, P.L. 242, No. 152) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-advertising-regulated-1895` | COUNTY ADVERTISING REGULATED (Act of Jun. 18, 1895, P.L. 209, No. 126) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-and-municipal-state-highway-law-1961` | COUNTY AND MUNICIPAL STATE HIGHWAY LAW (Act of Sep. 18, 1961, P.L. 1389, No. 615) | 1 | 2026-11-10 to 2026-11-10 |
+| `county-and-township-rates-and-levies-and-officers-1855` | COUNTY AND TOWNSHIP RATES AND LEVIES AND OFFICERS (Act of Mar. 30, 1855, P.L. 160, No. 172) | 1 | 2026-11-10 to 2026-11-10 |
+| `county-auditors-payment-of-1869` | COUNTY AUDITORS - PAYMENT OF (Act of 1869, P.L. 66, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-boards-of-health-authorized-1925` | COUNTY BOARDS OF HEALTH AUTHORIZED (Act of Apr. 10, 1925, P.L. 223, No. 148) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-bridges-commonwealth-authorized-to-rebuild-1919` | COUNTY BRIDGES, COMMONWEALTH AUTHORIZED TO REBUILD (Act of May. 16, 1919, P.L. 196, No. 122) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-buildings-regulated-1895` | COUNTY BUILDINGS, REGULATED (Act of Apr. 19, 1895, P.L. 38, No. 24) | 1 | 2026-11-10 to 2026-11-10 |
@@ -855,6 +932,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `county-institution-district-law-1937` | "COUNTY INSTITUTION DISTRICT LAW" (Act of Jun. 24, 1937, P.L. 2017, No. 396) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-institution-for-delinquent-women-law-1927` | COUNTY INSTITUTION FOR DELINQUENT WOMEN LAW (Act of Mar. 9, 1927, P.L. 24, No. 13) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-lines-locating-and-changing-1905` | COUNTY LINES, LOCATING AND CHANGING (Act of Apr. 14, 1905, P.L. 157, No. 115) | 1 | 2026-11-10 to 2026-11-10 |
+| `county-officers-accounts-1874` | COUNTY OFFICERS, ACCOUNTS (Act of May. 14, 1874, P.L. 175, No. 105) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-officers-funds-received-by-1913` | COUNTY OFFICERS, FUNDS RECEIVED BY (Act of Jun. 25, 1913, P.L. 567, No. 364) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-officers-salaries-and-disbursement-of-fees-received-1877` | COUNTY OFFICERS SALARIES AND DISBURSEMENT OF FEES RECEIVED (Act of Mar. 23, 1877, P.L. 33, No. 26) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-officers-salary-changes-by-statute-only-1881` | COUNTY OFFICERS - SALARY CHANGES BY STATUTE ONLY (Act of May 11, 1881, P.L. 21, No. 25) | 1 | 2026-11-10 to 2026-11-10 |
@@ -863,19 +941,25 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `county-officials-salary-1876` | COUNTY OFFICIALS, SALARY (Act of Mar. 31, 1876, P.L. 13, No. 15) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-pension-law-1971` | COUNTY PENSION LAW (Act of Aug. 31, 1971, P.L. 398, No. 96) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-roads-lying-jointly-in-two-counties-1923` | COUNTY ROADS LYING JOINTLY IN TWO COUNTIES (Act of May 25, 1923, P.L. 454, No. 245) | 1 | 2026-11-10 to 2026-11-10 |
+| `county-row-offices-clarion-county-1852` | COUNTY ROW OFFICES - CLARION COUNTY (Act of Apr. 8, 1852, P.L. 296, No. 199) | 1 | 2026-11-10 to 2026-11-10 |
+| `county-row-offices-sullivan-county-1847` | COUNTY ROW OFFICES - SULLIVAN COUNTY (Act of Mar. 15, 1847, P.L. 462, No. 365) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-superintendents-minimum-salary-1933` | COUNTY SUPERINTENDENTS, MINIMUM SALARY (Act of May 26, 1933, P.L. 1072, No. 255) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-supplies-provided-1889` | COUNTY SUPPLIES, PROVIDED (Act of Apr. 25, 1889, P.L. 52, No. 54) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-taxes-discount-date-may-be-changed-1885` | COUNTY TAXES, DISCOUNT DATE MAY BE CHANGED (Act of Jun. 30, 1885, P.L. 204, No. 168) | 1 | 2026-11-10 to 2026-11-10 |
+| `county-treasurer-elected-1841` | COUNTY TREASURER ELECTED (Act of May 27, 1841, P.L. 400, No. 141) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-treasurers-abolition-of-fees-1893` | COUNTY TREASURERS, ABOLITION OF FEES (Act of Jun. 6, 1893, P.L. 340, No. 280) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-treasurers-authorized-to-collect-taxes-1881` | COUNTY TREASURERS AUTHORIZED TO COLLECT TAXES (Act of May 24, 1881, P.L. 31, No. 35) | 1 | 2026-11-10 to 2026-11-10 |
 | `county-treasurers-concerning-1911` | COUNTY TREASURERS, CONCERNING (Act of Jun. 1, 1911, P.L. 540, No. 200) | 1 | 2026-11-10 to 2026-11-10 |
 | `court-employees-providing-1911` | COURT EMPLOYEES, PROVIDING (Act of Jun. 1, 1911, P.L. 538, No. 196) | 1 | 2026-11-10 to 2026-11-10 |
 | `court-officers-election-of-1921` | COURT OFFICERS, ELECTION OF (Act of May 12, 1921, P.L. 553, No. 254) | 1 | 2026-11-10 to 2026-11-10 |
+| `courts-authorized-to-confirm-certain-real-estate-conveyances-1874` | COURTS, AUTHORIZED TO CONFIRM CERTAIN REAL ESTATE CONVEYANCES (Act of May 11, 1874, P.L. 131, No. 62) | 1 | 2026-11-10 to 2026-11-10 |
 | `courts-permitted-to-force-conveyance-of-land-1901` | COURTS PERMITTED TO FORCE CONVEYANCE OF LAND (Act of Apr. 19, 1901, P.L. 83, No. 56) | 1 | 2026-11-10 to 2026-11-10 |
+| `courts-relating-to-1855` | COURTS - RELATING TO (Act of Apr. 26, 1855, P.L. 308, No. 321) | 1 | 2026-11-10 to 2026-11-10 |
 | `covenants-to-preserve-land-use-property-tax-assessments-1965` | COVENANTS TO PRESERVE LAND USE - PROPERTY TAX ASSESSMENTS (Act of Jan. 13, (1966) 1965, P.L. 1292, No. 515) | 1 | 2026-11-10 to 2026-11-10 |
 | `covered-device-recycling-act-2010` | COVERED DEVICE RECYCLING ACT (Act of Nov. 23, 2010, P.L. 1083, No. 108) | 1 | 2026-11-10 to 2026-11-10 |
 | `cpa-law-1947` | CPA LAW (Act of May 26, 1947, P.L. 318, No. 140) | 1 | 2026-11-10 to 2026-11-10 |
 | `crane-operator-licensure-act-2008` | CRANE OPERATOR LICENSURE ACT (Act of Oct. 9, 2008, P.L. 1363, No. 100) | 1 | 2026-11-10 to 2026-11-10 |
+| `create-a-board-of-public-charities-supplement-1873` | CREATE A BOARD OF PUBLIC CHARITIES, SUPPLEMENT (Act of Apr. 9, 1873, P.L. 68, No. 47) | 1 | 2026-11-10 to 2026-11-10 |
 | `creating-a-county-records-committee-1963` | CREATING A COUNTY RECORDS COMMITTEE (Act of Aug. 14, 1963, P.L. 839, No. 407) | 1 | 2026-11-10 to 2026-11-10 |
 | `creating-a-highway-traffic-advisory-committee-1941` | CREATING A HIGHWAY TRAFFIC ADVISORY COMMITTEE (Act of Jul. 24, 1941, P.L. 494, No. 189) | 1 | 2026-11-10 to 2026-11-10 |
 | `creating-a-presumption-of-discharge-of-mortgages-1941` | CREATING A PRESUMPTION OF DISCHARGE OF MORTGAGES (Act of Jul. 24, 1941, P.L. 466, No. 178) | 1 | 2026-11-10 to 2026-11-10 |
@@ -903,6 +987,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `crippled-children-maintenance-of-1923` | CRIPPLED CHILDREN, MAINTENANCE OF (Act of Jun. 7, 1923, P.L. 677, No. 276) | 1 | 2026-11-10 to 2026-11-10 |
 | `cumberland-road-care-and-maintenance-1905` | CUMBERLAND ROAD, CARE AND MAINTENANCE (Act of Apr. 10, 1905, P.L. 129, No. 97) | 1 | 2026-11-10 to 2026-11-10 |
 | `dam-safety-and-encroachments-act-1978` | DAM SAFETY AND ENCROACHMENTS ACT (Act of Nov. 26, 1978, P.L. 1375, No. 325) | 1 | 2026-11-10 to 2026-11-10 |
+| `damages-from-roads-and-highways-assessment-1874` | DAMAGES FROM ROADS AND HIGHWAYS, ASSESSMENT (Act of May 14, 1874, P.L. 164, No. 99) | 1 | 2026-11-10 to 2026-11-10 |
 | `dams-wharfs-etc-prohibited-without-approval-1907` | DAMS, WHARFS, ETC., PROHIBITED WITHOUT APPROVAL (Act of May 28, 1907, P.L. 299, No. 226) | 1 | 2026-11-10 to 2026-11-10 |
 | `david-leo-lawrence-convention-center-official-designation-1978` | DAVID LEO LAWRENCE CONVENTION CENTER - OFFICIAL DESIGNATION (Act of Jun. 13, 1978, P.L. 465, No. 63) | 1 | 2026-11-10 to 2026-11-10 |
 | `day-of-the-disabled-designation-1988` | DAY OF THE DISABLED - DESIGNATION (Act of May 26, 1988, P.L. 413, No. 71) | 1 | 2026-11-10 to 2026-11-10 |
@@ -912,16 +997,36 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `debt-authorization-1972` | DEBT AUTHORIZATION (Act of Jun. 30, 1972, P.L. 719, No. 166) | 1 | 2026-11-10 to 2026-11-10 |
 | `debt-incurring-for-nursing-homes-1974` | DEBT INCURRING FOR NURSING HOMES (Act of Apr. 11, 1974, P.L. 252, No. 62) | 1 | 2026-11-10 to 2026-11-10 |
 | `debt-management-services-act-2008` | DEBT MANAGEMENT SERVICES ACT (Act of Oct. 9, 2008, P.L. 1421, No. 117) | 1 | 2026-11-10 to 2026-11-10 |
+| `debt-paid-by-a-sinking-fund-1868` | DEBT - PAID BY A SINKING FUND (Act of Apr. 10, 1868, P.L. 81, No. 45) | 1 | 2026-11-10 to 2026-11-10 |
 | `debt-settlement-services-act-2014` | DEBT SETTLEMENT SERVICES ACT (Act of Jul. 9, 2014, P.L. 1022, No. 118) | 1 | 2026-11-10 to 2026-11-10 |
+| `debts-and-demands-recovery-of-supplement-1829` | DEBTS AND DEMANDS RECOVERY OF - SUPPLEMENT (Act of Apr. 24, 1829, P.L. 369, No. 216) | 1 | 2026-11-10 to 2026-11-10 |
+| `debts-collection-of-district-and-township-1864` | DEBTS - COLLECTION OF DISTRICT AND TOWNSHIP (Act of Mar. 31, 1864, P.L. 162, No. 156) | 1 | 2026-11-10 to 2026-11-10 |
+| `debts-collection-of-due-the-commonwealth-1861` | DEBTS COLLECTION OF - DUE THE COMMONWEALTH (Act of Apr. 17, 1861, P.L. 371, No. 343) | 1 | 2026-11-10 to 2026-11-10 |
 | `deceased-service-persons-funeral-expense-1935` | DECEASED SERVICE PERSONS, FUNERAL EXPENSE (Act of Jun. 11, 1935, P.L. 326, No. 149) | 1 | 2026-11-10 to 2026-11-10 |
 | `deeds-acknowledgement-1909` | DEEDS ACKNOWLEDGEMENT (Act of Apr. 23, 1909, P.L. 156, No. 109) | 1 | 2026-11-10 to 2026-11-10 |
+| `deeds-acknowledging-and-recording-of-1840` | DEEDS - ACKNOWLEDGING AND RECORDING OF (Act of Apr. 3, 1840, P.L. 233, No. 107) | 1 | 2026-11-10 to 2026-11-10 |
+| `deeds-acknowledging-and-recording-of-supplement-1828` | DEEDS ACKNOWLEDGING AND RECORDING OF - SUPPLEMENT (Act of Apr. 15, 1828, P.L. 490, No. 212) | 1 | 2026-11-10 to 2026-11-10 |
+| `deeds-acknowledging-and-recording-of-supplement-1835` | DEEDS ACKNOWLEDGING AND RECORDING OF - SUPPLEMENT (Act of Feb. 19, 1835, P.L. 39, No. 31) | 1 | 2026-11-10 to 2026-11-10 |
+| `deeds-acknowledging-and-recording-of-supplement-1841` | DEEDS ACKNOWLEDGING AND RECORDING OF - SUPPLEMENT (Act of Mar. 26, 1841, P.L. 106, No. 54) | 1 | 2026-11-10 to 2026-11-10 |
 | `deeds-acknowledgment-in-united-states-territories-1901` | DEEDS, ACKNOWLEDGMENT IN UNITED STATES TERRITORIES (Act of May 21, 1901, P.L. 271, No. 179) | 1 | 2026-11-10 to 2026-11-10 |
 | `deeds-and-instruments-acknowledged-before-aldermen-1881` | DEEDS AND INSTRUMENTS, ACKNOWLEDGED BEFORE ALDERMEN (Act of May 26, 1881, P.L. 35, No. 41) | 1 | 2026-11-10 to 2026-11-10 |
+| `deeds-and-mortgages-acknowledgment-by-recorder-of-deeds-1840` | DEEDS AND MORTGAGES - ACKNOWLEDGMENT BY RECORDER OF DEEDS (Act of Apr. 16, 1840, P.L. 410, No. 161) | 1 | 2026-11-10 to 2026-11-10 |
+| `deeds-county-commissioners-recording-1849` | DEEDS - COUNTY COMMISSIONERS - RECORDING (Act of Apr. 5, 1849, P.L. 344, No. 270) | 1 | 2026-11-10 to 2026-11-10 |
+| `deeds-defective-acknowledgment-validation-1851` | DEEDS - DEFECTIVE ACKNOWLEDGMENT - VALIDATION (Act of Apr. 15, 1851, P.L. 661, No. 354) | 1 | 2026-11-10 to 2026-11-10 |
+| `deeds-defective-acknowledgment-validation-1852` | DEEDS - DEFECTIVE ACKNOWLEDGMENT - VALIDATION (Act of Mar. 18, 1852, P.L. 645, No. 377) | 1 | 2026-11-10 to 2026-11-10 |
+| `deeds-estate-tail-effect-of-delay-in-recording-1851` | DEEDS - ESTATE TAIL - EFFECT OF DELAY IN RECORDING (Act of Apr. 10, 1851, P.L. 505, No. 292) | 1 | 2026-11-10 to 2026-11-10 |
 | `deeds-format-and-language-1909` | DEEDS, FORMAT AND LANGUAGE (Act of Apr. 1, 1909, P.L. 91, No. 53) | 1 | 2026-11-10 to 2026-11-10 |
 | `deeds-indexes-of-1875` | DEEDS, INDEXES OF (Act of Mar. 18, 1875, P.L. 32, No. 36) | 1 | 2026-11-10 to 2026-11-10 |
+| `deeds-made-by-commissioners-of-a-county-1872` | DEEDS MADE BY COMMISSIONERS OF A COUNTY (Act of Apr. 9, 1872, P.L. 45, No. 37) | 1 | 2026-11-10 to 2026-11-10 |
+| `deeds-proof-of-empower-mayor-and-recorder-of-philadelphia-1817` | DEEDS PROOF OF EMPOWER MAYOR AND RECORDER OF PHILADELPHIA (Act of Jan. 9, 1817, P.L. 16, No. 13) | 1 | 2026-11-10 to 2026-11-10 |
+| `defaulting-public-officers-1846` | DEFAULTING PUBLIC OFFICERS (Act of Apr. 21, 1846, P.L. 413, No. 346) | 1 | 2026-11-10 to 2026-11-10 |
 | `defeasances-defined-in-pennsylvania-1881` | DEFEASANCES, DEFINED IN PENNSYLVANIA (Act of Jun. 8, 1881, P.L. 84, No. 91) | 1 | 2026-11-10 to 2026-11-10 |
 | `deficits-payment-of-1939` | DEFICITS, PAYMENT OF (Act of Jun. 21, 1939, P.L. 617, No. 288) | 1 | 2026-11-10 to 2026-11-10 |
+| `delaware-and-schuylkill-plank-road-company-incorporated-repealed-1850` | DELAWARE AND SCHUYLKILL PLANK ROAD COMPANY - INCORPORATED - (REPEALED) (Act of Apr. 26, 1850, P.L. 618, No. 364) | 1 | 2026-11-10 to 2026-11-10 |
+| `delaware-avenue-widened-philadelphia-1858` | DELAWARE AVENUE WIDENED - PHILADELPHIA (Act of Apr. 15, 1858, P.L. 275, No. 316) | 1 | 2026-11-10 to 2026-11-10 |
 | `delaware-canal-museum-1970` | DELAWARE CANAL MUSEUM (Act of Nov. 25, 1970, P.L. 704, No. 228) | 1 | 2026-11-10 to 2026-11-10 |
+| `delaware-river-and-bay-claims-for-pilotage-1851` | DELAWARE RIVER AND BAY - CLAIMS FOR PILOTAGE (Act of Mar. 24, 1851, P.L. 229, No. 168) | 1 | 2026-11-10 to 2026-11-10 |
+| `delaware-river-banks-repair-of-1848` | DELAWARE RIVER BANKS - REPAIR OF (Act of Mar. 25, 1848, P.L. 250, No. 210) | 1 | 2026-11-10 to 2026-11-10 |
 | `delaware-river-basin-commission-and-funds-and-properties-1963` | DELAWARE RIVER BASIN COMMISSION AND FUNDS AND PROPERTIES (Act of Aug. 1, 1963, P.L. 450, No. 238) | 1 | 2026-11-10 to 2026-11-10 |
 | `delaware-river-basin-compact-1961` | DELAWARE RIVER BASIN COMPACT (Act of Jul. 7, 1961, P.L. 518, No. 268) | 1 | 2026-11-10 to 2026-11-10 |
 | `delaware-river-bridge-bonds-1933` | DELAWARE RIVER BRIDGE BONDS (Act of May 22, 1933, P.L. 892, No. 156) | 1 | 2026-11-10 to 2026-11-10 |
@@ -929,6 +1034,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `delaware-river-bridge-erection-provided-for-1919` | DELAWARE RIVER BRIDGE, ERECTION PROVIDED FOR (Act of Jul. 9, 1919, P.L. 814, No. 338) | 1 | 2026-11-10 to 2026-11-10 |
 | `delaware-river-commissioners-of-navigation-established-1907` | DELAWARE RIVER COMMISSIONERS OF NAVIGATION ESTABLISHED (Act of Jun. 8, 1907, P.L. 496, No. 322) | 1 | 2026-11-10 to 2026-11-10 |
 | `delaware-river-compact-with-new-jersey-1931` | DELAWARE RIVER COMPACT WITH NEW JERSEY (Act of Jun. 12, 1931, P.L. 575, No. 200) | 1 | 2026-11-10 to 2026-11-10 |
+| `delaware-river-front-improved-1867` | DELAWARE RIVER FRONT IMPROVED (Act of Apr. 9, 1867, P.L. 980, No. 906) | 1 | 2026-11-10 to 2026-11-10 |
 | `delaware-river-joint-authority-may-acquire-land-1937` | DELAWARE RIVER JOINT AUTHORITY MAY ACQUIRE LAND (Act of Jun. 25, 1937, P.L. 2081, No. 412) | 1 | 2026-11-10 to 2026-11-10 |
 | `delaware-river-joint-toll-bridge-commission-supplement-1984` | DELAWARE RIVER JOINT TOLL BRIDGE COMMISSION - SUPPLEMENT (Act of Dec. 18, 1984, P.L. 1052, No. 206) | 1 | 2026-11-10 to 2026-11-10 |
 | `delaware-river-joint-toll-bridge-compact-1931` | DELAWARE RIVER JOINT TOLL BRIDGE COMPACT (Act of Jun. 25, 1931, P.L. 1352, No. 332) | 1 | 2026-11-10 to 2026-11-10 |
@@ -971,6 +1077,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `deputy-sheriff-qualifications-fixed-1931` | DEPUTY SHERIFF, QUALIFICATIONS FIXED (Act of Jun. 23, 1931, P.L. 929, No. 312) | 1 | 2026-11-10 to 2026-11-10 |
 | `deputy-sheriffs-permitted-to-act-for-sheriff-1923` | DEPUTY SHERIFFS, PERMITTED TO ACT FOR SHERIFF (Act of May 23, 1923, P.L. 349, No. 221) | 1 | 2026-11-10 to 2026-11-10 |
 | `deputy-sheriffs-qualifications-and-appointment-1937` | DEPUTY SHERIFFS, QUALIFICATIONS AND APPOINTMENT (Act of Jun. 4, 1937, P.L. 1595, No. 324) | 1 | 2026-11-10 to 2026-11-10 |
+| `deputy-surveyors-to-administer-oaths-1803` | DEPUTY SURVEYORS TO ADMINISTER OATHS (Act of Apr. 4, 1803, P.L. 668, No. 186) | 1 | 2026-11-10 to 2026-11-10 |
 | `designating-certain-banks-as-additional-loan-and-transfer-agents-1953` | DESIGNATING CERTAIN BANKS AS ADDITIONAL LOAN AND TRANSFER AGENTS (Act of Jul. 20, 1953, P.L. 553, No. 147) | 1 | 2026-11-10 to 2026-11-10 |
 | `designating-certain-roads-as-state-highways-1941` | DESIGNATING CERTAIN ROADS AS STATE HIGHWAYS (Act of May 19, 1941, P.L. 44, No. 25) | 1 | 2026-11-10 to 2026-11-10 |
 | `designating-limited-life-insurance-companies-1939` | DESIGNATING LIMITED LIFE INSURANCE COMPANIES (Act of Jun. 24, 1939, P.L. 685, No. 319) | 1 | 2026-11-10 to 2026-11-10 |
@@ -978,6 +1085,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `designating-university-drive-1970` | DESIGNATING "UNIVERSITY DRIVE" (Act of Feb. 10, 1970, P.L. 4, No. 4) | 1 | 2026-11-10 to 2026-11-10 |
 | `detective-provided-for-in-counties-having-a-population-of-over-one-1919` | DETECTIVE PROVIDED FOR IN COUNTIES HAVING A POPULATION OF OVER ONE (MILLION FIVE HUNDRED THOUSAND INHABITANTS) | 1 | 2026-11-10 to 2026-11-10 |
 | `detention-facilities-for-juvenile-offenders-1901` | DETENTION FACILITIES FOR JUVENILE OFFENDERS (Act of Jul. 2, 1901, P.L. 601, No. 297) | 1 | 2026-11-10 to 2026-11-10 |
+| `determination-of-tenancies-1865` | DETERMINATION OF TENANCIES (Act of Feb. 28, 1865, P.L. 253, No. 257) | 1 | 2026-11-10 to 2026-11-10 |
 | `development-permit-extension-act-2013` | DEVELOPMENT PERMIT EXTENSION ACT (Act of Jul. 9, 2013, P.L. 362, No. 54) | 1 | 2026-11-10 to 2026-11-10 |
 | `die-mold-and-form-forfeiture-act-2001` | DIE, MOLD AND FORM FORFEITURE ACT (Act of Oct. 24, 2001, P.L. 812, No. 78) | 1 | 2026-11-10 to 2026-11-10 |
 | `diesel-powered-motor-vehicle-idling-act-2008` | DIESEL-POWERED MOTOR VEHICLE IDLING ACT (Act of Oct. 9, 2008, P.L. 1511, No. 124) | 1 | 2026-11-10 to 2026-11-10 |
@@ -986,11 +1094,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `disease-prevention-and-control-law-of-1955-1955` | DISEASE PREVENTION AND CONTROL LAW OF 1955 (Act of Apr. 23, (1956) 1955, P.L. 1510, No. 500) | 1 | 2026-11-10 to 2026-11-10 |
 | `diseased-animals-slaughtering-for-food-regulated-1929` | DISEASED ANIMALS, SLAUGHTERING FOR FOOD REGULATED (Act of Apr. 30, 1929, P.L. 899, No. 397) | 1 | 2026-11-10 to 2026-11-10 |
 | `dislocated-worker-training-assistance-act-1987` | DISLOCATED WORKER TRAINING ASSISTANCE ACT (Act of Jul. 13, 1987, P.L. 346, No. 66) | 1 | 2026-11-10 to 2026-11-10 |
+| `disputed-titles-settlement-of-1816` | DISPUTED TITLES SETTLEMENT OF (Act of Mar. 19, 1816, P.L. 198, No. 123) | 1 | 2026-11-10 to 2026-11-10 |
 | `distributing-money-received-from-the-united-states-1925` | DISTRIBUTING MONEY RECEIVED FROM THE UNITED STATES (Act of Apr. 27, 1925, P.L. 324, No. 185) | 1 | 2026-11-10 to 2026-11-10 |
 | `district-attorney-expense-apportionment-1982` | DISTRICT ATTORNEY EXPENSE APPORTIONMENT (Act of Jun. 25, 1982, P.L. 629, No. 178) | 1 | 2026-11-10 to 2026-11-10 |
 | `district-attorney-qualifications-for-office-1883` | DISTRICT ATTORNEY, QUALIFICATIONS FOR OFFICE (Act of Apr. 26, 1883, P.L. 15, No. 15) | 1 | 2026-11-10 to 2026-11-10 |
 | `district-attorney-s-office-law-book-provided-1929` | DISTRICT ATTORNEY'S OFFICE, LAW BOOK PROVIDED (Act of Apr. 10, 1929, P.L. 476, No. 193) | 1 | 2026-11-10 to 2026-11-10 |
 | `district-attorney-salaries-1931` | DISTRICT ATTORNEY, SALARIES (Act of Jun. 23, 1931, P.L. 917, No. 303) | 1 | 2026-11-10 to 2026-11-10 |
+| `district-attorneys-election-of-1850` | DISTRICT ATTORNEYS - ELECTION OF (Act of May 3, 1850, P.L. 654, No. 385) | 1 | 2026-11-10 to 2026-11-10 |
+| `district-attorneys-election-of-1859` | DISTRICT ATTORNEYS - ELECTION OF (Act of Apr. 13, 1859, P.L. 617, No. 609) | 1 | 2026-11-10 to 2026-11-10 |
 | `district-attorneys-fees-1903` | DISTRICT ATTORNEYS, FEES (Act of Apr. 23, 1903, P.L. 291, No. 222) | 1 | 2026-11-10 to 2026-11-10 |
 | `district-attorneys-fees-fixed-1919` | DISTRICT ATTORNEYS FEES FIXED (Act of Jun. 3, 1919, P.L. 371, No. 182) | 1 | 2026-11-10 to 2026-11-10 |
 | `district-attorneys-in-certain-counties-fees-1909` | DISTRICT ATTORNEYS IN CERTAIN COUNTIES - FEES (Act of May 6, 1909, P.L. 451, No. 252) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1000,12 +1111,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `documents-photocopying-of-permitted-1937` | DOCUMENTS, PHOTOCOPYING OF PERMITTED (Act of May 20, 1937, P.L. 739, No. 199) | 1 | 2026-11-10 to 2026-11-10 |
 | `dog-and-cat-product-act-2001` | DOG AND CAT PRODUCT ACT (Act of Dec. 17, 2001, P.L. 912, No. 103) | 1 | 2026-11-10 to 2026-11-10 |
 | `dog-law-1982` | DOG LAW (Act of Dec. 7, 1982, P.L. 784, No. 225) | 1 | 2026-11-10 to 2026-11-10 |
+| `dogs-chasing-sheep-killing-and-damages-1852` | DOGS - CHASING SHEEP - KILLING AND DAMAGES (Act of Apr. 14, (1851) 1852, P.L. 710, No. 357) | 1 | 2026-11-10 to 2026-11-10 |
 | `domestic-animals-diseases-1901` | DOMESTIC ANIMALS, DISEASES (Act of Jul. 18, (0190) 1901, P.L. 711, No. 413) | 1 | 2026-11-10 to 2026-11-10 |
 | `domestic-violence-health-care-response-act-1998` | DOMESTIC VIOLENCE HEALTH CARE RESPONSE ACT (Act of Dec. 3, 1998, P.L. 925, No. 115) | 1 | 2026-11-10 to 2026-11-10 |
 | `donated-food-limited-liability-act-1981` | DONATED FOOD LIMITED LIABILITY ACT (Act of Jul. 10, 1981, P.L. 234, No. 76) | 1 | 2026-11-10 to 2026-11-10 |
+| `donation-lands-actual-settlement-unnecessary-1848` | DONATION LANDS - ACTUAL SETTLEMENT UNNECESSARY (Act of Apr. 11, 1848, P.L. 511, No. 357) | 1 | 2026-11-10 to 2026-11-10 |
+| `donation-lands-protection-of-title-of-patentee-1843` | DONATION LANDS - PROTECTION OF TITLE OF PATENTEE (Act of Mar. 11, 1843, P.L. 79, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
 | `donation-of-blood-by-certain-minors-2007` | DONATION OF BLOOD BY CERTAIN MINORS (Act of Nov. 20, 2007, P.L. 426, No. 63) | 1 | 2026-11-10 to 2026-11-10 |
+| `donation-of-lands-mode-of-distributing-1818` | DONATION OF LANDS MODE OF DISTRIBUTING (Act of Mar. 24, 1818, P.L. 274, No. 148) | 1 | 2026-11-10 to 2026-11-10 |
 | `dormant-oil-and-gas-act-2006` | DORMANT OIL AND GAS ACT (Act of Jul. 11, 2006, P.L. 1134, No. 115) | 1 | 2026-11-10 to 2026-11-10 |
 | `dormitory-sprinkler-system-act-2001` | DORMITORY SPRINKLER SYSTEM ACT (Act of Dec. 20, 2001, P.L. 969, No. 116) | 1 | 2026-11-10 to 2026-11-10 |
+| `dower-in-real-estate-1869` | DOWER IN REAL ESTATE (Act of Jun. 30, 1869, P.L. 1276, No. 1258) | 1 | 2026-11-10 to 2026-11-10 |
 | `down-s-syndrome-prohibiting-use-of-term-mongolism-1980` | DOWN'S SYNDROME - PROHIBITING USE OF TERM "MONGOLISM" (Act of Oct. 10, 1980, P.L. 799, No. 149) | 1 | 2026-11-10 to 2026-11-10 |
 | `down-syndrome-prenatal-and-postnatal-education-act-2014` | DOWN SYNDROME PRENATAL AND POSTNATAL EDUCATION ACT (Act of Jul. 18, 2014, P.L. 2450, No. 130) | 1 | 2026-11-10 to 2026-11-10 |
 | `downhill-ski-area-insurance-1985` | DOWNHILL SKI AREA INSURANCE (Act of Dec. 19, 1985, P.L. 343, No. 97) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1015,6 +1131,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `drug-and-alcohol-abuse-education-1972` | DRUG AND ALCOHOL ABUSE EDUCATION (Act of Jul. 12, 1972, P.L. 765, No. 181) | 1 | 2026-11-10 to 2026-11-10 |
 | `drugs-as-evidence-1921` | DRUGS AS EVIDENCE (Act of May 20, 1921, P.L. 939, No. 328) | 1 | 2026-11-10 to 2026-11-10 |
 | `duties-policemen-of-delaware-river-bridge-commission-1945` | DUTIES POLICEMEN OF DELAWARE RIVER BRIDGE COMMISSION (Act of Apr. 17, 1945, P.L. 236, No. 106) | 1 | 2026-11-10 to 2026-11-10 |
+| `eagle-iron-company-incorporated-1841` | EAGLE IRON COMPANY INCORPORATED (Act of May 5, 1841, P.L. 350, No. 126) | 1 | 2026-11-10 to 2026-11-10 |
 | `early-childhood-education-professional-loan-forgiveness-act-1993` | EARLY CHILDHOOD EDUCATION PROFESSIONAL LOAN FORGIVENESS ACT (Act of Dec. 17, 1993, P.L. 487, No. 73) | 1 | 2026-11-10 to 2026-11-10 |
 | `early-intervention-services-system-act-1990` | EARLY INTERVENTION SERVICES SYSTEM ACT (Act of Dec. 19, 1990, P.L. 1372, No. 212) | 1 | 2026-11-10 to 2026-11-10 |
 | `easement-back-channel-in-ohio-river-for-dock-facilities-1978` | EASEMENT - BACK CHANNEL IN OHIO RIVER FOR DOCK FACILITIES (Act of Jul. 1, 1978, P.L. 740, No. 137) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1024,10 +1141,12 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `easement-construction-of-sheet-pile-cell-in-ohio-river-1978` | EASEMENT - CONSTRUCTION OF SHEET PILE CELL IN OHIO RIVER (Act of Jul. 1, 1978, P.L. 588, No. 110) | 1 | 2026-11-10 to 2026-11-10 |
 | `easement-dock-facilities-in-back-channel-of-ohio-river-1978` | EASEMENT - DOCK FACILITIES IN BACK CHANNEL OF OHIO RIVER (Act of Jul. 1, 1978, P.L. 589, No. 111) | 1 | 2026-11-10 to 2026-11-10 |
 | `easement-riverbed-of-monongahela-river-in-greene-county-1979` | EASEMENT - RIVERBED OF MONONGAHELA RIVER IN GREENE COUNTY (Act of Nov. 1, 1979, P.L. 244, No. 81) | 1 | 2026-11-10 to 2026-11-10 |
+| `ebenezer-methodist-episcopal-congregation-incorporated-1840` | EBENEZER METHODIST EPISCOPAL CONGREGATION - INCORPORATED (Act of Apr. 16, 1840, P.L. 357, No. 146) | 1 | 2026-11-10 to 2026-11-10 |
 | `economic-development-agency-fiduciary-and-lender-environmental-1995` | ECONOMIC DEVELOPMENT AGENCY, FIDUCIARY AND LENDER ENVIRONMENTAL LIABILITY PROTECTION ACT (Act of May 19, 1995, P.L. 33, No. 3) | 1 | 2026-11-10 to 2026-11-10 |
 | `economic-development-eminent-domain-law-1999` | ECONOMIC DEVELOPMENT EMINENT DOMAIN LAW (Act of Jun. 25, 1999, P.L. 179, No. 24) | 1 | 2026-11-10 to 2026-11-10 |
 | `economic-development-financing-law-1967` | ECONOMIC DEVELOPMENT FINANCING LAW (Act of Aug. 23, 1967, P.L. 251, No. 102) | 1 | 2026-11-10 to 2026-11-10 |
 | `economic-redevelopment-authorizing-indebtedness-1984` | ECONOMIC REDEVELOPMENT - AUTHORIZING INDEBTEDNESS (Act of Feb. 24, 1984, P.L. 99, No. 19) | 1 | 2026-11-10 to 2026-11-10 |
+| `education-school-directors-roxborough-philadelphia-1846` | EDUCATION - SCHOOL DIRECTORS - ROXBOROUGH - PHILADELPHIA (Act of Apr. 17, 1846, P.L. 365, No. 309) | 1 | 2026-11-10 to 2026-11-10 |
 | `educator-discipline-act-1973` | EDUCATOR DISCIPLINE ACT (Act of Dec. 12, 1973, P.L. 397, No. 141) | 1 | 2026-11-10 to 2026-11-10 |
 | `edward-martin-indiantown-gap-military-reservation-1967` | EDWARD MARTIN (INDIANTOWN GAP) MILITARY RESERVATION (Act of Nov. 24, 1967, P.L. 615, No. 277) | 1 | 2026-11-10 to 2026-11-10 |
 | `egg-law-1909` | EGG LAW (Act of Mar. 11, 1909, P.L. 13, No. 9) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1036,10 +1155,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `elder-care-payment-restitution-act-2002` | ELDER CARE PAYMENT RESTITUTION ACT (Act of Dec. 9, 2002, P.L. 1388, No. 171) | 1 | 2026-11-10 to 2026-11-10 |
 | `elderly-immunization-act-2004` | ELDERLY IMMUNIZATION ACT (Act of Jul. 15, 2004, P.L. 731, No. 85) | 1 | 2026-11-10 to 2026-11-10 |
 | `election-days-designated-as-legal-half-holidays-1893` | ELECTION DAYS DESIGNATED AS LEGAL HALF HOLIDAYS (Act of May 23, 1893, P.L. 111, No. 63) | 1 | 2026-11-10 to 2026-11-10 |
+| `election-districts-fixing-boundaries-1848` | ELECTION DISTRICTS - FIXING BOUNDARIES (Act of Apr. 11, 1848, P.L. 476, No. 344) | 1 | 2026-11-10 to 2026-11-10 |
+| `election-districts-regulated-1849` | ELECTION DISTRICTS - REGULATED (Act of Apr. 5, 1849, P.L. 555, No. 367) | 1 | 2026-11-10 to 2026-11-10 |
+| `election-districts-regulation-of-1840` | ELECTION DISTRICTS - REGULATION OF (Act of Apr. 14, 1840, P.L. 336, No. 144) | 1 | 2026-11-10 to 2026-11-10 |
 | `election-of-clerk-of-quarter-sessions-relating-to-1893` | ELECTION OF CLERK OF QUARTER SESSIONS - RELATING TO (Act of Jun. 12, 1893, P.L. 462, No. 331) | 1 | 2026-11-10 to 2026-11-10 |
+| `election-of-constable-and-collector-1867` | ELECTION OF CONSTABLE AND COLLECTOR (Act of Mar. 1, 1867, P.L. 306, No. 286) | 1 | 2026-11-10 to 2026-11-10 |
+| `elections-municipal-and-others-relating-to-1850` | ELECTIONS - MUNICIPAL AND OTHERS - RELATING TO (Act of May. 3, 1850, P.L. 666, No. 390) | 1 | 2026-11-10 to 2026-11-10 |
 | `electronic-transactions-act-1999` | ELECTRONIC TRANSACTIONS ACT (Act of Dec. 16, 1999, P.L. 971, No. 69) | 1 | 2026-11-10 to 2026-11-10 |
+| `elevator-or-hoistway-to-have-automatic-trap-door-1865` | ELEVATOR OR HOISTWAY TO HAVE AUTOMATIC TRAP DOOR (Act of Feb. 16, 1865, P.L. 152, No. 145) | 1 | 2026-11-10 to 2026-11-10 |
 | `elevators-safety-guards-required-1895` | ELEVATORS, SAFETY GUARDS REQUIRED (Act of May 30, 1895, P.L. 129, No. 99) | 1 | 2026-11-10 to 2026-11-10 |
 | `elimination-of-certain-reporting-duties-of-the-legislative-budget-and-2015` | ELIMINATION OF CERTAIN REPORTING DUTIES OF THE LEGISLATIVE BUDGET AND FINANCE COMMITTEE (Act of Jun. 30, 2015, P.L. 85, No. 13) | 1 | 2026-11-10 to 2026-11-10 |
+| `elk-county-erected-1843` | ELK COUNTY ERECTED (Act of Apr. 18, 1843, P.L. 312, No. 150) | 1 | 2026-11-10 to 2026-11-10 |
 | `elm-street-program-act-2004` | ELM STREET PROGRAM ACT (Act of Feb. 9, 2004, P.L. 61, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
 | `emergency-and-law-enforcement-personnel-death-benefits-act-1976` | EMERGENCY AND LAW ENFORCEMENT PERSONNEL DEATH BENEFITS ACT (Act of Jun. 24, 1976, P.L. 424, No. 101) | 1 | 2026-11-10 to 2026-11-10 |
 | `emergency-interim-executive-and-judicial-succession-act-of-1959-1959` | EMERGENCY INTERIM EXECUTIVE AND JUDICIAL SUCCESSION ACT OF 1959 (Act of Oct. 23, 1959, P.L. 1369, No. 474) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1066,11 +1192,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `empowering-cities-to-take-land-for-erection-of-public-buildings-1919` | EMPOWERING CITIES TO TAKE LAND FOR ERECTION OF PUBLIC BUILDINGS (Act of Jul. 8, 1919, P.L. 783, No. 320) | 1 | 2026-11-10 to 2026-11-10 |
 | `enabling-second-class-cities-to-establish-requirements-for-bidding-for-1955` | ENABLING SECOND CLASS CITIES TO ESTABLISH REQUIREMENTS FOR BIDDING FOR (CITY PRINTING) | 1 | 2026-11-10 to 2026-11-10 |
 | `encourage-the-planting-of-trees-1901` | ENCOURAGE THE PLANTING OF TREES (Act of Jul. 2, 1901, P.L. 610, No. 306) | 1 | 2026-11-10 to 2026-11-10 |
+| `endowment-of-agricultural-colleges-grant-of-public-lands-1866` | ENDOWMENT OF AGRICULTURAL COLLEGES - GRANT OF PUBLIC LANDS (Act of Apr. 11, 1866, P.L. 100, No. 88) | 1 | 2026-11-10 to 2026-11-10 |
 | `energy-conservation-and-assistance-act-1986` | ENERGY CONSERVATION AND ASSISTANCE ACT (Act of Jul. 10, 1986, P.L. 1398, No. 122) | 1 | 2026-11-10 to 2026-11-10 |
 | `enforcement-officer-disability-benefits-law-heart-and-lung-act-1935` | ENFORCEMENT OFFICER DISABILITY BENEFITS LAW (HEART AND LUNG ACT) (Act of Jun. 28, 1935, P.L. 477, No. 193) | 1 | 2026-11-10 to 2026-11-10 |
 | `engineer-land-surveyor-and-geologist-registration-law-1945` | ENGINEER, LAND SURVEYOR AND GEOLOGIST REGISTRATION LAW (Act of May 23, 1945, P.L. 913, No. 367) | 1 | 2026-11-10 to 2026-11-10 |
 | `english-fluency-in-higher-education-act-1990` | ENGLISH FLUENCY IN HIGHER EDUCATION ACT (Act of Jul. 9, 1990, P.L. 336, No. 76) | 1 | 2026-11-10 to 2026-11-10 |
 | `enlarge-powers-of-the-delaware-river-navigation-commission-1941` | ENLARGE POWERS OF THE DELAWARE RIVER NAVIGATION COMMISSION (Act of Jul. 28, 1941, P.L. 516, No. 205) | 1 | 2026-11-10 to 2026-11-10 |
+| `entailments-relating-to-1874` | ENTAILMENTS, RELATING TO (Act of May 21, 1874, P.L. 221, No. 143) | 1 | 2026-11-10 to 2026-11-10 |
 | `environmental-education-act-1993` | ENVIRONMENTAL EDUCATION ACT (Act of Jun. 22, 1993, P.L. 105, No. 24) | 1 | 2026-11-10 to 2026-11-10 |
 | `environmental-hearing-board-act-1988` | ENVIRONMENTAL HEARING BOARD ACT (Act of Jul. 13, 1988, P.L. 530, No. 94) | 1 | 2026-11-10 to 2026-11-10 |
 | `equal-pay-law-1959` | EQUAL PAY LAW (Act of Dec. 17, 1959, P.L. 1913, No. 694) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1078,8 +1206,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `equine-activity-immunity-act-2005` | EQUINE ACTIVITY IMMUNITY ACT (Act of Dec. 22, 2005, P.L. 472, No. 93) | 1 | 2026-11-10 to 2026-11-10 |
 | `equipment-loan-debt-volunteer-fire-companies-1981` | EQUIPMENT LOAN DEBT - VOLUNTEER FIRE COMPANIES (Act of Jun. 30, 1981, P.L. 138, No. 44) | 1 | 2026-11-10 to 2026-11-10 |
 | `equitable-division-of-marital-property-in-divorce-actions-2005` | EQUITABLE DIVISION OF MARITAL PROPERTY IN DIVORCE ACTIONS (Act of Jun. 15, 2005, P.L. 7, No. 4) | 1 | 2026-11-10 to 2026-11-10 |
+| `erection-of-bridges-over-railroads-and-canals-1855` | ERECTION OF BRIDGES OVER RAILROADS AND CANALS (Act of Apr. 12, 1855, P.L. 220, No. 233) | 1 | 2026-11-10 to 2026-11-10 |
+| `erection-of-school-buildings-in-philadelphia-board-of-education-1871` | ERECTION OF SCHOOL BUILDINGS IN PHILADELPHIA BOARD OF EDUCATION (Act of Feb. 18, 1871, P.L. 100, No. 109) | 1 | 2026-11-10 to 2026-11-10 |
 | `erection-of-training-school-for-deaf-children-1891` | ERECTION OF TRAINING SCHOOL FOR DEAF CHILDREN (Act of Jun. 20, 1891, P.L. 371, No. 296) | 1 | 2026-11-10 to 2026-11-10 |
+| `escheat-of-lands-held-by-corporation-without-license-1833` | ESCHEAT OF LANDS HELD BY CORPORATION WITHOUT LICENSE (Act of Apr. 6, 1833, P.L. 167, No. 83) | 1 | 2026-11-10 to 2026-11-10 |
+| `escheats-declare-and-regulate-1869` | ESCHEATS - DECLARE AND REGULATE (Act of Apr. 17, 1869, P.L. 71, No. 48) | 1 | 2026-11-10 to 2026-11-10 |
 | `escheats-of-public-work-rights-1937` | ESCHEATS OF PUBLIC WORK RIGHTS (Act of Jul. 2, 1937, P.L. 2778, No. 573) | 1 | 2026-11-10 to 2026-11-10 |
+| `escheats-to-declare-and-regulate-1864` | ESCHEATS - TO DECLARE AND REGULATE (Act of Jun. 27, 1864, P.L. 951, No. 837) | 1 | 2026-11-10 to 2026-11-10 |
+| `establishing-a-board-of-wardens-port-of-philadelphia-1872` | ESTABLISHING A BOARD OF WARDENS PORT OF PHILADELPHIA (Act of Mar. 29, 1872, P.L. 29, No. 18) | 1 | 2026-11-10 to 2026-11-10 |
 | `establishing-a-juvenile-home-in-first-class-cities-1947` | ESTABLISHING A JUVENILE HOME IN FIRST CLASS CITIES (Act of Jul. 3, 1947, P.L. 1228, No. 499) | 1 | 2026-11-10 to 2026-11-10 |
 | `establishing-a-procedure-for-adopting-budget-second-class-a-cities-1941` | ESTABLISHING A PROCEDURE FOR ADOPTING BUDGET SECOND CLASS A CITIES (Act of Jul. 18, 1941, P.L. 416, No. 164) | 1 | 2026-11-10 to 2026-11-10 |
 | `establishing-a-state-highway-blair-county-1951` | ESTABLISHING A STATE HIGHWAY - BLAIR COUNTY (Act of Oct. 11, 1951, P.L. 1697, No. 443) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1092,30 +1226,41 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `establishing-the-state-firemen-s-training-school-1949` | ESTABLISHING THE STATE FIREMEN'S TRAINING SCHOOL (Act of May 26, 1949, P.L. 1844, No. 547) | 1 | 2026-11-10 to 2026-11-10 |
 | `establishment-of-driver-improvement-schools-philadelphia-1963` | ESTABLISHMENT OF DRIVER IMPROVEMENT SCHOOLS - PHILADELPHIA (Act of Aug. 1, 1963, P.L. 460, No. 245) | 1 | 2026-11-10 to 2026-11-10 |
 | `establishment-of-emergency-seat-of-government-1959` | ESTABLISHMENT OF EMERGENCY SEAT OF GOVERNMENT (Act of Oct. 23, 1959, P.L. 1373, No. 475) | 1 | 2026-11-10 to 2026-11-10 |
+| `estate-of-jesse-barns-granted-to-elizabeth-moss-1826` | ESTATE OF JESSE BARNS GRANTED TO ELIZABETH MOSS (Act of Apr. 10, 1826, P.L. 274, No. 92) | 1 | 2026-11-10 to 2026-11-10 |
 | `estate-taxes-nonresident-decedents-1933` | ESTATE TAXES, NONRESIDENT DECEDENTS (Act of May 22, 1933, P.L. 839, No. 147) | 1 | 2026-11-10 to 2026-11-10 |
+| `estates-tail-relating-to-1865` | ESTATES TAIL - RELATING TO (Act of Mar. 27, 1865, P.L. 44, No. 29) | 1 | 2026-11-10 to 2026-11-10 |
+| `evidence-of-title-to-donation-and-other-lands-1833` | EVIDENCE OF TITLE TO DONATION AND OTHER LANDS (Act of Feb. 16, 1833, P.L. 46, No. 23) | 1 | 2026-11-10 to 2026-11-10 |
 | `excess-taxes-refunds-1929` | EXCESS TAXES, REFUNDS (Act of Apr. 18, 1929, P.L. 607, No. 246) | 1 | 2026-11-10 to 2026-11-10 |
 | `exchange-of-unserviceable-personal-property-1925` | EXCHANGE OF UNSERVICEABLE PERSONAL PROPERTY (Act of Apr. 7, 1925, P.L. 189, No. 137) | 1 | 2026-11-10 to 2026-11-10 |
 | `excluding-certain-forest-and-game-lands-from-land-use-agreement-1965` | EXCLUDING CERTAIN FOREST AND GAME LANDS FROM LAND USE AGREEMENT (Act of Jan. 26, (1966) 1965, P.L. 1623, No. 576) | 1 | 2026-11-10 to 2026-11-10 |
 | `executions-sales-under-1929` | EXECUTIONS, SALES UNDER (Act of May 7, 1929, P.L. 1589, No. 489) | 1 | 2026-11-10 to 2026-11-10 |
 | `executive-departments-vacancies-in-offices-1917` | EXECUTIVE DEPARTMENTS VACANCIES IN OFFICES (Act of Jul. 25, 1917, P.L. 1201, No. 415) | 1 | 2026-11-10 to 2026-11-10 |
+| `exempting-the-indebtedness-and-payment-of-state-tax-1873` | EXEMPTING THE INDEBTEDNESS AND PAYMENT OF STATE TAX (Act of Apr. 9, 1873, P.L. 68, No. 46) | 1 | 2026-11-10 to 2026-11-10 |
 | `exemption-from-taxation-deprived-1901` | EXEMPTION FROM TAXATION - DEPRIVED (Act of Jul. 11, 1901, P.L. 668, No. 337) | 1 | 2026-11-10 to 2026-11-10 |
 | `expedited-partner-therapy-act-2022` | EXPEDITED PARTNER THERAPY ACT (Act of Nov. 3, 2022, P.L. 2130, No. 147) | 1 | 2026-11-10 to 2026-11-10 |
 | `expenditure-of-bicycle-license-tax-on-roads-1915` | EXPENDITURE OF BICYCLE LICENSE TAX ON ROADS (Act of Jun. 1, 1915, P.L. 708, No. 325) | 1 | 2026-11-10 to 2026-11-10 |
+| `expenses-of-government-repairs-of-public-canals-and-railroads-1857` | EXPENSES OF GOVERNMENT - REPAIRS OF PUBLIC CANALS AND RAILROADS (Act of May 18, 1857, P.L. 559, No. 610) | 1 | 2026-11-10 to 2026-11-10 |
+| `expenses-of-the-government-to-provide-for-1870` | EXPENSES OF THE GOVERNMENT TO PROVIDE FOR (Act of Apr. 6, 1870, P.L. 17, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
 | `explosives-manufacture-storage-and-possession-law-1937` | EXPLOSIVES MANUFACTURE, STORAGE AND POSSESSION LAW (Act of Jul. 1, 1937, P.L. 2681, No. 537) | 1 | 2026-11-10 to 2026-11-10 |
 | `explosives-use-regulation-law-1957` | EXPLOSIVES USE REGULATION LAW (Act of Jul. 10, 1957, P.L. 685, No. 362) | 1 | 2026-11-10 to 2026-11-10 |
 | `extension-of-time-for-collection-of-taxes-by-tax-collector-1939` | EXTENSION OF TIME FOR COLLECTION OF TAXES BY TAX COLLECTOR (Act of Jun. 15, 1939, P.L. 357, No. 210) | 1 | 2026-11-10 to 2026-11-10 |
 | `eye-protection-in-schools-colleges-or-universities-1965` | EYE PROTECTION IN SCHOOLS, COLLEGES OR UNIVERSITIES (Act of Jul. 19, 1965, P.L. 215, No. 116) | 1 | 2026-11-10 to 2026-11-10 |
 | `fabric-manufacturers-relating-to-1907` | FABRIC MANUFACTURERS - RELATING TO (Act of May 23, 1907, P.L. 228, No. 177) | 1 | 2026-11-10 to 2026-11-10 |
+| `factors-act-1834` | FACTORS ACT (Act of Apr. 14, 1834, P.L. 375, No. 167) | 1 | 2026-11-10 to 2026-11-10 |
 | `fair-access-to-cancer-treatment-act-2020` | FAIR ACCESS TO CANCER TREATMENT ACT (Act of Feb. 12, 2020, P.L. 11, No. 6) | 1 | 2026-11-10 to 2026-11-10 |
 | `fair-contracting-for-health-care-practitioners-act-2024` | FAIR CONTRACTING FOR HEALTH CARE PRACTITIONERS ACT (Act of Jul. 17, 2024, P.L. 846, No. 74) | 1 | 2026-11-10 to 2026-11-10 |
 | `fair-credit-extension-uniformity-act-2000` | FAIR CREDIT EXTENSION UNIFORMITY ACT (Act of Mar. 28, 2000, P.L. 23, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
+| `faithful-performance-entered-on-highway-contracts-1872` | FAITHFUL PERFORMANCE ENTERED ON HIGHWAY CONTRACTS (Act of Mar. 28, 1872, P.L. 609, No. 558) | 1 | 2026-11-10 to 2026-11-10 |
 | `family-preservation-act-1989` | FAMILY PRESERVATION ACT (Act of Jul. 7, 1989, P.L. 218, No. 35) | 1 | 2026-11-10 to 2026-11-10 |
 | `family-support-for-persons-with-disabilities-act-2004` | FAMILY SUPPORT FOR PERSONS WITH DISABILITIES ACT (Act of Nov. 30, 2004, P.L. 1561, No. 198) | 1 | 2026-11-10 to 2026-11-10 |
 | `farm-produce-dealers-license-law-1937` | FARM PRODUCE DEALERS LICENSE LAW (Act of May 27, 1937, P.L. 901, No. 241) | 1 | 2026-11-10 to 2026-11-10 |
 | `farm-products-standards-law-1929` | FARM PRODUCTS STANDARDS LAW (Act of Apr. 4, 1929, P.L. 144, No. 148) | 1 | 2026-11-10 to 2026-11-10 |
 | `farm-safety-and-occupational-health-act-1994` | FARM SAFETY AND OCCUPATIONAL HEALTH ACT (Act of Dec. 12, 1994, P.L. 944, No. 134) | 1 | 2026-11-10 to 2026-11-10 |
+| `farmers-high-school-appropriation-to-1857` | FARMERS' HIGH SCHOOL - APPROPRIATION TO (Act of May. 20, 1857, P.L. 617, No. 658) | 1 | 2026-11-10 to 2026-11-10 |
+| `farmers-high-school-of-pennsylvania-incorporated-1855` | FARMERS HIGH SCHOOL OF PENNSYLVANIA INCORPORATED (Act of Feb. 22, 1855, P.L. 46, No. 50) | 1 | 2026-11-10 to 2026-11-10 |
 | `farmers-market-development-act-2006` | FARMERS' MARKET DEVELOPMENT ACT (Act of Oct. 27, 2006, P.L. 1186, No. 124) | 1 | 2026-11-10 to 2026-11-10 |
 | `farmers-permitted-to-sell-produce-1903` | FARMERS PERMITTED TO SELL PRODUCE (Act of Apr. 22, 1903, P.L. 258, No. 190) | 1 | 2026-11-10 to 2026-11-10 |
+| `farmers-to-have-certain-rights-in-the-markets-of-philadelphia-1861` | FARMERS TO HAVE CERTAIN RIGHTS IN THE MARKETS OF PHILADELPHIA (Act of Apr. 17, 1861, P.L. 324, No. 309) | 1 | 2026-11-10 to 2026-11-10 |
 | `farmland-administration-by-department-of-agriculture-1982` | FARMLAND - ADMINISTRATION BY DEPARTMENT OF AGRICULTURE (Act of Jun. 18, 1982, P.L. 549, No. 159) | 1 | 2026-11-10 to 2026-11-10 |
 | `feature-motion-picture-fair-business-practices-law-1980` | FEATURE MOTION PICTURE FAIR BUSINESS PRACTICES LAW (Act of Feb. 29, 1980, P.L. 40, No. 14) | 1 | 2026-11-10 to 2026-11-10 |
 | `federal-funds-prescribing-the-disposition-of-1976` | FEDERAL FUNDS - PRESCRIBING THE DISPOSITION OF (Act of Jun. 29, 1976, P.L. 469, No. 117) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1123,6 +1268,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `federal-lands-acceptance-of-jurisdiction-relinquished-by-united-states-1977` | FEDERAL LANDS - ACCEPTANCE OF JURISDICTION RELINQUISHED BY UNITED STATES (Act of Aug. 5, 1977, P.L. 181, No. 47) | 1 | 2026-11-10 to 2026-11-10 |
 | `fees-collected-by-public-officers-1885` | FEES COLLECTED BY PUBLIC OFFICERS (Act of Jun. 3, 1885, P.L. 60, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
 | `female-labor-law-1913` | FEMALE LABOR LAW (Act of Jul. 25, 1913, P.L. 1024, No. 466) | 1 | 2026-11-10 to 2026-11-10 |
+| `fence-viewers-appointment-of-1865` | FENCE VIEWERS - APPOINTMENT OF (Act of Mar. 22, 1865, P.L. 538, No. 522) | 1 | 2026-11-10 to 2026-11-10 |
 | `fiduciaries-stay-of-suits-against-1935` | FIDUCIARIES, STAY OF SUITS AGAINST (Act of Jul. 2, 1935, P.L. 524, No. 201) | 1 | 2026-11-10 to 2026-11-10 |
 | `finances-of-commonwealth-1927` | FINANCES OF COMMONWEALTH (Act of May 6, 1927, P.L. 848, No. 428) | 1 | 2026-11-10 to 2026-11-10 |
 | `financial-claims-against-the-state-settlement-of-1929` | FINANCIAL CLAIMS AGAINST THE STATE, SETTLEMENT OF (Act of May 9, 1929, P.L. 1690, No. 542) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1130,12 +1276,15 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `fire-and-panic-act-1927` | FIRE AND PANIC ACT (Act of Apr. 27, 1927, P.L. 465, No. 299) | 1 | 2026-11-10 to 2026-11-10 |
 | `fire-department-employees-1939` | FIRE DEPARTMENT EMPLOYEES (Act of Jun. 27, 1939, P.L. 1207, No. 405) | 1 | 2026-11-10 to 2026-11-10 |
 | `fire-department-salaries-in-second-class-a-cities-1939` | FIRE DEPARTMENT SALARIES IN SECOND CLASS A CITIES (Act of Jun. 9, 1939, P.L. 324, No. 181) | 1 | 2026-11-10 to 2026-11-10 |
+| `fire-departments-city-and-districts-of-philadelphia-regulation-of-1848` | FIRE DEPARTMENTS CITY AND DISTRICTS OF PHILADELPHIA - REGULATION OF (Act of Mar. 7, 1848, P.L. 110, No. 98) | 1 | 2026-11-10 to 2026-11-10 |
 | `fire-drills-required-in-factories-1911` | FIRE DRILLS, REQUIRED IN FACTORIES (Act of Jun. 7, 1911, P.L. 677, No. 267) | 1 | 2026-11-10 to 2026-11-10 |
 | `fire-force-disbanded-in-favor-of-volunteers-1974` | FIRE FORCE DISBANDED IN FAVOR OF VOLUNTEERS (Act of Dec. 10, 1974, P.L. 802, No. 264) | 1 | 2026-11-10 to 2026-11-10 |
 | `fire-insurance-premiums-1921` | FIRE INSURANCE PREMIUMS (Act of May 25, 1921, P.L. 1124, No. 419) | 1 | 2026-11-10 to 2026-11-10 |
 | `fire-marine-and-inland-marine-rate-regulatory-act-the-1947` | FIRE, MARINE AND INLAND MARINE RATE REGULATORY ACT, THE (Act of Jun. 11, 1947, P.L. 551, No. 247) | 1 | 2026-11-10 to 2026-11-10 |
+| `fire-marshal-philadelphia-under-police-department-1864` | FIRE MARSHAL - PHILADELPHIA - UNDER POLICE DEPARTMENT (Act of Apr. 20, 1864, P.L. 515, No. 453) | 1 | 2026-11-10 to 2026-11-10 |
 | `fire-prevention-first-class-cities-1923` | FIRE PREVENTION, FIRST CLASS CITIES (Act of Jun. 30, 1923, P.L. 985, No. 405) | 1 | 2026-11-10 to 2026-11-10 |
 | `fire-warden-creating-a-system-to-prevent-forest-fires-1909` | FIRE WARDEN, CREATING A SYSTEM TO PREVENT FOREST FIRES (Act of May. 13, 1909, P.L. 781, No. 601) | 1 | 2026-11-10 to 2026-11-10 |
+| `fire-works-being-manufactured-in-philadelphia-1865` | FIRE WORKS BEING MANUFACTURED IN PHILADELPHIA (Act of Mar. 23, 1865, P.L. 744, No. 743) | 1 | 2026-11-10 to 2026-11-10 |
 | `firefighters-and-auxiliaries-day-observance-1982` | FIREFIGHTERS AND AUXILIARIES DAY - OBSERVANCE (Act of Jun. 19, 1982, P.L. 557, No. 162) | 1 | 2026-11-10 to 2026-11-10 |
 | `firefighters-memorial-flag-1990` | FIREFIGHTERS' MEMORIAL FLAG (Act of Dec. 7, 1990, P.L. 679, No. 168) | 1 | 2026-11-10 to 2026-11-10 |
 | `firefly-official-insect-of-pennsylvania-1974` | FIREFLY - OFFICIAL INSECT OF PENNSYLVANIA (Act of Apr. 10, 1974, P.L. 247, No. 59) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1227,8 +1376,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `food-act-1994` | FOOD ACT (Act of Jul. 7, 1994, P.L. 421, No. 70) | 1 | 2026-11-10 to 2026-11-10 |
 | `food-adulteration-prohibited-1903` | FOOD, ADULTERATION PROHIBITED (Act of Apr. 27, 1903, P.L. 324, No. 254) | 1 | 2026-11-10 to 2026-11-10 |
 | `food-sale-in-first-class-cities-1917` | FOOD, SALE IN FIRST CLASS CITIES (Act of May 17, 1917, P.L. 204, No. 117) | 1 | 2026-11-10 to 2026-11-10 |
+| `foreign-acknowledgments-allowing-for-1855` | FOREIGN ACKNOWLEDGMENTS - ALLOWING FOR (Act of Dec. 14, (1854) 1855, P.L. 724, No. 645) | 1 | 2026-11-10 to 2026-11-10 |
 | `foreign-casualty-insurance-premium-tax-allocation-law-1943` | FOREIGN CASUALTY INSURANCE PREMIUM TAX ALLOCATION LAW (Act of May. 12, 1943, P.L. 259, No. 120) | 1 | 2026-11-10 to 2026-11-10 |
 | `foreign-merchandise-dealers-licensed-1887` | FOREIGN MERCHANDISE DEALERS, LICENSED (Act of May 24, 1887, P.L. 185, No. 127) | 1 | 2026-11-10 to 2026-11-10 |
+| `forest-county-organized-for-judicial-purposes-1857` | FOREST COUNTY ORGANIZED FOR JUDICIAL PURPOSES (Act of May 20, 1857, P.L. 612, No. 653) | 1 | 2026-11-10 to 2026-11-10 |
 | `forest-encouragement-of-1887` | FOREST, ENCOURAGEMENT OF (Act of Jun. 1, 1887, P.L. 287, No. 173) | 1 | 2026-11-10 to 2026-11-10 |
 | `forest-fire-protection-law-1915` | FOREST FIRE PROTECTION LAW (Act of Jun. 3, 1915, P.L. 797, No. 353) | 1 | 2026-11-10 to 2026-11-10 |
 | `forest-fires-compensating-persons-killed-or-injured-1925` | FOREST FIRES, COMPENSATING PERSONS KILLED OR INJURED (Act of Apr. 11, 1925, P.L. 232, No. 153) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1251,14 +1402,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `foundries-requiring-toilets-in-1911` | FOUNDRIES, REQUIRING TOILETS IN (Act of Jun. 7, 1911, P.L. 673, No. 264) | 1 | 2026-11-10 to 2026-11-10 |
 | `fourth-class-school-districts-finances-1921` | FOURTH CLASS SCHOOL DISTRICTS, FINANCES (Act of May. 5, 1921, P.L. 344, No. 167) | 1 | 2026-11-10 to 2026-11-10 |
 | `frank-d-o-reilly-jr-highway-designation-1988` | FRANK D. O'REILLY, JR., HIGHWAY - DESIGNATION (Act of Apr. 13, 1988, P.L. 352, No. 54) | 1 | 2026-11-10 to 2026-11-10 |
+| `frankford-and-germantown-turnpike-1854` | FRANKFORD AND GERMANTOWN TURNPIKE (Act of Apr. 26, 1854, P.L. 501, No. 503) | 1 | 2026-11-10 to 2026-11-10 |
 | `fraud-and-deception-in-sales-prevention-of-1931` | FRAUD AND DECEPTION IN SALES, PREVENTION OF (Act of Jun. 12, 1931, P.L. 533, No. 173) | 1 | 2026-11-10 to 2026-11-10 |
+| `frauds-at-election-prevention-of-supplement-to-consolidate-1861` | FRAUDS AT ELECTION - PREVENTION OF - SUPPLEMENT TO CONSOLIDATE (PHILADELPHIA) | 1 | 2026-11-10 to 2026-11-10 |
+| `frauds-at-elections-in-the-city-of-philadelphia-prevention-of-1866` | FRAUDS AT ELECTIONS IN THE CITY OF PHILADELPHIA - PREVENTION OF (Act of Apr. 17, 1866, P.L. 969, No. 939) | 1 | 2026-11-10 to 2026-11-10 |
+| `frauds-statute-of-and-repose-1856` | FRAUDS STATUTE OF AND REPOSE (Act of Apr. 22, 1856, P.L. 532, No. 568) | 1 | 2026-11-10 to 2026-11-10 |
+| `frauds-statutes-of-1855` | FRAUDS STATUTES OF (Act of Apr. 26, 1855, P.L. 308, No. 322) | 1 | 2026-11-10 to 2026-11-10 |
+| `free-use-of-fairmont-park-and-prevention-of-construction-of-railroad-1870` | FREE USE OF FAIRMONT PARK AND PREVENTION OF CONSTRUCTION OF RAILROAD (Act of Mar. 16, 1870, P.L. 451, No. 443) | 1 | 2026-11-10 to 2026-11-10 |
 | `freedom-bridge-designation-1988` | FREEDOM BRIDGE - DESIGNATION (Act of Apr. 13, 1988, P.L. 348, No. 50) | 1 | 2026-11-10 to 2026-11-10 |
 | `freedom-to-breastfeed-act-2007` | FREEDOM TO BREASTFEED ACT (Act of Jul. 8, 2007, P.L. 90, No. 28) | 1 | 2026-11-10 to 2026-11-10 |
 | `french-creek-scenic-rivers-act-1982` | FRENCH CREEK SCENIC RIVERS ACT (Act of Apr. 29, 1982, P.L. 351, No. 97) | 1 | 2026-11-10 to 2026-11-10 |
 | `fruit-and-vegetable-grading-law-1929` | FRUIT AND VEGETABLE GRADING LAW (Act of Mar. 28, 1929, P.L. 86, No. 97) | 1 | 2026-11-10 to 2026-11-10 |
 | `fuels-tax-allocation-municipal-highways-temporary-waiver-1978` | FUELS TAX ALLOCATION - MUNICIPAL HIGHWAYS - TEMPORARY WAIVER (Act of Mar. 3, 1978, P.L. 9, No. 4) | 1 | 2026-11-10 to 2026-11-10 |
+| `fulton-county-erected-1851` | FULTON COUNTY ERECTED (Act of Apr. 19, (1850) 1851, P.L. 805, No. 495) | 1 | 2026-11-10 to 2026-11-10 |
 | `funds-state-transfer-of-1933` | FUNDS, STATE - TRANSFER OF (Act of May 26, 1933, P.L. 1088, No. 263) | 1 | 2026-11-10 to 2026-11-10 |
 | `funeral-director-law-1951` | FUNERAL DIRECTOR LAW (Act of Jan. 14, (1952) 1951, P.L. 1898, No. 522) | 1 | 2026-11-10 to 2026-11-10 |
+| `furnishing-of-water-to-residents-of-springfield-township-montgomery-1873` | FURNISHING OF WATER TO RESIDENTS OF SPRINGFIELD TOWNSHIP, MONTGOMERY (COUNTY) | 1 | 2026-11-10 to 2026-11-10 |
 | `game-fund-capital-budget-act-for-1983-1984-1983` | GAME FUND CAPITAL BUDGET ACT FOR 1983-1984 (Act of Jul. 28, 1983, P.L. 141, No. 38) | 1 | 2026-11-10 to 2026-11-10 |
 | `game-fund-capital-budget-act-for-1986-1987-1986` | GAME FUND CAPITAL BUDGET ACT FOR 1986-1987 (Act of Jul. 8, 1986, P.L. 542, No. 94) | 1 | 2026-11-10 to 2026-11-10 |
 | `game-fund-capital-budget-act-for-1987-1988-1987` | GAME FUND CAPITAL BUDGET ACT FOR 1987-1988 (Act of Dec. 22, 1987, P.L. 426, No. 93) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1269,29 +1428,38 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `game-fund-capital-budget-act-for-1995-1996-1995` | GAME FUND CAPITAL BUDGET ACT FOR 1995-1996 (Act of Jul. 6, 1995, P.L. 252, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
 | `game-fund-capital-budget-act-for-1999-2000-2000` | GAME FUND CAPITAL BUDGET ACT FOR 1999-2000 (Act of Dec. 20, 2000, P.L. 698, No. 95) | 1 | 2026-11-10 to 2026-11-10 |
 | `game-fund-capital-budget-act-of-1984-1985-1984` | "GAME FUND CAPITAL BUDGET ACT OF 1984-1985" (Act of Jul. 3, 1984, P.L. 581, No. 116) | 1 | 2026-11-10 to 2026-11-10 |
+| `gary-s-ferry-road-paving-of-1849` | GARY'S FERRY ROAD - PAVING OF (Act of Apr. 5, 1849, P.L. 389, No. 291) | 1 | 2026-11-10 to 2026-11-10 |
 | `gas-and-hazardous-liquids-pipelines-act-2011` | GAS AND HAZARDOUS LIQUIDS PIPELINES ACT (Act of Dec. 22, 2011, P.L. 586, No. 127) | 1 | 2026-11-10 to 2026-11-10 |
 | `gasoline-petroleum-products-and-motor-vehicle-accessories-act-1975` | GASOLINE, PETROLEUM PRODUCTS AND MOTOR VEHICLE ACCESSORIES ACT (Act of Nov. 26, 1975, P.L. 454, No. 126) | 1 | 2026-11-10 to 2026-11-10 |
 | `general-assembly-salary-and-mileage-allowance-fixed-1919` | GENERAL ASSEMBLY, SALARY AND MILEAGE ALLOWANCE FIXED (Act of Jun. 24, 1919, P.L. 579, No. 273) | 1 | 2026-11-10 to 2026-11-10 |
 | `general-edward-meyer-boulevard-designation-1988` | GENERAL EDWARD MEYER BOULEVARD - DESIGNATION (Act of Dec. 5, 1988, P.L. 1114, No. 139) | 1 | 2026-11-10 to 2026-11-10 |
 | `general-george-c-marshall-parkway-designation-1975` | GENERAL GEORGE C. MARSHALL PARKWAY - DESIGNATION (Act of Oct. 2, 1975, P.L. 343, No. 97) | 1 | 2026-11-10 to 2026-11-10 |
+| `general-road-law-1836` | GENERAL ROAD LAW (Act of Jun. 13, 1836, P.L. 551, No. 169) | 1 | 2026-11-10 to 2026-11-10 |
+| `general-road-law-1868` | GENERAL ROAD LAW (Act of Apr. 13, 1868, P.L. 92, No. 50) | 1 | 2026-11-10 to 2026-11-10 |
+| `general-road-laws-laying-out-of-certain-1857` | GENERAL ROAD LAWS - LAYING OUT OF CERTAIN (Act of Apr. 22, 1857, P.L. 296, No. 338) | 1 | 2026-11-10 to 2026-11-10 |
 | `general-state-authority-act-of-one-thousand-nine-hundred-forty-nine-1949` | GENERAL STATE AUTHORITY ACT OF ONE THOUSAND NINE HUNDRED FORTY-NINE, THE (Act of Mar. 31, 1949, P.L. 372, No. 34) | 1 | 2026-11-10 to 2026-11-10 |
 | `general-state-authority-bonds-legal-investments-1937` | GENERAL STATE AUTHORITY BONDS, LEGAL INVESTMENTS (Act of Jul. 1, 1937, P.L. 2687, No. 539) | 1 | 2026-11-10 to 2026-11-10 |
 | `generic-equivalent-drug-law-1976` | GENERIC EQUIVALENT DRUG LAW (Act of Nov. 24, 1976, P.L. 1163, No. 259) | 1 | 2026-11-10 to 2026-11-10 |
 | `george-c-platt-memorial-bridge-official-designation-1979` | GEORGE C. PLATT MEMORIAL BRIDGE - OFFICIAL DESIGNATION (Act of Jun. 7, 1979, P.L. 41, No. 13) | 1 | 2026-11-10 to 2026-11-10 |
 | `george-d-stuart-bridge-designation-1973` | GEORGE D. STUART BRIDGE - DESIGNATION (Act of Jun. 1, 1973, P.L. 49, No. 20) | 1 | 2026-11-10 to 2026-11-10 |
+| `girard-borough-incorporated-1850` | GIRARD BOROUGH INCORPORATED (Act of Apr. 15, 1850, P.L. 471, No. 319) | 1 | 2026-11-10 to 2026-11-10 |
 | `give-delaware-river-bridge-commission-right-of-eminent-domain-1949` | GIVE DELAWARE RIVER BRIDGE COMMISSION RIGHT OF EMINENT DOMAIN (Act of Mar. 31, 1949, P.L. 388, No. 35) | 1 | 2026-11-10 to 2026-11-10 |
 | `giving-certain-powers-to-the-department-of-forests-and-waters-1947` | GIVING CERTAIN POWERS TO THE DEPARTMENT OF FORESTS AND WATERS (Act of Jun. 5, 1947, P.L. 422, No. 195) | 1 | 2026-11-10 to 2026-11-10 |
 | `giving-firemen-in-second-class-a-cities-vacations-1941` | GIVING FIREMEN IN SECOND CLASS A CITIES VACATIONS (Act of Jun. 18, 1941, P.L. 131, No. 68) | 1 | 2026-11-10 to 2026-11-10 |
 | `giving-free-records-to-disabled-veterans-1945` | GIVING FREE RECORDS TO DISABLED VETERANS (Act of Apr. 6, 1945, P.L. 165, No. 74) | 1 | 2026-11-10 to 2026-11-10 |
 | `giving-municipalities-fee-simple-title-1949` | GIVING MUNICIPALITIES FEE SIMPLE TITLE (Act of Apr. 14, 1949, P.L. 442, No. 71) | 1 | 2026-11-10 to 2026-11-10 |
+| `giving-powers-to-courts-to-fix-state-road-widths-1871` | GIVING POWERS TO COURTS TO FIX STATE ROAD WIDTHS (Act of May 22, 1871, P.L. 272, No. 254) | 1 | 2026-11-10 to 2026-11-10 |
 | `giving-second-class-cities-the-title-to-certain-streets-1951` | GIVING SECOND CLASS CITIES THE TITLE TO CERTAIN STREETS (Act of Dec. 22, 1951, P.L. 1717, No. 458) | 1 | 2026-11-10 to 2026-11-10 |
 | `gold-star-mothers-bridge-designation-1988` | GOLD STAR MOTHERS BRIDGE - DESIGNATION (Act of Nov. 21, 1988, P.L. 1081, No. 124) | 1 | 2026-11-10 to 2026-11-10 |
 | `gordon-ward-interchange-designation-1985` | GORDON WARD INTERCHANGE - DESIGNATION (Act of Dec. 13, 1985, P.L. 332, No. 90) | 1 | 2026-11-10 to 2026-11-10 |
+| `government-provide-for-payment-of-ordinary-expenses-1847` | GOVERNMENT - PROVIDE FOR PAYMENT OF ORDINARY EXPENSES (Act of Mar. 16, 1847, P.L. 431, No. 350) | 1 | 2026-11-10 to 2026-11-10 |
+| `government-to-reduce-expenses-of-1843` | GOVERNMENT - TO REDUCE EXPENSES OF (Act of Apr. 17, 1843, P.L. 324, No. 155) | 1 | 2026-11-10 to 2026-11-10 |
 | `governor-and-lieutenant-governor-disability-procedure-law-1974` | GOVERNOR AND LIEUTENANT GOVERNOR DISABILITY PROCEDURE LAW (Act of Dec. 30, 1974, P.L. 1072, No. 347) | 1 | 2026-11-10 to 2026-11-10 |
 | `governor-and-lieutenant-governor-residences-political-fundraising-1986` | GOVERNOR AND LIEUTENANT GOVERNOR RESIDENCES - POLITICAL FUNDRAISING (Act of Dec. 19, 1986, P.L. 1743, No. 212) | 1 | 2026-11-10 to 2026-11-10 |
 | `governor-james-pollack-memorial-bridge-designation-1987` | GOVERNOR JAMES POLLACK MEMORIAL BRIDGE - DESIGNATION (Act of Jun. 15, 1987, P.L. 26, No. 11) | 1 | 2026-11-10 to 2026-11-10 |
 | `governor-s-duties-defined-as-to-approval-of-warrants-1919` | GOVERNOR'S DUTIES DEFINED AS TO APPROVAL OF WARRANTS (Act of Apr. 18, 1919, P.L. 89, No. 67) | 1 | 2026-11-10 to 2026-11-10 |
 | `governor-s-secretary-salary-fixed-1911` | GOVERNOR'S SECRETARY - SALARY FIXED (Act of Feb. 28, 1911, P.L. 7, No. 5) | 1 | 2026-11-10 to 2026-11-10 |
+| `graduating-lands-money-due-commonwealth-interest-charges-1858` | GRADUATING LANDS MONEY DUE COMMONWEALTH - INTEREST CHARGES (Act of Mar. 19, 1858, P.L. 132, No. 165) | 1 | 2026-11-10 to 2026-11-10 |
 | `grantees-of-real-estate-liability-of-1878` | GRANTEES OF REAL ESTATE, LIABILITY OF (Act of Jun. 12, 1878, P.L. 205, No. 235) | 1 | 2026-11-10 to 2026-11-10 |
 | `granting-pension-credits-for-police-1949` | GRANTING PENSION CREDITS FOR POLICE (Act of May 2, 1949, P.L. 872, No. 235) | 1 | 2026-11-10 to 2026-11-10 |
 | `grants-to-nonprofit-organizations-owning-property-damaged-by-the-1971-1973` | GRANTS TO NONPROFIT ORGANIZATIONS OWNING PROPERTY DAMAGED BY THE 1971 AND (1972 FLOODS) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1302,14 +1470,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `greater-father-involvement-act-2022` | GREATER FATHER INVOLVEMENT ACT (Act of Nov. 3, 2022, P.L. 1747, No. 114) | 1 | 2026-11-10 to 2026-11-10 |
 | `greater-pennsylvania-council-created-1931` | "GREATER PENNSYLVANIA COUNCIL" CREATED (Act of May 29, 1931, P.L. 278, No. 131) | 1 | 2026-11-10 to 2026-11-10 |
 | `ground-rents-creation-prohibited-1885` | GROUND RENTS, CREATION PROHIBITED (Act of Jun. 24, 1885, P.L. 161, No. 128) | 1 | 2026-11-10 to 2026-11-10 |
+| `ground-rents-relating-to-1864` | GROUND RENTS - RELATING TO (Act of Apr. 19, 1864, P.L. 487, No. 420) | 1 | 2026-11-10 to 2026-11-10 |
 | `group-life-insurance-policy-law-1949` | GROUP LIFE INSURANCE POLICY LAW (Act of May. 11, 1949, P.L. 1210, No. 367) | 1 | 2026-11-10 to 2026-11-10 |
 | `growing-greener-environmental-stewardship-and-watershed-protection-2005` | GROWING GREENER ENVIRONMENTAL STEWARDSHIP AND WATERSHED PROTECTION ENHANCEMENT AUTHORIZATION ACT (Act of Apr. 13, 2005, P.L. 1, No. 1) | 1 | 2026-11-10 to 2026-11-10 |
 | `guaranteed-energy-savings-act-1996` | GUARANTEED ENERGY SAVINGS ACT (Act of May. 10, 1996, P.L. 153, No. 29) | 1 | 2026-11-10 to 2026-11-10 |
 | `guard-rails-regulated-1878` | GUARD RAILS, REGULATED (Act of May 25, 1878, P.L. 150, No. 190) | 1 | 2026-11-10 to 2026-11-10 |
+| `gunpowder-and-gun-cotton-preservation-of-life-due-to-explosion-1856` | GUNPOWDER AND GUN COTTON - PRESERVATION OF LIFE DUE TO EXPLOSION (Act of Mar. 20, 1856, P.L. 137, No. 161) | 1 | 2026-11-10 to 2026-11-10 |
 | `h2o-pa-act-2008` | H2O PA ACT (Act of Jul. 9, 2008, P.L. 908, No. 63) | 1 | 2026-11-10 to 2026-11-10 |
 | `hardwoods-development-council-act-1988` | HARDWOODS DEVELOPMENT COUNCIL ACT (Act of Oct. 21, 1988, P.L. 1036, No. 116) | 1 | 2026-11-10 to 2026-11-10 |
 | `harold-g-reslink-interchange-designation-1984` | HAROLD G. RESLINK INTERCHANGE - DESIGNATION (Act of Oct. 10, 1984, P.L. 834, No. 162) | 1 | 2026-11-10 to 2026-11-10 |
 | `harold-g-strait-memorial-highway-designation-1984` | HAROLD G. STRAIT MEMORIAL HIGHWAY - DESIGNATION (Act of Oct. 10, 1984, P.L. 864, No. 165) | 1 | 2026-11-10 to 2026-11-10 |
+| `hartford-steam-boiler-inspection-and-insurance-company-to-give-1869` | HARTFORD STEAM BOILER INSPECTION AND INSURANCE COMPANY TO GIVE (CERTIFICATE) | 1 | 2026-11-10 to 2026-11-10 |
 | `hay-and-straw-baling-regulated-1901` | HAY AND STRAW BALING REGULATED (Act of Apr. 11, 1901, P.L. 77, No. 47) | 1 | 2026-11-10 to 2026-11-10 |
 | `hazardous-material-emergency-planning-and-response-act-1990` | HAZARDOUS MATERIAL EMERGENCY PLANNING AND RESPONSE ACT (Act of Dec. 7, 1990, P.L. 639, No. 165) | 1 | 2026-11-10 to 2026-11-10 |
 | `hazardous-sites-cleanup-act-1988` | HAZARDOUS SITES CLEANUP ACT (Act of Oct. 18, 1988, P.L. 756, No. 108) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1320,7 +1491,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `health-care-facilities-act-1979` | HEALTH CARE FACILITIES ACT (Act of Jul. 19, 1979, P.L. 130, No. 48) | 1 | 2026-11-10 to 2026-11-10 |
 | `health-care-practitioners-medicare-fee-control-act-1990` | HEALTH CARE PRACTITIONERS MEDICARE FEE CONTROL ACT (Act of Jul. 10, 1990, P.L. 352, No. 81) | 1 | 2026-11-10 to 2026-11-10 |
 | `health-club-act-1989` | HEALTH CLUB ACT (Act of Dec. 21, 1989, P.L. 672, No. 87) | 1 | 2026-11-10 to 2026-11-10 |
+| `health-laws-city-and-port-of-philadelphia-supplement-1855` | HEALTH LAWS CITY AND PORT OF PHILADELPHIA - SUPPLEMENT (Act of Mar. 16, 1855, P.L. 89, No. 98) | 1 | 2026-11-10 to 2026-11-10 |
 | `health-maintenance-organization-act-1972` | HEALTH MAINTENANCE ORGANIZATION ACT (Act of Dec. 29, 1972, P.L. 1701, No. 364) | 1 | 2026-11-10 to 2026-11-10 |
+| `health-of-citizens-of-philadelphia-area-due-to-the-railroads-1871` | HEALTH OF CITIZENS OF PHILADELPHIA AREA DUE TO THE RAILROADS (Act of Oct. 3, (1870) 1871, P.L. 1553, No. 1408) | 1 | 2026-11-10 to 2026-11-10 |
+| `health-office-city-and-port-of-philadelphia-1818` | HEALTH OFFICE CITY AND PORT OF PHILADELPHIA (Act of Jan. 29, 1818, P.L. 38, No. 30) | 1 | 2026-11-10 to 2026-11-10 |
+| `health-office-established-port-of-philadelphia-secure-city-from-1848` | HEALTH OFFICE ESTABLISHED PORT OF PHILADELPHIA - SECURE CITY FROM DISEASE (Act of Feb. 3, 1848, P.L. 18, No. 21) | 1 | 2026-11-10 to 2026-11-10 |
+| `health-office-established-supplement-1866` | HEALTH OFFICE ESTABLISHED - SUPPLEMENT (Act of Apr. 12, 1866, P.L. 854, No. 844) | 1 | 2026-11-10 to 2026-11-10 |
+| `health-office-for-city-and-port-of-philadelphia-1824` | HEALTH OFFICE FOR CITY AND PORT OF PHILADELPHIA (Act of Mar. 29, 1824, P.L. 125, No. 75) | 1 | 2026-11-10 to 2026-11-10 |
+| `health-protection-of-citizens-1869` | HEALTH - PROTECTION OF CITIZENS (Act of Apr. 17, 1869, P.L. 1120, No. 1110) | 1 | 2026-11-10 to 2026-11-10 |
 | `health-reports-printed-1911` | HEALTH, REPORTS PRINTED (Act of Jun. 9, 1911, P.L. 754, No. 317) | 1 | 2026-11-10 to 2026-11-10 |
 | `health-savings-account-act-2005` | HEALTH SAVINGS ACCOUNT ACT (Act of Jul. 14, 2005, P.L. 278, No. 48) | 1 | 2026-11-10 to 2026-11-10 |
 | `health-security-act-1996` | HEALTH SECURITY ACT (Act of Jul. 2, 1996, P.L. 514, No. 85) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1368,6 +1546,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `highways-establishment-1935` | HIGHWAYS, ESTABLISHMENT (Act of Jun. 11, 1935, P.L. 321, No. 144) | 1 | 2026-11-10 to 2026-11-10 |
 | `highways-laying-out-1935` | HIGHWAYS, LAYING OUT (Act of Jun. 11, 1935, P.L. 319, No. 142) | 1 | 2026-11-10 to 2026-11-10 |
 | `highways-obstructions-removed-1923` | HIGHWAYS, OBSTRUCTIONS REMOVED (Act of Jun. 14, 1923, P.L. 801, No. 313) | 1 | 2026-11-10 to 2026-11-10 |
+| `highways-opening-etc-assessment-of-damages-philadelphia-1851` | HIGHWAYS - OPENING, ETC. - ASSESSMENT OF DAMAGES - PHILADELPHIA (Act of Apr. 12, 1851, P.L. 418, No. 252) | 1 | 2026-11-10 to 2026-11-10 |
 | `highways-over-drains-and-culverts-1911` | HIGHWAYS OVER DRAINS AND CULVERTS (Act of Jun. 15, 1911, P.L. 982, No. 791) | 1 | 2026-11-10 to 2026-11-10 |
 | `highways-providing-for-consolidation-1929` | HIGHWAYS, PROVIDING FOR CONSOLIDATION (Act of May 8, 1929, P.L. 1676, No. 534) | 1 | 2026-11-10 to 2026-11-10 |
 | `highways-reimbursements-to-contractors-1921` | HIGHWAYS, REIMBURSEMENTS TO CONTRACTORS (Act of May 24, 1921, P.L. 1102, No. 404) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1395,6 +1574,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `hospitals-purchase-of-1923` | HOSPITALS, PURCHASE OF (Act of Jun. 7, 1923, P.L. 681, No. 279) | 1 | 2026-11-10 to 2026-11-10 |
 | `hospitals-regulation-of-smoking-1977` | HOSPITALS - REGULATION OF SMOKING (Act of Dec. 1, 1977, P.L. 236, No. 75) | 1 | 2026-11-10 to 2026-11-10 |
 | `hospitals-requirements-for-state-aid-1935` | HOSPITALS, REQUIREMENTS FOR STATE AID (Act of Jul. 10, 1935, P.L. 645, No. 230) | 1 | 2026-11-10 to 2026-11-10 |
+| `house-of-correction-act-1871` | HOUSE OF CORRECTION ACT (Act of Jun. 2, 1871, P.L. 1301, No. 1209) | 1 | 2026-11-10 to 2026-11-10 |
 | `house-of-detention-for-juveniles-in-first-class-cities-provided-for-1897` | HOUSE OF DETENTION FOR JUVENILES IN FIRST CLASS CITIES PROVIDED FOR (Act of May 12, 1897, P.L. 65, No. 52) | 1 | 2026-11-10 to 2026-11-10 |
 | `household-hazardous-waste-funding-act-1994` | HOUSEHOLD HAZARDOUS WASTE FUNDING ACT (Act of Dec. 27, 1994, P.L. 1346, No. 155) | 1 | 2026-11-10 to 2026-11-10 |
 | `housing-and-redevelopment-assistance-law-1949` | HOUSING AND REDEVELOPMENT ASSISTANCE LAW (Act of May. 20, 1949, P.L. 1633, No. 493) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1404,6 +1584,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `hubert-h-humphrey-jr-day-observance-on-may-27-1978` | HUBERT H. HUMPHREY, JR. DAY - OBSERVANCE ON MAY 27 (Act of Oct. 4, 1978, P.L. 1015, No. 221) | 1 | 2026-11-10 to 2026-11-10 |
 | `human-services-code-1967` | HUMAN SERVICES CODE (Act of Jun. 13, 1967, P.L. 31, No. 21) | 1 | 2026-11-10 to 2026-11-10 |
 | `human-services-development-fund-act-1994` | HUMAN SERVICES DEVELOPMENT FUND ACT (Act of Oct. 5, 1994, P.L. 531, No. 78) | 1 | 2026-11-10 to 2026-11-10 |
+| `hunting-park-and-legacy-of-elliott-cresson-enlarging-powers-1871` | HUNTING PARK AND LEGACY OF ELLIOTT CRESSON ENLARGING POWERS (Act of May 15, 1871, P.L. 873, No. 785) | 1 | 2026-11-10 to 2026-11-10 |
+| `huntingdon-county-house-for-support-and-employment-of-poor-1850` | HUNTINGDON COUNTY - HOUSE FOR SUPPORT AND EMPLOYMENT OF POOR (Act of May 6, 1850, P.L. 692, No. 401) | 1 | 2026-11-10 to 2026-11-10 |
 | `illegal-fees-taken-by-officers-providing-penalty-1897` | ILLEGAL FEES TAKEN BY OFFICERS, PROVIDING PENALTY (Act of May 26, 1897, P.L. 100, No. 84) | 1 | 2026-11-10 to 2026-11-10 |
 | `illuminating-oils-regulated-1911` | ILLUMINATING OILS, REGULATED (Act of Jun. 10, 1911, P.L. 869, No. 341) | 1 | 2026-11-10 to 2026-11-10 |
 | `imitation-butter-and-cheese-labeled-1883` | IMITATION BUTTER AND CHEESE, LABELED (Act of May 24, 1883, P.L. 43, No. 34) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1414,6 +1596,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `imposing-an-additional-school-tax-in-first-class-school-districts-1957` | IMPOSING AN ADDITIONAL SCHOOL TAX IN FIRST CLASS SCHOOL DISTRICTS (Act of Jul. 8, 1957, P.L. 548, No. 303) | 1 | 2026-11-10 to 2026-11-10 |
 | `imposing-realty-tax-for-schools-in-first-class-a-school-districts-1963` | IMPOSING REALTY TAX FOR SCHOOLS IN FIRST CLASS A SCHOOL DISTRICTS (Act of Aug. 8, 1963, P.L. 585, No. 304) | 1 | 2026-11-10 to 2026-11-10 |
 | `imposing-realty-tax-for-schools-in-first-class-school-district-1963` | IMPOSING REALTY TAX FOR SCHOOLS IN FIRST CLASS SCHOOL DISTRICT (Act of Aug. 8, 1963, P.L. 592, No. 310) | 1 | 2026-11-10 to 2026-11-10 |
+| `imprisonment-for-debt-abolished-fraudulent-debtors-punished-1842` | IMPRISONMENT FOR DEBT - ABOLISHED - FRAUDULENT DEBTORS PUNISHED (Act of Jul. 12, 1842, P.L. 339, No. 111) | 1 | 2026-11-10 to 2026-11-10 |
 | `improvement-of-deteriorating-real-property-or-areas-tax-exemption-act-1971` | IMPROVEMENT OF DETERIORATING REAL PROPERTY OR AREAS TAX EXEMPTION ACT (Act of Jul. 9, 1971, P.L. 206, No. 34) | 1 | 2026-11-10 to 2026-11-10 |
 | `improvement-of-streets-1893` | IMPROVEMENT OF STREETS (Act of Jun. 12, 1893, P.L. 453, No. 323) | 1 | 2026-11-10 to 2026-11-10 |
 | `in-relation-to-unsolicited-merchandise-1969` | IN RELATION TO UNSOLICITED MERCHANDISE (Act of Jun. 6, 1969, P.L. 70, No. 21) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1429,6 +1612,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `incorporated-towns-shade-tree-commission-1981` | INCORPORATED TOWNS - SHADE TREE COMMISSION (Act of Oct. 1, 1981, P.L. 279, No. 94) | 1 | 2026-11-10 to 2026-11-10 |
 | `incorporated-towns-tax-for-indebtedness-1981` | INCORPORATED TOWNS - TAX FOR INDEBTEDNESS (Act of May. 22, 1981, P.L. 73, No. 22) | 1 | 2026-11-10 to 2026-11-10 |
 | `incorporated-towns-to-regulate-junkyards-1957` | INCORPORATED TOWNS TO REGULATE JUNKYARDS (Act of Mar. 26, 1957, P.L. 16, No. 9) | 1 | 2026-11-10 to 2026-11-10 |
+| `incorporation-of-a-company-to-make-an-artificial-road-1844` | INCORPORATION OF A COMPANY TO MAKE AN ARTIFICIAL ROAD (Act of Apr. 19, 1844, P.L. 313, No. 219) | 1 | 2026-11-10 to 2026-11-10 |
+| `incorporation-of-towns-1835` | INCORPORATION OF TOWNS (Act of Apr. 15, 1835, P.L. 369, No. 178) | 1 | 2026-11-10 to 2026-11-10 |
 | `increase-commerce-on-the-delaware-river-1947` | INCREASE COMMERCE ON THE DELAWARE RIVER (Act of Jun. 13, 1947, P.L. 598, No. 257) | 1 | 2026-11-10 to 2026-11-10 |
 | `increasing-salaries-in-first-class-cities-1947` | INCREASING SALARIES IN FIRST CLASS CITIES (Act of Jun. 21, 1947, P.L. 849, No. 349) | 1 | 2026-11-10 to 2026-11-10 |
 | `indemnity-insurance-bankruptcy-of-insured-1933` | INDEMNITY INSURANCE, BANKRUPTCY OF INSURED (Act of May 24, 1933, P.L. 987, No. 213) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1454,12 +1639,16 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `information-technology-education-act-1984` | INFORMATION TECHNOLOGY EDUCATION ACT (Act of Jul. 9, 1984, P.L. 676, No. 145) | 1 | 2026-11-10 to 2026-11-10 |
 | `infrastructure-development-act-1996` | INFRASTRUCTURE DEVELOPMENT ACT (Act of Jul. 11, 1996, P.L. 677, No. 116) | 1 | 2026-11-10 to 2026-11-10 |
 | `inheritance-tax-commissions-in-philadelphia-disposition-1961` | INHERITANCE TAX COMMISSIONS IN PHILADELPHIA - DISPOSITION (Act of Jun. 7, 1961, P.L. 275, No. 160) | 1 | 2026-11-10 to 2026-11-10 |
+| `inquests-by-coroners-and-justices-of-the-peace-1857` | INQUESTS BY CORONERS AND JUSTICES OF THE PEACE (Act of May. 16, 1857, P.L. 536, No. 592) | 1 | 2026-11-10 to 2026-11-10 |
 | `insane-feebleminded-persons-support-of-1915` | INSANE, FEEBLEMINDED PERSONS, SUPPORT OF (Act of Jun. 1, 1915, P.L. 661, No. 293) | 1 | 2026-11-10 to 2026-11-10 |
 | `insane-persons-appointment-of-guardian-1907` | INSANE PERSONS, APPOINTMENT OF GUARDIAN (Act of May 28, 1907, P.L. 292, No. 222) | 1 | 2026-11-10 to 2026-11-10 |
 | `insolvency-act-1901` | INSOLVENCY ACT (Act of Jun. 4, 1901, P.L. 404, No. 231) | 1 | 2026-11-10 to 2026-11-10 |
 | `insolvency-and-assignments-filed-out-of-state-1905` | INSOLVENCY AND ASSIGNMENTS FILED OUT OF STATE (Act of May 3, 1905, P.L. 363, No. 228) | 1 | 2026-11-10 to 2026-11-10 |
 | `insolvency-proceedings-providing-for-payment-of-rent-1919` | INSOLVENCY PROCEEDINGS, PROVIDING FOR PAYMENT OF RENT (Act of Jul. 17, 1919, P.L. 1029, No. 406) | 1 | 2026-11-10 to 2026-11-10 |
+| `insolvency-release-on-bond-from-confinement-for-debts-1849` | INSOLVENCY - RELEASE ON BOND FROM CONFINEMENT FOR DEBTS (Act of Jan. 24, 1849, P.L. 676, No. 419) | 1 | 2026-11-10 to 2026-11-10 |
+| `insolvent-debtors-1836` | INSOLVENT DEBTORS (Act of Jun. 16, 1836, P.L. 729, No. 187) | 1 | 2026-11-10 to 2026-11-10 |
 | `inspection-of-employment-records-law-1978` | INSPECTION OF EMPLOYMENT RECORDS LAW (Act of Nov. 26, 1978, P.L. 1212, No. 286) | 1 | 2026-11-10 to 2026-11-10 |
+| `inspectors-of-steam-engines-and-steam-boilers-appointment-of-1864` | INSPECTORS OF STEAM ENGINES AND STEAM BOILERS - APPOINTMENT OF (Act of May 7, 1864, P.L. 880, No. 777) | 1 | 2026-11-10 to 2026-11-10 |
 | `installment-land-contract-law-1965` | INSTALLMENT LAND CONTRACT LAW (Act of Jun. 8, 1965, P.L. 115, No. 81) | 1 | 2026-11-10 to 2026-11-10 |
 | `institution-of-higher-education-monetary-penalty-endowment-act-2013` | INSTITUTION OF HIGHER EDUCATION MONETARY PENALTY ENDOWMENT ACT (Act of Feb. 20, 2013, P.L. 1, No. 1) | 1 | 2026-11-10 to 2026-11-10 |
 | `institutional-assistance-grants-act-the-1974` | INSTITUTIONAL ASSISTANCE GRANTS ACT, THE (Act of Jul. 18, 1974, P.L. 483, No. 174) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1480,6 +1669,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `insurance-fund-created-1915` | INSURANCE FUND CREATED (Act of May 14, 1915, P.L. 524, No. 227) | 1 | 2026-11-10 to 2026-11-10 |
 | `insurance-licenses-preventing-fraudulent-obtaining-1931` | INSURANCE LICENSES, PREVENTING FRAUDULENT OBTAINING (Act of Jun. 22, 1931, P.L. 622, No. 211) | 1 | 2026-11-10 to 2026-11-10 |
 | `insurance-payment-to-registered-nurse-law-1986` | INSURANCE PAYMENT TO REGISTERED NURSE LAW (Act of Dec. 19, 1986, P.L. 1737, No. 209) | 1 | 2026-11-10 to 2026-11-10 |
+| `insurance-policies-lost-copies-to-be-made-of-1850` | INSURANCE POLICIES LOST - COPIES TO BE MADE OF (Act of Mar. 4, 1850, P.L. 126, No. 110) | 1 | 2026-11-10 to 2026-11-10 |
 | `insurance-premium-finance-company-act-1984` | INSURANCE PREMIUM FINANCE COMPANY ACT (Act of Dec. 19, 1984, P.L. 1182, No. 224) | 1 | 2026-11-10 to 2026-11-10 |
 | `insurance-regulation-and-oversight-fund-act-2013` | INSURANCE REGULATION AND OVERSIGHT FUND ACT (Act of Jul. 2, 2013, P.L. 255, No. 46) | 1 | 2026-11-10 to 2026-11-10 |
 | `insurance-reimbursement-nurse-midwife-services-1981` | INSURANCE REIMBURSEMENT - NURSE MIDWIFE SERVICES (Act of Dec. 23, 1981, P.L. 583, No. 168) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1489,7 +1679,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `intangible-personal-property-tax-law-1913` | INTANGIBLE PERSONAL PROPERTY TAX LAW (Act of Jun. 17, 1913, P.L. 507, No. 335) | 1 | 2026-11-10 to 2026-11-10 |
 | `inter-county-bridges-joint-construction-1925` | INTER-COUNTY BRIDGES, JOINT CONSTRUCTION (Act of May 13, 1925, P.L. 667, No. 359) | 1 | 2026-11-10 to 2026-11-10 |
 | `inter-county-bridges-rebuilding-1923` | INTER COUNTY BRIDGES, REBUILDING (Act of Jul. 11, 1923, P.L. 1070, No. 436) | 1 | 2026-11-10 to 2026-11-10 |
+| `interest-on-land-regulation-mode-of-charging-1814` | INTEREST ON LAND, REGULATION MODE OF CHARGING (Act of Mar. 28, 1814, P.L. 239, No. 129) | 1 | 2026-11-10 to 2026-11-10 |
+| `interest-on-lands-payment-of-1817` | INTEREST ON LANDS PAYMENT OF (Act of Jan. 14, 1817, P.L. 18, No. 15) | 1 | 2026-11-10 to 2026-11-10 |
+| `interest-on-lands-regulate-mode-of-charging-supplement-1817` | INTEREST ON LANDS REGULATE MODE OF CHARGING - SUPPLEMENT (Act of Mar. 10, 1817, P.L. 99, No. 77) | 1 | 2026-11-10 to 2026-11-10 |
 | `interest-on-lawyers-trust-accounts-act-1988` | INTEREST ON LAWYERS' TRUST ACCOUNTS ACT (Act of Apr. 29, 1988, P.L. 373, No. 59) | 1 | 2026-11-10 to 2026-11-10 |
+| `interest-on-public-accounts-1867` | INTEREST ON PUBLIC ACCOUNTS (Act of Apr. 9, 1867, P.L. 58, No. 36) | 1 | 2026-11-10 to 2026-11-10 |
 | `intergovernmental-cooperation-authorities-act-for-cities-of-the-third-2018` | INTERGOVERNMENTAL COOPERATION AUTHORITIES ACT FOR CITIES OF THE THIRD CLASS (Act of Oct. 24, 2018, P.L. 751, No. 124) | 1 | 2026-11-10 to 2026-11-10 |
 | `intergovernmental-cooperation-authority-act-for-cities-of-the-second-2004` | INTERGOVERNMENTAL COOPERATION AUTHORITY ACT FOR CITIES OF THE SECOND CLASS (Act of Feb. 12, 2004, P.L. 73, No. 11) | 1 | 2026-11-10 to 2026-11-10 |
 | `interstate-adoption-compact-act-2002` | INTERSTATE ADOPTION COMPACT ACT (Act of Jun. 28, 2002, P.L. 467, No. 76) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1520,11 +1714,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `john-harris-memorial-bridge-designation-1973` | JOHN HARRIS MEMORIAL BRIDGE - DESIGNATION (Act of Apr. 13, 1973, P.L. 19, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
 | `joint-appeals-authorized-to-labor-claimants-1897` | JOINT APPEALS AUTHORIZED TO LABOR CLAIMANTS (Act of Jun. 15, 1897, P.L. 154, No. 127) | 1 | 2026-11-10 to 2026-11-10 |
 | `joint-state-government-commission-creation-of-1937` | JOINT STATE GOVERNMENT COMMISSION, CREATION OF (Act of Jul. 1, 1937, P.L. 2460, No. 459) | 1 | 2026-11-10 to 2026-11-10 |
+| `joint-tenancy-descend-as-tenancy-in-common-1812` | JOINT TENANCY - DESCEND AS TENANCY IN COMMON (Act of Mar. 31, 1812, P.L. 259, No. 194) | 1 | 2026-11-10 to 2026-11-10 |
 | `joint-toll-bridge-act-supplemented-1931` | JOINT TOLL BRIDGE ACT SUPPLEMENTED (Act of Apr. 24, 1931, P.L. 49, No. 41) | 1 | 2026-11-10 to 2026-11-10 |
 | `joseph-f-bonetto-memorial-highway-designation-1989` | JOSEPH F. BONETTO MEMORIAL HIGHWAY - DESIGNATION (Act of Nov. 22, 1989, P.L. 605, No. 66) | 1 | 2026-11-10 to 2026-11-10 |
 | `joseph-h-long-boulevard-designation-1989` | JOSEPH H. LONG BOULEVARD - DESIGNATION (Act of Nov. 22, 1989, P.L. 606, No. 67) | 1 | 2026-11-10 to 2026-11-10 |
 | `joseph-v-grieco-fort-antes-bridge-designation-1987` | JOSEPH V. GRIECO-FORT ANTES BRIDGE - DESIGNATION (Act of Oct. 16, 1987, P.L. 357, No. 71) | 1 | 2026-11-10 to 2026-11-10 |
 | `judge-advocates-united-states-army-power-of-notary-public-1919` | JUDGE ADVOCATES, UNITED STATES ARMY, POWER OF NOTARY PUBLIC (Act of Mar. 14, 1919, P.L. 18, No. 9) | 1 | 2026-11-10 to 2026-11-10 |
+| `judgments-in-cases-made-valid-1837` | JUDGMENTS IN CASES MADE VALID (Act of Apr. 1, 1837, P.L. 132, No. 67) | 1 | 2026-11-10 to 2026-11-10 |
 | `judgments-recording-of-1921` | JUDGMENTS, RECORDING OF (Act of May 17, 1921, P.L. 860, No. 303) | 1 | 2026-11-10 to 2026-11-10 |
 | `judgments-stay-of-execution-of-1885` | JUDGMENTS, STAY OF EXECUTION OF (Act of Jun. 24, 1885, P.L. 158, No. 124) | 1 | 2026-11-10 to 2026-11-10 |
 | `junk-dealers-regulated-1899` | JUNK DEALERS REGULATED (Act of Apr. 11, 1899, P.L. 37, No. 36) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1548,6 +1744,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `korean-conflict-veterans-compensation-act-1957` | KOREAN CONFLICT VETERANS' COMPENSATION ACT (Act of Jul. 8, 1957, P.L. 569, No. 317) | 1 | 2026-11-10 to 2026-11-10 |
 | `korean-conflict-veterans-compensation-bond-act-1959` | KOREAN CONFLICT VETERANS' COMPENSATION BOND ACT (Act of May. 4, 1959, P.L. 285, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
 | `labor-anti-injunction-act-1937` | "LABOR ANTI-INJUNCTION ACT" (Act of Jun. 2, 1937, P.L. 1198, No. 308) | 1 | 2026-11-10 to 2026-11-10 |
+| `laborers-and-contractors-protection-of-1843` | LABORERS AND CONTRACTORS - PROTECTION OF (Act of Jan. 14, 1843, P.L. 1, No. 1) | 1 | 2026-11-10 to 2026-11-10 |
 | `laborers-collection-of-wages-1879` | LABORERS, COLLECTION OF WAGES (Act of Jun. 12, 1879, P.L. 176, No. 191) | 1 | 2026-11-10 to 2026-11-10 |
 | `lake-kahle-designation-1975` | LAKE KAHLE - DESIGNATION (Act of Jun. 26, 1975, P.L. 30, No. 13) | 1 | 2026-11-10 to 2026-11-10 |
 | `land-abutting-highways-and-streets-1913` | LAND ABUTTING HIGHWAYS AND STREETS (Act of May 28, 1913, P.L. 368, No. 253) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1557,20 +1754,30 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `land-conveyances-or-mortgages-relating-to-1891` | LAND CONVEYANCES OR MORTGAGES - RELATING TO (Act of Jun. 1, 1891, P.L. 159, No. 152) | 1 | 2026-11-10 to 2026-11-10 |
 | `land-drainage-of-1923` | LAND, DRAINAGE OF (Act of Apr. 19, 1923, P.L. 78, No. 54) | 1 | 2026-11-10 to 2026-11-10 |
 | `land-for-recreation-limiting-liability-of-owner-1965` | LAND FOR RECREATION - LIMITING LIABILITY OF OWNER (Act of Feb. 2, (1966) 1965, P.L. 1860, No. 586) | 1 | 2026-11-10 to 2026-11-10 |
+| `land-office-institute-suits-for-recovery-of-moneys-for-land-1826` | LAND OFFICE INSTITUTE SUITS FOR RECOVERY OF MONEYS FOR LAND (Act of Apr. 8, 1826, P.L. 260, No. 85) | 1 | 2026-11-10 to 2026-11-10 |
+| `land-office-officers-returns-of-surveys-1817` | LAND OFFICE OFFICERS RETURNS OF SURVEYS (Act of Mar. 13, 1817, P.L. 113, No. 91) | 1 | 2026-11-10 to 2026-11-10 |
+| `land-office-to-confirm-surveys-1832` | LAND OFFICE TO CONFIRM SURVEYS (Act of May 3, 1832, P.L. 431, No. 172) | 1 | 2026-11-10 to 2026-11-10 |
+| `land-patents-relating-to-1854` | LAND PATENTS - RELATING TO (Act of Apr. 13, 1854, P.L. 340, No. 323) | 1 | 2026-11-10 to 2026-11-10 |
 | `land-recycling-and-environmental-remediation-standards-act-1995` | LAND RECYCLING AND ENVIRONMENTAL REMEDIATION STANDARDS ACT (Act of May. 19, 1995, P.L. 4, No. 2) | 1 | 2026-11-10 to 2026-11-10 |
 | `land-sold-at-tax-sales-cleared-of-tax-liens-1895` | LAND SOLD AT TAX SALES CLEARED OF TAX LIENS (Act of May 22, 1895, P.L. 111, No. 84) | 1 | 2026-11-10 to 2026-11-10 |
 | `land-taken-for-public-roads-time-of-review-1899` | LAND TAKEN FOR PUBLIC ROADS, TIME OF REVIEW (Act of Apr. 3, 1899, P.L. 26, No. 22) | 1 | 2026-11-10 to 2026-11-10 |
 | `land-taken-for-public-use-damages-1913` | LAND TAKEN FOR PUBLIC USE, DAMAGES (Act of Jun. 20, 1913, P.L. 543, No. 349) | 1 | 2026-11-10 to 2026-11-10 |
 | `land-tracts-relating-to-1899` | LAND TRACTS - RELATING TO (Act of Apr. 28, 1899, P.L. 123, No. 101) | 1 | 2026-11-10 to 2026-11-10 |
 | `land-transfer-to-u-s-for-presidential-home-1929` | LAND TRANSFER TO U.S. FOR PRESIDENTIAL HOME (Act of May 14, 1929, P.L. 1755, No. 567) | 1 | 2026-11-10 to 2026-11-10 |
+| `lands-being-sold-for-non-payment-of-taxes-1856` | LANDS BEING SOLD FOR NON-PAYMENT OF TAXES (Act of Apr. 21, 1856, P.L. 477, No. 502) | 1 | 2026-11-10 to 2026-11-10 |
+| `lands-for-taxes-mode-of-selling-1817` | LANDS FOR TAXES MODE OF SELLING (Act of Mar. 13, 1817, P.L. 111, No. 89) | 1 | 2026-11-10 to 2026-11-10 |
 | `lands-received-for-delinquent-taxes-sale-of-1913` | LANDS RECEIVED FOR DELINQUENT TAXES, SALE OF (Act of Apr. 4, 1913, P.L. 43, No. 34) | 1 | 2026-11-10 to 2026-11-10 |
 | `lands-sale-of-for-taxes-1941` | LANDS, SALE OF FOR TAXES (Act of Jun. 18, 1941, P.L. 131, No. 69) | 1 | 2026-11-10 to 2026-11-10 |
 | `landscape-architects-registration-law-1965` | LANDSCAPE ARCHITECTS' REGISTRATION LAW (Act of Jan. 24, (1966) 1965, P.L. 1527, No. 535) | 1 | 2026-11-10 to 2026-11-10 |
+| `lawrence-county-erected-1850` | LAWRENCE COUNTY ERECTED (Act of Mar. 25, 1850, P.L. 277, No. 228) | 1 | 2026-11-10 to 2026-11-10 |
 | `laws-printing-and-distribution-1901` | LAWS, PRINTING AND DISTRIBUTION (Act of Jun. 21, 1901, P.L. 595, No. 289) | 1 | 2026-11-10 to 2026-11-10 |
 | `laws-related-to-soldiers-and-sailors-providing-compilation-1931` | LAWS RELATED TO SOLDIERS AND SAILORS, PROVIDING COMPILATION (Act of Jun. 23, 1931, P.L. 2025, No. 327) | 1 | 2026-11-10 to 2026-11-10 |
 | `lead-certification-act-1995` | LEAD CERTIFICATION ACT (Act of Jul. 6, 1995, P.L. 291, No. 44) | 1 | 2026-11-10 to 2026-11-10 |
 | `lease-land-in-delaware-river-to-philadelphia-1980` | LEASE - LAND IN DELAWARE RIVER TO PHILADELPHIA (Act of Dec. 9, 1980, P.L. 1133, No. 201) | 1 | 2026-11-10 to 2026-11-10 |
+| `leasing-of-railroads-1865` | LEASING OF RAILROADS (Act of Jun. 21, 1865, P.L. 852, No. 842) | 1 | 2026-11-10 to 2026-11-10 |
 | `leasing-west-state-psychiatric-institute-to-the-university-of-1949` | LEASING WEST STATE PSYCHIATRIC INSTITUTE TO THE UNIVERSITY OF PITTSBURGH (Act of May 20, 1949, P.L. 1643, No. 496) | 1 | 2026-11-10 to 2026-11-10 |
+| `leechburg-borough-incorporated-1850` | LEECHBURG BOROUGH INCORPORATED (Act of Mar. 22, 1850, P.L. 305, No. 243) | 1 | 2026-11-10 to 2026-11-10 |
+| `legal-document-and-fee-tax-suits-for-collection-collection-and-1848` | LEGAL DOCUMENT AND FEE TAX - SUITS FOR COLLECTION - COLLECTION AND (ACCOUNTNG) | 1 | 2026-11-10 to 2026-11-10 |
 | `legal-holiday-law-1893` | LEGAL HOLIDAY LAW (Act of May 31, 1893, P.L. 188, No. 138) | 1 | 2026-11-10 to 2026-11-10 |
 | `legal-investments-creation-1917` | LEGAL INVESTMENTS, CREATION (Act of Apr. 5, 1917, P.L. 47, No. 29) | 1 | 2026-11-10 to 2026-11-10 |
 | `legal-settlement-of-confined-persons-1939` | LEGAL SETTLEMENT OF CONFINED PERSONS (Act of Jun. 19, 1939, P.L. 434, No. 244) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1582,6 +1789,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `legislative-officers-and-employes-law-1967` | LEGISLATIVE OFFICERS AND EMPLOYES LAW (Act of Jan. 10, (1968) 1967, P.L. 925, No. 417) | 1 | 2026-11-10 to 2026-11-10 |
 | `legislative-reference-bureau-compile-laws-on-military-affairs-1939` | LEGISLATIVE REFERENCE BUREAU COMPILE LAWS ON MILITARY AFFAIRS (Act of Jun. 26, 1939, P.L. 1105, No. 388) | 1 | 2026-11-10 to 2026-11-10 |
 | `legislative-reference-bureau-created-1923` | LEGISLATIVE REFERENCE BUREAU CREATED (Act of May. 7, 1923, P.L. 158, No. 119) | 1 | 2026-11-10 to 2026-11-10 |
+| `legislature-administering-oaths-1804` | LEGISLATURE - ADMINISTERING OATHS (Act of Mar. 19, 1804, P.L. 330, No. 72) | 1 | 2026-11-10 to 2026-11-10 |
 | `legislature-officers-and-employees-1901` | LEGISLATURE, OFFICERS AND EMPLOYEES (Act of May 10, 1901, P.L. 151, No. 122) | 1 | 2026-11-10 to 2026-11-10 |
 | `lehigh-scenic-river-act-1982` | LEHIGH SCENIC RIVER ACT (Act of Apr. 5, 1982, P.L. 222, No. 71) | 1 | 2026-11-10 to 2026-11-10 |
 | `lethal-weapons-training-act-1974` | LETHAL WEAPONS TRAINING ACT (Act of Oct. 10, 1974, P.L. 705, No. 235) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1593,13 +1801,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `licensing-taxicab-drivers-1921` | LICENSING TAXICAB DRIVERS (Act of May. 21, 1921, P.L. 1053, No. 382) | 1 | 2026-11-10 to 2026-11-10 |
 | `licensure-of-nonresident-farm-produce-dealers-1978` | LICENSURE OF NONRESIDENT FARM PRODUCE DEALERS (Act of Oct. 4, 1978, P.L. 1057, No. 245) | 1 | 2026-11-10 to 2026-11-10 |
 | `lick-run-wild-and-scenic-river-act-1982` | LICK RUN WILD AND SCENIC RIVER ACT (Act of Dec. 17, 1982, P.L. 1402, No. 324) | 1 | 2026-11-10 to 2026-11-10 |
+| `lien-creditors-redemption-money-paid-by-1874` | LIEN CREDITORS, REDEMPTION MONEY PAID BY (Act of May 15, 1874, P.L. 192, No. 124) | 1 | 2026-11-10 to 2026-11-10 |
 | `lien-of-mortgages-and-defeasible-deeds-1927` | LIEN OF MORTGAGES AND DEFEASIBLE DEEDS (Act of Apr. 27, 1927, P.L. 440, No. 284) | 1 | 2026-11-10 to 2026-11-10 |
+| `liens-for-money-due-commonwealth-1869` | LIENS FOR MONEY DUE COMMONWEALTH (Act of Apr. 15, 1869, P.L. 31, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
+| `liens-for-principal-and-interest-due-commonwealth-on-lands-1872` | LIENS FOR PRINCIPAL AND INTEREST DUE COMMONWEALTH ON LANDS (Act of Apr. 11, 1872, P.L. 51, No. 43) | 1 | 2026-11-10 to 2026-11-10 |
+| `liens-for-principal-and-interest-due-commonwealth-on-lands-supplement-1871` | LIENS FOR PRINCIPAL AND INTEREST DUE COMMONWEALTH ON LANDS - SUPPLEMENT (Act of May 5, 1871, P.L. 261, No. 241) | 1 | 2026-11-10 to 2026-11-10 |
+| `liens-for-the-principal-and-interest-due-commonwealth-1864` | LIENS FOR THE PRINCIPAL AND INTEREST DUE COMMONWEALTH (Act of May 20, 1864, P.L. 914, No. 814) | 1 | 2026-11-10 to 2026-11-10 |
+| `liens-for-the-principal-interest-due-commonwealth-1868` | LIENS FOR THE PRINCIPAL INTEREST DUE COMMONWEALTH (Act of Apr. 4, 1868, P.L. 60, No. 27) | 1 | 2026-11-10 to 2026-11-10 |
+| `liens-of-common-carriers-1864` | LIENS OF COMMON CARRIERS (Act of Dec. 14, (1863) 1864, P.L. 1127, No. 965) | 1 | 2026-11-10 to 2026-11-10 |
 | `lieutenant-colonel-john-b-brettell-bridge-designation-1983` | LIEUTENANT COLONEL JOHN B. BRETTELL BRIDGE - DESIGNATION (Act of Nov. 3, 1983, P.L. 205, No. 57) | 1 | 2026-11-10 to 2026-11-10 |
 | `lieutenant-governor-election-and-salary-1874` | LIEUTENANT GOVERNOR, ELECTION AND SALARY (Act of Mar. 24, 1874, P.L. 48, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
 | `life-health-and-accident-policies-for-state-employees-1931` | LIFE, HEALTH AND ACCIDENT POLICIES FOR STATE EMPLOYEES (Act of Jun. 22, 1931, P.L. 844, No. 274) | 1 | 2026-11-10 to 2026-11-10 |
 | `life-insurance-assignment-of-proceeds-prohibited-in-some-case-1919` | LIFE INSURANCE, ASSIGNMENT OF PROCEEDS PROHIBITED IN SOME CASE (Act of May 17, 1919, P.L. 208, No. 129) | 1 | 2026-11-10 to 2026-11-10 |
 | `life-insurance-companies-stock-of-1921` | LIFE INSURANCE COMPANIES, STOCK OF (Act of Apr. 20, 1921, P.L. 175, No. 103) | 1 | 2026-11-10 to 2026-11-10 |
 | `life-insurance-negotiation-1937` | LIFE INSURANCE, NEGOTIATION (Act of May 21, 1937, P.L. 774, No. 210) | 1 | 2026-11-10 to 2026-11-10 |
+| `lime-form-of-bushel-for-measuring-1819` | LIME FORM OF BUSHEL FOR MEASURING (Act of Mar. 23, 1819, P.L. 150, No. 97) | 1 | 2026-11-10 to 2026-11-10 |
 | `limited-access-highway-law-1945` | LIMITED ACCESS HIGHWAY LAW (Act of May. 29, 1945, P.L. 1108, No. 402) | 1 | 2026-11-10 to 2026-11-10 |
 | `limited-winery-signage-act-1994` | LIMITED WINERY SIGNAGE ACT (Act of Oct. 13, 1994, P.L. 613, No. 94) | 1 | 2026-11-10 to 2026-11-10 |
 | `limiting-liability-of-owners-of-land-and-water-areas-available-for-2007` | LIMITING LIABILITY OF OWNERS OF LAND AND WATER AREAS AVAILABLE FOR RECREATIONAL PURPOSES (Act of Jun. 30, 2007, P.L. 42, No. 11) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1626,15 +1842,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `local-project-70-land-use-change-by-grove-city-borough-1978` | LOCAL PROJECT 70 LAND - USE CHANGE BY GROVE CITY BOROUGH (Act of Apr. 12, 1978, P.L. 29, No. 14) | 1 | 2026-11-10 to 2026-11-10 |
 | `local-project-70-land-use-change-by-hellerton-borough-1977` | LOCAL PROJECT 70 LAND - USE CHANGE BY HELLERTON BOROUGH (Act of Oct. 28, 1977, P.L. 216, No. 65) | 1 | 2026-11-10 to 2026-11-10 |
 | `local-tax-collection-law-1945` | LOCAL TAX COLLECTION LAW (Act of May 25, 1945, P.L. 1050, No. 394) | 1 | 2026-11-10 to 2026-11-10 |
+| `local-tax-collections-enforcement-suit-after-warrant-expired-1848` | LOCAL TAX COLLECTIONS - ENFORCEMENT - SUIT AFTER WARRANT EXPIRED (Act of Apr. 11, 1848, P.L. 517, No. 364) | 1 | 2026-11-10 to 2026-11-10 |
 | `local-tax-enabling-act-the-1965` | LOCAL TAX ENABLING ACT, THE (Act of Dec. 31, 1965, P.L. 1257, No. 511) | 1 | 2026-11-10 to 2026-11-10 |
 | `local-tax-reform-act-1988` | LOCAL TAX REFORM ACT (Act of Dec. 13, 1988, P.L. 1121, No. 145) | 1 | 2026-11-10 to 2026-11-10 |
+| `local-tax-sales-validity-of-sale-caveat-emptor-1851` | LOCAL TAX SALES - VALIDITY OF SALE - CAVEAT EMPTOR (Act of Apr. 8, 1851, P.L. 356, No. 229) | 1 | 2026-11-10 to 2026-11-10 |
 | `locust-mountain-memorial-hospital-1923` | LOCUST MOUNTAIN MEMORIAL HOSPITAL (Act of May 11, 1923, P.L. 199, No. 145) | 1 | 2026-11-10 to 2026-11-10 |
+| `log-and-lumber-owners-on-susquehanna-river-protection-of-1862` | LOG AND LUMBER OWNERS ON SUSQUEHANNA RIVER - PROTECTION OF (Act of Apr. 10, 1862, P.L. 383, No. 393) | 1 | 2026-11-10 to 2026-11-10 |
 | `long-term-care-nursing-facility-independent-informal-dispute-2011` | LONG-TERM CARE NURSING FACILITY INDEPENDENT INFORMAL DISPUTE RESOLUTION ACT (Act of Dec. 22, 2011, P.L. 592, No. 128) | 1 | 2026-11-10 to 2026-11-10 |
 | `long-term-care-resident-and-employee-immunization-act-2001` | LONG-TERM CARE RESIDENT AND EMPLOYEE IMMUNIZATION ACT (Act of Dec. 13, 2001, P.L. 871, No. 95) | 1 | 2026-11-10 to 2026-11-10 |
+| `lost-deeds-supplement-1866` | LOST DEEDS - SUPPLEMENT (Act of Feb. 16, 1866, P.L. 50, No. 56) | 1 | 2026-11-10 to 2026-11-10 |
 | `lost-property-return-of-1911` | LOST PROPERTY, RETURN OF (Act of Jun. 13, 1911, P.L. 890, No. 676) | 1 | 2026-11-10 to 2026-11-10 |
 | `low-level-radioactive-waste-disposal-act-1988` | LOW-LEVEL RADIOACTIVE WASTE DISPOSAL ACT (Act of Feb. 9, 1988, P.L. 31, No. 12) | 1 | 2026-11-10 to 2026-11-10 |
 | `low-level-radioactive-waste-disposal-regional-facility-act-1990` | LOW-LEVEL RADIOACTIVE WASTE DISPOSAL REGIONAL FACILITY ACT (Act of Jul. 11, 1990, P.L. 436, No. 107) | 1 | 2026-11-10 to 2026-11-10 |
 | `lower-brandywine-scenic-rivers-act-1989` | LOWER BRANDYWINE SCENIC RIVERS ACT (Act of Jun. 16, 1989, P.L. 22, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
+| `lumber-and-flat-boats-taken-up-the-ohio-and-other-rivers-1849` | LUMBER AND FLAT BOATS TAKEN UP THE OHIO AND OTHER RIVERS (Act of Mar. 6, 1849, P.L. 138, No. 119) | 1 | 2026-11-10 to 2026-11-10 |
+| `lumbering-business-in-counties-of-clearfield-centre-clinton-and-elk-1873` | LUMBERING BUSINESS IN COUNTIES OF CLEARFIELD, CENTRE, CLINTON AND ELK (Act of Apr. 2, 1873, P.L. 488, No. 515) | 1 | 2026-11-10 to 2026-11-10 |
 | `lyme-and-related-tick-borne-disease-surveillance-education-prevention-2014` | LYME AND RELATED TICK-BORNE DISEASE SURVEILLANCE, EDUCATION, PREVENTION AND TREATMENT ACT (Act of Jun. 29, 2014, P.L. 808, No. 83) | 1 | 2026-11-10 to 2026-11-10 |
 | `magisterial-district-reform-act-1976` | MAGISTERIAL DISTRICT REFORM ACT (Act of Jul. 15, 1976, P.L. 1014, No. 204) | 1 | 2026-11-10 to 2026-11-10 |
 | `main-street-act-2002` | MAIN STREET ACT (Act of Apr. 23, 2002, P.L. 298, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1651,12 +1873,15 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `making-the-white-tail-deer-the-state-animal-1959` | MAKING THE WHITE TAIL DEER THE STATE ANIMAL (Act of Oct. 2, 1959, P.L. 1005, No. 416) | 1 | 2026-11-10 to 2026-11-10 |
 | `making-wire-fences-legal-1899` | MAKING WIRE FENCES LEGAL (Act of May. 2, 1899, P.L. 163, No. 111) | 1 | 2026-11-10 to 2026-11-10 |
 | `mammography-quality-assurance-act-1992` | MAMMOGRAPHY QUALITY ASSURANCE ACT (Act of Jul. 9, 1992, P.L. 449, No. 93) | 1 | 2026-11-10 to 2026-11-10 |
+| `management-of-state-treasury-and-sinking-fund-1870` | MANAGEMENT OF STATE TREASURY AND SINKING FUND (Act of Apr. 14, 1870, P.L. 73, No. 47) | 1 | 2026-11-10 to 2026-11-10 |
 | `manpower-employment-assistance-and-training-act-1968` | MANPOWER EMPLOYMENT ASSISTANCE AND TRAINING ACT (Act of Jul. 31, 1968, P.L. 736, No. 232) | 1 | 2026-11-10 to 2026-11-10 |
 | `manufactured-home-community-rights-act-1976` | MANUFACTURED HOME COMMUNITY RIGHTS ACT (Act of Nov. 24, 1976, P.L. 1176, No. 261) | 1 | 2026-11-10 to 2026-11-10 |
 | `manufactured-housing-construction-and-safety-standards-authorization-1982` | MANUFACTURED HOUSING CONSTRUCTION AND SAFETY STANDARDS AUTHORIZATION ACT (Act of Nov. 17, 1982, P.L. 676, No. 192) | 1 | 2026-11-10 to 2026-11-10 |
 | `manufactured-housing-improvement-act-2004` | MANUFACTURED HOUSING IMPROVEMENT ACT (Act of Nov. 29, 2004, P.L. 1282, No. 158) | 1 | 2026-11-10 to 2026-11-10 |
 | `manufacturers-certain-taxes-prohibited-1925` | MANUFACTURERS CERTAIN TAXES PROHIBITED (Act of May 14, 1925, P.L. 745, No. 405) | 1 | 2026-11-10 to 2026-11-10 |
 | `marine-insurance-tax-imposed-1927` | MARINE INSURANCE TAX IMPOSED (Act of May 13, 1927, P.L. 998, No. 486) | 1 | 2026-11-10 to 2026-11-10 |
+| `market-companies-certain-rights-granted-1862` | MARKET COMPANIES - CERTAIN RIGHTS GRANTED (Act of Feb. 26, 1862, P.L. 54, No. 61) | 1 | 2026-11-10 to 2026-11-10 |
+| `marking-of-county-lines-1854` | MARKING OF COUNTY LINES (Act of Mar. 6, 1854, P.L. 155, No. 121) | 1 | 2026-11-10 to 2026-11-10 |
 | `martin-luther-king-jr-expressway-designation-1988` | MARTIN LUTHER KING, JR., EXPRESSWAY - DESIGNATION (Act of Nov. 21, 1988, P.L. 1080, No. 123) | 1 | 2026-11-10 to 2026-11-10 |
 | `massage-therapy-law-2008` | MASSAGE THERAPY LAW (Act of Oct. 9, 2008, P.L. 1438, No. 118) | 1 | 2026-11-10 to 2026-11-10 |
 | `maternal-mortality-review-act-2018` | MATERNAL MORTALITY REVIEW ACT (Act of May 9, 2018, P.L. 118, No. 24) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1664,7 +1889,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mausoleums-and-crypts-regulated-1915` | MAUSOLEUMS AND CRYPTS REGULATED (Act of Jun. 1, 1915, P.L. 660, No. 291) | 1 | 2026-11-10 to 2026-11-10 |
 | `max-manufacturing-initiative-act-2024` | MAX MANUFACTURING INITIATIVE ACT (Act of Jun. 13, 2024, P.L. 393, No. 24) | 1 | 2026-11-10 to 2026-11-10 |
 | `maynard-street-veterans-memorial-bridge-designation-1987` | MAYNARD STREET VETERANS MEMORIAL BRIDGE - DESIGNATION (Act of Jun. 15, 1987, P.L. 25, No. 10) | 1 | 2026-11-10 to 2026-11-10 |
+| `mayor-alderman-and-citizens-invested-with-powers-1832` | MAYOR, ALDERMAN AND CITIZENS INVESTED WITH POWERS (Act of Mar. 24, 1832, P.L. 176, No. 93) | 1 | 2026-11-10 to 2026-11-10 |
+| `mayor-recorder-and-alderman-of-pittsburgh-1816` | MAYOR, RECORDER AND ALDERMAN OF PITTSBURGH (Act of Mar. 18, 1816, P.L. 160, No. 109) | 1 | 2026-11-10 to 2026-11-10 |
 | `mayors-authorized-to-appoint-a-commission-1925` | MAYORS, AUTHORIZED TO APPOINT A COMMISSION (Act of Mar. 19, 1925, P.L. 59, No. 38) | 1 | 2026-11-10 to 2026-11-10 |
+| `mechanics-and-laborers-protection-of-1854` | MECHANICS AND LABORERS - PROTECTION OF (Act of Apr. 22, 1854, P.L. 480, No. 479) | 1 | 2026-11-10 to 2026-11-10 |
+| `mechanics-lien-law-extended-to-other-counties-1835` | MECHANICS' LIEN LAW EXTENDED TO OTHER COUNTIES (Act of Apr. 11, 1835, P.L. 190, No. 116) | 1 | 2026-11-10 to 2026-11-10 |
 | `mechanics-lien-law-of-1963-1963` | MECHANICS' LIEN LAW OF 1963 (Act of Aug. 24, 1963, P.L. 1175, No. 497) | 1 | 2026-11-10 to 2026-11-10 |
 | `mechanics-liens-prohibited-under-certain-circumstances-1935` | MECHANICS LIENS PROHIBITED UNDER CERTAIN CIRCUMSTANCES (Act of Jul. 12, 1935, P.L. 667, No. 246) | 1 | 2026-11-10 to 2026-11-10 |
 | `mechanics-liens-sale-of-encumbered-property-1925` | MECHANICS LIENS, SALE OF ENCUMBERED PROPERTY (Act of May 7, 1925, P.L. 557, No. 300) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1686,6 +1915,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `memorials-maintenance-of-1925` | MEMORIALS, MAINTENANCE OF (Act of Apr. 30, 1925, P.L. 371, No. 223) | 1 | 2026-11-10 to 2026-11-10 |
 | `mental-health-or-mental-retardation-facility-closure-act-1999` | MENTAL HEALTH OR MENTAL RETARDATION FACILITY CLOSURE ACT (Act of Apr. 28, 1999, P.L. 24, No. 3) | 1 | 2026-11-10 to 2026-11-10 |
 | `mental-health-procedures-act-1976` | MENTAL HEALTH PROCEDURES ACT (Act of Jul. 9, 1976, P.L. 817, No. 143) | 1 | 2026-11-10 to 2026-11-10 |
+| `mercantile-tax-agents-of-nonresidents-philadelphia-1852` | MERCANTILE TAX - AGENTS OF NONRESIDENTS - PHILADELPHIA (Act of Apr. 6, 1852, P.L. 268, No. 181) | 1 | 2026-11-10 to 2026-11-10 |
 | `mercury-free-themostat-act-2008` | MERCURY-FREE THEMOSTAT ACT (Act of Oct. 9, 2008, P.L. 1346, No. 97) | 1 | 2026-11-10 to 2026-11-10 |
 | `methadone-death-and-incident-review-act-2012` | METHADONE DEATH AND INCIDENT REVIEW ACT (Act of Oct. 24, 2012, P.L. 1198, No. 148) | 1 | 2026-11-10 to 2026-11-10 |
 | `michael-ricci-bridge-designation-1988` | MICHAEL RICCI BRIDGE - DESIGNATION (Act of Dec. 5, 1988, P.L. 1100, No. 129) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1703,6 +1933,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `milton-s-emeigh-bridge-designation-1986` | MILTON S. EMEIGH BRIDGE - DESIGNATION (Act of Feb. 14, 1986, P.L. 22, No. 8) | 1 | 2026-11-10 to 2026-11-10 |
 | `mine-families-first-act-2007` | MINE FAMILIES FIRST ACT (Act of Oct. 4, 2007, P.L. 415, No. 57) | 1 | 2026-11-10 to 2026-11-10 |
 | `mine-foremen-commissioning-as-state-officers-1943` | MINE FOREMEN, COMMISSIONING AS STATE OFFICERS (Act of Jun. 3, 1943, P.L. 848, No. 357) | 1 | 2026-11-10 to 2026-11-10 |
+| `mine-ventilation-act-1870` | MINE VENTILATION ACT (Act of Mar. 3, 1870, P.L. 3, No. 1) | 1 | 2026-11-10 to 2026-11-10 |
+| `mineral-resources-of-the-commonwealth-developed-1849` | MINERAL RESOURCES OF THE COMMONWEALTH - DEVELOPED (Act of Mar. 24, 1849, P.L. 225, No. 189) | 1 | 2026-11-10 to 2026-11-10 |
 | `miners-bodies-recovered-from-coal-mines-1889` | MINERS, BODIES RECOVERED FROM COAL MINES (Act of May. 9, 1889, P.L. 154, No. 171) | 1 | 2026-11-10 to 2026-11-10 |
 | `miners-home-establishment-1903` | MINERS' HOME, ESTABLISHMENT (Act of Apr. 22, 1903, P.L. 248, No. 184) | 1 | 2026-11-10 to 2026-11-10 |
 | `miners-wages-calculated-1875` | MINERS, WAGES CALCULATED (Act of Mar. 30, 1875, P.L. 38, No. 45) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1715,8 +1947,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `model-act-for-the-regulation-of-credit-life-insurance-and-credit-1961` | MODEL ACT FOR THE REGULATION OF CREDIT LIFE INSURANCE AND CREDIT ACCIDENT AND HEALTH INSURANCE (Act of Sep. 2, 1961, P.L. 1232, No. 540) | 1 | 2026-11-10 to 2026-11-10 |
 | `money-or-property-subject-to-escheat-relating-to-1919` | MONEY OR PROPERTY SUBJECT TO ESCHEAT, RELATING TO (Act of May 16, 1919, P.L. 177, No. 115) | 1 | 2026-11-10 to 2026-11-10 |
 | `money-transmission-business-licensing-law-1965` | MONEY TRANSMISSION BUSINESS LICENSING LAW (Act of Sep. 2, 1965, P.L. 490, No. 249) | 1 | 2026-11-10 to 2026-11-10 |
+| `moneys-due-the-commonwealth-1858` | MONEYS DUE THE COMMONWEALTH (Act of Apr. 19, 1858, P.L. 333, No. 371) | 1 | 2026-11-10 to 2026-11-10 |
 | `moneys-received-from-federal-government-1921` | MONEYS RECEIVED FROM FEDERAL GOVERNMENT (Act of May 24, 1921, P.L. 1116, No. 411) | 1 | 2026-11-10 to 2026-11-10 |
 | `monthly-return-of-monies-by-state-officers-1893` | MONTHLY RETURN OF MONIES BY STATE OFFICERS (Act of May 24, 1893, P.L. 125, No. 76) | 1 | 2026-11-10 to 2026-11-10 |
+| `montour-county-erected-1850` | MONTOUR COUNTY ERECTED (Act of May 3, 1850, P.L. 658, No. 387) | 1 | 2026-11-10 to 2026-11-10 |
 | `mortgage-bankers-and-brokers-and-consumer-equity-protection-act-1989` | MORTGAGE BANKERS AND BROKERS AND CONSUMER EQUITY PROTECTION ACT (Act of Dec. 22, 1989, P.L. 687, No. 90) | 1 | 2026-11-10 to 2026-11-10 |
 | `mortgage-holders-given-additional-security-1876` | MORTGAGE HOLDERS, GIVEN ADDITIONAL SECURITY (Act of Apr. 6, 1876, P.L. 18, No. 17) | 1 | 2026-11-10 to 2026-11-10 |
 | `mortgage-loans-premium-charges-by-lender-1968` | MORTGAGE LOANS - PREMIUM CHARGES BY LENDER (Act of May 17, 1968, P.L. 122, No. 63) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1726,9 +1960,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `mortgage-satisfaction-act-2002` | MORTGAGE SATISFACTION ACT (Act of Dec. 9, 2002, P.L. 1530, No. 197) | 1 | 2026-11-10 to 2026-11-10 |
 | `mortgages-assignment-and-costs-1903` | MORTGAGES, ASSIGNMENT AND COSTS (Act of Apr. 28, 1903, P.L. 327, No. 258) | 1 | 2026-11-10 to 2026-11-10 |
 | `mortgages-assignment-of-1885` | MORTGAGES, ASSIGNMENT OF (Act of Jun. 24, 1885, P.L. 157, No. 123) | 1 | 2026-11-10 to 2026-11-10 |
+| `mortgages-discharge-of-1830` | MORTGAGES - DISCHARGE OF (Act of Mar. 10, 1830, P.L. 63, No. 46) | 1 | 2026-11-10 to 2026-11-10 |
 | `mortgages-recorded-by-commonwealth-1915` | MORTGAGES, RECORDED BY COMMONWEALTH (Act of Mar. 12, 1915, P.L. 4, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
 | `mortgages-records-of-payments-made-1889` | MORTGAGES, RECORDS OF PAYMENTS MADE (Act of May 9, 1889, P.L. 166, No. 184) | 1 | 2026-11-10 to 2026-11-10 |
 | `mortgages-regulating-assignments-1937` | MORTGAGES, REGULATING ASSIGNMENTS (Act of Apr. 21, 1937, P.L. 327, No. 91) | 1 | 2026-11-10 to 2026-11-10 |
+| `mortgages-relating-to-1823` | MORTGAGES RELATING TO (Act of Mar. 31, 1823, P.L. 216, No. 129) | 1 | 2026-11-10 to 2026-11-10 |
 | `mortgages-relating-to-1915` | MORTGAGES, RELATING TO (Act of Apr. 29, 1915, P.L. 201, No. 112) | 1 | 2026-11-10 to 2026-11-10 |
 | `mortgages-releases-noted-on-record-1933` | MORTGAGES, RELEASES NOTED ON RECORD (Act of May 18, 1933, P.L. 810, No. 128) | 1 | 2026-11-10 to 2026-11-10 |
 | `mortgages-requirements-for-recording-1899` | MORTGAGES, REQUIREMENTS FOR RECORDING (Act of Apr. 11, 1899, P.L. 41, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1820,9 +2056,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `national-guard-allowing-cities-to-maintain-units-1937` | NATIONAL GUARD, ALLOWING CITIES TO MAINTAIN UNITS (Act of Mar. 10, 1937, P.L. 39, No. 15) | 1 | 2026-11-10 to 2026-11-10 |
 | `national-human-trafficking-resource-center-hotline-notification-act-2012` | NATIONAL HUMAN TRAFFICKING RESOURCE CENTER HOTLINE NOTIFICATION ACT (Act of Oct. 25, 2012, P.L. 1618, No. 197) | 1 | 2026-11-10 to 2026-11-10 |
 | `naturopathic-doctor-registration-act-2016` | NATUROPATHIC DOCTOR REGISTRATION ACT (Act of Nov. 3, 2016, P.L. 997, No. 128) | 1 | 2026-11-10 to 2026-11-10 |
+| `navigable-rivers-appropriation-of-beds-1848` | NAVIGABLE RIVERS - APPROPRIATION OF BEDS (Act of Apr. 11, 1848, P.L. 533, No. 370) | 1 | 2026-11-10 to 2026-11-10 |
 | `navigable-streams-widening-and-straightening-1879` | NAVIGABLE STREAMS, WIDENING AND STRAIGHTENING (Act of Jun. 5, 1879, P.L. 100, No. 119) | 1 | 2026-11-10 to 2026-11-10 |
 | `navigable-waters-rights-in-1937` | NAVIGABLE WATERS, RIGHTS IN (Act of Jun. 25, 1937, P.L. 2116, No. 425) | 1 | 2026-11-10 to 2026-11-10 |
 | `navigation-commission-for-delaware-river-relating-to-1945` | NAVIGATION COMMISSION FOR DELAWARE RIVER - RELATING TO (Act of May 31, 1945, P.L. 1212, No. 422) | 1 | 2026-11-10 to 2026-11-10 |
+| `navigation-of-persons-on-western-rivers-protection-of-1860` | NAVIGATION OF PERSONS ON WESTERN RIVERS - PROTECTION OF (Act of Mar. 30, 1860, P.L. 378, No. 370) | 1 | 2026-11-10 to 2026-11-10 |
 | `navigator-and-exchange-assister-accessibility-and-regulation-act-2015` | NAVIGATOR AND EXCHANGE ASSISTER ACCESSIBILITY AND REGULATION ACT (Act of Jun. 19, 2015, P.L. 25, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
 | `neighborhood-housing-services-act-1990` | NEIGHBORHOOD HOUSING SERVICES ACT (Act of Jul. 11, 1990, P.L. 421, No. 102) | 1 | 2026-11-10 to 2026-11-10 |
 | `neighborhood-improvement-district-act-2000` | NEIGHBORHOOD IMPROVEMENT DISTRICT ACT (Act of Dec. 20, 2000, P.L. 949, No. 130) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1849,12 +2087,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `oaths-administration-and-validation-1939` | OATHS, ADMINISTRATION AND VALIDATION (Act of May. 25, 1939, P.L. 223, No. 125) | 1 | 2026-11-10 to 2026-11-10 |
 | `obligors-or-guarantors-of-bonds-and-mortgages-1935` | OBLIGORS OR GUARANTORS OF BONDS AND MORTGAGES (Act of Jul. 1, 1935, P.L. 203, No. 197) | 1 | 2026-11-10 to 2026-11-10 |
 | `observance-of-see-pennsylvania-s-covered-bridges-week-1969` | OBSERVANCE OF "SEE PENNSYLVANIA'S COVERED BRIDGES" WEEK (Act of May. 9, 1969, P.L. 35, No. 12) | 1 | 2026-11-10 to 2026-11-10 |
+| `obstructions-to-private-roads-to-be-a-public-nuisance-1849` | OBSTRUCTIONS TO PRIVATE ROADS TO BE A PUBLIC NUISANCE (Act of Feb. 27, 1849, P.L. 90, No. 80) | 1 | 2026-11-10 to 2026-11-10 |
 | `occupational-disease-prevention-law-1913` | OCCUPATIONAL DISEASE PREVENTION LAW (Act of Jul. 26, 1913, P.L. 1363, No. 851) | 1 | 2026-11-10 to 2026-11-10 |
 | `occupational-therapy-practice-act-1982` | OCCUPATIONAL THERAPY PRACTICE ACT (Act of Jun. 15, 1982, P.L. 502, No. 140) | 1 | 2026-11-10 to 2026-11-10 |
 | `octoraro-creek-scenic-rivers-act-1983` | OCTORARO CREEK SCENIC RIVERS ACT (Act of Oct. 21, 1983, P.L. 171, No. 43) | 1 | 2026-11-10 to 2026-11-10 |
 | `office-for-the-deaf-and-hearing-impaired-establishment-1986` | OFFICE FOR THE DEAF AND HEARING IMPAIRED - ESTABLISHMENT (Act of Dec. 16, 1986, P.L. 1621, No. 184) | 1 | 2026-11-10 to 2026-11-10 |
 | `office-of-constable-and-township-or-borough-auditor-1876` | OFFICE OF CONSTABLE AND TOWNSHIP OR BOROUGH AUDITOR (Act of May 18, 1876, P.L. 179, No. 148) | 1 | 2026-11-10 to 2026-11-10 |
+| `officers-county-and-township-1834` | OFFICERS - COUNTY AND TOWNSHIP (Act of Apr. 15, 1834, P.L. 537, No. 247) | 1 | 2026-11-10 to 2026-11-10 |
+| `officers-of-land-office-to-accept-returns-of-surveys-1819` | OFFICERS OF LAND OFFICE TO ACCEPT RETURNS OF SURVEYS (Act of Feb. 20, 1819, P.L. 72, No. 46) | 1 | 2026-11-10 to 2026-11-10 |
 | `officers-of-municipal-corporations-providing-for-holding-over-1927` | OFFICERS OF MUNICIPAL CORPORATIONS, PROVIDING FOR HOLDING OVER (Act of Mar. 22, 1927, P.L. 53, No. 35) | 1 | 2026-11-10 to 2026-11-10 |
+| `officers-to-make-annual-reports-to-secretary-of-the-commonwealth-1847` | OFFICERS TO MAKE ANNUAL REPORTS TO SECRETARY OF THE COMMONWEALTH (Act of Feb. 27, 1847, P.L. 172, No. 131) | 1 | 2026-11-10 to 2026-11-10 |
+| `official-documents-to-be-recovered-1804` | OFFICIAL DOCUMENTS TO BE RECOVERED (Act of Apr. 3, 1804, P.L. 488, No. 113) | 1 | 2026-11-10 to 2026-11-10 |
 | `official-state-fossil-phacops-rana-1988` | OFFICIAL STATE FOSSIL - PHACOPS RANA (Act of Dec. 5, 1988, P.L. 1113, No. 138) | 1 | 2026-11-10 to 2026-11-10 |
 | `official-state-locomotives-designation-1987` | OFFICIAL STATE LOCOMOTIVES - DESIGNATION (Act of Dec. 18, 1987, P.L. 421, No. 89) | 1 | 2026-11-10 to 2026-11-10 |
 | `official-state-song-1990` | OFFICIAL STATE SONG (Act of Nov. 29, 1990, P.L. 598, No. 150) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1873,6 +2116,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `optional-third-class-city-charter-law-1957` | OPTIONAL THIRD CLASS CITY CHARTER LAW (Act of Jul. 15, 1957, P.L. 901, No. 399) | 1 | 2026-11-10 to 2026-11-10 |
 | `optometric-practice-and-licensure-act-1980` | OPTOMETRIC PRACTICE AND LICENSURE ACT (Act of Jun. 6, 1980, P.L. 197, No. 57) | 1 | 2026-11-10 to 2026-11-10 |
 | `optometry-degrees-granted-1923` | OPTOMETRY DEGREES GRANTED (Act of Apr. 23, 1923, P.L. 81, No. 56) | 1 | 2026-11-10 to 2026-11-10 |
+| `organization-of-police-force-for-borough-of-hazleton-1871` | ORGANIZATION OF POLICE FORCE FOR BOROUGH OF HAZLETON (Act of Mar. 15, 1871, P.L. 356, No. 328) | 1 | 2026-11-10 to 2026-11-10 |
 | `osteopathic-medical-practice-act-1978` | OSTEOPATHIC MEDICAL PRACTICE ACT (Act of Oct. 5, 1978, P.L. 1109, No. 261) | 1 | 2026-11-10 to 2026-11-10 |
 | `ounce-of-prevention-program-act-2006` | OUNCE OF PREVENTION PROGRAM ACT (Act of Apr. 12, 2006, P.L. 71, No. 23) | 1 | 2026-11-10 to 2026-11-10 |
 | `outdoor-advertising-control-act-of-1971-1971` | OUTDOOR ADVERTISING CONTROL ACT OF 1971 (Act of Dec. 15, 1971, P.L. 596, No. 160) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1887,14 +2131,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `parking-lot-regulation-1947` | PARKING LOT REGULATION (Act of Apr. 3, 1947, P.L. 55, No. 21) | 1 | 2026-11-10 to 2026-11-10 |
 | `parklands-payback-pilot-project-act-1972` | PARKLANDS PAYBACK PILOT PROJECT ACT (Act of Dec. 29, 1972, P.L. 1695, No. 362) | 1 | 2026-11-10 to 2026-11-10 |
 | `parks-and-parkways-planning-in-first-and-second-class-cities-1915` | PARKS AND PARKWAYS, PLANNING IN FIRST AND SECOND CLASS CITIES (Act of Jun. 7, 1915, P.L. 894, No. 398) | 1 | 2026-11-10 to 2026-11-10 |
+| `parks-etc-acquisition-of-land-philadelphia-1848` | PARKS, ETC. - ACQUISITION OF LAND - PHILADELPHIA (Act of Apr. 6, 1848, P.L. 357, No. 280) | 1 | 2026-11-10 to 2026-11-10 |
 | `parliamentarian-for-house-of-representatives-appointed-1931` | PARLIAMENTARIAN FOR HOUSE OF REPRESENTATIVES APPOINTED (Act of May 28, 1931, P.L. 201, No. 120) | 1 | 2026-11-10 to 2026-11-10 |
 | `parole-officers-conventions-1923` | PAROLE OFFICERS CONVENTIONS (Act of May 19, 1923, P.L. 267, No. 170) | 1 | 2026-11-10 to 2026-11-10 |
 | `partition-of-personal-property-jointly-owned-1927` | PARTITION OF PERSONAL PROPERTY JOINTLY OWNED (Act of Apr. 27, 1927, P.L. 460, No. 294) | 1 | 2026-11-10 to 2026-11-10 |
+| `party-walls-relating-to-1857` | PARTY WALLS - RELATING TO (Act of May 20, 1857, P.L. 590, No. 624) | 1 | 2026-11-10 to 2026-11-10 |
 | `patent-medicines-licensing-of-manufacturers-and-vendors-1883` | PATENT MEDICINES - LICENSING OF MANUFACTURERS AND VENDORS (Act of Jun. 5, 1883, P.L. 87, No. 80) | 1 | 2026-11-10 to 2026-11-10 |
+| `patenting-of-lands-1816` | PATENTING OF LANDS (Act of Jan. 25, 1816, P.L. 9, No. 12) | 1 | 2026-11-10 to 2026-11-10 |
+| `patenting-of-lands-1830` | PATENTING OF LANDS (Act of Mar. 12, 1830, P.L. 77, No. 53) | 1 | 2026-11-10 to 2026-11-10 |
+| `patenting-of-lands-extend-provisions-1832` | PATENTING OF LANDS - EXTEND PROVISIONS (Act of Apr. 5, 1832, P.L. 277, No. 117) | 1 | 2026-11-10 to 2026-11-10 |
 | `patient-test-result-information-act-2018` | PATIENT TEST RESULT INFORMATION ACT (Act of Oct. 24, 2018, P.L. 719, No. 112) | 1 | 2026-11-10 to 2026-11-10 |
 | `paving-sidewalks-in-rural-district-first-class-cities-regulated-1907` | PAVING SIDEWALKS IN RURAL DISTRICT FIRST CLASS CITIES REGULATED (Act of Apr. 15, 1907, P.L. 86, No. 72) | 1 | 2026-11-10 to 2026-11-10 |
 | `pawnbrokers-license-act-1937` | "PAWNBROKERS LICENSE ACT" (Act of Apr. 6, 1937, P.L. 200, No. 51) | 1 | 2026-11-10 to 2026-11-10 |
 | `payment-for-commandeered-vehicles-used-for-flood-emergency-operations-1974` | PAYMENT FOR COMMANDEERED VEHICLES USED FOR FLOOD EMERGENCY OPERATIONS (Act of Jun. 27, 1974, P.L. 391, No. 133) | 1 | 2026-11-10 to 2026-11-10 |
+| `payment-of-debts-by-taking-lands-in-execution-for-1845` | PAYMENT OF DEBTS BY TAKING LANDS IN EXECUTION FOR (Act of Apr. 16, 1845, P.L. 488, No. 329) | 1 | 2026-11-10 to 2026-11-10 |
+| `payment-of-debts-taking-of-lands-in-execution-for-1822` | PAYMENT OF DEBTS TAKING OF LANDS IN EXECUTION FOR (Act of Apr. 2, 1822, P.L. 134, No. 106) | 1 | 2026-11-10 to 2026-11-10 |
 | `payment-of-fees-into-state-treasury-1907` | PAYMENT OF FEES INTO STATE TREASURY (Act of May 25, 1907, P.L. 259, No. 198) | 1 | 2026-11-10 to 2026-11-10 |
 | `payments-into-state-treasury-1929` | PAYMENTS INTO STATE TREASURY (Act of Apr. 25, 1929, P.L. 722, No. 313) | 1 | 2026-11-10 to 2026-11-10 |
 | `payments-into-state-treasury-1929-act-314` | PAYMENTS INTO STATE TREASURY (Act of Apr. 25, 1929, P.L. 722, No. 314) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1903,12 +2154,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `pearl-harbor-remembrance-day-designation-1987` | PEARL HARBOR REMEMBRANCE DAY - DESIGNATION (Act of Jul. 1, 1987, P.L. 183, No. 22) | 1 | 2026-11-10 to 2026-11-10 |
 | `peddlers-licensed-1901` | PEDDLERS, LICENSED (Act of Jun. 14, 1901, P.L. 563, No. 270) | 1 | 2026-11-10 to 2026-11-10 |
 | `peer-review-protection-act-1974` | PEER REVIEW PROTECTION ACT (Act of Jul. 20, 1974, P.L. 564, No. 193) | 1 | 2026-11-10 to 2026-11-10 |
+| `penal-laws-duties-of-district-attorneys-supplement-1866` | PENAL LAWS - DUTIES OF DISTRICT ATTORNEYS - SUPPLEMENT (Act of Mar. 12, 1866, P.L. 85, No. 72) | 1 | 2026-11-10 to 2026-11-10 |
 | `penngift-crownvetch-designated-state-conservation-plant-1982` | PENNGIFT CROWNVETCH - DESIGNATED STATE CONSERVATION PLANT (Act of Jun. 17, 1982, P.L. 526, No. 150) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-able-act-2016` | PENNSYLVANIA ABLE ACT (Act of Apr. 18, 2016, P.L. 128, No. 17) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-adult-and-family-literacy-education-act-1986` | PENNSYLVANIA ADULT AND FAMILY LITERACY EDUCATION ACT (Act of Oct. 22, 1986, P.L. 1452, No. 143) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-affordable-housing-act-1992` | PENNSYLVANIA AFFORDABLE HOUSING ACT (Act of Dec. 18, 1992, P.L. 1376, No. 172) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-agricultural-fair-act-1986` | PENNSYLVANIA AGRICULTURAL FAIR ACT (Act of Jul. 8, 1986, P.L. 437, No. 92) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-agricultural-surplus-system-act-2010` | PENNSYLVANIA AGRICULTURAL SURPLUS SYSTEM ACT (Act of Nov. 23, 2010, P.L. 1134, No. 113) | 1 | 2026-11-10 to 2026-11-10 |
+| `pennsylvania-and-ohio-roads-between-the-two-states-relating-to-1848` | PENNSYLVANIA AND OHIO - ROADS BETWEEN THE TWO STATES - RELATING TO (Act of Mar. 30, 1848, P.L. 308, No. 250) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-anthracite-coal-mine-act-1965` | PENNSYLVANIA ANTHRACITE COAL MINE ACT (Act of Nov. 10, 1965, P.L. 721, No. 346) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-appalachian-trail-act-1978` | PENNSYLVANIA APPALACHIAN TRAIL ACT (Act of Apr. 28, 1978, P.L. 87, No. 41) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-area-college-center-act-1947` | "PENNSYLVANIA AREA COLLEGE CENTER ACT" (Act of May. 2, 1947, P.L. 152, No. 66) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1947,8 +2200,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `pennsylvania-higher-education-assistance-agency-act-1963` | PENNSYLVANIA HIGHER EDUCATION ASSISTANCE AGENCY ACT (Act of Aug. 7, 1963, P.L. 549, No. 290) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-higher-educational-facilities-authority-act-1967-the-1967` | PENNSYLVANIA HIGHER EDUCATIONAL FACILITIES AUTHORITY ACT 1967, THE (Act of Dec. 6, 1967, P.L. 678, No. 318) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-human-relations-act-1955` | PENNSYLVANIA HUMAN RELATIONS ACT (Act of Oct. 27, 1955, P.L. 744, No. 222) | 1 | 2026-11-10 to 2026-11-10 |
+| `pennsylvania-improvement-company-incorporated-1869` | PENNSYLVANIA IMPROVEMENT COMPANY INCORPORATED (Act of Apr. 14, (1868) 1869, P.L. 1373, No. 1326) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-industrial-development-authority-act-1955` | PENNSYLVANIA INDUSTRIAL DEVELOPMENT AUTHORITY ACT (Act of May. 17, (1956) 1955, P.L. 1609, No. 537) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-infrastructure-investment-authority-act-1988` | PENNSYLVANIA INFRASTRUCTURE INVESTMENT AUTHORITY ACT (Act of Mar. 1, 1988, P.L. 82, No. 16) | 1 | 2026-11-10 to 2026-11-10 |
+| `pennsylvania-institute-for-the-deaf-and-dumb-incorporate-and-endow-1821` | PENNSYLVANIA INSTITUTE FOR THE DEAF AND DUMB, INCORPORATE AND ENDOW (Act of Feb. 8, 1821, P.L. 30, No. 25) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-intergovernmental-cooperation-authority-act-for-cities-1991` | PENNSYLVANIA INTERGOVERNMENTAL COOPERATION AUTHORITY ACT FOR CITIES OF THE FIRST CLASS (Act of Jun. 5, 1991, P.L. 9, No. 6) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-loyalty-act-1951` | PENNSYLVANIA LOYALTY ACT (Act of Dec. 22, 1951, P.L. 1726, No. 463) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-meat-and-poultry-hygiene-law-of-1968-1968` | PENNSYLVANIA MEAT AND POULTRY HYGIENE LAW OF 1968 (Act of Jul. 9, 1968, P.L. 304, No. 151) | 1 | 2026-11-10 to 2026-11-10 |
@@ -1960,6 +2215,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `pennsylvania-oral-school-for-the-deaf-1913` | PENNSYLVANIA ORAL SCHOOL FOR THE DEAF (Act of May 8, 1913, P.L. 163, No. 112) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-pesticide-control-act-of-1973-1974` | PENNSYLVANIA PESTICIDE CONTROL ACT OF 1973 (Act of Mar. 1, 1974, P.L. 90, No. 24) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-prevailing-wage-act-1961` | PENNSYLVANIA PREVAILING WAGE ACT (Act of Aug. 15, 1961, P.L. 987, No. 442) | 1 | 2026-11-10 to 2026-11-10 |
+| `pennsylvania-railroad-company-incorporated-1856` | PENNSYLVANIA RAILROAD COMPANY INCORPORATED (Act of Apr. 18, 1856, P.L. 447, No. 461) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-real-id-compliance-act-2017` | PENNSYLVANIA REAL ID COMPLIANCE ACT (Act of May. 26, 2017, P.L. 6, No. 3) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-rural-and-intercity-common-carrier-surface-1976` | PENNSYLVANIA RURAL AND INTERCITY COMMON CARRIER SURFACE TRANSPORTATION ASSISTANCE ACT (Act of Feb. 11, 1976, P.L. 14, No. 10) | 1 | 2026-11-10 to 2026-11-10 |
 | `pennsylvania-safe-drinking-water-act-1984` | PENNSYLVANIA SAFE DRINKING WATER ACT (Act of May. 1, 1984, P.L. 206, No. 43) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2008,12 +2264,38 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `petitions-for-public-roads-relating-to-1919` | PETITIONS FOR PUBLIC ROADS, RELATING TO (Act of Jun. 20, 1919, P.L. 509, No. 250) | 1 | 2026-11-10 to 2026-11-10 |
 | `pharmacy-act-1961` | PHARMACY ACT (Act of Sep. 27, 1961, P.L. 1700, No. 699) | 1 | 2026-11-10 to 2026-11-10 |
 | `pharmacy-audit-integrity-and-transparency-act-2016` | PHARMACY AUDIT INTEGRITY AND TRANSPARENCY ACT (Act of Nov. 21, 2016, P.L. 1318, No. 169) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-and-lancaster-granting-certain-powers-to-authorities-1838` | PHILADELPHIA AND LANCASTER GRANTING CERTAIN POWERS TO AUTHORITIES (Act of Apr. 16, 1838, P.L. 626, No. 96) | 1 | 2026-11-10 to 2026-11-10 |
 | `philadelphia-calculating-borrowing-capacity-1919` | PHILADELPHIA, CALCULATING BORROWING CAPACITY (Act of May 2, 1919, P.L. 106, No. 81) | 1 | 2026-11-10 to 2026-11-10 |
 | `philadelphia-city-county-consolidation-act-1953` | PHILADELPHIA CITY - COUNTY CONSOLIDATION ACT (Act of Aug. 26, 1953, P.L. 1476, No. 433) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-consolidated-fresh-water-for-all-1869` | PHILADELPHIA CONSOLIDATED - FRESH WATER FOR ALL (Act of Apr. 20, 1869, P.L. 1193, No. 1188) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-consolidated-relating-to-road-work-1868` | PHILADELPHIA CONSOLIDATED - RELATING TO ROAD WORK (Act of Mar. 13, 1868, P.L. 316, No. 284) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-consolidated-supplement-1856` | PHILADELPHIA CONSOLIDATED - SUPPLEMENT (Act of May 13, 1856, P.L. 567, No. 587) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-consolidated-supplement-1857` | PHILADELPHIA CONSOLIDATED - SUPPLEMENT (Act of May 16, 1857, P.L. 549, No. 601) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-consolidated-supplement-1859` | PHILADELPHIA CONSOLIDATED - SUPPLEMENT (Act of Mar. 30, 1859, P.L. 302, No. 303) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-consolidated-supplement-cleaning-of-streets-1869` | PHILADELPHIA CONSOLIDATED - SUPPLEMENT - CLEANING OF STREETS (Act of Mar. 18, 1869, P.L. 397, No. 368) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-consolidated-supply-of-water-to-city-1868` | PHILADELPHIA CONSOLIDATED - SUPPLY OF WATER TO CITY (Act of Apr. 4, 1868, P.L. 721, No. 668) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-consolidation-act-1854` | PHILADELPHIA CONSOLIDATION ACT (Act of Feb. 2, 1854, P.L. 21, No. 16) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-county-general-road-work-1839` | PHILADELPHIA COUNTY GENERAL ROAD WORK (Act of Mar. 27, 1839, P.L. 189, No. 90) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-1862` | PHILADELPHIA INCORPORATED (Act of Mar. 4, 1862, P.L. 90, No. 86) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-collection-of-debts-due-department-of-health-1866` | PHILADELPHIA INCORPORATED - COLLECTION OF DEBTS DUE DEPARTMENT OF HEALTH (- SUPPLEMENT) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-fire-alarm-and-police-telegraph-1865` | PHILADELPHIA INCORPORATED - FIRE ALARM AND POLICE TELEGRAPH (Act of Feb. 28, 1865, P.L. 238, No. 243) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-sewers-1869` | PHILADELPHIA INCORPORATED - SEWERS (Act of Apr. 20, 1869, P.L. 1190, No. 1184) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-supplement-1857` | PHILADELPHIA INCORPORATED - SUPPLEMENT (Act of May 7, 1857, P.L. 425, No. 481) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-supplement-1858` | PHILADELPHIA INCORPORATED - SUPPLEMENT (Act of Apr. 21, 1858, P.L. 385, No. 411) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-supplement-1858-act-449` | PHILADELPHIA INCORPORATED - SUPPLEMENT (Act of Apr. 22, (0188) 1858, P.L. 449, No. 449) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-supplement-1859` | PHILADELPHIA INCORPORATED - SUPPLEMENT (Act of Apr. 12, 1859, P.L. 543, No. 536) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-supplement-1861` | PHILADELPHIA INCORPORATED - SUPPLEMENT (Act of Apr. 17, 1861, P.L. 354, No. 328) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-supplement-1864` | PHILADELPHIA INCORPORATED - SUPPLEMENT (Act of Mar. 31, 1864, P.L. 304, No. 242) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-supplement-1865` | PHILADELPHIA INCORPORATED - SUPPLEMENT (Act of Feb. 16, 1865, P.L. 151, No. 144) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-supplement-1866` | PHILADELPHIA INCORPORATED - SUPPLEMENT (Act of Mar. 30, 1866, P.L. 354, No. 325) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-supplement-1869` | PHILADELPHIA INCORPORATED - SUPPLEMENT (Act of Mar. 22, 1869, P.L. 477, No. 456) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-incorporated-supplement-taxes-1864` | PHILADELPHIA INCORPORATED - SUPPLEMENT - TAXES (Act of Aug. 25, 1864, P.L. 1030, No. 903) | 1 | 2026-11-10 to 2026-11-10 |
 | `philadelphia-lng-export-task-force-act-2022` | PHILADELPHIA LNG EXPORT TASK FORCE ACT (Act of Nov. 3, 2022, P.L. 1976, No. 133) | 1 | 2026-11-10 to 2026-11-10 |
 | `philadelphia-national-bank-made-loan-and-transfer-agent-of-the-1919` | PHILADELPHIA NATIONAL BANK MADE LOAN AND TRANSFER AGENT OF THE (COMMONWEALTH) | 1 | 2026-11-10 to 2026-11-10 |
 | `philadelphia-quarter-sessions-clerk-fee-law-1984` | PHILADELPHIA QUARTER SESSIONS CLERK FEE LAW (Act of Oct. 12, 1984, P.L. 964, No. 188) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-railroad-company-and-hestonville-mantua-and-fairmont-1872` | PHILADELPHIA RAILROAD COMPANY AND HESTONVILLE, MANTUA AND FAIRMONT (PASSENGER RAILWAY COMPANY) | 1 | 2026-11-10 to 2026-11-10 |
 | `philadelphia-regional-port-authority-act-1989` | PHILADELPHIA REGIONAL PORT AUTHORITY ACT (Act of Jul. 10, 1989, P.L. 291, No. 50) | 1 | 2026-11-10 to 2026-11-10 |
+| `philadelphia-streets-wharves-and-fences-along-river-1805` | PHILADELPHIA - STREETS - WHARVES AND FENCES ALONG RIVER (Act of Mar. 25, 1805, P.L. 160, No. 57) | 1 | 2026-11-10 to 2026-11-10 |
 | `phillip-murray-bridge-designation-1973` | PHILLIP MURRAY BRIDGE - DESIGNATION (Act of Oct. 12, 1973, P.L. 297, No. 90) | 1 | 2026-11-10 to 2026-11-10 |
 | `phosphate-detergent-act-1989` | PHOSPHATE DETERGENT ACT (Act of Jul. 5, 1989, P.L. 166, No. 31) | 1 | 2026-11-10 to 2026-11-10 |
 | `physical-therapy-licensure-compact-act-2020` | PHYSICAL THERAPY LICENSURE COMPACT ACT (Act of Nov. 25, 2020, P.L. 1193, No. 119) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2021,6 +2303,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `piers-location-of-changed-1876` | PIERS, LOCATION OF CHANGED (Act of May 2, 1876, P.L. 96, No. 61) | 1 | 2026-11-10 to 2026-11-10 |
 | `pigeons-prohibiting-shipment-of-1927` | PIGEONS, PROHIBITING SHIPMENT OF (Act of May. 4, 1927, P.L. 720, No. 371) | 1 | 2026-11-10 to 2026-11-10 |
 | `pine-creek-scenic-rivers-act-1992` | PINE CREEK SCENIC RIVERS ACT (Act of Dec. 4, 1992, P.L. 784, No. 124) | 1 | 2026-11-10 to 2026-11-10 |
+| `pittsburgh-hospital-aid-to-orphans-asylum-of-lancaster-incorporated-1838` | PITTSBURGH HOSPITAL AID TO - ORPHANS ASYLUM OF LANCASTER INCORPORATED (Act of Apr. 4, 1838, P.L. 263, No. 49) | 1 | 2026-11-10 to 2026-11-10 |
 | `plain-language-consumer-contract-act-1993` | PLAIN LANGUAGE CONSUMER CONTRACT ACT (Act of Jun. 23, 1993, P.L. 128, No. 29) | 1 | 2026-11-10 to 2026-11-10 |
 | `plant-pest-act-1992` | PLANT PEST ACT (Act of Dec. 16, 1992, P.L. 1228, No. 162) | 1 | 2026-11-10 to 2026-11-10 |
 | `playgrounds-second-class-cities-authorized-to-acquire-land-1927` | PLAYGROUNDS, SECOND CLASS CITIES AUTHORIZED TO ACQUIRE LAND (Act of Mar. 31, 1927, P.L. 98, No. 68) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2049,14 +2332,20 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `pool-halls-regulated-1911` | POOL HALLS, REGULATED (Act of Jun. 7, 1911, P.L. 668, No. 261) | 1 | 2026-11-10 to 2026-11-10 |
 | `poor-children-care-by-counties-1921` | POOR CHILDREN, CARE BY COUNTIES (Act of May 20, 1921, P.L. 1030, No. 370) | 1 | 2026-11-10 to 2026-11-10 |
 | `poor-houses-etc-inspection-by-appointed-visitors-1874` | POOR HOUSES, ETC. - INSPECTION BY APPOINTED VISITORS (Act of May 7, 1874, P.L. 119, No. 51) | 1 | 2026-11-10 to 2026-11-10 |
+| `poor-taxes-collection-from-unseated-lands-1874` | POOR TAXES, COLLECTION FROM UNSEATED LANDS (Act of May 14, 1874, P.L. 155, No. 89) | 1 | 2026-11-10 to 2026-11-10 |
 | `port-of-erie-development-1959` | PORT OF ERIE DEVELOPMENT (Act of Jul. 1, 1959, P.L. 503, No. 129) | 1 | 2026-11-10 to 2026-11-10 |
+| `port-of-philadelphia-1864` | PORT OF PHILADELPHIA (Act of May 20, 1864, P.L. 906, No. 806) | 1 | 2026-11-10 to 2026-11-10 |
+| `port-of-philadelphia-pilotage-fees-1813` | PORT OF PHILADELPHIA - PILOTAGE FEES (Act of Mar. 29, 1813, P.L. 257, No. 204) | 1 | 2026-11-10 to 2026-11-10 |
 | `port-of-pittsburgh-commission-act-1992` | PORT OF PITTSBURGH COMMISSION ACT (Act of Dec. 14, 1992, P.L. 818, No. 133) | 1 | 2026-11-10 to 2026-11-10 |
+| `port-warden-duties-of-philadelphia-1859` | PORT WARDEN - DUTIES OF - PHILADELPHIA (Act of Apr. 14, 1859, P.L. 643, No. 639) | 1 | 2026-11-10 to 2026-11-10 |
 | `portable-electronics-insurance-act-2012` | PORTABLE ELECTRONICS INSURANCE ACT (Act of Jul. 5, 2012, P.L. 995, No. 112) | 1 | 2026-11-10 to 2026-11-10 |
 | `post-mortems-compensation-of-physicians-1919` | POST MORTEMS, COMPENSATION OF PHYSICIANS (Act of Jul. 22, 1919, P.L. 1113, No. 450) | 1 | 2026-11-10 to 2026-11-10 |
 | `postponement-of-lien-authorized-1927` | POSTPONEMENT OF LIEN AUTHORIZED (Act of Apr. 27, 1927, P.L. 409, No. 267) | 1 | 2026-11-10 to 2026-11-10 |
 | `poultry-contracts-payments-and-security-interests-1986` | POULTRY CONTRACTS - PAYMENTS AND SECURITY INTERESTS (Act of Jul. 2, 1986, P.L. 301, No. 74) | 1 | 2026-11-10 to 2026-11-10 |
 | `poultry-technician-licensure-law-1955` | POULTRY TECHNICIAN LICENSURE LAW (Act of Apr. 6, (1956) 1955, P.L. 1429, No. 466) | 1 | 2026-11-10 to 2026-11-10 |
 | `power-to-assess-property-1907` | POWER TO ASSESS PROPERTY (Act of May 28, 1907, P.L. 287, No. 219) | 1 | 2026-11-10 to 2026-11-10 |
+| `powers-of-road-jurors-city-of-philadelphia-1872` | POWERS OF ROAD JURORS CITY OF PHILADELPHIA (Act of Dec. 27, (1871) 1872, P.L. 1390, No. 1247) | 1 | 2026-11-10 to 2026-11-10 |
+| `powers-of-sectional-school-boards-of-first-school-district-1871` | POWERS OF SECTIONAL SCHOOL BOARDS OF FIRST SCHOOL DISTRICT (Act of May. 25, 1871, P.L. 1157, No. 1062) | 1 | 2026-11-10 to 2026-11-10 |
 | `practical-nurse-law-1955` | PRACTICAL NURSE LAW (Act of Mar. 2, (1956) 1955, P.L. 1211, No. 376) | 1 | 2026-11-10 to 2026-11-10 |
 | `practitioners-healing-arts-referrals-1988` | PRACTITIONERS HEALING ARTS - REFERRALS (Act of May 26, 1988, P.L. 403, No. 66) | 1 | 2026-11-10 to 2026-11-10 |
 | `precious-metal-sale-regulation-law-1984` | PRECIOUS METAL SALE REGULATION LAW (Act of Feb. 24, 1984, P.L. 92, No. 17) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2066,24 +2355,32 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `prescriptions-physicians-name-on-form-1980` | PRESCRIPTIONS - PHYSICIANS NAME ON FORM (Act of Jul. 2, 1980, P.L. 344, No. 86) | 1 | 2026-11-10 to 2026-11-10 |
 | `preservation-of-burial-lots-1903` | PRESERVATION OF BURIAL LOTS (Act of Mar. 5, 1903, P.L. 12, No. 13) | 1 | 2026-11-10 to 2026-11-10 |
 | `preservation-of-maps-plats-and-plans-by-recorder-of-deeds-1961` | PRESERVATION OF MAPS, PLATS AND PLANS BY RECORDER OF DEEDS (Act of Jul. 14, 1961, P.L. 625, No. 319) | 1 | 2026-11-10 to 2026-11-10 |
+| `preservation-of-records-in-public-offices-1827` | PRESERVATION OF RECORDS IN PUBLIC OFFICES (Act of Mar. 29, 1827, P.L. 154, No. 75) | 1 | 2026-11-10 to 2026-11-10 |
 | `preserved-farmland-tax-stabilization-act-1994` | PRESERVED FARMLAND TAX STABILIZATION ACT (Act of Oct. 13, 1994, P.L. 605, No. 91) | 1 | 2026-11-10 to 2026-11-10 |
 | `preserving-land-for-open-air-spaces-1967` | PRESERVING LAND FOR OPEN AIR SPACES (Act of Jan. 19, (1968) 1967, P.L. 992, No. 442) | 1 | 2026-11-10 to 2026-11-10 |
 | `prevent-unlicensed-persons-from-engaging-in-professions-1963` | PREVENT UNLICENSED PERSONS FROM ENGAGING IN PROFESSIONS (Act of Aug. 8, 1963, P.L. 622, No. 330) | 1 | 2026-11-10 to 2026-11-10 |
 | `preventable-serious-adverse-events-act-2009` | PREVENTABLE SERIOUS ADVERSE EVENTS ACT (Act of Jun. 10, 2009, P.L. 1, No. 1) | 1 | 2026-11-10 to 2026-11-10 |
 | `pricate-edwin-tubbs-memorial-bridge-specialist-donald-stiles-memorial-2014` | PRICATE EDWIN TUBBS MEMORIAL BRIDGE, SPECIALIST DONALD STILES MEMORIAL BRIDGE, PRIVATE FIRST CLASS ROGER P. DOWNEY MEMORIAL BRIDGE, PFC. JAMES E. LUDWIG MEMORIAL BRIDGE, OFFICER BRADLEY M. FOX MEMORIAL BRIDGE, VETERANS MEMORIAL HIGHWAY AND SGT. ANDREW J. "AJ" BADDICK MEMORIAL BRIDGE (Act of Jul. 9, 2014, P.L. 1046, No. 124) | 1 | 2026-11-10 to 2026-11-10 |
 | `price-gouging-act-2006` | PRICE GOUGING ACT (Act of Oct. 31, 2006, P.L. 1210, No. 133) | 1 | 2026-11-10 to 2026-11-10 |
+| `principal-and-interest-due-commonwealth-from-land-owners-1820` | PRINCIPAL AND INTEREST DUE COMMONWEALTH FROM LAND OWNERS (Act of Mar. 22, 1820, P.L. 99, No. 71) | 1 | 2026-11-10 to 2026-11-10 |
 | `prison-facilities-improvement-act-1990` | PRISON FACILITIES IMPROVEMENT ACT (Act of Jul. 1, 1990, P.L. 315, No. 71) | 1 | 2026-11-10 to 2026-11-10 |
 | `prisoners-care-of-families-by-first-class-cities-1917` | PRISONERS, CARE OF FAMILIES BY FIRST CLASS CITIES (Act of Jun. 23, 1917, P.L. 639, No. 222) | 1 | 2026-11-10 to 2026-11-10 |
 | `privacy-of-social-security-numbers-law-2006` | PRIVACY OF SOCIAL SECURITY NUMBERS LAW (Act of Jun. 29, 2006, P.L. 281, No. 60) | 1 | 2026-11-10 to 2026-11-10 |
 | `private-academic-schools-act-1988` | PRIVATE ACADEMIC SCHOOLS ACT (Act of Jan. 28, 1988, P.L. 24, No. 11) | 1 | 2026-11-10 to 2026-11-10 |
+| `private-dealings-with-public-money-prohibited-1842` | PRIVATE DEALINGS WITH PUBLIC MONEY PROHIBITED (Act of Feb. 11, 1842, P.L. 17, No. 13) | 1 | 2026-11-10 to 2026-11-10 |
 | `private-detective-act-of-1953-the-1953` | PRIVATE DETECTIVE ACT OF 1953, THE (Act of Aug. 21, 1953, P.L. 1273, No. 361) | 1 | 2026-11-10 to 2026-11-10 |
 | `private-driver-education-or-training-school-act-1951` | PRIVATE DRIVER EDUCATION OR TRAINING SCHOOL ACT (Act of Jan. 18, (1952) 1951, P.L. 2128, No. 605) | 1 | 2026-11-10 to 2026-11-10 |
 | `private-institutions-licensed-by-department-of-health-1963` | PRIVATE INSTITUTIONS LICENSED BY DEPARTMENT OF HEALTH (Act of Aug. 8, 1963, P.L. 595, No. 314) | 1 | 2026-11-10 to 2026-11-10 |
 | `private-licensed-schools-act-1986` | PRIVATE LICENSED SCHOOLS ACT (Act of Dec. 15, 1986, P.L. 1585, No. 174) | 1 | 2026-11-10 to 2026-11-10 |
 | `private-loans-compromise-1929` | PRIVATE LOANS, COMPROMISE (Act of Apr. 18, 1929, P.L. 620, No. 257) | 1 | 2026-11-10 to 2026-11-10 |
+| `private-patrol-and-watchman-commissioned-by-mayor-of-phila-1870` | PRIVATE PATROL AND WATCHMAN COMMISSIONED BY MAYOR OF PHILA. (Act of Apr. 26, 1870, P.L. 1269, No. 1166) | 1 | 2026-11-10 to 2026-11-10 |
 | `private-roads-1911` | PRIVATE ROADS (Act of May 5, 1911, P.L. 167, No. 119) | 1 | 2026-11-10 to 2026-11-10 |
+| `private-roads-opening-under-special-laws-1840` | PRIVATE ROADS - OPENING UNDER SPECIAL LAWS (Act of Mar. 7, 1840, P.L. 93, No. 31) | 1 | 2026-11-10 to 2026-11-10 |
 | `private-roads-relating-to-1925` | PRIVATE ROADS, RELATING TO (Act of May 12, 1925, P.L. 586, No. 315) | 1 | 2026-11-10 to 2026-11-10 |
+| `privy-wells-1867` | PRIVY WELLS (Act of Apr. 8, 1867, P.L. 938, No. 861) | 1 | 2026-11-10 to 2026-11-10 |
+| `procedure-on-execution-attachment-act-1836` | PROCEDURE ON EXECUTION ATTACHMENT ACT (Act of Jun. 16, 1836, P.L. 755, No. 191) | 1 | 2026-11-10 to 2026-11-10 |
 | `proceeding-for-impaneling-juries-1885` | PROCEEDING FOR IMPANELING JURIES (Act of Jun. 23, 1885, P.L. 138, No. 106) | 1 | 2026-11-10 to 2026-11-10 |
+| `proceedings-in-road-cases-philadelphia-1869` | PROCEEDINGS IN ROAD CASES - PHILADELPHIA (Act of May. 3, 1869, P.L. 1247, No. 1226) | 1 | 2026-11-10 to 2026-11-10 |
 | `proceeds-from-sale-commonwealth-real-estate-credited-to-fund-1943` | PROCEEDS FROM SALE COMMONWEALTH REAL ESTATE CREDITED TO FUND (Act of May 7, 1943, P.L. 245, No. 114) | 1 | 2026-11-10 to 2026-11-10 |
 | `produce-selling-without-license-prohibited-1881` | PRODUCE, SELLING WITHOUT LICENSE PROHIBITED (Act of Jun. 10, 1881, P.L. 109, No. 121) | 1 | 2026-11-10 to 2026-11-10 |
 | `profession-examiners-fees-collected-by-1925` | PROFESSION EXAMINERS, FEES COLLECTED BY (Act of Apr. 1, 1925, P.L. 112, No. 78) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2134,6 +2431,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `project-70-transfer-to-bradford-county-1989` | PROJECT 70 - TRANSFER TO BRADFORD COUNTY (Act of Jul. 7, 1989, P.L. 232, No. 38) | 1 | 2026-11-10 to 2026-11-10 |
 | `project-7o-land-acquisition-and-borrowing-act-land-conveyance-1974` | PROJECT 7O LAND ACQUISITION AND BORROWING ACT - LAND CONVEYANCE (Act of Jun. 27, 1974, P.L. 404, No. 140) | 1 | 2026-11-10 to 2026-11-10 |
 | `project-independence-act-1987` | PROJECT INDEPENDENCE ACT (Act of Jul. 13, 1987, P.L. 332, No. 62) | 1 | 2026-11-10 to 2026-11-10 |
+| `promote-business-of-lumbering-1871` | PROMOTE BUSINESS OF LUMBERING (Act of May 15, 1871, P.L. 868, No. 781) | 1 | 2026-11-10 to 2026-11-10 |
 | `promote-interstate-cooperation-for-the-delaware-river-basin-1945` | PROMOTE INTERSTATE COOPERATION FOR THE DELAWARE RIVER BASIN (Act of Apr. 19, 1945, P.L. 272, No. 123) | 1 | 2026-11-10 to 2026-11-10 |
 | `propane-and-liquefied-petroleum-gas-act-2002` | PROPANE AND LIQUEFIED PETROLEUM GAS ACT (Act of Jun. 19, 2002, P.L. 421, No. 61) | 1 | 2026-11-10 to 2026-11-10 |
 | `property-and-casualty-insurance-notice-of-rate-increases-1986` | PROPERTY AND CASUALTY INSURANCE - NOTICE OF RATE INCREASES (Act of Jul. 3, 1986, P.L. 396, No. 86) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2143,6 +2441,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `property-tax-exemptions-in-first-class-county-and-city-1989` | PROPERTY TAX EXEMPTIONS IN FIRST CLASS COUNTY AND CITY (Act of Dec. 21, 1989, P.L. 680, No. 88) | 1 | 2026-11-10 to 2026-11-10 |
 | `property-willed-to-the-state-acceptance-1933` | PROPERTY WILLED TO THE STATE, ACCEPTANCE (Act of May 25, 1933, P.L. 1000, No. 223) | 1 | 2026-11-10 to 2026-11-10 |
 | `protecting-pennsylvania-s-investments-act-2010` | PROTECTING PENNSYLVANIA'S INVESTMENTS ACT (Act of Jul. 2, 2010, P.L. 266, No. 44) | 1 | 2026-11-10 to 2026-11-10 |
+| `protection-of-cemeteries-in-the-state-of-pennsylvania-1873` | PROTECTION OF CEMETERIES IN THE STATE OF PENNSYLVANIA (Act of Apr. 9, 1873, P.L. 67, No. 45) | 1 | 2026-11-10 to 2026-11-10 |
+| `prothonotaries-and-clerks-of-courts-election-carbon-county-1843` | PROTHONOTARIES AND CLERKS OF COURTS - ELECTION - CARBON COUNTY (Act of Apr. 13, 1843, P.L. 230, No. 112) | 1 | 2026-11-10 to 2026-11-10 |
+| `prothonotaries-clerks-recorders-and-registers-election-of-1839` | PROTHONOTARIES, CLERKS, RECORDERS AND REGISTERS - ELECTION OF (Act of Jul. 2, 1839, P.L. 559, No. 193) | 1 | 2026-11-10 to 2026-11-10 |
+| `prothonotaries-of-courts-to-have-more-power-1833` | PROTHONOTARIES OF COURTS TO HAVE MORE POWER (Act of Mar. 30, 1833, P.L. 107, No. 63) | 1 | 2026-11-10 to 2026-11-10 |
+| `prothonotary-and-clerks-of-court-election-blair-county-1846` | PROTHONOTARY AND CLERKS OF COURT - ELECTION - BLAIR COUNTY (Act of Feb. 26, 1846, P.L. 64, No. 55) | 1 | 2026-11-10 to 2026-11-10 |
 | `prothonotary-fee-law-1982` | PROTHONOTARY FEE LAW (Act of Nov. 26, 1982, P.L. 744, No. 203) | 1 | 2026-11-10 to 2026-11-10 |
 | `provide-benefits-to-employes-at-state-correctional-institutions-1959` | PROVIDE BENEFITS TO EMPLOYES AT STATE CORRECTIONAL INSTITUTIONS INJURED IN PERFORMANCE OF THEIR DUTIES (Act of Dec. 8, 1959, P.L. 1718, No. 632) | 1 | 2026-11-10 to 2026-11-10 |
 | `provide-certificates-of-election-1911` | PROVIDE CERTIFICATES OF ELECTION (Act of Jun. 14, 1911, P.L. 926, No. 727) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2181,11 +2484,16 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `providing-pension-to-widows-of-pennsylvania-state-police-officers-1965` | PROVIDING PENSION TO WIDOWS OF PENNSYLVANIA STATE POLICE OFFICERS (Act of Dec. 22, 1965, P.L. 1164, No. 458) | 1 | 2026-11-10 to 2026-11-10 |
 | `providing-pensions-for-surviving-spouses-of-police-officers-in-cities-1965` | PROVIDING PENSIONS FOR SURVIVING SPOUSES OF POLICE OFFICERS IN CITIES OF (THE SECOND CLASS A) | 1 | 2026-11-10 to 2026-11-10 |
 | `psychology-interjurisdictional-compact-act-2020` | PSYCHOLOGY INTERJURISDICTIONAL COMPACT ACT (Act of May 8, 2020, P.L. 124, No. 19) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-accounts-settlement-of-1811` | PUBLIC ACCOUNTS SETTLEMENT OF (Act of Mar. 30, 1811, P.L. 145, No. 99) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-adjuster-licensing-law-1983` | PUBLIC ADJUSTER LICENSING LAW (Act of Dec. 20, 1983, P.L. 260, No. 72) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-auditorium-authorities-law-1953` | PUBLIC AUDITORIUM AUTHORITIES LAW (Act of Jul. 29, 1953, P.L. 1034, No. 270) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-bathing-law-1931` | "PUBLIC BATHING LAW" (Act of Jun. 23, 1931, P.L. 899, No. 299) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-buildings-financing-1923` | PUBLIC BUILDINGS, FINANCING (Act of Mar. 19, 1923, P.L. 20, No. 13) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-canals-and-railroads-repair-of-1854` | PUBLIC CANALS AND RAILROADS - REPAIR OF (Act of May 9, 1854, P.L. 688, No. 680) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-contract-bid-withdrawal-law-1974` | PUBLIC CONTRACT BID WITHDRAWAL LAW (Act of Jan. 23, 1974, P.L. 9, No. 4) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-debt-payment-from-sinking-fund-1858` | PUBLIC DEBT - PAYMENT FROM SINKING FUND (Act of Apr. 22, 1858, P.L. 468, No. 467) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-debt-payment-of-interest-on-1864` | PUBLIC DEBT - PAYMENT OF INTEREST ON (Act of May 3, 1864, P.L. 732, No. 629) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-debt-reduction-of-section-11-1868` | PUBLIC DEBT - REDUCTION OF - SECTION 11 (Act of Feb. 27, 1868, P.L. 43, No. 9) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-defender-act-1968` | PUBLIC DEFENDER ACT (Act of Dec. 2, 1968, P.L. 1144, No. 358) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-documents-distribution-and-preservation-1883` | PUBLIC DOCUMENTS, DISTRIBUTION AND PRESERVATION (Act of Jun. 1, 1883, P.L. 52, No. 45) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-eating-and-drinking-place-law-1945` | PUBLIC EATING AND DRINKING PLACE LAW (Act of May 23, 1945, P.L. 926, No. 369) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2194,16 +2502,34 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `public-employee-fair-share-fee-law-1993` | PUBLIC EMPLOYEE FAIR SHARE FEE LAW (Act of Jun. 2, 1993, P.L. 45, No. 15) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-employee-pension-forfeiture-act-1978` | PUBLIC EMPLOYEE PENSION FORFEITURE ACT (Act of Jul. 8, 1978, P.L. 752, No. 140) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-employee-retirement-commission-act-1981` | PUBLIC EMPLOYEE RETIREMENT COMMISSION ACT (Act of Jul. 9, 1981, P.L. 208, No. 66) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-grounds-appropriated-1868` | PUBLIC GROUNDS APPROPRIATED (Act of Apr. 14, 1868, P.L. 1083, No. 1020) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-halls-and-places-of-amusement-regulation-of-1867` | PUBLIC HALLS AND PLACES OF AMUSEMENT - REGULATION OF (Act of Mar. 14, 1867, P.L. 440, No. 415) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-health-child-death-review-act-2008` | PUBLIC HEALTH CHILD DEATH REVIEW ACT (Act of Oct. 8, 2008, P.L. 1073, No. 87) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-highways-closing-of-regulated-1929` | PUBLIC HIGHWAYS, CLOSING OF REGULATED (Act of May. 9, 1929, P.L. 1702, No. 550) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-highways-vacated-1927` | PUBLIC HIGHWAYS, VACATED (Act of Apr. 7, 1927, P.L. 169, No. 142) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-office-board-of-property-etc-1809` | PUBLIC LANDS - LAND OFFICE - BOARD OF PROPERTY, ETC. (Act of Mar. 29, 1809, P.L. 122, No. 63) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-office-fees-1810` | PUBLIC LANDS - LAND OFFICE - FEES (Act of Dec. 25, (1809) 1810, P.L. 2, No. 2) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-office-land-rights-1804` | PUBLIC LANDS - LAND OFFICE - LAND RIGHTS (Act of Apr. 3, 1804, P.L. 510, No. 121) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-office-patents-1813` | PUBLIC LANDS - LAND OFFICE - PATENTS (Act of Mar. 26, 1813, P.L. 187, No. 148) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-office-reports-to-legislature-1811` | PUBLIC LANDS - LAND OFFICE - REPORTS TO LEGISLATURE (Act of Apr. 2, 1811, P.L. 254, No. 146) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-office-warrants-1807` | PUBLIC LANDS - LAND OFFICE - WARRANTS (Act of Apr. 13, 1807, P.L. 284, No. 143) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-office-warrants-and-patents-1812` | PUBLIC LANDS - LAND OFFICE - WARRANTS AND PATENTS (Act of Feb. 7, 1812, P.L. 39, No. 30) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-office-warrants-and-patents-1813` | PUBLIC LANDS - LAND OFFICE - WARRANTS AND PATENTS (Act of Mar. 22, 1813, P.L. 160, No. 117) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-office-warrants-not-executed-1805` | PUBLIC LANDS - LAND OFFICE - WARRANTS NOT EXECUTED (Act of Apr. 4, 1805, P.L. 234, No. 78) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-office-warrants-patents-and-surveys-1811` | PUBLIC LANDS - LAND OFFICE - WARRANTS, PATENTS AND SURVEYS (Act of Mar. 1, 1811, P.L. 54, No. 48) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-office-warrants-patents-and-surveys-1811-act-132` | PUBLIC LANDS - LAND OFFICE - WARRANTS, PATENTS AND SURVEYS (Act of Apr. 2, 1811, P.L. 222, No. 132) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-offices-entering-caveats-1802` | PUBLIC LANDS - LAND OFFICES - ENTERING CAVEATS (Act of Jan. 22, 1802, P.L. 21, No. 11) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-lands-land-offices-settling-disputes-1802` | PUBLIC LANDS - LAND OFFICES - SETTLING DISPUTES (Act of Apr. 2, 1802, P.L. 153, No. 75) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-morgues-regulation-1893` | PUBLIC MORGUES, REGULATION (Act of Jun. 12, 1893, P.L. 457, No. 327) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-officers-resignation-and-appointment-1982` | PUBLIC OFFICERS - RESIGNATION AND APPOINTMENT (Act of Dec. 16, 1982, P.L. 1354, No. 309) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-officers-terms-1911` | PUBLIC OFFICERS - TERMS (Act of Mar. 2, 1911, P.L. 8, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-official-and-employee-ethics-law-1978` | PUBLIC OFFICIAL AND EMPLOYEE ETHICS LAW (Act of Oct. 4, 1978, P.L. 883, No. 170) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-official-compensation-law-1983` | PUBLIC OFFICIAL COMPENSATION LAW (Act of Sep. 30, 1983, P.L. 160, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-printing-and-binding-1854` | PUBLIC PRINTING AND BINDING (Act of Jan. 26, 1854, P.L. 10, No. 9) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-purposes-grounds-being-appropriated-1869` | PUBLIC PURPOSES - GROUNDS BEING APPROPRIATED (Act of Apr. 21, 1869, P.L. 1194, No. 1189) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-roads-and-highways-contiguous-to-public-grounds-1919` | PUBLIC ROADS AND HIGHWAYS CONTIGUOUS TO PUBLIC GROUNDS (Act of May 1, 1919, P.L. 93, No. 71) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-roads-boundary-lines-1901` | PUBLIC ROADS, BOUNDARY LINES (Act of Jun. 19, 1901, P.L. 573, No. 280) | 1 | 2026-11-10 to 2026-11-10 |
+| `public-roads-changing-or-vacating-powers-of-court-1850` | PUBLIC ROADS - CHANGING OR VACATING - POWERS OF COURT (Act of May 8, 1850, P.L. 713, No. 416) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-roads-laying-out-and-vacating-1909` | PUBLIC ROADS, LAYING OUT AND VACATING (Act of Apr. 23, 1909, P.L. 142, No. 93) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-roads-retained-as-private-roads-1929` | PUBLIC ROADS, RETAINED AS PRIVATE ROADS (Act of Apr. 17, 1929, P.L. 530, No. 232) | 1 | 2026-11-10 to 2026-11-10 |
 | `public-roads-sidewalks-along-1889` | PUBLIC ROADS, SIDEWALKS ALONG (Act of May 7, 1889, P.L. 110, No. 118) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2224,6 +2550,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `pymatuning-lake-agreement-1937` | PYMATUNING LAKE AGREEMENT (Act of Jun. 5, 1937, P.L. 1664, No. 348) | 1 | 2026-11-10 to 2026-11-10 |
 | `pymatuning-swamp-reservoir-project-law-1929` | PYMATUNING SWAMP RESERVOIR PROJECT LAW (Act of May 2, 1929, P.L. 1530, No. 456) | 1 | 2026-11-10 to 2026-11-10 |
 | `quieting-title-to-real-estate-1915` | QUIETING TITLE TO REAL ESTATE (Act of Apr. 14, 1915, P.L. 113, No. 51) | 1 | 2026-11-10 to 2026-11-10 |
+| `quo-warranto-act-1836` | QUO WARRANTO ACT (Act of Jun. 14, 1836, P.L. 621, No. 174) | 1 | 2026-11-10 to 2026-11-10 |
 | `rabbit-sales-made-lawful-1907` | RABBIT SALES MADE LAWFUL (Act of Jun. 6, 1907, P.L. 422, No. 291) | 1 | 2026-11-10 to 2026-11-10 |
 | `rabies-damage-payments-1935` | RABIES, DAMAGE PAYMENTS (Act of May 22, 1935, P.L. 227, No. 96) | 1 | 2026-11-10 to 2026-11-10 |
 | `rabies-prevention-and-control-in-domestic-animals-and-wildlife-act-1986` | RABIES PREVENTION AND CONTROL IN DOMESTIC ANIMALS AND WILDLIFE ACT (Act of Dec. 15, 1986, P.L. 1610, No. 181) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2237,16 +2564,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `railroads-use-of-public-land-1901` | RAILROADS, USE OF PUBLIC LAND (Act of Jun. 7, 1901, P.L. 491, No. 243) | 1 | 2026-11-10 to 2026-11-10 |
 | `rails-to-trails-act-1990` | RAILS TO TRAILS ACT (Act of Dec. 18, 1990, P.L. 748, No. 188) | 1 | 2026-11-10 to 2026-11-10 |
 | `ramps-for-handicapped-persons-installation-at-crosswalks-1976` | RAMPS FOR HANDICAPPED PERSONS INSTALLATION AT CROSSWALKS (Act of May 20, 1976, P.L. 129, No. 56) | 1 | 2026-11-10 to 2026-11-10 |
+| `rates-and-levies-of-county-and-township-1834` | RATES AND LEVIES OF COUNTY AND TOWNSHIP (Act of Apr. 15, 1834, P.L. 509, No. 232) | 1 | 2026-11-10 to 2026-11-10 |
 | `ratifying-and-confirming-paving-1897` | RATIFYING AND CONFIRMING PAVING (Act of May 11, 1897, P.L. 48, No. 40) | 1 | 2026-11-10 to 2026-11-10 |
 | `raven-rock-site-cession-to-united-states-1982` | RAVEN ROCK SITE - CESSION TO UNITED STATES (Act of Mar. 13, 1982, P.L. 183, No. 58) | 1 | 2026-11-10 to 2026-11-10 |
 | `raymond-e-wilt-memorial-highway-official-designation-1979` | RAYMOND E. WILT MEMORIAL HIGHWAY - OFFICIAL DESIGNATION (Act of Nov. 1, 1979, P.L. 254, No. 85) | 1 | 2026-11-10 to 2026-11-10 |
+| `real-and-personal-estate-just-and-safe-transmission-enjoyment-of-1855` | REAL AND PERSONAL ESTATE - JUST AND SAFE TRANSMISSION, ENJOYMENT OF (Act of Apr. 27, 1855, P.L. 368, No. 387) | 1 | 2026-11-10 to 2026-11-10 |
+| `real-and-personal-estate-protection-and-enjoyment-of-1859` | REAL AND PERSONAL ESTATE - PROTECTION AND ENJOYMENT OF (Act of Apr. 6, 1859, P.L. 383, No. 382) | 1 | 2026-11-10 to 2026-11-10 |
 | `real-estate-affidavits-affecting-titles-1981` | REAL ESTATE - AFFIDAVITS AFFECTING TITLES (Act of Nov. 5, 1981, P.L. 328, No. 118) | 1 | 2026-11-10 to 2026-11-10 |
 | `real-estate-agent-law-supplementing-1939` | REAL ESTATE AGENT LAW, SUPPLEMENTING (Act of May. 26, 1939, P.L. 230, No. 133) | 1 | 2026-11-10 to 2026-11-10 |
 | `real-estate-appraisers-certification-act-1990` | REAL ESTATE APPRAISERS CERTIFICATION ACT (Act of Jul. 10, 1990, P.L. 404, No. 98) | 1 | 2026-11-10 to 2026-11-10 |
+| `real-estate-conveyance-confirmation-of-1862` | REAL ESTATE CONVEYANCE - CONFIRMATION OF (Act of Apr. 10, 1862, P.L. 401, No. 405) | 1 | 2026-11-10 to 2026-11-10 |
 | `real-estate-deputy-sheriff-provided-1929` | REAL ESTATE DEPUTY SHERIFF, PROVIDED (Act of Apr. 4, 1929, P.L. 163, No. 158) | 1 | 2026-11-10 to 2026-11-10 |
+| `real-estate-improvement-of-1868` | REAL ESTATE - IMPROVEMENT OF (Act of Apr. 4, 1868, P.L. 61, No. 28) | 1 | 2026-11-10 to 2026-11-10 |
 | `real-estate-licensing-and-registration-act-1980` | REAL ESTATE LICENSING AND REGISTRATION ACT (Act of Feb. 19, 1980, P.L. 15, No. 9) | 1 | 2026-11-10 to 2026-11-10 |
 | `real-estate-quieting-title-to-1911` | REAL ESTATE - QUIETING TITLE TO (Act of Mar. 7, 1911, P.L. 13, No. 12) | 1 | 2026-11-10 to 2026-11-10 |
 | `real-estate-redemption-after-tax-sale-1935` | REAL ESTATE, REDEMPTION AFTER TAX SALE (Act of Jul. 17, 1935, P.L. 1091, No. 356) | 1 | 2026-11-10 to 2026-11-10 |
+| `real-estate-registry-act-1865` | REAL ESTATE REGISTRY ACT (Act of Mar. 14, 1865, P.L. 320, No. 324) | 1 | 2026-11-10 to 2026-11-10 |
+| `real-estate-registry-act-1867` | REAL ESTATE REGISTRY ACT (Act of Mar. 29, 1867, P.L. 600, No. 569) | 1 | 2026-11-10 to 2026-11-10 |
 | `real-estate-sale-for-taxes-1911` | REAL ESTATE, SALE FOR TAXES (Act of May 11, 1911, P.L. 257, No. 161) | 1 | 2026-11-10 to 2026-11-10 |
 | `real-estate-sale-of-by-courts-1921` | REAL ESTATE, SALE OF BY COURTS (Act of Apr. 6, 1921, P.L. 99, No. 59) | 1 | 2026-11-10 to 2026-11-10 |
 | `real-estate-sales-for-tax-purposes-relating-to-1905` | REAL ESTATE SALES FOR TAX PURPOSES - RELATING TO (Act of Apr. 20, 1905, P.L. 239, No. 178) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2256,22 +2590,31 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `real-property-written-agreement-pertaining-to-1931` | REAL PROPERTY, WRITTEN AGREEMENT PERTAINING TO (Act of Apr. 24, 1931, P.L. 48, No. 40) | 1 | 2026-11-10 to 2026-11-10 |
 | `realty-taxes-exemptions-1929` | REALTY TAXES, EXEMPTIONS (Act of Apr. 11, 1929, P.L. 520, No. 223) | 1 | 2026-11-10 to 2026-11-10 |
 | `recognition-of-emergency-medical-services-personnel-licensure-2022` | RECOGNITION OF EMERGENCY MEDICAL SERVICES PERSONNEL LICENSURE INTERSTATE COMPACT ACT (Act of Jul. 7, 2022, P.L. 477, No. 45) | 1 | 2026-11-10 to 2026-11-10 |
+| `recognizances-forfeiture-proceeds-philadelphia-1846` | RECOGNIZANCES - FORFEITURE - PROCEEDS - PHILADELPHIA (Act of Apr. 22, 1846, P.L. 476, No. 381) | 1 | 2026-11-10 to 2026-11-10 |
 | `recorder-of-deeds-charges-for-accepting-documents-1986` | RECORDER OF DEEDS - CHARGES FOR ACCEPTING DOCUMENTS (Act of Dec. 17, 1986, P.L. 1685, No. 197) | 1 | 2026-11-10 to 2026-11-10 |
 | `recorder-of-deeds-fee-law-1982` | RECORDER OF DEEDS FEE LAW (Act of Apr. 8, 1982, P.L. 310, No. 87) | 1 | 2026-11-10 to 2026-11-10 |
 | `recorder-of-deeds-rerecording-of-instruments-1927` | RECORDER OF DEEDS, RERECORDING OF INSTRUMENTS (Act of Apr. 21, 1927, P.L. 338, No. 201) | 1 | 2026-11-10 to 2026-11-10 |
 | `recorders-of-deeds-first-class-counties-1937` | RECORDERS OF DEEDS, FIRST CLASS COUNTIES (Act of Apr. 8, 1937, P.L. 255, No. 61) | 1 | 2026-11-10 to 2026-11-10 |
+| `recorders-of-deeds-relating-to-1859` | RECORDERS OF DEEDS - RELATING TO (Act of Apr. 6, 1859, P.L. 383, No. 381) | 1 | 2026-11-10 to 2026-11-10 |
+| `recorders-of-deeds-to-appoint-deputies-1852` | RECORDERS OF DEEDS TO APPOINT DEPUTIES (Act of Mar. 1, 1852, P.L. 100, No. 85) | 1 | 2026-11-10 to 2026-11-10 |
 | `recording-and-copying-of-politicial-subdivision-records-1949` | "RECORDING AND COPYING OF POLITICIAL SUBDIVISION RECORDS" (Act of May 9, 1949, P.L. 908, No. 250) | 1 | 2026-11-10 to 2026-11-10 |
 | `recording-of-deeds-and-patents-provided-for-1919` | RECORDING OF DEEDS AND PATENTS PROVIDED FOR (Act of Apr. 4, 1919, P.L. 49, No. 37) | 1 | 2026-11-10 to 2026-11-10 |
 | `recording-of-deeds-regulation-1925` | RECORDING OF DEEDS, REGULATION (Act of May 12, 1925, P.L. 613, No. 327) | 1 | 2026-11-10 to 2026-11-10 |
 | `recording-of-deeds-requirements-1909` | RECORDING OF DEEDS REQUIREMENTS (Act of Apr. 29, 1909, P.L. 289, No. 186) | 1 | 2026-11-10 to 2026-11-10 |
 | `recording-of-deeds-requirements-1929` | RECORDING OF DEEDS, REQUIREMENTS (Act of Apr. 22, 1929, P.L. 620, No. 258) | 1 | 2026-11-10 to 2026-11-10 |
+| `recording-of-deeds-supplement-1846` | RECORDING OF DEEDS - SUPPLEMENT (Act of Mar. 14, 1846, P.L. 124, No. 100) | 1 | 2026-11-10 to 2026-11-10 |
+| `recording-of-deeds-supplement-1847` | RECORDING OF DEEDS - SUPPLEMENT (Act of Mar. 9, 1847, P.L. 279, No. 222) | 1 | 2026-11-10 to 2026-11-10 |
 | `recording-of-ordinances-vacating-streets-required-1907` | RECORDING OF ORDINANCES VACATING STREETS REQUIRED (Act of May 23, 1907, P.L. 223, No. 171) | 1 | 2026-11-10 to 2026-11-10 |
 | `recording-of-releases-etc-signed-by-married-woman-authorizing-1897` | RECORDING OF RELEASES, ETC., SIGNED BY MARRIED WOMAN AUTHORIZING (Act of May. 25, 1897, P.L. 83, No. 63) | 1 | 2026-11-10 to 2026-11-10 |
 | `recording-of-surrender-documents-from-oil-and-natural-gas-lease-act-2014` | RECORDING OF SURRENDER DOCUMENTS FROM OIL AND NATURAL GAS LEASE ACT (Act of Oct. 22, 2014, P.L. 2526, No. 152) | 1 | 2026-11-10 to 2026-11-10 |
 | `records-kept-in-english-language-1893` | RECORDS, KEPT IN ENGLISH LANGUAGE (Act of May 31, 1893, P.L. 188, No. 137) | 1 | 2026-11-10 to 2026-11-10 |
+| `records-of-philadelphia-relating-to-certain-1862` | RECORDS OF PHILADELPHIA - RELATING TO CERTAIN (Act of Mar. 8, 1862, P.L. 97, No. 96) | 1 | 2026-11-10 to 2026-11-10 |
+| `recovery-of-debts-and-demands-1810` | RECOVERY OF DEBTS AND DEMANDS (Act of Mar. 20, 1810, P.L. 208, No. 132) | 1 | 2026-11-10 to 2026-11-10 |
 | `recreational-improvement-and-rehabilitation-act-1984` | RECREATIONAL IMPROVEMENT AND REHABILITATION ACT (Act of Jul. 2, 1984, P.L. 527, No. 106) | 1 | 2026-11-10 to 2026-11-10 |
 | `redemption-of-realty-purchased-at-tax-sales-1941` | REDEMPTION OF REALTY PURCHASED AT TAX SALES (Act of Jul. 28, 1941, P.L. 536, No. 217) | 1 | 2026-11-10 to 2026-11-10 |
+| `redemption-of-unseated-lands-sold-for-taxes-1855` | REDEMPTION OF UNSEATED LANDS - SOLD FOR TAXES (Act of May 8, 1855, P.L. 519, No. 541) | 1 | 2026-11-10 to 2026-11-10 |
 | `redevelopment-cooperation-law-1945` | REDEVELOPMENT COOPERATION LAW (Act of May 24, 1945, P.L. 982, No. 383) | 1 | 2026-11-10 to 2026-11-10 |
+| `reduction-of-public-debt-1870` | REDUCTION OF PUBLIC DEBT (Act of Apr. 9, 1870, P.L. 59, No. 38) | 1 | 2026-11-10 to 2026-11-10 |
 | `referendum-indebtedness-for-preservation-of-agricultural-land-1987` | REFERENDUM - INDEBTEDNESS FOR PRESERVATION OF AGRICULTURAL LAND (Act of Jul. 13, 1987, P.L. 299, No. 54) | 1 | 2026-11-10 to 2026-11-10 |
 | `reflex-sympathetic-dystrophy-syndrome-education-act-2003` | REFLEX SYMPATHETIC DYSTROPHY SYNDROME EDUCATION ACT (Act of Dec. 30, 2003, P.L. 434, No. 62) | 1 | 2026-11-10 to 2026-11-10 |
 | `reform-schools-name-changes-1909` | REFORM SCHOOLS, NAME CHANGES (Act of Mar. 18, 1909, P.L. 44, No. 27) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2282,24 +2625,30 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `regis-r-malady-memorial-bridge-designation-1985` | REGIS R. MALADY MEMORIAL BRIDGE - DESIGNATION (Act of Oct. 18, 1985, P.L. 261, No. 64) | 1 | 2026-11-10 to 2026-11-10 |
 | `register-of-wills-fee-law-1981` | REGISTER OF WILLS FEE LAW (Act of Jul. 1, 1981, P.L. 191, No. 57) | 1 | 2026-11-10 to 2026-11-10 |
 | `register-of-wills-in-counties-of-the-first-class-to-give-bond-before-1951` | REGISTER OF WILLS IN COUNTIES OF THE FIRST CLASS TO GIVE BOND BEFORE (ENTERING UPON DUTIES OF HIS OFFICE) | 1 | 2026-11-10 to 2026-11-10 |
+| `registered-bonds-for-coupon-bonds-1869` | REGISTERED BONDS FOR COUPON BONDS (Act of Apr. 24, 1869, P.L. 89, No. 65) | 1 | 2026-11-10 to 2026-11-10 |
 | `registers-of-wills-authorizing-state-organization-1927` | REGISTERS OF WILLS, AUTHORIZING STATE ORGANIZATION (Act of Apr. 23, 1927, P.L. 380, No. 245) | 1 | 2026-11-10 to 2026-11-10 |
 | `registrars-of-electors-appointment-1913` | REGISTRARS OF ELECTORS, APPOINTMENT (Act of Jul. 24, 1913, P.L. 994, No. 453) | 1 | 2026-11-10 to 2026-11-10 |
 | `registration-of-voters-1913` | REGISTRATION OF VOTERS (Act of Jul. 25, 1913, P.L. 1043, No. 472) | 1 | 2026-11-10 to 2026-11-10 |
+| `regulate-curb-lines-and-height-and-width-of-footways-1873` | REGULATE CURB LINES AND HEIGHT AND WIDTH OF FOOTWAYS (Act of Apr. 28, 1873, P.L. 854, No. 933) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-acknowledgments-1901` | REGULATING ACKNOWLEDGMENTS (Act of Apr. 4, 1901, P.L. 67, No. 35) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-and-improving-the-civil-service-in-second-class-cities-1907` | REGULATING AND IMPROVING THE CIVIL SERVICE IN SECOND CLASS CITIES (Act of May 23, 1907, P.L. 206, No. 167) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-anthracite-coal-mining-1961` | REGULATING ANTHRACITE COAL MINING (Act of Sep. 20, 1961, P.L. 1538, No. 656) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-blasting-powder-1901` | REGULATING BLASTING POWDER (Act of Apr. 24, 1901, P.L. 97, No. 68) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-certain-health-insurance-coverage-for-newborn-children-1975` | REGULATING CERTAIN HEALTH INSURANCE COVERAGE FOR NEWBORN CHILDREN (Act of Aug. 1, 1975, P.L. 157, No. 81) | 1 | 2026-11-10 to 2026-11-10 |
+| `regulating-elections-in-philadelphia-1851` | REGULATING ELECTIONS IN PHILADELPHIA (Act of Apr. 28, 1851, P.L. 724, No. 378) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-line-fences-1905` | REGULATING LINE FENCES (Act of Apr. 14, 1905, P.L. 162, No. 118) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-magazine-subscription-sales-1970` | REGULATING MAGAZINE SUBSCRIPTION SALES (Act of Nov. 25, 1970, P.L. 744, No. 241) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-municipal-water-corporations-1907` | REGULATING MUNICIPAL WATER CORPORATIONS (Act of 1907, P.L. 167, No. 129) | 1 | 2026-11-10 to 2026-11-10 |
+| `regulating-of-pilots-and-pilotage-establishing-a-board-of-wardens-1871` | REGULATING OF PILOTS AND PILOTAGE, ESTABLISHING A BOARD OF WARDENS (Act of Jun. 15, 1871, P.L. 390, No. 360) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-police-and-fire-pensions-in-second-class-a-cities-1947` | REGULATING POLICE AND FIRE PENSIONS IN SECOND CLASS A CITIES (Act of Jul. 3, 1947, P.L. 1242, No. 507) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-police-in-second-class-cities-1951` | REGULATING POLICE IN SECOND CLASS CITIES (Act of Aug. 10, 1951, P.L. 1189, No. 265) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-police-pay-1953` | REGULATING POLICE PAY (Act of Aug. 19, 1953, P.L. 1100, No. 296) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-sale-of-electron-tubes-for-radio-television-etc-1961` | REGULATING SALE OF ELECTRON TUBES FOR RADIO, TELEVISION, ETC. (Act of Jun. 13, 1961, P.L. 292, No. 173) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-sale-of-tickets-for-passage-aboard-certain-vessels-1965` | REGULATING SALE OF TICKETS FOR PASSAGE ABOARD CERTAIN VESSELS (Act of Jul. 19, 1965, P.L. 218, No. 118) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-sales-of-products-made-by-the-blind-1961` | REGULATING SALES OF PRODUCTS MADE BY THE BLIND (Act of Jul. 26, 1961, P.L. 906, No. 389) | 1 | 2026-11-10 to 2026-11-10 |
+| `regulating-the-control-of-square-timber-adrift-in-west-branch-1873` | REGULATING THE CONTROL OF SQUARE TIMBER ADRIFT IN WEST BRANCH (Act of Feb. 11, 1873, P.L. 33, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-the-importation-and-sale-of-live-turtles-1972` | REGULATING THE IMPORTATION AND SALE OF LIVE TURTLES (Act of Mar. 3, 1972, P.L. 102, No. 37) | 1 | 2026-11-10 to 2026-11-10 |
+| `regulating-the-importing-of-corn-and-salt-1867` | REGULATING THE IMPORTING OF CORN AND SALT (Act of Apr. 12, 1867, P.L. 74, No. 53) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-the-manufacture-of-denatured-alcohol-1913` | REGULATING THE MANUFACTURE OF DENATURED ALCOHOL (Act of Jul. 22, 1913, P.L. 914, No. 439) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-the-recording-of-instruments-in-philadelphia-1955` | REGULATING THE RECORDING OF INSTRUMENTS IN PHILADELPHIA (Act of Aug. 4, 1955, P.L. 303, No. 117) | 1 | 2026-11-10 to 2026-11-10 |
 | `regulating-the-sale-of-second-hand-watches-1945` | REGULATING THE SALE OF SECOND HAND WATCHES (Act of Apr. 12, 1945, P.L. 221, No. 100) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2350,8 +2699,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `relating-to-volunteer-fire-companies-1955` | RELATING TO VOLUNTEER FIRE COMPANIES (Act of Jun. 13, 1955, P.L. 173, No. 51) | 1 | 2026-11-10 to 2026-11-10 |
 | `release-of-project-500-land-allegheny-county-1980` | RELEASE OF PROJECT 500 LAND - ALLEGHENY COUNTY (Act of Jul. 3, 1980, P.L. 377, No. 95) | 1 | 2026-11-10 to 2026-11-10 |
 | `release-of-restrictions-project-70-westmoreland-county-1986` | RELEASE OF RESTRICTIONS PROJECT 70 - WESTMORELAND COUNTY (Act of Oct. 9, 1986, P.L. 1440, No. 138) | 1 | 2026-11-10 to 2026-11-10 |
+| `releases-adknowledgment-and-recording-1850` | RELEASES - ADKNOWLEDGMENT AND RECORDING (Act of Apr. 26, 1850, P.L. 577, No. 348) | 1 | 2026-11-10 to 2026-11-10 |
+| `relief-and-employment-of-the-poor-in-philadelphia-1849` | RELIEF AND EMPLOYMENT OF THE POOR IN PHILADELPHIA (Act of Mar. 20, 1849, P.L. 214, No. 178) | 1 | 2026-11-10 to 2026-11-10 |
 | `religious-corporations-permitted-to-convey-land-1879` | RELIGIOUS CORPORATIONS, PERMITTED TO CONVEY LAND (Act of Apr. 11, 1879, P.L. 22, No. 18) | 1 | 2026-11-10 to 2026-11-10 |
 | `religious-freedom-protection-act-2002` | RELIGIOUS FREEDOM PROTECTION ACT (Act of Dec. 9, 2002, P.L. 1701, No. 214) | 1 | 2026-11-10 to 2026-11-10 |
+| `religious-organizations-holding-and-use-of-real-estate-1842` | RELIGIOUS ORGANIZATIONS - HOLDING AND USE OF REAL ESTATE (Act of Aug. 2, 1842, P.L. 458, No. 129) | 1 | 2026-11-10 to 2026-11-10 |
 | `relocation-of-boundary-lines-of-wards-provided-for-1897` | RELOCATION OF BOUNDARY LINES OF WARDS PROVIDED FOR (Act of Jul. 9, 1897, P.L. 217, No. 178) | 1 | 2026-11-10 to 2026-11-10 |
 | `removal-of-dead-bodies-authority-granted-to-courts-1923` | REMOVAL OF DEAD BODIES, AUTHORITY GRANTED TO COURTS (Act of May 19, 1923, P.L. 281, No. 180) | 1 | 2026-11-10 to 2026-11-10 |
 | `removal-of-identification-slip-mine-or-coal-cars-prohibited-1907` | REMOVAL OF IDENTIFICATION SLIP, MINE OR COAL CARS PROHIBITED (Act of May 28, 1907, P.L. 270, No. 206) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2391,6 +2743,9 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `retail-gasoline-sales-posting-gasoline-additive-information-1987` | RETAIL GASOLINE SALES - POSTING GASOLINE ADDITIVE INFORMATION (Act of Jul. 1, 1987, P.L. 187, No. 24) | 1 | 2026-11-10 to 2026-11-10 |
 | `retail-liquid-fuel-dealers-required-to-display-tax-rate-1931` | RETAIL LIQUID FUEL DEALERS REQUIRED TO DISPLAY TAX RATE (Act of Jun. 1, 1931, P.L. 299, No. 137) | 1 | 2026-11-10 to 2026-11-10 |
 | `retired-law-enforcement-identification-act-2005` | RETIRED LAW ENFORCEMENT IDENTIFICATION ACT (Act of Dec. 13, 2005, P.L. 432, No. 79) | 1 | 2026-11-10 to 2026-11-10 |
+| `revenue-board-abolished-1864` | REVENUE BOARD ABOLISHED (Act of Apr. 30, 1864, P.L. 218, No. 210) | 1 | 2026-11-10 to 2026-11-10 |
+| `revenues-increased-and-legislative-expenses-diminished-1845` | REVENUES INCREASED AND LEGISLATIVE EXPENSES DIMINISHED (Act of Apr. 16, 1845, P.L. 532, No. 348) | 1 | 2026-11-10 to 2026-11-10 |
+| `revenues-of-the-commonwealth-1873` | REVENUES OF THE COMMONWEALTH (Act of Mar. 21, 1873, P.L. 46, No. 23) | 1 | 2026-11-10 to 2026-11-10 |
 | `richard-c-frame-memorial-highway-designation-1986` | RICHARD C. FRAME MEMORIAL HIGHWAY - DESIGNATION (Act of May 7, 1986, P.L. 155, No. 48) | 1 | 2026-11-10 to 2026-11-10 |
 | `ridesharing-arrangements-1982` | RIDESHARING ARRANGEMENTS (Act of Dec. 14, 1982, P.L. 1211, No. 279) | 1 | 2026-11-10 to 2026-11-10 |
 | `right-of-way-sewer-line-at-wernersville-state-hospital-1979` | RIGHT-OF-WAY - SEWER LINE AT WERNERSVILLE STATE HOSPITAL (Act of Nov. 2, 1979, P.L. 456, No. 93) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2398,13 +2753,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `right-to-know-law-2008` | RIGHT-TO-KNOW LAW (Act of Feb. 14, 2008, P.L. 6, No. 3) | 1 | 2026-11-10 to 2026-11-10 |
 | `right-to-know-law-repealed-eff-01-01-09-1957` | RIGHT-TO-KNOW LAW - REPEALED (EFF. 01/01/09) (Act of Jun. 21, 1957, P.L. 390, No. 212) | 1 | 2026-11-10 to 2026-11-10 |
 | `right-to-try-act-2017` | RIGHT-TO-TRY ACT (Act of Oct. 11, 2017, P.L. 347, No. 33) | 1 | 2026-11-10 to 2026-11-10 |
+| `rights-of-way-woodlands-1850` | RIGHTS OF WAY - WOODLANDS (Act of Apr. 25, 1850, P.L. 569, No. 347) | 1 | 2026-11-10 to 2026-11-10 |
 | `riparian-rights-of-first-class-cities-1893` | RIPARIAN RIGHTS OF FIRST CLASS CITIES (Act of Jun. 3, 1893, P.L. 281, No. 247) | 1 | 2026-11-10 to 2026-11-10 |
 | `river-maintenance-1931` | RIVER MAINTENANCE (Act of Jun. 12, 1931, P.L. 528, No. 171) | 1 | 2026-11-10 to 2026-11-10 |
+| `road-and-bridge-viewers-1845` | ROAD AND BRIDGE VIEWERS (Act of Feb. 24, 1845, P.L. 52, No. 40) | 1 | 2026-11-10 to 2026-11-10 |
 | `road-assessments-appeals-from-1887` | ROAD ASSESSMENTS, APPEALS FROM (Act of May 23, 1887, P.L. 180, No. 120) | 1 | 2026-11-10 to 2026-11-10 |
 | `road-cases-costs-1887` | ROAD CASES, COSTS (Act of May 19, 1887, P.L. 139, No. 85) | 1 | 2026-11-10 to 2026-11-10 |
 | `road-construction-and-repair-in-state-forest-lands-1931` | ROAD CONSTRUCTION AND REPAIR IN STATE FOREST LANDS (Act of May 5, 1931, P.L. 91, No. 67) | 1 | 2026-11-10 to 2026-11-10 |
+| `road-taxes-on-unseated-lands-1811` | ROAD TAXES ON UNSEATED LANDS (Act of Mar. 30, 1811, P.L. 189, No. 111) | 1 | 2026-11-10 to 2026-11-10 |
+| `road-viewers-philadelphia-supplement-1866` | ROAD VIEWERS - PHILADELPHIA - SUPPLEMENT (Act of Mar. 16, 1866, P.L. 224, No. 199) | 1 | 2026-11-10 to 2026-11-10 |
+| `roads-and-bridges-in-county-of-york-1870` | ROADS AND BRIDGES IN COUNTY OF YORK (Act of Feb. 23, 1870, P.L. 228, No. 221) | 1 | 2026-11-10 to 2026-11-10 |
 | `roads-and-bridges-in-york-county-relating-to-1907` | ROADS AND BRIDGES IN YORK COUNTY, RELATING TO (Act of May 25, 1907, P.L. 233, No. 185) | 1 | 2026-11-10 to 2026-11-10 |
+| `roads-and-bridges-relating-to-supplement-1854` | ROADS AND BRIDGES - RELATING TO - SUPPLEMENT (Act of Apr. 13, 1854, P.L. 360, No. 344) | 1 | 2026-11-10 to 2026-11-10 |
 | `roads-cutting-of-weed-adjacent-to-1885` | ROADS - CUTTING OF WEED ADJACENT TO (Act of Apr. 24, 1885, P.L. 9, No. 11) | 1 | 2026-11-10 to 2026-11-10 |
+| `roads-highways-and-bridges-1848` | ROADS, HIGHWAYS AND BRIDGES (Act of Apr. 8, 1848, P.L. 414, No. 306) | 1 | 2026-11-10 to 2026-11-10 |
+| `roads-highways-and-bridges-supplement-1846` | ROADS, HIGHWAYS AND BRIDGES - SUPPLEMENT (Act of Apr. 21, 1846, P.L. 416, No. 347) | 1 | 2026-11-10 to 2026-11-10 |
+| `roads-highways-and-bridges-supplement-1855` | ROADS, HIGHWAYS AND BRIDGES - SUPPLEMENT (Act of May 3, 1855, P.L. 422, No. 446) | 1 | 2026-11-10 to 2026-11-10 |
+| `roads-highways-and-bridges-supplement-1864` | ROADS, HIGHWAYS AND BRIDGES - SUPPLEMENT (Act of Mar. 18, 1864, P.L. 68, No. 70) | 1 | 2026-11-10 to 2026-11-10 |
+| `roads-highways-and-bridges-supplement-act-1872` | ROADS HIGHWAYS AND BRIDGES SUPPLEMENT ACT (Act of Apr. 3, 1872, P.L. 36, No. 26) | 1 | 2026-11-10 to 2026-11-10 |
 | `roads-notice-given-of-opening-1899` | ROADS, NOTICE GIVEN OF OPENING (Act of May 2, 1899, P.L. 176, No. 115) | 1 | 2026-11-10 to 2026-11-10 |
 | `roads-temporary-closing-of-1875` | ROADS, TEMPORARY CLOSING OF (Act of Mar. 18, 1875, P.L. 34, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
 | `roads-to-reach-coal-deposits-authorizing-layout-1897` | ROADS TO REACH COAL DEPOSITS, AUTHORIZING LAYOUT (Act of Jul. 9, 1897, P.L. 213, No. 173) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2428,17 +2794,27 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `salaries-of-town-councilmen-of-incorporated-towns-1949` | SALARIES OF TOWN COUNCILMEN OF INCORPORATED TOWNS (Act of May. 17, 1949, P.L. 1406, No. 419) | 1 | 2026-11-10 to 2026-11-10 |
 | `sale-letting-or-mortgaging-of-real-property-by-corporations-1881` | SALE, LETTING, OR MORTGAGING OF REAL PROPERTY BY CORPORATIONS (Act of Jun. 8, 1881, P.L. 69, No. 76) | 1 | 2026-11-10 to 2026-11-10 |
 | `sale-of-bonds-by-cities-authorized-1915` | SALE OF BONDS BY CITIES AUTHORIZED (Act of May 28, 1915, P.L. 582, No. 253) | 1 | 2026-11-10 to 2026-11-10 |
+| `sale-of-county-land-not-needed-for-buildings-1874` | SALE OF COUNTY LAND NOT NEEDED FOR BUILDINGS (Act of May 14, 1874, P.L. 154, No. 87) | 1 | 2026-11-10 to 2026-11-10 |
+| `sale-of-goods-distrained-for-rent-1825` | SALE OF GOODS DISTRAINED FOR RENT (Act of Mar. 25, 1825, P.L. 114, No. 68) | 1 | 2026-11-10 to 2026-11-10 |
 | `sale-of-goods-regulated-by-local-government-1931` | SALE OF GOODS, REGULATED BY LOCAL GOVERNMENT (Act of Jun. 12, 1931, P.L. 535, No. 174) | 1 | 2026-11-10 to 2026-11-10 |
+| `sale-of-land-for-non-payment-of-taxes-1858` | SALE OF LAND FOR NON-PAYMENT OF TAXES (Act of Feb. 23, 1858, P.L. 45, No. 59) | 1 | 2026-11-10 to 2026-11-10 |
+| `sale-of-land-for-tax-disposition-of-tax-1840` | SALE OF LAND FOR TAX; DISPOSITION OF TAX (Act of Apr. 28, 1840, P.L. 467, No. 185) | 1 | 2026-11-10 to 2026-11-10 |
 | `sale-of-land-for-taxes-1885` | SALE OF LAND FOR TAXES (Act of Jun. 3, 1885, P.L. 71, No. 43) | 1 | 2026-11-10 to 2026-11-10 |
 | `sale-of-land-to-department-of-forestry-authorized-1915` | SALE OF LAND TO DEPARTMENT OF FORESTRY AUTHORIZED (Act of Apr. 21, 1915, P.L. 140, No. 68) | 1 | 2026-11-10 to 2026-11-10 |
 | `sale-of-real-estate-for-benefit-of-creditors-1893` | SALE OF REAL ESTATE FOR BENEFIT OF CREDITORS (Act of May 24, 1893, P.L. 128, No. 80) | 1 | 2026-11-10 to 2026-11-10 |
 | `sale-of-real-estate-free-from-liens-1876` | SALE OF REAL ESTATE FREE FROM LIENS (Act of Feb. 17, 1876, P.L. 4, No. 2) | 1 | 2026-11-10 to 2026-11-10 |
 | `sale-of-transportation-lands-act-2010` | SALE OF TRANSPORTATION LANDS ACT (Act of Jul. 9, 2010, P.L. 454, No. 58) | 1 | 2026-11-10 to 2026-11-10 |
+| `sale-of-unseated-lands-supplement-1862` | SALE OF UNSEATED LANDS - SUPPLEMENT (Act of Apr. 3, 1862, P.L. 228, No. 233) | 1 | 2026-11-10 to 2026-11-10 |
+| `sale-of-vacant-lands-1814` | SALE OF VACANT LANDS (Act of Mar. 14, 1814, P.L. 107, No. 72) | 1 | 2026-11-10 to 2026-11-10 |
 | `sale-of-wharf-property-by-first-class-cities-1901` | SALE OF WHARF PROPERTY BY FIRST CLASS CITIES (Act of May 11, 1901, P.L. 183, No. 149) | 1 | 2026-11-10 to 2026-11-10 |
+| `sales-of-foreign-merchandise-by-auctioneers-1871` | SALES OF FOREIGN MERCHANDISE BY AUCTIONEERS (Act of May 19, 1871, P.L. 270, No. 252) | 1 | 2026-11-10 to 2026-11-10 |
 | `sales-of-property-in-bulk-by-corporations-1927` | SALES OF PROPERTY IN BULK BY CORPORATIONS (Act of May 10, 1927, P.L. 879, No. 446) | 1 | 2026-11-10 to 2026-11-10 |
 | `sales-representatives-contracts-1988` | SALES REPRESENTATIVES - CONTRACTS (Act of Dec. 21, 1988, P.L. 1881, No. 184) | 1 | 2026-11-10 to 2026-11-10 |
+| `salting-of-turn-outs-and-switches-of-freight-railroads-1871` | SALTING OF TURN OUTS AND SWITCHES OF FREIGHT RAILROADS (Act of May. 26, 1871, P.L. 1241, No. 1147) | 1 | 2026-11-10 to 2026-11-10 |
 | `samuel-w-frank-memorial-dam-designation-1984` | SAMUEL W. FRANK MEMORIAL DAM - DESIGNATION (Act of Dec. 12, 1984, P.L. 985, No. 198) | 1 | 2026-11-10 to 2026-11-10 |
+| `satisfaction-of-mortgages-relating-to-1856` | SATISFACTION OF MORTGAGES - RELATING TO (Act of Apr. 11, 1856, P.L. 304, No. 321) | 1 | 2026-11-10 to 2026-11-10 |
 | `savings-association-code-of-1967-repealed-1967` | SAVINGS ASSOCIATION CODE OF 1967 - REPEALED (Act of Dec. 14, 1967, P.L. 746, No. 345) | 1 | 2026-11-10 to 2026-11-10 |
+| `savings-institution-of-philadelphia-incorporated-supplement-1839` | SAVINGS INSTITUTION OF PHILADELPHIA INCORPORATED - SUPPLEMENT (Act of Jun. 27, 1839, P.L. 515, No. 190) | 1 | 2026-11-10 to 2026-11-10 |
 | `savings-institutions-loans-by-1937` | SAVINGS INSTITUTIONS, LOANS BY (Act of May 26, 1937, P.L. 887, No. 231) | 1 | 2026-11-10 to 2026-11-10 |
 | `scaffolds-ladders-etc-used-in-construction-regulated-1907` | SCAFFOLDS, LADDERS, ETC., USED IN CONSTRUCTION REGULATED (Act of Apr. 15, 1907, P.L. 81, No. 67) | 1 | 2026-11-10 to 2026-11-10 |
 | `scales-weights-measures-testing-by-state-inspector-1895` | SCALES, WEIGHTS, MEASURES - TESTING BY STATE INSPECTOR (Act of Jun. 26, 1895, P.L. 386, No. 272) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2446,6 +2822,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `school-board-contracts-validating-1941` | SCHOOL BOARD CONTRACTS, VALIDATING (Act of Aug. 5, 1941, P.L. 796, No. 292) | 1 | 2026-11-10 to 2026-11-10 |
 | `school-board-to-sell-land-without-full-approval-1974` | SCHOOL BOARD TO SELL LAND WITHOUT FULL APPROVAL (Act of Jul. 3, 1974, P.L. 430, No. 150) | 1 | 2026-11-10 to 2026-11-10 |
 | `school-board-transactions-1931` | SCHOOL BOARD TRANSACTIONS (Act of May 1, 1931, P.L. 76, No. 56) | 1 | 2026-11-10 to 2026-11-10 |
+| `school-controllers-powers-first-class-school-districts-1849` | SCHOOL CONTROLLERS - POWERS - FIRST CLASS SCHOOL DISTRICTS (Act of Apr. 9, 1849, P.L. 524, No. 354) | 1 | 2026-11-10 to 2026-11-10 |
+| `school-directors-in-the-first-school-district-1857` | SCHOOL DIRECTORS IN THE FIRST SCHOOL DISTRICT (Act of May 20, 1857, P.L. 617, No. 657) | 1 | 2026-11-10 to 2026-11-10 |
 | `school-districts-of-third-class-1997` | SCHOOL DISTRICTS OF THIRD CLASS (Act of Feb. 12, 1997, P.L. 1, No. 1) | 1 | 2026-11-10 to 2026-11-10 |
 | `school-subsidies-basis-of-distribution-1891` | SCHOOL SUBSIDIES, BASIS OF DISTRIBUTION (Act of May 23, 1891, P.L. 114, No. 99) | 1 | 2026-11-10 to 2026-11-10 |
 | `schuylkill-scenic-river-act-1978` | SCHUYLKILL SCENIC RIVER ACT (Act of Nov. 26, 1978, P.L. 1415, No. 333) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2502,8 +2880,12 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `second-class-county-recorder-of-deeds-fee-law-1919` | SECOND CLASS COUNTY RECORDER OF DEEDS FEE LAW (Act of Jun. 12, 1919, P.L. 476, No. 240) | 1 | 2026-11-10 to 2026-11-10 |
 | `second-class-township-code-the-1933` | SECOND CLASS TOWNSHIP CODE, THE (Act of May 1, 1933, P.L. 103, No. 69) | 1 | 2026-11-10 to 2026-11-10 |
 | `second-hand-dealers-licensing-and-regulation-in-second-class-cities-1927` | SECOND-HAND DEALERS, LICENSING AND REGULATION IN SECOND CLASS CITIES (Act of Mar. 31, 1927, P.L. 95, No. 67) | 1 | 2026-11-10 to 2026-11-10 |
+| `secretary-of-commonwealth-fee-bill-1814` | SECRETARY OF COMMONWEALTH FEE BILL (Act of Mar. 28, 1814, P.L. 352, No. 190) | 1 | 2026-11-10 to 2026-11-10 |
+| `secretary-of-internal-affairs-annual-reports-to-1874` | SECRETARY OF INTERNAL AFFAIRS, ANNUAL REPORTS TO (Act of May 15, 1874, P.L. 193, No. 126) | 1 | 2026-11-10 to 2026-11-10 |
 | `secretary-of-internal-affairs-made-custodian-of-documents-1919` | SECRETARY OF INTERNAL AFFAIRS MADE CUSTODIAN OF DOCUMENTS (Act of Apr. 4, 1919, P.L. 44, No. 33) | 1 | 2026-11-10 to 2026-11-10 |
 | `secretary-of-state-board-of-agriculture-duties-extended-1893` | SECRETARY OF STATE BOARD OF AGRICULTURE, DUTIES EXTENDED (Act of Jun. 2, 1893, P.L. 272, No. 239) | 1 | 2026-11-10 to 2026-11-10 |
+| `secretary-of-the-land-office-exemplify-letters-of-attorney-1818` | SECRETARY OF THE LAND OFFICE EXEMPLIFY LETTERS OF ATTORNEY (Act of Mar. 10, 1818, P.L. 172, No. 88) | 1 | 2026-11-10 to 2026-11-10 |
+| `security-of-buildings-from-fire-in-philadelphia-1870` | SECURITY OF BUILDINGS FROM FIRE IN PHILADELPHIA (Act of Feb. 23, 1870, P.L. 218, No. 211) | 1 | 2026-11-10 to 2026-11-10 |
 | `security-receipts-and-equipment-trust-certificates-1927` | SECURITY RECEIPTS AND EQUIPMENT TRUST CERTIFICATES (Act of Mar. 29, 1927, P.L. 73, No. 52) | 1 | 2026-11-10 to 2026-11-10 |
 | `self-assessed-tax-lien-act-1959` | SELF-ASSESSED TAX LIEN ACT (Act of Dec. 1, 1959, P.L. 1673, No. 616) | 1 | 2026-11-10 to 2026-11-10 |
 | `self-employment-assistance-program-act-1997` | SELF-EMPLOYMENT ASSISTANCE PROGRAM ACT (Act of Nov. 26, 1997, P.L. 504, No. 54) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2519,6 +2901,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `seventh-class-counties-investments-1929` | SEVENTH CLASS COUNTIES, INVESTMENTS (Act of Apr. 18, 1929, P.L. 607, No. 247) | 1 | 2026-11-10 to 2026-11-10 |
 | `sewage-construction-payments-to-municipalities-1953` | SEWAGE CONSTRUCTION PAYMENTS TO MUNICIPALITIES (Act of Aug. 20, 1953, P.L. 1217, No. 339) | 1 | 2026-11-10 to 2026-11-10 |
 | `sewage-system-cleaner-control-act-1992` | SEWAGE SYSTEM CLEANER CONTROL ACT (Act of May. 28, 1992, P.L. 249, No. 41) | 1 | 2026-11-10 to 2026-11-10 |
+| `sewer-connection-costs-recovery-1867` | SEWER CONNECTION COSTS - RECOVERY (Act of Apr. 10, 1867, P.L. 1111, No. 1052) | 1 | 2026-11-10 to 2026-11-10 |
 | `sexual-assault-emergency-services-act-2023` | SEXUAL ASSAULT EMERGENCY SERVICES ACT (Act of Dec. 14, 2023, P.L. 438, No. 59) | 1 | 2026-11-10 to 2026-11-10 |
 | `sexual-assault-testing-and-evidence-collection-act-2006` | SEXUAL ASSAULT TESTING AND EVIDENCE COLLECTION ACT (Act of Nov. 29, 2006, P.L. 1471, No. 165) | 1 | 2026-11-10 to 2026-11-10 |
 | `sgt-william-d-port-bridge-designation-1987` | SGT. WILLIAM D. PORT BRIDGE - DESIGNATION (Act of Dec. 18, 1987, P.L. 422, No. 90) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2530,11 +2913,18 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `sheriff-fee-act-1984` | SHERIFF FEE ACT (Act of Jul. 6, 1984, P.L. 614, No. 127) | 1 | 2026-11-10 to 2026-11-10 |
 | `sheriff-s-coroner-s-and-tax-deeds-relating-to-indexing-1919` | SHERIFF'S, CORONER'S AND TAX DEEDS, RELATING TO INDEXING (Act of May 8, 1919, P.L. 160, No. 106) | 1 | 2026-11-10 to 2026-11-10 |
 | `sheriff-s-deputy-appointed-duty-at-electtion-polls-prohibited-in-1877` | SHERIFF'S DEPUTY APPOINTED DUTY AT ELECTTION POLLS PROHIBITED IN CERTAIN (CASES) | 1 | 2026-11-10 to 2026-11-10 |
+| `sheriffs-coroners-relating-to-1846` | SHERIFFS - CORONERS - RELATING TO (Act of Mar. 24, 1846, P.L. 165, No. 138) | 1 | 2026-11-10 to 2026-11-10 |
+| `sheriffs-deeds-as-acknowledgment-1844` | SHERIFFS' DEEDS AS ACKNOWLEDGMENT (Act of Apr. 4, 1844, P.L. 188, No. 125) | 1 | 2026-11-10 to 2026-11-10 |
+| `sheriffs-in-philadelphia-county-fee-1843` | SHERIFFS IN PHILADELPHIA COUNTY - FEE (Act of Mar. 31, 1843, P.L. 122, No. 61) | 1 | 2026-11-10 to 2026-11-10 |
 | `sheriffs-protected-in-execution-of-writs-1907` | SHERIFFS PROTECTED IN EXECUTION OF WRITS (Act of Jun. 12, 1907, P.L. 527, No. 333) | 1 | 2026-11-10 to 2026-11-10 |
 | `sheriffs-state-association-1923` | SHERIFFS, STATE ASSOCIATION (Act of Jun. 14, 1923, P.L. 774, No. 305) | 1 | 2026-11-10 to 2026-11-10 |
 | `shut-in-day-observance-1974` | SHUT-IN DAY - OBSERVANCE (Act of Jul. 17, 1974, P.L. 460, No. 162) | 1 | 2026-11-10 to 2026-11-10 |
+| `side-walks-and-foot-ways-in-philadelphia-ward-22-1869` | SIDE-WALKS AND FOOT-WAYS IN PHILADELPHIA - WARD 22 (Act of Apr. 20, 1869, P.L. 1192, No. 1187) | 1 | 2026-11-10 to 2026-11-10 |
+| `side-walks-upon-public-roads-in-unincorporated-towns-and-villages-1868` | SIDE-WALKS UPON PUBLIC ROADS IN UNINCORPORATED TOWNS AND VILLAGES (Act of Apr. 6, 1868, P.L. 67, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
 | `sidewalks-emergency-repairs-1923` | SIDEWALKS, EMERGENCY REPAIRS (Act of Jul. 11, 1923, P.L. 1039, No. 422) | 1 | 2026-11-10 to 2026-11-10 |
 | `sign-language-interpreter-and-transliterator-state-registration-act-2004` | SIGN LANGUAGE INTERPRETER AND TRANSLITERATOR STATE REGISTRATION ACT (Act of Jul. 2, 2004, P.L. 492, No. 57) | 1 | 2026-11-10 to 2026-11-10 |
+| `sinking-fund-for-the-extinguishment-of-debt-1849` | SINKING FUND - FOR THE EXTINGUISHMENT OF DEBT (Act of Apr. 10, 1849, P.L. 570, No. 369) | 1 | 2026-11-10 to 2026-11-10 |
+| `sinking-fund-state-treasurer-and-commissioners-supplementary-1870` | SINKING FUND STATE TREASURER AND COMMISSIONERS SUPPLEMENTARY (Act of Apr. 13, 1870, P.L. 67, No. 43) | 1 | 2026-11-10 to 2026-11-10 |
 | `slaughter-houses-licensing-and-regulating-1907` | SLAUGHTER-HOUSES, LICENSING AND REGULATING (Act of Apr. 26, (1909) 1907, P.L. 123, No. 101) | 1 | 2026-11-10 to 2026-11-10 |
 | `small-business-advocate-act-1988` | SMALL BUSINESS ADVOCATE ACT (Act of Dec. 21, 1988, P.L. 1871, No. 181) | 1 | 2026-11-10 to 2026-11-10 |
 | `small-business-incubators-act-1984` | SMALL BUSINESS INCUBATORS ACT (Act of Jul. 2, 1984, P.L. 555, No. 111) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2542,6 +2932,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `small-wireless-facilities-deployment-act-2021` | SMALL WIRELESS FACILITIES DEPLOYMENT ACT (Act of Jun. 30, 2021, P.L. 232, No. 50) | 1 | 2026-11-10 to 2026-11-10 |
 | `sml-1791-6-supplement-to-1933` | SML. 1791 6 - SUPPLEMENT TO (Act of Jun. 1, 1933, P.L. 1150, No. 286) | 1 | 2026-11-10 to 2026-11-10 |
 | `smull-s-legislative-handbook-printing-of-1923` | SMULL'S LEGISLATIVE HANDBOOK, PRINTING OF (Act of May 28, 1923, P.L. 462, No. 252) | 1 | 2026-11-10 to 2026-11-10 |
+| `snyder-county-erected-1855` | SNYDER COUNTY ERECTED (Act of Mar. 2, 1855, P.L. 537, No. 555) | 1 | 2026-11-10 to 2026-11-10 |
 | `social-security-number-privacy-act-2006` | SOCIAL SECURITY NUMBER PRIVACY ACT (Act of Nov. 29, 2006, P.L. 1456, No. 160) | 1 | 2026-11-10 to 2026-11-10 |
 | `social-workers-marriage-and-family-therapists-and-professional-1987` | SOCIAL WORKERS, MARRIAGE AND FAMILY THERAPISTS AND PROFESSIONAL COUNSELORS ACT (Act of Jul. 9, 1987, P.L. 220, No. 39) | 1 | 2026-11-10 to 2026-11-10 |
 | `solar-for-schools-act-2024` | SOLAR FOR SCHOOLS ACT (Act of Jul. 17, 2024, P.L. 813, No. 68) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2552,6 +2943,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `spanish-american-war-veterans-1941` | SPANISH-AMERICAN WAR VETERANS (Act of Aug. 5, 1941, P.L. 830, No. 308) | 1 | 2026-11-10 to 2026-11-10 |
 | `special-ad-hoc-municipal-police-and-firefighter-postretirement-1988` | SPECIAL AD HOC MUNICIPAL POLICE AND FIREFIGHTER POSTRETIREMENT ADJUSTMENT ACT (Act of Dec. 14, 1988, P.L. 1192, No. 147) | 1 | 2026-11-10 to 2026-11-10 |
 | `special-schools-establishment-by-counties-1917` | SPECIAL SCHOOLS, ESTABLISHMENT BY COUNTIES (Act of Jul. 5, 1917, P.L. 693, No. 256) | 1 | 2026-11-10 to 2026-11-10 |
+| `specific-appropriations-for-ordinary-expenses-1872` | SPECIFIC APPROPRIATIONS FOR ORDINARY EXPENSES (Act of Apr. 3, 1872, P.L. 3, No. 1) | 1 | 2026-11-10 to 2026-11-10 |
 | `speech-language-pathologists-and-audiologists-licensure-act-1984` | SPEECH-LANGUAGE PATHOLOGISTS AND AUDIOLOGISTS LICENSURE ACT (Act of Dec. 21, 1984, P.L. 1253, No. 238) | 1 | 2026-11-10 to 2026-11-10 |
 | `splitting-taxes-among-joint-tenants-1917` | SPLITTING TAXES AMONG JOINT TENANTS (Act of May 24, 1917, P.L. 270, No. 146) | 1 | 2026-11-10 to 2026-11-10 |
 | `sports-raffle-charities-act-2019` | SPORTS RAFFLE CHARITIES ACT (Act of Jul. 2, 2019, P.L. 366, No. 56) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2568,6 +2960,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `state-college-faculty-compensation-law-1951` | STATE COLLEGE FACULTY COMPENSATION LAW (Act of Jan. 18, (1952) 1951, P.L. 2111, No. 600) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-colleges-permitted-to-refund-indebtedness-1901` | STATE COLLEGES PERMITTED TO REFUND INDEBTEDNESS (Act of May 22, 1901, P.L. 290, No. 190) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-colleges-power-of-eminent-domain-1901` | STATE COLLEGES, POWER OF EMINENT DOMAIN (Act of Jul. 10, 1901, P.L. 632, No. 319) | 1 | 2026-11-10 to 2026-11-10 |
+| `state-debt-reduced-pennsylvania-canal-and-railroad-company-1844` | STATE DEBT REDUCED - PENNSYLVANIA CANAL AND RAILROAD COMPANY INCORPORATED (Act of Apr. 29, 1844, P.L. 486, No. 318) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-depositories-additional-security-required-1905` | STATE DEPOSITORIES, ADDITIONAL SECURITY REQUIRED (Act of Apr. 17, 1905, P.L. 183, No. 131) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-fair-commission-law-1921` | STATE FAIR COMMISSION LAW (Act of May 27, 1921, P.L. 1191, No. 443) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-farm-products-show-fund-law-1929` | STATE FARM PRODUCTS SHOW FUND LAW (Act of Apr. 26, 1929, P.L. 823, No. 355) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2602,8 +2995,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `state-may-borrow-money-1917` | STATE MAY BORROW MONEY (Act of Jul. 11, 1917, P.L. 775, No. 291) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-military-college-legislative-appointment-initiative-program-act-2012` | STATE MILITARY COLLEGE LEGISLATIVE APPOINTMENT INITIATIVE PROGRAM ACT (Act of Apr. 12, 2012, P.L. 232, No. 29) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-normal-schools-boards-of-examiners-1895` | STATE NORMAL SCHOOLS, BOARDS OF EXAMINERS (Act of Apr. 23, 1895, P.L. 41, No. 26) | 1 | 2026-11-10 to 2026-11-10 |
+| `state-of-new-jersey-protection-of-bridges-over-the-river-delaware-1873` | STATE OF NEW JERSEY PROTECTION OF BRIDGES OVER THE RIVER DELAWARE (Act of Apr. 10, 1873, P.L. 69, No. 48) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-officials-oaths-required-1879` | STATE OFFICIALS, OATHS REQUIRED (Act of Jun. 4, 1879, P.L. 99, No. 115) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-officials-required-to-be-bonded-1915` | STATE OFFICIALS REQUIRED TO BE BONDED (Act of May 28, 1915, P.L. 626, No. 269) | 1 | 2026-11-10 to 2026-11-10 |
+| `state-officials-vacancies-in-office-1874` | STATE OFFICIALS, VACANCIES IN OFFICE (Act of May 15, 1874, P.L. 205, No. 132) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-owned-university-intellectual-property-act-2012` | STATE-OWNED UNIVERSITY INTELLECTUAL PROPERTY ACT (Act of Jul. 5, 2012, P.L. 1102, No. 132) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-park-creation-1937` | STATE PARK, CREATION (Act of Jul. 1, 1937, P.L. 2651, No. 516) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-park-establishment-1921` | STATE PARK, ESTABLISHMENT (Act of Apr. 12, 1921, P.L. 123, No. 73) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2613,13 +3008,16 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `state-planning-code-1949` | STATE PLANNING CODE (Act of May. 20, 1949, P.L. 1608, No. 485) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-police-hours-of-rest-established-1937` | STATE POLICE, HOURS OF REST ESTABLISHED (Act of Jun. 29, 1937, P.L. 2420, No. 451) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-police-school-use-by-local-police-1935` | STATE POLICE SCHOOL, USE BY LOCAL POLICE (Act of Jul. 18, 1935, P.L. 1314, No. 411 ½) | 1 | 2026-11-10 to 2026-11-10 |
+| `state-prisons-counties-to-pay-transportation-expenses-1845` | STATE PRISONS - COUNTIES TO PAY TRANSPORTATION EXPENSES (Act of Apr. 16, 1845, P.L. 507, No. 342) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-public-school-building-authority-act-1947` | STATE PUBLIC SCHOOL BUILDING AUTHORITY ACT (Act of Jul. 5, 1947, P.L. 1217, No. 498) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-quarantine-discontinued-1919` | STATE QUARANTINE DISCONTINUED (Act of Jun. 24, 1919, P.L. 640, No. 276) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-railroad-infrastructure-act-2004` | STATE RAILROAD INFRASTRUCTURE ACT (Act of Nov. 29, 2004, P.L. 1324, No. 165) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-roads-debts-paid-1878` | STATE ROADS, DEBTS PAID (Act of May 23, 1878, P.L. 102, No. 137) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-school-fund-income-specified-1927` | STATE SCHOOL FUND, INCOME SPECIFIED (Act of May 4, 1927, P.L. 751, No. 391) | 1 | 2026-11-10 to 2026-11-10 |
+| `state-stock-certificates-transfer-of-1840` | STATE STOCK CERTIFICATES - TRANSFER OF (Act of Mar. 2, 1840, P.L. 67, No. 22) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-store-fund-transfer-of-money-to-1939` | STATE STORE FUND, TRANSFER OF MONEY TO (Act of May. 25, 1939, P.L. 191, No. 99) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-treasurer-s-checks-void-after-60-days-1927` | STATE TREASURER'S CHECKS VOID AFTER 60 DAYS (Act of Apr. 27, 1927, P.L. 418, No. 272) | 1 | 2026-11-10 to 2026-11-10 |
+| `state-treasurer-to-make-annual-report-on-finances-1832` | STATE TREASURER TO MAKE ANNUAL REPORT ON FINANCES (Act of Mar. 16, 1832, P.L. 154, No. 83) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-treasurer-to-sell-stock-1885` | STATE TREASURER TO SELL STOCK (Act of Jul. 3, 1885, P.L. 253, No. 176) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-treasurer-transfers-between-funds-1961` | STATE TREASURER - TRANSFERS BETWEEN FUNDS (Act of Aug. 22, 1961, P.L. 1049, No. 479) | 1 | 2026-11-10 to 2026-11-10 |
 | `state-warrants-procedure-for-payment-1909` | STATE WARRANTS, PROCEDURE FOR PAYMENT (Act of Apr. 29, 1909, P.L. 281, No. 180) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2628,10 +3026,12 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `steam-boilers-insurance-policies-covering-1891` | STEAM BOILERS, INSURANCE POLICIES COVERING (Act of Mar. 11, 1891, P.L. 5, No. 3) | 1 | 2026-11-10 to 2026-11-10 |
 | `steam-vehicles-use-of-regulated-1885` | STEAM VEHICLES, USE OF REGULATED (Act of Jun. 30, 1885, P.L. 251, No. 173) | 1 | 2026-11-10 to 2026-11-10 |
 | `steel-products-procurement-act-1978` | STEEL PRODUCTS PROCUREMENT ACT (Act of Mar. 3, 1978, P.L. 6, No. 3) | 1 | 2026-11-10 to 2026-11-10 |
+| `stock-of-the-national-banks-taxed-to-increase-revenue-1867` | STOCK OF THE NATIONAL BANKS - TAXED TO INCREASE REVENUE (Act of Apr. 12, 1867, P.L. 74, No. 54) | 1 | 2026-11-10 to 2026-11-10 |
 | `stony-creek-wild-and-scenic-river-act-1980` | STONY CREEK WILD AND SCENIC RIVER ACT (Act of Mar. 24, 1980, P.L. 50, No. 18) | 1 | 2026-11-10 to 2026-11-10 |
 | `storage-tank-and-spill-prevention-act-1989` | STORAGE TANK AND SPILL PREVENTION ACT (Act of Jul. 6, 1989, P.L. 169, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
 | `store-and-theatre-tax-act-1937` | "STORE AND THEATRE TAX ACT" (Act of Jun. 5, 1937, P.L. 1656, No. 344) | 1 | 2026-11-10 to 2026-11-10 |
 | `storm-water-management-act-1978` | STORM WATER MANAGEMENT ACT (Act of Oct. 4, 1978, P.L. 864, No. 167) | 1 | 2026-11-10 to 2026-11-10 |
+| `strays-supplement-to-1819` | STRAYS - SUPPLEMENT TO (Act of Mar. 5, 1819, P.L. 87, No. 59) | 1 | 2026-11-10 to 2026-11-10 |
 | `street-car-tracks-power-to-construct-granted-to-second-class-city-1915` | STREET CAR TRACKS, POWER TO CONSTRUCT GRANTED TO SECOND CLASS CITY (Act of Mar. 31, 1915, P.L. 37, No. 21) | 1 | 2026-11-10 to 2026-11-10 |
 | `street-widening-assessments-of-damage-relating-to-1915` | STREET WIDENING, ASSESSMENTS OF DAMAGE, RELATING TO (Act of Jun. 15, 1915, P.L. 985, No. 426) | 1 | 2026-11-10 to 2026-11-10 |
 | `streets-and-roads-abandonment-1911` | STREETS AND ROADS, ABANDONMENT (Act of Mar. 30, 1911, P.L. 30, No. 35) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2691,6 +3091,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `supplementary-act-state-colleges-1877` | SUPPLEMENTARY ACT, STATE COLLEGES (Act of Mar. 24, 1877, P.L. 37, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
 | `supplementary-act-state-depositories-1927` | SUPPLEMENTARY ACT, STATE DEPOSITORIES (Act of May 4, 1927, P.L. 726, No. 374) | 1 | 2026-11-10 to 2026-11-10 |
 | `supplementary-act-state-hospitals-1887` | SUPPLEMENTARY ACT, STATE HOSPITALS (Act of May 19, 1887, P.L. 135, No. 80) | 1 | 2026-11-10 to 2026-11-10 |
+| `supplementary-act-state-treasurers-1874` | SUPPLEMENTARY ACT, STATE TREASURERS (Act of May 9, 1874, P.L. 126, No. 60) | 1 | 2026-11-10 to 2026-11-10 |
 | `supplementary-act-state-treasury-1876` | SUPPLEMENTARY ACT, STATE TREASURY (Act of Feb. 12, 1876, P.L. 3, No. 1) | 1 | 2026-11-10 to 2026-11-10 |
 | `supplementary-act-street-railways-1881` | SUPPLEMENTARY ACT, STREET RAILWAYS (Act of Jun. 2, 1881, P.L. 39, No. 48) | 1 | 2026-11-10 to 2026-11-10 |
 | `supplementary-act-streets-and-alleys-1919` | SUPPLEMENTARY ACT, STREETS AND ALLEYS (Act of Jul. 8, 1919, P.L. 763, No. 309) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2734,25 +3135,35 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `supplementing-second-class-city-pension-act-1968` | SUPPLEMENTING SECOND CLASS CITY PENSION ACT (Act of Jul. 31, 1968, P.L. 961, No. 293) | 1 | 2026-11-10 to 2026-11-10 |
 | `supplementing-the-act-establishing-state-highways-1941` | SUPPLEMENTING THE ACT ESTABLISHING STATE HIGHWAYS (Act of Jul. 31, 1941, P.L. 604, No. 253) | 1 | 2026-11-10 to 2026-11-10 |
 | `supplementing-the-second-class-a-cities-civil-service-system-1943` | SUPPLEMENTING THE SECOND CLASS A CITIES CIVIL SERVICE SYSTEM (Act of Jun. 3, 1943, P.L. 826, No. 349) | 1 | 2026-11-10 to 2026-11-10 |
+| `sureties-liabilities-of-1874` | SURETIES, LIABILITIES OF (Act of May 14, 1874, P.L. 157, No. 91) | 1 | 2026-11-10 to 2026-11-10 |
+| `sureties-of-county-treasurers-1859` | SURETIES OF COUNTY TREASURERS (Act of Apr. 13, 1859, P.L. 607, No. 596) | 1 | 2026-11-10 to 2026-11-10 |
 | `surety-bonds-corporations-1885` | SURETY BONDS, CORPORATIONS (Act of Jun. 25, 1885, P.L. 181, No. 149) | 1 | 2026-11-10 to 2026-11-10 |
 | `surety-bonds-for-sheriff-and-coroner-1939` | SURETY BONDS FOR SHERIFF AND CORONER (Act of Jun. 15, 1939, P.L. 359, No. 212) | 1 | 2026-11-10 to 2026-11-10 |
 | `surface-mining-conservation-and-reclamation-act-1945` | "SURFACE MINING CONSERVATION AND RECLAMATION ACT" (Act of May 31, 1945, P.L. 1198, No. 418) | 1 | 2026-11-10 to 2026-11-10 |
 | `surplus-bonds-at-tax-sales-recordation-1895` | SURPLUS BONDS AT TAX SALES, RECORDATION (Act of May 8, 1895, P.L. 47, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
+| `surrender-of-bond-1835` | SURRENDER OF BOND (Act of Apr. 1, 1835, P.L. 101, No. 68) | 1 | 2026-11-10 to 2026-11-10 |
+| `survey-and-regulation-city-of-philadelphia-1871` | SURVEY AND REGULATION CITY OF PHILADELPHIA (Act of Jun. 6, 1871, P.L. 1353, No. 1258) | 1 | 2026-11-10 to 2026-11-10 |
+| `surveyor-general-certain-duties-1804` | SURVEYOR GENERAL CERTAIN DUTIES (Act of Mar. 19, 1804, P.L. 295, No. 63) | 1 | 2026-11-10 to 2026-11-10 |
+| `surveyor-general-relative-to-returns-of-surveys-1869` | SURVEYOR GENERAL - RELATIVE TO RETURNS OF SURVEYS (Act of Apr. 21, 1869, P.L. 87, No. 62) | 1 | 2026-11-10 to 2026-11-10 |
+| `surveyor-general-s-office-1844` | SURVEYOR GENERAL'S OFFICE (Act of Apr. 29, 1844, P.L. 529, No. 344) | 1 | 2026-11-10 to 2026-11-10 |
 | `surveyors-entrance-on-private-land-1937` | SURVEYORS ENTRANCE ON PRIVATE LAND (Act of Jun. 2, 1937, P.L. 1189, No. 302) | 1 | 2026-11-10 to 2026-11-10 |
 | `suspicious-deaths-prescribing-public-officers-duties-1907` | SUSPICIOUS DEATHS, PRESCRIBING PUBLIC OFFICERS DUTIES (Act of Apr. 16, 1907, P.L. 92, No. 78) | 1 | 2026-11-10 to 2026-11-10 |
 | `susquehanna-county-veterans-memorial-bridge-designation-1995-ss1` | SUSQUEHANNA COUNTY VETERANS MEMORIAL BRIDGE - DESIGNATION (Act of Jun. 28, 1995, P.L. 128, No. 19) | 1 | 2026-11-10 to 2026-11-10 |
 | `susquehanna-river-basin-compact-law-1968` | SUSQUEHANNA RIVER BASIN COMPACT LAW (Act of Jul. 17, 1968, P.L. 368, No. 181) | 1 | 2026-11-10 to 2026-11-10 |
 | `susquehanna-river-bridge-commission-relating-to-1927` | SUSQUEHANNA RIVER BRIDGE COMMISSION - RELATING TO (Act of Apr. 22, 1927, P.L. 352, No. 217) | 1 | 2026-11-10 to 2026-11-10 |
 | `sustainable-agriculture-act-1994` | SUSTAINABLE AGRICULTURE ACT (Act of Dec. 12, 1994, P.L. 891, No. 129) | 1 | 2026-11-10 to 2026-11-10 |
+| `system-of-education-by-common-schools-regulation-of-1862` | SYSTEM OF EDUCATION BY COMMON SCHOOLS - REGULATION OF (Act of Apr. 11, 1862, P.L. 471, No. 466) | 1 | 2026-11-10 to 2026-11-10 |
 | `t-luke-toomey-bridge-designation-1989` | T. LUKE TOOMEY BRIDGE - DESIGNATION (Act of Nov. 22, 1989, P.L. 604, No. 65) | 1 | 2026-11-10 to 2026-11-10 |
 | `takeover-disclosure-law-corporations-1976` | TAKEOVER DISCLOSURE LAW (CORPORATIONS) (Act of Mar. 3, 1976, P.L. 42, No. 19) | 1 | 2026-11-10 to 2026-11-10 |
 | `tax-assessments-by-county-adopted-by-second-class-a-cities-1931` | TAX ASSESSMENTS BY COUNTY ADOPTED BY SECOND CLASS A CITIES (Act of Jun. 22, 1931, P.L. 597, No. 204) | 1 | 2026-11-10 to 2026-11-10 |
+| `tax-assessments-in-philadelphia-1870` | TAX ASSESSMENTS IN PHILADELPHIA (Act of Mar. 4, 1870, P.L. 343, No. 335) | 1 | 2026-11-10 to 2026-11-10 |
 | `tax-authorized-for-street-and-highway-lighting-1927` | TAX AUTHORIZED FOR STREET AND HIGHWAY LIGHTING (Act of Apr. 7, 1927, P.L. 157, No. 125) | 1 | 2026-11-10 to 2026-11-10 |
 | `tax-claims-compromise-1933` | TAX CLAIMS, COMPROMISE (Act of May 25, 1933, P.L. 1018, No. 229) | 1 | 2026-11-10 to 2026-11-10 |
 | `tax-claims-filing-of-1949` | TAX CLAIMS; FILING OF (Act of Apr. 20, 1949, P.L. 647, No. 145) | 1 | 2026-11-10 to 2026-11-10 |
 | `tax-collection-use-of-county-clerks-1923` | TAX COLLECTION, USE OF COUNTY CLERKS (Act of Jun. 29, 1923, P.L. 978, No. 399) | 1 | 2026-11-10 to 2026-11-10 |
 | `tax-collectors-and-county-treasurers-duties-prescribed-1915` | TAX COLLECTORS AND COUNTY TREASURERS DUTIES PRESCRIBED (Act of Mar. 26, 1915, P.L. 11, No. 11) | 1 | 2026-11-10 to 2026-11-10 |
 | `tax-collectors-bond-required-1878` | TAX COLLECTORS, BOND REQUIRED (Act of May 25, 1878, P.L. 150, No. 191) | 1 | 2026-11-10 to 2026-11-10 |
+| `tax-collectors-in-montgomery-county-1847` | TAX COLLECTORS IN MONTGOMERY COUNTY (Act of Mar. 13, 1847, P.L. 340, No. 279) | 1 | 2026-11-10 to 2026-11-10 |
 | `tax-exemption-and-mixed-use-incentive-program-act-2020` | TAX EXEMPTION AND MIXED-USE INCENTIVE PROGRAM ACT (Act of Jul. 14, 2020, P.L. 631, No. 61) | 1 | 2026-11-10 to 2026-11-10 |
 | `tax-for-support-of-poor-1933` | TAX FOR SUPPORT OF POOR (Act of May 22, 1933, P.L. 836, No. 143) | 1 | 2026-11-10 to 2026-11-10 |
 | `tax-increment-financing-act-1990` | TAX INCREMENT FINANCING ACT (Act of Jul. 11, 1990, P.L. 465, No. 113) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2768,6 +3179,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `tax-reform-code-of-1971-1971` | TAX REFORM CODE OF 1971 (Act of Mar. 4, 1971, P.L. 6, No. 2) | 1 | 2026-11-10 to 2026-11-10 |
 | `tax-sales-land-purchased-may-be-resold-1933` | TAX SALES, LAND PURCHASED MAY BE RESOLD (Act of May 25, 1933, P.L. 1019, No. 230) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxation-exempting-certain-obligations-1971` | TAXATION - EXEMPTING CERTAIN OBLIGATIONS (Act of Aug. 31, 1971, P.L. 395, No. 94) | 1 | 2026-11-10 to 2026-11-10 |
+| `taxation-of-bank-shares-provided-for-1870` | TAXATION OF BANK SHARES PROVIDED FOR (Act of Mar. 31, 1870, P.L. 42, No. 22) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxation-of-public-companies-1881` | TAXATION OF PUBLIC COMPANIES (Act of Jun. 10, 1881, P.L. 99, No. 107) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxation-reexamination-of-returns-by-second-class-cities-1953` | TAXATION REEXAMINATION OF RETURNS BY SECOND CLASS CITIES (Act of Jul. 13, 1953, P.L. 450, No. 103) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxation-revenue-provided-1879` | TAXATION, REVENUE PROVIDED (Act of Jun. 7, 1879, P.L. 112, No. 122) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2777,6 +3189,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `taxes-assessed-against-hospital-property-1913` | TAXES ASSESSED AGAINST HOSPITAL PROPERTY (Act of Jun. 19, 1913, P.L. 535, No. 343) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxes-assessment-of-coal-lands-1923` | TAXES, ASSESSMENT OF COAL LANDS (Act of May 9, 1923, P.L. 175, No. 129) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxes-collected-settlement-between-municipalities-1933` | TAXES COLLECTED, SETTLEMENT BETWEEN MUNICIPALITIES (Act of May 25, 1933, P.L. 1022, No. 232) | 1 | 2026-11-10 to 2026-11-10 |
+| `taxes-collection-1830` | TAXES COLLECTION (Act of Apr. 6, 1830, P.L. 272, No. 157) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxes-collection-in-boroughs-and-townships-1885` | TAXES, COLLECTION IN BOROUGHS AND TOWNSHIPS (Act of Jun. 25, 1885, P.L. 187, No. 157) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxes-collection-of-1891` | TAXES, COLLECTION OF (Act of Jun. 8, 1891, P.L. 212, No. 185) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxes-collection-of-1911` | TAXES, COLLECTION OF (Act of Jun. 15, 1911, P.L. 974, No. 786) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2788,7 +3201,9 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `taxes-payable-in-advance-1935-act-348` | TAXES, PAYABLE IN ADVANCE (Act of Jul. 16, 1935, P.L. 1043, No. 348) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxes-real-estate-collection-of-by-suit-1949` | TAXES, REAL ESTATE, COLLECTION OF BY SUIT (Act of May 9, 1949, P.L. 908, No. 249) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxes-used-for-general-public-school-purposes-1949` | TAXES USED FOR GENERAL PUBLIC SCHOOL PURPOSES (Act of May 23, 1949, P.L. 1661, No. 505) | 1 | 2026-11-10 to 2026-11-10 |
+| `taxing-corporations-brokers-and-bankers-1868` | TAXING - CORPORATIONS, BROKERS AND BANKERS (Act of May. 1, 1868, P.L. 108, No. 69) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxing-insurance-premiums-1917` | TAXING INSURANCE PREMIUMS (Act of Jul. 6, 1917, P.L. 723, No. 262) | 1 | 2026-11-10 to 2026-11-10 |
+| `taxing-of-certain-offices-supplement-1818` | TAXING OF CERTAIN OFFICES - SUPPLEMENT (Act of Mar. 24, 1818, P.L. 300, No. 161) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxpayer-funded-advertising-transparency-act-2015` | TAXPAYER-FUNDED ADVERTISING TRANSPARENCY ACT (Act of Dec. 20, 2015, P.L. 497, No. 90) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxpayers-authorized-to-inspect-fiscal-records-of-second-class-a-1941` | TAXPAYERS AUTHORIZED TO INSPECT FISCAL RECORDS OF SECOND CLASS A CITIES (Act of Jul. 24, 1941, P.L. 503, No. 196) | 1 | 2026-11-10 to 2026-11-10 |
 | `taxpayers-bill-of-rights-1996` | TAXPAYERS' BILL OF RIGHTS (Act of Dec. 20, 1996, P.L. 1504, No. 195) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2812,14 +3227,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `thomas-gibson-bridge-designation-1988` | THOMAS GIBSON BRIDGE - DESIGNATION (Act of Apr. 13, 1988, P.L. 351, No. 53) | 1 | 2026-11-10 to 2026-11-10 |
 | `thomas-j-mccall-memorial-bridge-designation-1983` | THOMAS J. MCCALL MEMORIAL BRIDGE - DESIGNATION (Act of Jun. 28, 1983, P.L. 27, No. 15) | 1 | 2026-11-10 to 2026-11-10 |
 | `ticket-sales-relating-to-1947` | TICKET SALES (RELATING TO) (Act of May. 2, 1947, P.L. 143, No. 62) | 1 | 2026-11-10 to 2026-11-10 |
+| `timber-taken-from-lands-by-tenants-prohibited-1869` | TIMBER TAKEN FROM LANDS BY TENANTS - PROHIBITED (Act of May. 4, 1869, P.L. 1251, No. 1232) | 1 | 2026-11-10 to 2026-11-10 |
 | `time-standard-established-1887` | TIME STANDARD ESTABLISHED (Act of Apr. 13, 1887, P.L. 21, No. 18) | 1 | 2026-11-10 to 2026-11-10 |
 | `title-insurance-companies-must-maintain-a-reserve-1929` | TITLE INSURANCE COMPANIES MUST MAINTAIN A RESERVE (Act of Apr. 26, 1929, P.L. 834, No. 362) | 1 | 2026-11-10 to 2026-11-10 |
 | `title-to-land-acquired-at-sale-for-taxes-method-to-establish-1915` | TITLE TO LAND ACQUIRED AT SALE FOR TAXES, METHOD TO ESTABLISH (Act of Jun. 4, 1915, P.L. 842, No. 376) | 1 | 2026-11-10 to 2026-11-10 |
+| `titles-of-lands-settling-disputes-1811` | TITLES OF LANDS SETTLING DISPUTES (Act of Mar. 20, 1811, P.L. 78, No. 67) | 1 | 2026-11-10 to 2026-11-10 |
+| `titles-to-lands-1870` | TITLES TO LANDS (Act of Jan. 26, 1870, P.L. 13, No. 2) | 1 | 2026-11-10 to 2026-11-10 |
+| `to-create-a-board-of-charities-act-1872` | TO CREATE A BOARD OF CHARITIES ACT (Act of Apr. 5, 1872, P.L. 42, No. 34) | 1 | 2026-11-10 to 2026-11-10 |
 | `to-prevent-animals-from-running-on-state-highways-1889` | TO PREVENT ANIMALS FROM RUNNING ON STATE HIGHWAYS (Act of Apr. 26, 1889, P.L. 64, No. 65) | 1 | 2026-11-10 to 2026-11-10 |
 | `to-validate-certain-acknowledgments-1945` | TO VALIDATE CERTAIN ACKNOWLEDGMENTS (Act of Apr. 19, 1945, P.L. 282, No. 124) | 1 | 2026-11-10 to 2026-11-10 |
 | `tobacco-product-manufacturer-directory-act-2003` | TOBACCO PRODUCT MANUFACTURER DIRECTORY ACT (Act of Dec. 30, 2003, P.L. 441, No. 64) | 1 | 2026-11-10 to 2026-11-10 |
 | `tobacco-settlement-act-2001` | TOBACCO SETTLEMENT ACT (Act of Jun. 26, 2001, P.L. 755, No. 77) | 1 | 2026-11-10 to 2026-11-10 |
 | `tobacco-settlement-agreement-act-2000` | TOBACCO SETTLEMENT AGREEMENT ACT (Act of Jun. 22, 2000, P.L. 394, No. 54) | 1 | 2026-11-10 to 2026-11-10 |
+| `toll-bridge-over-schuylkill-river-construction-of-1842` | TOLL BRIDGE OVER SCHUYLKILL RIVER - CONSTRUCTION OF (Act of Apr. 5, 1842, P.L. 230, No. 81) | 1 | 2026-11-10 to 2026-11-10 |
 | `tourism-promotion-act-2008` | TOURISM PROMOTION ACT (Act of Jul. 4, 2008, P.L. 621, No. 50) | 1 | 2026-11-10 to 2026-11-10 |
 | `towing-and-towing-storage-facility-standards-act-2012` | TOWING AND TOWING STORAGE FACILITY STANDARDS ACT (Act of Jul. 5, 2012, P.L. 990, No. 110) | 1 | 2026-11-10 to 2026-11-10 |
 | `township-roads-opening-and-vacating-1901` | TOWNSHIP ROADS, OPENING AND VACATING (Act of Jul. 2, 1901, P.L. 607, No. 303) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2856,8 +3276,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `tuition-account-programs-and-college-savings-bond-act-1992` | TUITION ACCOUNT PROGRAMS AND COLLEGE SAVINGS BOND ACT (Act of Apr. 3, 1992, P.L. 28, No. 11) | 1 | 2026-11-10 to 2026-11-10 |
 | `tulpehocken-creek-and-yellow-breeches-creek-scenic-river-act-1992` | TULPEHOCKEN CREEK AND YELLOW BREECHES CREEK SCENIC RIVER ACT (Act of Dec. 4, 1992, P.L. 767, No. 118) | 1 | 2026-11-10 to 2026-11-10 |
 | `tunnels-right-to-construct-granted-to-corporations-1919` | TUNNELS, RIGHT TO CONSTRUCT GRANTED TO CORPORATIONS (Act of Jul. 8, 1919, P.L. 759, No. 305) | 1 | 2026-11-10 to 2026-11-10 |
+| `turnpike-road-company-incorporated-1840` | TURNPIKE ROAD COMPANY - INCORPORATED (Act of Apr. 14, 1840, P.L. 349, No. 145) | 1 | 2026-11-10 to 2026-11-10 |
+| `turnpike-roads-abandoned-and-condemned-1856` | TURNPIKE ROADS - ABANDONED AND CONDEMNED (Act of Apr. 14, 1856, P.L. 334, No. 359) | 1 | 2026-11-10 to 2026-11-10 |
 | `turnpikes-relating-to-1905` | TURNPIKES - RELATING TO (Act of Apr. 20, 1905, P.L. 237, No. 176) | 1 | 2026-11-10 to 2026-11-10 |
 | `turnpikes-repair-and-maintenance-of-1899` | TURNPIKES - REPAIR AND MAINTENANCE OF (Act of Apr. 28, 1899, P.L. 79, No. 70) | 1 | 2026-11-10 to 2026-11-10 |
+| `twenty-fourth-ward-philadelphia-surveys-of-certain-streets-1871` | TWENTY-FOURTH WARD PHILADELPHIA SURVEYS OF CERTAIN STREETS (Act of Mar. 15, 1871, P.L. 361, No. 335) | 1 | 2026-11-10 to 2026-11-10 |
 | `u-s-coast-survey-operations-in-pennsylvania-1877` | U.S. COAST SURVEY, OPERATIONS IN PENNSYLVANIA (Act of Mar. 22, 1877, P.L. 11, No. 7) | 1 | 2026-11-10 to 2026-11-10 |
 | `u-s-flag-honored-1895` | U.S. FLAG, HONORED (Act of Jun. 25, 1895, P.L. 287, No. 202) | 1 | 2026-11-10 to 2026-11-10 |
 | `umbilical-cord-blood-banking-education-and-donation-act-2008` | UMBILICAL CORD BLOOD BANKING EDUCATION AND DONATION ACT (Act of Apr. 3, 2008, P.L. 54, No. 12) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2885,14 +3308,20 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `uniform-parcel-identifier-law-1988` | UNIFORM PARCEL IDENTIFIER LAW (Act of Jan. 15, 1988, P.L. 1, No. 1) | 1 | 2026-11-10 to 2026-11-10 |
 | `uniform-real-property-electronic-recording-act-2012` | UNIFORM REAL PROPERTY ELECTRONIC RECORDING ACT (Act of Jul. 5, 2012, P.L. 935, No. 100) | 1 | 2026-11-10 to 2026-11-10 |
 | `uniform-securities-ownership-by-minors-act-1961` | UNIFORM SECURITIES OWNERSHIP BY MINORS ACT (Act of Sep. 29, 1961, P.L. 1736, No. 704) | 1 | 2026-11-10 to 2026-11-10 |
+| `uniform-standard-for-measuring-bituminous-coal-1850` | UNIFORM STANDARD FOR MEASURING BITUMINOUS COAL (Act of Apr. 6, 1850, P.L. 387, No. 284) | 1 | 2026-11-10 to 2026-11-10 |
 | `uniform-written-obligations-act-1927` | "UNIFORM WRITTEN OBLIGATIONS ACT" (Act of May 13, 1927, P.L. 985, No. 475) | 1 | 2026-11-10 to 2026-11-10 |
 | `unincorporated-institution-disposal-of-property-1883` | UNINCORPORATED INSTITUTION, DISPOSAL OF PROPERTY (Act of Jun. 20, 1883, P.L. 132, No. 120) | 1 | 2026-11-10 to 2026-11-10 |
 | `unit-property-act-condominiums-1963` | UNIT PROPERTY ACT - (CONDOMINIUMS) (Act of Jul. 3, 1963, P.L. 196, No. 117) | 1 | 2026-11-10 to 2026-11-10 |
 | `united-states-constitution-bicentennial-act-1985` | UNITED STATES CONSTITUTION BICENTENNIAL ACT (Act of Jun. 26, 1985, P.L. 69, No. 26) | 1 | 2026-11-10 to 2026-11-10 |
 | `universal-telecommunications-and-print-media-access-act-1995-ss1` | UNIVERSAL TELECOMMUNICATIONS AND PRINT MEDIA ACCESS ACT (Act of Jul. 6, 1995, P.L. 255, No. 34) | 1 | 2026-11-10 to 2026-11-10 |
 | `unpatented-lands-providing-collection-amounts-due-commonwealth-1897` | UNPATENTED LANDS, PROVIDING COLLECTION AMOUNTS DUE COMMONWEALTH (Act of May 26, 1897, P.L. 101, No. 85) | 1 | 2026-11-10 to 2026-11-10 |
+| `unseated-land-for-taxes-1809` | UNSEATED LAND FOR TAXES (Act of Apr. 4, 1809, P.L. 192, No. 113) | 1 | 2026-11-10 to 2026-11-10 |
+| `unseated-lands-for-taxes-mode-of-selling-1824` | UNSEATED LANDS FOR TAXES MODE OF SELLING (Act of Mar. 26, 1824, P.L. 167, No. 99) | 1 | 2026-11-10 to 2026-11-10 |
+| `unseated-lands-sale-of-1847` | UNSEATED LANDS - SALE OF (Act of Mar. 9, 1847, P.L. 278, No. 221) | 1 | 2026-11-10 to 2026-11-10 |
+| `unseated-lands-selling-of-for-taxes-1815` | UNSEATED LANDS SELLING OF FOR TAXES (Act of Mar. 13, 1815, P.L. 177, No. 128) | 1 | 2026-11-10 to 2026-11-10 |
 | `unseated-lands-taxation-of-1879` | UNSEATED LANDS, TAXATION OF (Act of Apr. 30, 1879, P.L. 34, No. 32) | 1 | 2026-11-10 to 2026-11-10 |
 | `unserved-high-speed-broadband-funding-program-act-2020` | UNSERVED HIGH-SPEED BROADBAND FUNDING PROGRAM ACT (Act of Nov. 25, 2020, P.L. 1253, No. 132) | 1 | 2026-11-10 to 2026-11-10 |
+| `unslaked-lime-uniform-measurement-of-1856` | UNSLAKED LIME - UNIFORM MEASUREMENT OF (Act of Apr. 9, 1856, P.L. 290, No. 303) | 1 | 2026-11-10 to 2026-11-10 |
 | `unsolicited-telecommunication-advertisement-act-2002` | UNSOLICITED TELECOMMUNICATION ADVERTISEMENT ACT (Act of Dec. 16, 2002, P.L. 1810, No. 222) | 1 | 2026-11-10 to 2026-11-10 |
 | `unused-property-market-act-2000` | UNUSED PROPERTY MARKET ACT (Act of Jun. 22, 2000, P.L. 367, No. 46) | 1 | 2026-11-10 to 2026-11-10 |
 | `unused-streets-lanes-and-alleys-1889` | UNUSED STREETS, LANES AND ALLEYS (Act of May 9, 1889, P.L. 173, No. 192) | 1 | 2026-11-10 to 2026-11-10 |
@@ -2902,6 +3331,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `utility-lines-over-forest-lands-1923` | UTILITY LINES OVER FOREST LANDS (Act of May 28, 1923, P.L. 458, No. 250) | 1 | 2026-11-10 to 2026-11-10 |
 | `utility-rights-of-way-over-highways-may-be-relocated-1933` | UTILITY RIGHTS OF WAY OVER HIGHWAYS MAY BE RELOCATED (Act of Apr. 7, 1933, P.L. 27, No. 21) | 1 | 2026-11-10 to 2026-11-10 |
 | `utility-service-tenants-rights-act-1978` | UTILITY SERVICE TENANTS RIGHTS ACT (Act of Nov. 26, 1978, P.L. 1255, No. 299) | 1 | 2026-11-10 to 2026-11-10 |
+| `vacant-lands-sale-of-supplement-1833` | VACANT LANDS SALE OF - SUPPLEMENT (Act of Apr. 3, 1833, P.L. 129, No. 71) | 1 | 2026-11-10 to 2026-11-10 |
+| `vacating-of-land-in-penn-township-county-of-philadelphia-1845` | VACATING OF LAND IN PENN TOWNSHIP COUNTY OF PHILADELPHIA (Act of Apr. 16, 1845, P.L. 495, No. 333) | 1 | 2026-11-10 to 2026-11-10 |
 | `validate-acquisition-of-property-by-municipality-of-other-state-1951` | VALIDATE ACQUISITION OF PROPERTY BY MUNICIPALITY OF OTHER STATE (Act of Jul. 19, 1951, P.L. 1056, No. 221) | 1 | 2026-11-10 to 2026-11-10 |
 | `validate-certain-acknowledgements-1947` | VALIDATE CERTAIN ACKNOWLEDGEMENTS (Act of Apr. 3, 1947, P.L. 57, No. 24) | 1 | 2026-11-10 to 2026-11-10 |
 | `validate-certain-acknowledgements-1957` | VALIDATE CERTAIN ACKNOWLEDGEMENTS (Act of May 31, 1957, P.L. 233, No. 110) | 1 | 2026-11-10 to 2026-11-10 |
@@ -3010,6 +3441,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `vietnam-conflict-veterans-compensation-act-1968` | VIETNAM CONFLICT VETERANS' COMPENSATION ACT (Act of Jul. 18, 1968, P.L. 405, No. 183) | 1 | 2026-11-10 to 2026-11-10 |
 | `vietnam-conflict-veterans-compensation-bond-act-1969` | VIETNAM CONFLICT VETERANS' COMPENSATION BOND ACT (Act of May. 15, 1969, P.L. 40, No. 14) | 1 | 2026-11-10 to 2026-11-10 |
 | `vietnam-veterans-memorial-highway-designation-1984` | VIETNAM VETERANS' MEMORIAL HIGHWAY - DESIGNATION (Act of Feb. 17, 1984, P.L. 74, No. 13) | 1 | 2026-11-10 to 2026-11-10 |
+| `viewers-to-view-streets-and-alleys-1845` | VIEWERS TO VIEW STREETS AND ALLEYS (Act of Apr. 15, 1845, P.L. 449, No. 294) | 1 | 2026-11-10 to 2026-11-10 |
+| `village-of-oxford-into-a-borough-1850` | VILLAGE OF OXFORD INTO A BOROUGH (Act of Apr. 30, 1850, P.L. 644, No. 380) | 1 | 2026-11-10 to 2026-11-10 |
 | `vincent-hall-road-designation-1986` | VINCENT HALL ROAD - DESIGNATION (Act of May 7, 1986, P.L. 157, No. 50) | 1 | 2026-11-10 to 2026-11-10 |
 | `visitation-inspection-and-supervision-by-board-of-public-charities-1903` | VISITATION, INSPECTION AND SUPERVISION BY BOARD OF PUBLIC CHARITIES (Act of Mar. 5, 1903, P.L. 11, No. 12) | 1 | 2026-11-10 to 2026-11-10 |
 | `vital-statistics-law-of-1953-1953` | VITAL STATISTICS LAW OF 1953 (Act of Jun. 29, 1953, P.L. 304, No. 66) | 1 | 2026-11-10 to 2026-11-10 |
@@ -3026,12 +3459,16 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `voter-registration-assessors-election-of-1891` | VOTER REGISTRATION ASSESSORS, ELECTION OF (Act of Jun. 16, 1891, P.L. 298, No. 227) | 1 | 2026-11-10 to 2026-11-10 |
 | `voters-regulating-registration-and-enrollment-1927` | VOTERS, REGULATING REGISTRATION AND ENROLLMENT (Act of May 11, 1927, P.L. 972, No. 463) | 1 | 2026-11-10 to 2026-11-10 |
 | `wage-payment-and-collection-law-1961` | WAGE PAYMENT AND COLLECTION LAW (Act of Jul. 14, 1961, P.L. 637, No. 329) | 1 | 2026-11-10 to 2026-11-10 |
+| `wage-preference-law-1872` | WAGE PREFERENCE LAW (Act of Apr. 9, 1872, P.L. 47, No. 40) | 1 | 2026-11-10 to 2026-11-10 |
 | `wages-and-salaries-time-of-payment-repealed-as-inconsistent-1913` | WAGES AND SALARIES, TIME OF PAYMENT - REPEALED AS INCONSISTENT (Act of Apr. 24, 1913, P.L. 114, No. 76) | 1 | 2026-11-10 to 2026-11-10 |
 | `wages-assignment-of-1891` | WAGES - ASSIGNMENT OF (Act of May 20, 1891, P.L. 96, No. 71) | 1 | 2026-11-10 to 2026-11-10 |
 | `wages-protection-of-for-mechanics-miners-laborers-and-others-1874` | WAGES, PROTECTION OF FOR MECHANICS, MINERS, LABORERS AND OTHERS (Act of May 8, 1874, P.L. 120, No. 53) | 1 | 2026-11-10 to 2026-11-10 |
 | `waiving-bonds-for-contract-performance-between-subdivisions-1927` | WAIVING BONDS - FOR CONTRACT PERFORMANCE BETWEEN SUBDIVISIONS (Act of Apr. 22, 1927, P.L. 360, No. 230) | 1 | 2026-11-10 to 2026-11-10 |
+| `warranting-and-patenting-of-lands-1828` | WARRANTING AND PATENTING OF LANDS (Act of Apr. 9, 1828, P.L. 244, No. 112) | 1 | 2026-11-10 to 2026-11-10 |
 | `warrants-on-state-treasurer-regulated-1927` | WARRANTS ON STATE TREASURER REGULATED (Act of May 6, 1927, P.L. 832, No. 420) | 1 | 2026-11-10 to 2026-11-10 |
 | `waste-tire-recycling-act-small-business-and-household-pollution-1996` | WASTE TIRE RECYCLING ACT/SMALL BUSINESS AND HOUSEHOLD POLLUTION PREVENTION PROGRAM ACT (Act of Dec. 19, 1996, P.L. 1478, No. 190) | 1 | 2026-11-10 to 2026-11-10 |
+| `waste-within-the-commonwealth-government-1850` | WASTE WITHIN THE COMMONWEALTH GOVERNMENT (Act of Apr. 22, 1850, P.L. 549, No. 342) | 1 | 2026-11-10 to 2026-11-10 |
+| `water-and-gas-pipes-laying-of-culvert-construction-1866` | WATER AND GAS PIPES, LAYING OF - CULVERT CONSTRUCTION (Act of May. 8, 1866, P.L. 1074, No. 1013) | 1 | 2026-11-10 to 2026-11-10 |
 | `water-and-sewer-systems-assistance-act-2008` | WATER AND SEWER SYSTEMS ASSISTANCE ACT (Act of Jul. 9, 2008, P.L. 915, No. 64) | 1 | 2026-11-10 to 2026-11-10 |
 | `water-and-wastewater-systems-operators-certification-act-1968` | WATER AND WASTEWATER SYSTEMS OPERATORS' CERTIFICATION ACT (Act of Nov. 18, 1968, P.L. 1052, No. 322) | 1 | 2026-11-10 to 2026-11-10 |
 | `water-and-wastewater-treatment-project-bond-act-2004` | WATER AND WASTEWATER TREATMENT PROJECT BOND ACT (Act of Feb. 12, 2004, P.L. 72, No. 10) | 1 | 2026-11-10 to 2026-11-10 |
@@ -3047,21 +3484,31 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `water-well-drillers-license-act-1955` | WATER WELL DRILLERS LICENSE ACT (Act of May 29, (1956) 1955, P.L. 1840, No. 610) | 1 | 2026-11-10 to 2026-11-10 |
 | `weather-modification-regulating-rain-making-1967` | WEATHER MODIFICATION - REGULATING RAIN MAKING (Act of Jan. 19, (1968) 1967, P.L. 1024, No. 449) | 1 | 2026-11-10 to 2026-11-10 |
 | `weigh-station-preclearance-program-act-2022` | WEIGH STATION PRECLEARANCE PROGRAM ACT (Act of Jul. 11, 2022, P.L. 731, No. 63) | 1 | 2026-11-10 to 2026-11-10 |
+| `weighing-of-coal-in-allegheny-relating-to-1859` | WEIGHING OF COAL IN ALLEGHENY - RELATING TO (Act of Apr. 13, 1859, P.L. 578, No. 568) | 1 | 2026-11-10 to 2026-11-10 |
+| `weights-and-measures-coal-etc-allegheny-county-1851` | WEIGHTS AND MEASURES - COAL, ETC. - ALLEGHENY COUNTY (Act of Apr. 12, 1851, P.L. 419, No. 253) | 1 | 2026-11-10 to 2026-11-10 |
 | `weights-and-measures-regulation-1937` | WEIGHTS AND MEASURES, REGULATION (Act of May 28, 1937, P.L. 1007, No. 276) | 1 | 2026-11-10 to 2026-11-10 |
 | `welfare-authorizing-food-contracts-1943` | WELFARE, AUTHORIZING FOOD CONTRACTS (Act of Jun. 1, 1943, P.L. 813, No. 342) | 1 | 2026-11-10 to 2026-11-10 |
+| `west-chester-and-philadelphia-railroad-company-incorporated-1850` | WEST CHESTER AND PHILADELPHIA RAILROAD COMPANY INCORPORATED (Act of Apr. 15, 1850, P.L. 467, No. 317) | 1 | 2026-11-10 to 2026-11-10 |
 | `western-pennsylvania-turnpike-extension-act-1941` | "WESTERN PENNSYLVANIA TURNPIKE EXTENSION ACT" (Act of Jun. 11, 1941, P.L. 101, No. 53) | 1 | 2026-11-10 to 2026-11-10 |
 | `western-state-psychiatric-institute-and-clinic-1931` | WESTERN STATE PSYCHIATRIC INSTITUTE AND CLINIC (Act of Jun. 23, 1931, P.L. 1199, No. 324) | 1 | 2026-11-10 to 2026-11-10 |
+| `wharf-line-in-delaware-established-1854` | WHARF-LINE IN DELAWARE - ESTABLISHED (Act of Apr. 20, 1854, P.L. 415, No. 412) | 1 | 2026-11-10 to 2026-11-10 |
+| `wharf-lines-established-on-schuylkill-river-1850` | WHARF LINES ESTABLISHED ON SCHUYLKILL RIVER (Act of Apr. 6, 1850, P.L. 371, No. 275) | 1 | 2026-11-10 to 2026-11-10 |
+| `wharves-and-docks-construction-or-extension-license-philadelphia-1850` | WHARVES AND DOCKS - CONSTRUCTION OR EXTENSION - LICENSE - PHILADELPHIA (Act of May. 15, 1850, P.L. 858, No. 515) | 1 | 2026-11-10 to 2026-11-10 |
+| `wharves-and-docks-queen-street-wharf-philadelphia-1852` | WHARVES AND DOCKS - QUEEN STREET WHARF - PHILADELPHIA (Act of May 4, 1852, P.L. 569, No. 341) | 1 | 2026-11-10 to 2026-11-10 |
 | `what-is-your-pennsylvania-story-act-2025` | "WHAT IS YOUR PENNSYLVANIA STORY" ACT (Act of Jul. 7, 2025, P.L. 104, No. 30) | 1 | 2026-11-10 to 2026-11-10 |
 | `wheeling-creek-watershed-compact-ratification-1967` | WHEELING CREEK WATERSHED COMPACT - RATIFICATION (Act of Aug. 2, 1967, P.L. 189, No. 61) | 1 | 2026-11-10 to 2026-11-10 |
 | `whistleblower-law-1986` | WHISTLEBLOWER LAW (Act of Dec. 12, 1986, P.L. 1559, No. 169) | 1 | 2026-11-10 to 2026-11-10 |
+| `wholesale-dealers-and-retailers-graduating-duties-1830` | WHOLESALE DEALERS AND RETAILERS GRADUATING DUTIES (Act of Apr. 7, 1830, P.L. 387, No. 193) | 1 | 2026-11-10 to 2026-11-10 |
 | `wholesale-prescription-drug-distributors-license-act-1992` | WHOLESALE PRESCRIPTION DRUG DISTRIBUTORS LICENSE ACT (Act of Dec. 14, 1992, P.L. 1116, No. 145) | 1 | 2026-11-10 to 2026-11-10 |
 | `wic-state-advisory-board-act-2024` | WIC STATE ADVISORY BOARD ACT (Act of Jun. 10, 2024, P.L. 387, No. 22) | 1 | 2026-11-10 to 2026-11-10 |
+| `widening-and-straightening-of-street-in-philadelphia-1870` | WIDENING AND STRAIGHTENING OF STREET IN PHILADELPHIA (Act of May 24, 1870, P.L. 547, No. 526) | 1 | 2026-11-10 to 2026-11-10 |
 | `wild-resource-conservation-act-1982` | WILD RESOURCE CONSERVATION ACT (Act of Jun. 23, 1982, P.L. 597, No. 170) | 1 | 2026-11-10 to 2026-11-10 |
 | `wildlife-restoration-projects-1939` | WILDLIFE RESTORATION PROJECTS (Act of May 26, 1939, P.L. 239, No. 140) | 1 | 2026-11-10 to 2026-11-10 |
 | `wildwood-park-1927` | WILDWOOD PARK (Act of May 10, 1927, P.L. 883, No. 450) | 1 | 2026-11-10 to 2026-11-10 |
 | `william-b-lentz-highway-official-designation-1979` | WILLIAM B. LENTZ HIGHWAY - OFFICIAL DESIGNATION (Act of May. 18, 1979, P.L. 30, No. 9) | 1 | 2026-11-10 to 2026-11-10 |
 | `william-penn-s-birthday-observed-1931` | WILLIAM PENN'S BIRTHDAY OBSERVED (Act of Jun. 22, 1931, P.L. 660, No. 232) | 1 | 2026-11-10 to 2026-11-10 |
 | `wireless-broadband-collocation-act-2012` | WIRELESS BROADBAND COLLOCATION ACT (Act of Oct. 24, 2012, P.L. 1501, No. 191) | 1 | 2026-11-10 to 2026-11-10 |
+| `witnesses-brought-before-the-legislature-1842` | WITNESSES BROUGHT BEFORE THE LEGISLATURE (Act of 1842, P.L. 491, No. 19) | 1 | 2026-11-10 to 2026-11-10 |
 | `women-s-infants-and-children-s-nutrition-improvement-act-1986` | WOMEN'S, INFANTS' AND CHILDREN'S NUTRITION IMPROVEMENT ACT (Act of Jul. 10, 1986, P.L. 1396, No. 121) | 1 | 2026-11-10 to 2026-11-10 |
 | `women-s-preventative-health-services-act-1994` | WOMEN'S PREVENTATIVE HEALTH SERVICES ACT (Act of Apr. 22, 1994, P.L. 136, No. 20) | 1 | 2026-11-10 to 2026-11-10 |
 | `work-experience-for-high-school-students-with-disabilities-act-2016` | WORK EXPERIENCE FOR HIGH SCHOOL STUDENTS WITH DISABILITIES ACT (Act of May. 17, 2016, P.L. 216, No. 26) | 1 | 2026-11-10 to 2026-11-10 |
@@ -3076,16 +3523,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `world-war-ii-veterans-compensation-act-1947` | WORLD WAR II VETERANS' COMPENSATION ACT (Act of Jun. 11, 1947, P.L. 565, No. 248) | 1 | 2026-11-10 to 2026-11-10 |
 | `wright-s-ferry-bridge-designation-1976` | WRIGHT'S FERRY BRIDGE - DESIGNATION (Act of Jul. 9, 1976, P.L. 907, No. 162) | 1 | 2026-11-10 to 2026-11-10 |
 | `writs-of-scire-facias-authorized-1909` | WRITS OF SCIRE FACIAS AUTHORIZED (Act of Apr. 27, 1909, P.L. 250, No. 161) | 1 | 2026-11-10 to 2026-11-10 |
+| `wyoming-county-erected-1842` | WYOMING COUNTY ERECTED (Act of Apr. 4, 1842, P.L. 222, No. 79) | 1 | 2026-11-10 to 2026-11-10 |
 | `yellow-breeches-creek-scenic-river-act-1992` | YELLOW BREECHES CREEK SCENIC RIVER ACT (Act of Dec. 4, 1992, P.L. 763, No. 116) | 1 | 2026-11-10 to 2026-11-10 |
 | `youth-development-centers-giving-powers-to-1959` | YOUTH DEVELOPMENT CENTERS, GIVING POWERS TO (Act of Nov. 21, 1959, P.L. 1579, No. 565) | 1 | 2026-11-10 to 2026-11-10 |
 | `zoning-ordinances-filed-by-political-subdivisions-1953` | ZONING ORDINANCES FILED BY POLITICAL SUBDIVISIONS (Act of Jul. 17, 1953, P.L. 460, No. 110) | 1 | 2026-11-10 to 2026-11-10 |
 | `zoology-periodicals-printing-authorized-1907` | ZOOLOGY PERIODICALS PRINTING AUTHORIZED (Act of May 31, 1907, P.L. 328, No. 242) | 1 | 2026-11-10 to 2026-11-10 |
 
-The build made 3066 commits:
+The build made 3514 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3062 | first version of an act |
+| 3510 | first version of an act |
 | 0 | one law on its in-force day |
 | 4 | changes no amendment note explains, credited to the publisher |
 
@@ -3093,7 +3541,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 3066 tags.
+- 3514 tags.
 
 ## Dates
 
@@ -3105,7 +3553,7 @@ When a law gives no date of its own, the default rule applies: Each file is the 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5862cf015d7311bd54d39786b4704caf13a8874849f7825388527becc3450dea` (94854328 bytes).
+- Corpus: sha256 `5589745f4df7b034299d5e47102460a905fda0524c22d10e93868458ba8a4e2c` (96828865 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
