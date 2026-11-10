@@ -1,0 +1,29 @@
+# SUPPLEMENTING ACT TAKING STREETS AS STATE HIGHWAYS
+Act of Jul. 2, 1941, P.L. 223, No. 102
+A SUPPLEMENT
+To the act, approved the twenty-second day of June, one thousand
+nine hundred and thirty-one (Pamphlet Laws, seven hundred
+twenty), entitled, "An act providing for the taking over by
+the Commonwealth, under certain terms, conditions and
+limitations, of certain streets in cities of the second
+class, second class A, and third class as state highways, and
+for the improvement, construction, reconstruction,
+resurfacing and maintenance by the Commonwealth of certain
+defined widths of said streets; imposing duties on such
+cities and on public utility companies using such streets;
+providing that no assessment shall be made upon the
+Commonwealth in the elimination of any grade crossing
+thereon; authorizing cities, persons, associations, or
+corporations to enter into agreements with the Commonwealth
+to bear a portion of the cost of construction or maintenance;
+providing for the assessment of certain portions of the cost
+of street improvements on abutting property owners;
+regulating the replacement of certain facilities of public
+utility companies; prohibiting the opening of said streets
+after improvement without a permit, and providing penalty
+therefor; regulating the maintenance of detours; authorizing
+the increase of city indebtedness in certain cases; and
+appropriating money in the Motor License Fund for the purpose
+of this act", by establishing additional routes in the City
+of Erie.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
