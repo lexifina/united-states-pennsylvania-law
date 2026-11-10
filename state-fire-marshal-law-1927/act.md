@@ -1,0 +1,6 @@
+# STATE FIRE MARSHAL LAW
+Act of Apr. 27, 1927, P.L. 450, No. 291
+AN ACT
+Relating to fires and fire prevention; imposing duties and conferring powers upon the Pennsylvania State Police; authorizing the appointment of the chiefs of fire departments and certain public officers and others as assistants to the Pennsylvania State Police, and defining their powers and duties; providing for the investigation of the cause, origin, and circumstance of fires and the inspection of all, and the removal or change of, certain buildings by owners and occupants thereof, including political subdivisions; imposing duties on school authorities and on certain corporations, associations, and fire rating agencies; providing for the attendance of witnesses before the Pennsylvania State Police, and the enforcement of its orders; and prescribing penalties.
+(Title amended May 16, 1945, P.L.620, No.262)
+Compiler's Note: Section 2104 of Act 32 of 1989 provided that Act 291 is repealed insofar as the State Fire Marshal and the Pennsylvania State Police are authorized to adopt and enforce rules and regulations governing the use, storage and sale and retention of gasoline, naphthalene, kerosene, fuel oil or other substances of like character, only to the extent Act 32, rules and regulations are inconsistent with the provisions of Act 291.
