@@ -1,0 +1,4 @@
+# PENNSYLVANIA LOYALTY ACT
+Act of Dec. 22, 1951, P.L. 1726, No. 463
+AN ACT
+Relating to the loyalty to the United States and the Commonwealth of Pennsylvania of public officers and employes, including teachers and other employes of the public school system, and officers and employes of State-aided institutions of learning; requiring oaths or affirmations by applicants for public office or employment and by present appointed officers and employes; prohibiting appointment or employment and requiring discharges after hearing in certain cases; imposing conditions on the payment of appropriations to State-aided institutions of learning; requiring statements under oath or affirmation of candidates for elective public offices; and imposing duties on State and local appointing authorities and certain other State officers.
