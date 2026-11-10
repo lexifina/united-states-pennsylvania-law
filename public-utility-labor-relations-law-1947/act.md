@@ -1,0 +1,5 @@
+# PUBLIC UTILITY LABOR RELATIONS LAW
+Act of Jun. 30, 1947, P.L. 1161, No. 485
+AN ACT
+To provide for the prompt, peaceful and just settlement of labor disputes between public utility employers engaged in furnishing electric, gas, water and steam heat services to the public and their employes which cause or threaten to cause strikes, lockouts, slowdowns or similar work stoppages and consequent interruptions in the supply of a public utility service on which a community served is so dependent that severe hardship would be inflicted on a substantial number of persons by a cessation of such service; providing procedures for the adjustment and settlement of such disputes; declaring that the public policy of the Commonwealth requires the continuation, without cessation, of such public utility services; and providing means, including regulations, affecting the rights, powers and privileges of employers and employes for the enforcement of such public policy, and providing penalties.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
