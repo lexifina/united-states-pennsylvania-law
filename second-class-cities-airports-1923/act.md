@@ -1,0 +1,4 @@
+# SECOND CLASS CITIES, AIRPORTS
+Act of May 21, 1923, P.L. 296, No. 192
+AN ACT
+Authorizing and empowering the cities of the second class in this Commonwealth to acquire by lease, purchase, or condemnation proceedings any land within or without the limits of said cities, but within the limits of the counties in which such cities are located, for the purpose of establishing and maintaining municipal airdromes or aviation landing fields; providing for the procedure in cases of condemnation, and the extent of title acquired; authorizing the lease by the cities of portions thereof to individuals or corporations upon such terms as may be fixed, and the lease thereof to the Government of the United States upon nominal rental; and empowering said cities to operate and maintain said fields jointly with any county within which said city is situate, where the county is empowered to operate and maintain an airdrome or aviation landing field.
