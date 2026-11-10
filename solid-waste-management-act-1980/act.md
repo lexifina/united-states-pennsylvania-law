@@ -1,0 +1,5 @@
+# SOLID WASTE MANAGEMENT ACT
+Act of Jul. 7, 1980, P.L. 380, No. 97
+AN ACT
+Providing for the planning and regulation of solid waste storage, collection, transportation, processing, treatment, and disposal; requiring municipalities to submit plans for municipal waste management systems in their jurisdictions; authorizing grants to municipalities; providing regulation of the management of municipal, residual and hazardous waste; requiring permits for operating hazardous waste and solid waste storage, processing, treatment, and disposal facilities; and licenses for transportation of hazardous waste; imposing duties on persons and municipalities; granting powers to municipalities; authorizing the Environmental Quality Board and the Department of Environmental Protection to adopt rules, regulations, standards and procedures; granting powers to and imposing duties upon county health departments; providing remedies; prescribing penalties; and establishing a fund. (Title amended Nov. 25, 2020, P.L.1233, No.127)
+Compiler's Note: Section 905(b) of Act 12 of 1988 provided that Act 97 is repealed insofar as it is inconsistent with Act 12.
