@@ -1,0 +1,5 @@
+# DELAWARE RIVER BASIN COMPACT
+Act of Jul. 7, 1961, P.L. 518, No. 268
+AN ACT
+To create a regional agency by intergovernmental compact for the planning, conservation, utilization, development, management and control of the water and related natural resources of the Delaware River Basin, for the improvement of navigation, reduction of flood damage, regulation of water quality, control of pollution, development of water supply, hydroelectric energy, fish and wildlife habitat and public recreational facilities, and other purposes, and defining the functions, powers and duties of such agency.
+Compiler's Note: Section 2 of Act 238 of 1963 provided that the functions and powers of the Interstate Commission on the Delaware River are hereby transferred from that Commission to the Delaware River Basin Commission, an Interstate Commission, established by the act of July 7, 1961 (P.L.518), and any and all reference to the Interstate Commission on the Delaware River Basin shall be construed to mean the Delaware River Basin Commission.
