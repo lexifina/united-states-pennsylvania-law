@@ -1,0 +1,5 @@
+# CAPITAL BUDGET AND PROJECT ITEMIZATION ACT OF 2010-2011 - ENACTMENT
+Act of Jul. 7, 2010, P.L. 320, No. 47
+AN ACT
+Providing for the capital budget for the fiscal year 2010-2011; itemizing public improvement projects, transportation assistance projects and redevelopment assistance capital projects to be constructed or acquired or assisted by the Department of General Services, the Department of Community and Economic Development and the Department of Transportation, together with their estimated financial costs; authorizing the incurring of debt without the approval of the electors for the purpose of financing the projects to be constructed, acquired or assisted by the Department of General Services, the Department of Community and Economic Development or the Department of Transportation; stating the estimated useful life of the projects; providing an exemption; providing for limitation on certain capital projects and for delegation of duties relating to a capital budget project to the University of Pennsylvania; and making appropriations.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
