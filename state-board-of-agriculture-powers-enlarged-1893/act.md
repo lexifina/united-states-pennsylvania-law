@@ -1,0 +1,4 @@
+# STATE BOARD OF AGRICULTURE POWERS ENLARGED
+Act of May 26, 1893, P.L. 152, No. 96
+AN ACT
+To enlarge the powers of the State Board of Agriculture, to authorize the said Board to enforce the provisions of the act, entitled "An act for the protection of the public health, and to prevent adulteration of dairy products and fraud in the sale thereof," approved May twenty-one, Anno Domini one thousand eight hundred and eighty-five, and of other acts in relation to dairy products; to authorize the appointment of an agent of the said Board who shall be known as the "Dairy and Food Commissioner," and to define his duties and fix his compensation, being supplementary to an act, entitled "An act to establish a State Board of Agriculture," approved May eighth, Anno Domini one thousand eight hundred and seventy-six.
