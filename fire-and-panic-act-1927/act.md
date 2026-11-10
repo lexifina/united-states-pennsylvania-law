@@ -1,0 +1,4 @@
+# FIRE AND PANIC ACT
+Act of Apr. 27, 1927, P.L. 465, No. 299
+AN ACT
+To provide for the safety of persons employed, housed, or assembled in certain buildings and structures by requiring certain construction and ways of egress, equipment, and maintenance; providing for the licensing of projectionists, except in cities of the first class and second class; requiring the submission of plans for examination and approval; providing for the promulgation of rules and regulations for the enforcement of this act; providing for the enforcement of this act by the Department of Labor and Industry, the Department of Health, boards of school directors and, in certain cases, by the chiefs of fire departments in cities of the third class; providing penalties for violations of the provisions of this act; and repealing certain acts. (Title amended Dec. 21, 1988, P.L.1315, No.168)
