@@ -1,0 +1,4 @@
+# RIGHTS OF WAY - WOODLANDS
+Act of Apr. 25, 1850, P.L. 569, No. 347
+AN ACT
+Relating to the bail of executrixes; to partition in the orphans' court and common pleas; to colored convicts in Philadelphia; to the limitation of actions against corporations; to actions enforcing the payment of ground rent; to trustees of married women; to appeals from awards of arbitrators by corporations; to hawkers and pedlers in the counties of Butler and Union; to the payment of costs in actions by informers in certain cases; to taxing lands situate in different townships; and in relation to fees of county treasurers of Lycoming, Clinton and Schuylkill; to provide for recording the accounts of executors, administrators, guardians and auditors' reports; and to amend and alter existing laws relative to the administration of justice in this commonwealth.
