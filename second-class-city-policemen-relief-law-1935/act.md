@@ -1,0 +1,4 @@
+# SECOND CLASS CITY POLICEMEN RELIEF LAW
+Act of May. 22, 1935, P.L. 233, No. 99
+AN ACT
+Creating and establishing a fund for the care, maintenance, and relief of aged, retired, and disabled employees of the Bureau of Police in cities of the second class; providing a pension fund for said employees; and providing for the payment of certain dues, fees, assessments, fines, and appropriations thereto; regulating membership therein; creating a board for the management thereof; providing the amount, mode, and manner of payment to beneficiaries thereof, and for the care and disposition of said fund; providing for the payment into this fund by cities of the second class of all monies heretofore payable into any other funds, organizations, corporations, or associations having the same or similar purposes, and of such additional monies as may be necessary to carry out the provisions of this act.
