@@ -1,0 +1,4 @@
+# THIRD CLASS COUNTY ASSESSMENT BOARD LAW
+Act of Jun. 26, 1931, P.L. 1379, No. 348
+AN ACT
+Creating in counties of the second A and third class a board for the assessment and revision of taxes; providing for the appointment of the members of such board by the county commissioners; providing for their salaries, payable by the county; abolishing existing boards; defining the powers and duties of such board; regulating the assessment of persons, property, and occupations for county, borough, town, township, school, and poor purposes; authorizing the appointment of subordinate assessors, a solicitor, engineers, and clerks; providing for their compensation, payable by such counties; abolishing the office of ward, borough, and township assessors, so far as the making of assessments and valuations for taxation is concerned; and providing for the acceptance of this act by cities. (Title amended Dec. 14, 1967, P.L.851, No.373)
