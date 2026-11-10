@@ -1,0 +1,8 @@
+# SECOND CLASS COUNTY CODE
+Act of Jul. 28, 1953, P.L. 723, No. 230
+AN ACT
+Relating to counties of the second class and second class A; amending, revising, consolidating and changing the laws relating thereto. (Title amended Oct. 20, 1967, P.L.472, No.224)
+Compiler's Note: Section 301(a)(16) of Act 58 of 1996, which created the Department of Community and Economic Development and abolished the Department of Community Affairs, provided that all other powers and duties delegated to the Department of Community Affairs not otherwise expressly transferred elsewhere by Act 58 and currently performed by the Department of Community Affairs under Act 230 are transferred to the Department of Community and Economic Development.
+Compiler's Note: Section 2104 of Act 32 of 1989 provided that Act 230 is repealed insofar as it is inconsistent with Act 32.
+Compiler's Note: Section 1 of Act 165 of 1970 provided that the limits heretofore imposed by Act 230 upon the rates of interest and interest costs permitted to be paid upon bonds, obligations and indebtedness issued by the Commonwealth or its agencies or instrumentalities or authorities, and by local political subdivisions or their agencies or authorities, are hereby removed for such bonds, obligations or indebtedness.
+Compiler's Note: Pursuant to the act of Oct. 20, 1967, P.L.472, No.224 and others, the Second Class County Code has been made partially applicable to counties of the second class A. However, under certain circumstances this act may apply only to one or the other, with other acts applying to the other. Therefore, please be careful whenever reading any provision to ascertain its correct application.
