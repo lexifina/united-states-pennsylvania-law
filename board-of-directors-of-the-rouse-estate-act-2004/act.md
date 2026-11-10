@@ -1,0 +1,8 @@
+# BOARD OF DIRECTORS OF THE ROUSE ESTATE ACT - ENACTMENT
+Act of Nov. 23, 2004, P.L. 1241, No. 151
+AN ACT
+Establishing the Board of Directors of the Rouse Estate; and making repeals.
+WHEREAS, The act of April 5, 1862 (P.L.407, No.410), entitled "An act incorporating Commissioners of the Rouse estate, in Warren county," the act of April 18, 1864 (P.L.438, No.375), entitled "An act to provide for the purchase of land, and the erection of buildings, for the support and employment of the poor of Warren county," and the act of April 1866 (1867 P.L.1412, No.1322), entitled "An act to abolish the office of directors of the Rouse Hospital of Warren county," incorporated the Commissioners of Warren County into a body corporate and politic, known as the Commissioners of the Rouse Estate and also known as the Rouse Estate, in order to administer certain proceeds of the estate of Henry R. Rouse for the use of the poor of Warren County and directed the establishment of an almshouse known as the Rouse Hospital of Warren County; and
+WHEREAS, The almshouse has evolved into an institution which provides a long-term care facility, known as the Rouse Warren County Home, supplemented by a certain assisted living facility and a day-care center and which seeks to respond to community needs in a manner consistent with its governmental and charitable purposes; and
+WHEREAS, The General Assembly has determined that the Commissioners of the Rouse Estate would benefit from a modification of its governing body in order to promote continuity of leadership.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
