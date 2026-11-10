@@ -1,6 +1,6 @@
 # Title 18 (Crimes and Offenses), Pennsylvania Consolidated Statutes
 
-18 Pa.C.S. · 1 versions, from 2026-08-31 (latest in force: 2026-08-31) · <https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=18>
+18 Pa.C.S. · 2 versions, from 2026-08-31 (latest in force: 2026-11-10) · <https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=18>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -95,7 +95,7 @@
 | 18 Pa.C.S. Sec. 2703.1 | [sec-02703-00001.md](sec-02703-00001.md) | 0 |  |
 | 18 Pa.C.S. Sec. 2704 | [sec-02704.md](sec-02704.md) | 0 |  |
 | 18 Pa.C.S. Sec. 2705 | [sec-02705.md](sec-02705.md) | 0 |  |
-| 18 Pa.C.S. Sec. 2706 | [sec-02706.md](sec-02706.md) | 0 |  |
+| 18 Pa.C.S. Sec. 2706 | [sec-02706.md](sec-02706.md) | 1 | 2026-11-10 |
 | 18 Pa.C.S. Sec. 2707 | [sec-02707.md](sec-02707.md) | 0 |  |
 | 18 Pa.C.S. Sec. 2707.1 | [sec-02707-00001.md](sec-02707-00001.md) | 0 |  |
 | 18 Pa.C.S. Sec. 2707.2 | [sec-02707-00002.md](sec-02707-00002.md) | 0 |  |

@@ -1,6 +1,6 @@
 # How this repository was made (Pennsylvania)
 
-This file is written by the build on 2026-11-05, the day the source data was retrieved.
+This file is written by the build on 2026-11-10, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | --- | --- | --- | --- |
 | Pennsylvania General Assembly: Consolidated Statutes and Constitution (palegis.us) | <https://www.palegis.us/statutes/consolidated> | 2026-10-30 | No copyright claimed on the statute text. The site's Legal Notices say the information is an information service and not a replacement for official versions. Statute text of a state is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). The unofficial annotated Purdon's Pennsylvania Statutes (West) are a separate copyrighted work and are not used. |
 | Pennsylvania General Assembly: every Consolidated Statutes title (palegis.us) | <https://www.palegis.us/statutes/consolidated> | 2026-11-03 | No copyright claimed on the statute text. The site's Legal Notices say the information is an information service and not a replacement for official versions. Statute text of a state is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). The unofficial annotated Purdon's Pennsylvania Statutes (West) are a separate copyrighted work and are not used. |
+| Pennsylvania General Assembly: Consolidated Statutes and Constitution, fresh copy (palegis.us) | <https://www.palegis.us/statutes/consolidated> | 2026-11-10 | No copyright claimed on the statute text. The site's Legal Notices say the information is an information service and not a replacement for official versions. Statute text of a state is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). The unofficial annotated Purdon's Pennsylvania Statutes (West) are a separate copyrighted work and are not used. |
 | Pennsylvania General Assembly: Unconsolidated Statutes | <https://www.palegis.us/statutes/unconsolidated> | 2026-11-05 | Pennsylvania General Assembly public statute text; Legal Notices present the site as an information service. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -17,10 +18,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
 | `constitution` | Constitution of the Commonwealth of Pennsylvania | 1 | 2022-03-07 to 2022-03-07 |
-| `title-18-crimes` | Title 18 (Crimes and Offenses), Pennsylvania Consolidated Statutes | 1 | 2026-08-31 to 2026-08-31 |
+| `title-18-crimes` | Title 18 (Crimes and Offenses), Pennsylvania Consolidated Statutes | 2 | 2026-08-31 to 2026-11-10 |
 | `title-13-commercial-code` | Title 13 (Commercial Code), Pennsylvania Consolidated Statutes | 1 | 2025-12-01 to 2025-12-01 |
-| `title-15-corporations` | Title 15 (Corporations and Unincorporated Associations), Pennsylvania Consolidated Statutes | 1 | 2026-07-28 to 2026-07-28 |
-| `title-68-property` | Title 68 (Real and Personal Property), Pennsylvania Consolidated Statutes | 1 | 2026-07-28 to 2026-07-28 |
+| `title-15-corporations` | Title 15 (Corporations and Unincorporated Associations), Pennsylvania Consolidated Statutes | 2 | 2026-07-28 to 2026-11-10 |
+| `title-68-property` | Title 68 (Real and Personal Property), Pennsylvania Consolidated Statutes | 2 | 2026-07-28 to 2026-11-10 |
 | `title-1-general-provisions` | Title 1 (General Provisions), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
 | `title-2-administrative-law-and-procedure` | Title 2 (Administrative Law and Procedure), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
 | `title-3-agriculture` | Title 3 (Agriculture), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
@@ -40,7 +41,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-25-elections` | Title 25 (Elections), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
 | `title-26-eminent-domain` | Title 26 (Eminent Domain), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
 | `title-27-environmental-resources` | Title 27 (Environmental Resources), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
-| `title-30-fish` | Title 30 (Fish), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-30-fish` | Title 30 (Fish), Pennsylvania Consolidated Statutes | 2 | 2026-11-03 to 2026-11-10 |
 | `title-32-forests-waters-and-state-parks` | Title 32 (Forests, Waters and State Parks), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
 | `title-34-game` | Title 34 (Game), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
 | `title-35-health-and-safety` | Title 35 (Health and Safety), Pennsylvania Consolidated Statutes | 1 | 2026-11-03 to 2026-11-03 |
@@ -76,19 +77,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `pennsylvania-labor-relations-act-1937` | PENNSYLVANIA LABOR RELATIONS ACT | 1 | 1990-10-12 to 1990-10-12 |
 | `pennsylvania-labor-mediation-act-1937` | PENNSYLVANIA LABOR MEDIATION ACT | 1 | 1990-07-03 to 1990-07-03 |
 
-The build made 59 commits:
+The build made 63 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 59 | first version of an act |
 | 0 | one law on its in-force day |
-| 0 | changes no amendment note explains, credited to the publisher |
+| 4 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-05.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 59 tags.
+- 63 tags.
 
 ## Dates
 
@@ -100,8 +101,8 @@ When a law gives no date of its own, the default rule applies: Each file is the 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `48a3c96c1ed462f463d4fa98668fab5283ecc7e7e137c9c4494e4ffa15ab8a82` (27141893 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `7d5a1c5407b5873eae6c759ee2ec6304ff1c63248845c4c1a818fa3c6b17c81e` (27176828 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -119,6 +120,7 @@ No second build of this corpus has been compared yet.
 - Typographic quotes and dashes were made plain, non-breaking spaces were made ordinary spaces and runs of spaces were collapsed; the publisher's wording and "--" run-in heading separators are kept.
 - Wave 3 (2026-11-03): every other Consolidated Statutes title with text is added, one act per title, parsed as in the first build. Titles the publisher lists without any section (reserved) are left out.
 - Each new title is dated by the retrieval day (2026-11-03) and credited to the publisher as the oldest version available, so its current wording is never dated before its latest amendment took effect; the file's "revised" stamp is given in the version note.
+- Refresh (2026-11-10): each title whose whole-title file now differs from the newest version held gets a new version dated by the retrieval day, credited to the publisher; only the differing sections are recorded. 4 acts changed.
 - Six unconsolidated statutes identified as continuing normative text in verification job 467 are included, each as one official-text file.
 - The official HTML body text is retained in reading order, including textual supplementary matter; hidden publisher section codes are excluded.
 - Each version note states its source-based in-force basis. The Labor Relations Act date follows Act 127 of 1990, whose section 3 makes its section 4(d) amendment effective immediately.

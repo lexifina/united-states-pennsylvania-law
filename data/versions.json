@@ -26,6 +26,12 @@
      "units": 729,
      "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=18",
      "sha256": "875c8f54dcb6e0543c2e55d65e190b00acd7449b5db30e1f0c1c1eb54daaeede"
+    },
+    {
+     "from": "2026-11-10",
+     "units": 729,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=18",
+     "sha256": "8d656bd701fc4df06b1cc4b8ba79a47169ab81e63d26f1f99ccd26977461eda7"
     }
    ]
   },
@@ -54,6 +60,12 @@
      "units": 1045,
      "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=15",
      "sha256": "917fdcb0c507cabfe8ae26ae53098e5653b4e0f69188eb2009ae0ed8ce5be289"
+    },
+    {
+     "from": "2026-11-10",
+     "units": 1045,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=15",
+     "sha256": "4b9068466b42251677e4176a6557cad204df633a1fd5d50a20003f5508be2ebd"
     }
    ]
   },
@@ -68,6 +80,12 @@
      "units": 332,
      "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=68",
      "sha256": "8422fffcc42d48b3aa81cd3005083d6d3f1e512d17b26acc945655e5fcb7034e"
+    },
+    {
+     "from": "2026-11-10",
+     "units": 334,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=68",
+     "sha256": "bf87f4faaf50b4aa3542f0228df0f87802f34174e7ab261642b271c6dbae0b31"
     }
    ]
   },
@@ -348,6 +366,12 @@
      "units": 225,
      "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=30",
      "sha256": "46807d8e50641b359e7e1feb9d26b7ef4c3d928910794db5b6a2134202390754"
+    },
+    {
+     "from": "2026-11-10",
+     "units": 225,
+     "source_url": "https://www.palegis.us/statutes/consolidated/view-statute?77&iFrame=true&txtType=HTM&ttl=30",
+     "sha256": "2dd6732d6f02adc989f913b86096a01cfce1a6c25929d37ccb241aefcaa83177"
     }
    ]
   },

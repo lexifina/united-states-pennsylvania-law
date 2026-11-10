@@ -1,6 +1,6 @@
 # Title 15 (Corporations and Unincorporated Associations), Pennsylvania Consolidated Statutes
 
-15 Pa.C.S. · 1 versions, from 2026-07-28 (latest in force: 2026-07-28) · <https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=15>
+15 Pa.C.S. · 2 versions, from 2026-07-28 (latest in force: 2026-11-10) · <https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=15>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -768,8 +768,8 @@
 | 15 Pa.C.S. Sec. 7538 | [sec-07538.md](sec-07538.md) | 0 |  |
 | 15 Pa.C.S. Sec. 7701 | [sec-07701.md](sec-07701.md) | 0 |  |
 | 15 Pa.C.S. Sec. 7702 | [sec-07702.md](sec-07702.md) | 0 |  |
-| 15 Pa.C.S. Sec. 7703 | [sec-07703.md](sec-07703.md) | 0 |  |
-| 15 Pa.C.S. Sec. 7704 | [sec-07704.md](sec-07704.md) | 0 |  |
+| 15 Pa.C.S. Sec. 7703 | [sec-07703.md](sec-07703.md) | 1 | 2026-11-10 |
+| 15 Pa.C.S. Sec. 7704 | [sec-07704.md](sec-07704.md) | 1 | 2026-11-10 |
 | 15 Pa.C.S. Sec. 7705 | [sec-07705.md](sec-07705.md) | 0 |  |
 | 15 Pa.C.S. Sec. 7706 | [sec-07706.md](sec-07706.md) | 0 |  |
 | 15 Pa.C.S. Sec. 7707 | [sec-07707.md](sec-07707.md) | 0 |  |
@@ -781,7 +781,7 @@
 | 15 Pa.C.S. Sec. 7713 | [sec-07713.md](sec-07713.md) | 0 |  |
 | 15 Pa.C.S. Sec. 7714 | [sec-07714.md](sec-07714.md) | 0 |  |
 | 15 Pa.C.S. Sec. 7715 | [sec-07715.md](sec-07715.md) | 0 |  |
-| 15 Pa.C.S. Sec. 7716 | [sec-07716.md](sec-07716.md) | 0 |  |
+| 15 Pa.C.S. Sec. 7716 | [sec-07716.md](sec-07716.md) | 1 | 2026-11-10 |
 | 15 Pa.C.S. Sec. 7717 | [sec-07717.md](sec-07717.md) | 0 |  |
 | 15 Pa.C.S. Sec. 7718 | [sec-07718.md](sec-07718.md) | 0 |  |
 | 15 Pa.C.S. Sec. 7719 | [sec-07719.md](sec-07719.md) | 0 |  |

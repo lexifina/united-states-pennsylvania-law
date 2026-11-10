@@ -1,6 +1,6 @@
 # Title 30 (Fish), Pennsylvania Consolidated Statutes
 
-30 Pa.C.S. · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=30>
+30 Pa.C.S. · 2 versions, from 2026-11-03 (latest in force: 2026-11-10) · <https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=30>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -144,7 +144,7 @@
 | 30 Pa.C.S. Sec. 3507 | [sec-03507.md](sec-03507.md) | 0 |  |
 | 30 Pa.C.S. Sec. 3508 | [sec-03508.md](sec-03508.md) | 0 |  |
 | 30 Pa.C.S. Sec. 3509 | [sec-03509.md](sec-03509.md) | 0 |  |
-| 30 Pa.C.S. Sec. 3510 | [sec-03510.md](sec-03510.md) | 0 |  |
+| 30 Pa.C.S. Sec. 3510 | [sec-03510.md](sec-03510.md) | 1 | 2026-11-10 |
 | 30 Pa.C.S. Sec. 5101 | [sec-05101.md](sec-05101.md) | 0 |  |
 | 30 Pa.C.S. Sec. 5102 | [sec-05102.md](sec-05102.md) | 0 |  |
 | 30 Pa.C.S. Sec. 5103 | [sec-05103.md](sec-05103.md) | 0 |  |

@@ -1,12 +1,12 @@
 # Title 68 (Real and Personal Property), Pennsylvania Consolidated Statutes
 
-68 Pa.C.S. · 1 versions, from 2026-07-28 (latest in force: 2026-07-28) · <https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=68>
+68 Pa.C.S. · 2 versions, from 2026-07-28 (latest in force: 2026-11-10) · <https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=68>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | 68 Pa.C.S. Sec. 2101 | [sec-02101.md](sec-02101.md) | 0 |  |
 | 68 Pa.C.S. Sec. 2102 | [sec-02102.md](sec-02102.md) | 0 |  |
-| 68 Pa.C.S. Sec. 2103 | [sec-02103.md](sec-02103.md) | 0 |  |
+| 68 Pa.C.S. Sec. 2103 | [sec-02103.md](sec-02103.md) | 1 | 2026-11-10 |
 | 68 Pa.C.S. Sec. 2104 | [sec-02104.md](sec-02104.md) | 0 |  |
 | 68 Pa.C.S. Sec. 2105 | [sec-02105.md](sec-02105.md) | 0 |  |
 | 68 Pa.C.S. Sec. 2106 | [sec-02106.md](sec-02106.md) | 0 |  |
@@ -290,13 +290,15 @@
 | 68 Pa.C.S. Sec. 6113 | [sec-06113.md](sec-06113.md) | 0 |  |
 | 68 Pa.C.S. Sec. 6114 | [sec-06114.md](sec-06114.md) | 0 |  |
 | 68 Pa.C.S. Sec. 7101 | [sec-07101.md](sec-07101.md) | 0 |  |
-| 68 Pa.C.S. Sec. 7102 | [sec-07102.md](sec-07102.md) | 0 |  |
+| 68 Pa.C.S. Sec. 7102 | [sec-07102.md](sec-07102.md) | 1 | 2026-11-10 |
 | 68 Pa.C.S. Sec. 7103 | [sec-07103.md](sec-07103.md) | 0 |  |
 | 68 Pa.C.S. Sec. 7301 | [sec-07301.md](sec-07301.md) | 0 |  |
 | 68 Pa.C.S. Sec. 7302 | [sec-07302.md](sec-07302.md) | 0 |  |
 | 68 Pa.C.S. Sec. 7303 | [sec-07303.md](sec-07303.md) | 0 |  |
-| 68 Pa.C.S. Sec. 7304 | [sec-07304.md](sec-07304.md) | 0 |  |
+| 68 Pa.C.S. Sec. 7304 | [sec-07304.md](sec-07304.md) | 1 | 2026-11-10 |
 | 68 Pa.C.S. Sec. 7305 | [sec-07305.md](sec-07305.md) | 0 |  |
+| 68 Pa.C.S. Sec. 7305.1 | [sec-07305-00001.md](sec-07305-00001.md) | 1 | 2026-11-10 |
+| 68 Pa.C.S. Sec. 7305.2 | [sec-07305-00002.md](sec-07305-00002.md) | 1 | 2026-11-10 |
 | 68 Pa.C.S. Sec. 7306 | [sec-07306.md](sec-07306.md) | 0 |  |
 | 68 Pa.C.S. Sec. 7307 | [sec-07307.md](sec-07307.md) | 0 |  |
 | 68 Pa.C.S. Sec. 7308 | [sec-07308.md](sec-07308.md) | 0 |  |
