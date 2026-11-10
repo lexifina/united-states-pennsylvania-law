@@ -1,0 +1,4 @@
+# MUNICIPAL POLICE PENSION LAW
+Act of May. 29, (1956) 1955, P.L. 1804, No. 600
+AN ACT
+Providing for the establishment of police pension funds or pension annuities in certain boroughs, towns and townships; authorizing the establishment of police pension funds or pension annuities by regional police departments; providing for the regulation and maintenance of police pension funds or pension annuities; providing for an actuary; continuance of existing funds or transfer thereof to funds herein established; prescribing rights of beneficiaries; contributions by members; providing for expenses of administration; continuation of existing authority to provide annuity contracts; credit for military service; refunds; exempting allowances from judicial process; and repealing certain acts. (Title amended May 10, 1996, P.L.162, No.33)
