@@ -1,0 +1,5 @@
+# EMERGENCY STATE LOANS (1951 ACT 433, P.L. 1646) - RELATING TO
+Act of Jul. 12, 1961, P.L. 583, No. 285
+AN ACT
+Amending the act of September 29, 1951 (P.L.1646), entitled "An act authorizing the Commonwealth to negotiate temporary emergency loans to defray current and other expenses of the State government during any fiscal biennium evidenced by tax anticipation notes, secured by and payable from current revenues of any current biennium levied, assessed, collectible and accruing during such fiscal biennium; defining the powers and duties of the Governor, the Auditor General and the State Treasurer in relation thereto; providing for the payment of interest on and the repayment of such loans; and making an appropriation," authorizing powers conferred by the act to be done on a fiscal period basis and changing the amount of money which may be borrowed and providing two additional methods of borrowing money.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
