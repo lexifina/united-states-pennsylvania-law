@@ -1,0 +1,4 @@
+# LINCOLN UNIVERSITY-COMMONWEALTH ACT
+Act of Jul. 7, 1972, P.L. 743, No. 176
+AN ACT
+Providing for the establishment and operation of Lincoln University as an instrumentality of the Commonwealth to serve as a State-related institution in the higher education system of the Commonwealth; providing for change of name; providing for the composition of the board of trustees; terms of trustees, and the power and duties of such trustees; providing for preference to Pennsylvania residents in tuition; authorizing appropriations in amounts to be fixed annually by the General Assembly; providing for the auditing of accounts of expenditures from said appropriations; providing for public support and capital improvements; authorizing the issuance of bonds exempt from taxation within the Commonwealth; requiring the President to make an annual report of the operations of Lincoln University.
