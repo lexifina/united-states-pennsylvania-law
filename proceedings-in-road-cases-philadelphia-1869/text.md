@@ -1,0 +1,6 @@
+PROCEEDINGS IN ROAD CASES - PHILADELPHIA
+Act of May. 3, 1869, P.L. 1247, No. 1226
+AN ACT
+Relating to proceedings in road cases in the city and county of Philadelphia.
+Section 1. When Report of Viewers may be set Aside
+The true intent and meaning of the act, approved the thirteenth day of April, 1854, entitled "A supplement to an act, entitled 'An act relating to roads and bridges,' approved June 13, 1836," is hereby declared to be that no report of viewers appointed to lay out or widen a street, road or alley, in the City or County of Philadelphia, or to assess and apportion damages for the opening or widening of any street, road or alley, shall be set aside, unless in pursuance of some exception filed to the said report, as in the said act provided; and in all cases now pending or hereafter to be brought in the Supreme Court by writ of certiorari to the order of the court of quarter sessions, setting aside the report of a jury, the said order shall be revised, and the cause remanded for further proceedings, if it does not expressly appear from the record that the said order was made in pursuance of an exception or exceptions sustained by the court below. 1869, May 3, P.L. 1247, Sec. 1.
