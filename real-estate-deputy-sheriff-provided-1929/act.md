@@ -1,0 +1,4 @@
+# REAL ESTATE DEPUTY SHERIFF, PROVIDED
+Act of Apr. 4, 1929, P.L. 163, No. 158
+AN ACT
+Providing for real estate deputy sheriffs in counties of the first, second, and third classes; and fixing their salaries payable by said counties; and repealing section two of an act, approved the twenty-fourth day of May, one thousand eight hundred and eighty-seven (Pamphlet Laws, one hundred eighty-five), entitled "An act authorizing the sheriffs of the several counties of this Commonwealth to appoint by deed chief deputies with power to act as sheriff in case of and during the temporary disability of the sheriff to act in person and fixing the salaries of such chief deputies in counties containing more than five hundred thousand inhabitants," and other acts general, special or local so far as inconsistent herewith.
