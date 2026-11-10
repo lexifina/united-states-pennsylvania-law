@@ -1,0 +1,5 @@
+# BEDDING AND UPHOLSTERY LAW
+Act of May. 27, 1937, P.L. 926, No. 249
+AN ACT
+Relating to the manufacture, repair, renovating, cleansing, sterilizing, and disinfecting of mattresses, pillows, bolsters, feather beds, and other filled bedding, cushions, upholstered furniture and bulk materials intended for use in such products intended for sale or lease, and to the sale or lease thereof; requiring the placing of tag and adhesive stamp on such material; providing for the sale of adhesive stamps; authorizing and requiring the Department of Labor and Industry to adopt rules and regulations; providing penalties; and repealing certain acts. (Title amended Aug. 23, 1961, P.L.1075, No.485)
+Compiler's Note: Section 2 of Reorganization Plan No.1 of 1986 provided that the functions, powers and duties of the Department of Labor and Industry with regard to the testing of bedding and upholstery materials are transferred to the Department of General Services. Section 4 of Reorganization Plan No.1 provided that Act 249 is suspended insofar as it conflicts with Reorganization Plan No.1.
