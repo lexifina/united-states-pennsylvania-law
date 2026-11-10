@@ -1,0 +1,4 @@
+# ENGINEER, LAND SURVEYOR AND GEOLOGIST REGISTRATION LAW
+Act of May 23, 1945, P.L. 913, No. 367
+AN ACT
+Relating to and regulating the practice of the profession of engineering, including civil engineering, mechanical engineering, electrical engineering, mining engineering and chemical engineering, the profession of land surveying and the profession of geology and constituent parts and combinations thereof as herein defined; providing for the licensing and registration of persons practicing said profession, and the certification of engineers-in-training and surveyors-in-training, and the suspension and revocation of said licenses, registrations and certifications for violation of this act; prescribing the powers and duties of the State Registration Board for Professional Engineers, Land Surveyors and Geologists, the Department of State and the courts; prescribing penalties; and repealing existing laws. (Title amended Dec. 16, 1992, P.L.1151, No.151)
