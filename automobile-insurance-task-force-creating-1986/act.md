@@ -1,0 +1,5 @@
+# AUTOMOBILE INSURANCE TASK FORCE - CREATING
+Act of Jun. 11, 1986, P.L. 226, No. 64
+AN ACT
+Amending the act of May 17, 1921 (P.L.682, No.284), entitled "An act relating to insurance; amending, revising, and consolidating the law providing for the incorporation of insurance companies, and the regulation, supervision, and protection of home and foreign insurance companies, Lloyds associations, reciprocal and inter-insurance exchanges, and fire insurance rating bureaus, and the regulation and supervision of insurance carried by such companies, associations, and exchanges, including insurance carried by the State Workmen's Insurance Fund; providing penalties; and repealing existing laws," further providing for investments; requiring alcohol abuse and dependency coverage; providing civil immunity for persons who furnish or receive information relating to suspected fraudulent insurance activities; creating a task force to conduct a review of various factors used in determining automobile insurance premiums; and making an appropriation.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
