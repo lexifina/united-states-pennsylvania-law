@@ -1,0 +1,9 @@
+# TUBERCULOSIS SANITORIA PROVIDED FOR
+Act of May 14, 1907, P.L. 197, No. 157
+AN ACT
+To provide for the establishing and maintenance of one or more sanatoria or colonies, in Pennsylvania, for the free care and treatment of persons suffering or suspected of suffering from tuberculosis, and making an appropriation therefor. (Title amended Apr. 6, 1956 (1955), P.L.1435, No.470)
+Whereas, Tuberculosis by its widespread distribution throughout this Commonwealth is causing untold suffering and distress, is affecting the health and prosperity of our citizens, is draining the resources of individuals, and causing an appalling waste of human life; and
+Whereas, Modern science has demonstrated the possibility of minimizing this disease by measures of education, sanitary supervision, isolation, and early medical treatment; and
+Whereas, The Department of Health has one physician in each of sixty-six counties of the State, and is about to authorize a sufficient number of health officers to see that the present health laws, under the rules and regulations adopted by the Department of Health, are carried out, and thereby care for those suffering from communicable diseases which are not now cared for by the hospitals of this Commonwealth; and
+Whereas, The Department, with a sufficient appropriation and its present equipment, will establish dispensaries for the free treatment of indigent persons affected with tuberculosis, for the dissemination of knowledge relating to the prevention and cure of tuberculosis, and for the study of social and occupational conditions that predispose to its development; and
+Whereas, There are always thousands of indigent people in this Commonwealth who have contracted tuberculosis, whose homes, lodging-places, and means will not permit them to take advantage of the advice and education dispensed by the Department of Health, as outlined above; therefore,--
