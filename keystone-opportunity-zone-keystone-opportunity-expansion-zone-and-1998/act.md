@@ -1,0 +1,4 @@
+# KEYSTONE OPPORTUNITY ZONE, KEYSTONE OPPORTUNITY EXPANSION ZONE AND KEYSTONE OPPORTUNITY IMPROVEMENT ZONE ACT
+Act of Oct. 6, 1998, P.L. 705, No. 92
+AN ACT
+Providing for the creation of keystone opportunity zones and keystone opportunity expansion zones to foster economic opportunities in this Commonwealth, to facilitate economic development, stimulate industrial, commercial and residential improvements and prevent physical and infrastructure deterioration of geographic areas within this Commonwealth; authorizing expenditures; providing tax exemptions, tax deductions, tax abatements and tax credits; creating additional obligations of the Commonwealth and local governmental units; and prescribing powers and duties of certain State and local departments, agencies and officials. (Title amended Dec. 20, 2000, P.L.841, No.119)
