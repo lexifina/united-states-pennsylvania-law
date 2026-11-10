@@ -1,0 +1,11 @@
+APPENDIX
+-------
+Supplementary Provisions of Amendatory Statutes
+-------
+1986, APRIL 25, P.L.89, NO.33
+Section 15. This act, with respect to the State Board of Psychologist Examiners, shall constitute the legislation required to reestablish an agency pursuant to the act of December 22, 1981 (P.L.508, No.142), known as the Sunset Act.
+Compiler's Note: Act 33 added or amended sections 1, 1.1, 2, 3, 3.1, 3.2, 3.3, 3.4 and 6, repealed section 7, added or amended sections 8 and 8.1, repealed sections 9 and 10 and added or amended 11, 11.1, 12, 14 ,15, 16, 17 and 18 of Act 52.
+Section 17. The presently confirmed members of the State Board of Psychologist Examiners constituted under section 476.1 of the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, as of the effective date of this act, shall continue to serve as board members until their present terms of office expire, provided that any present board member whose term has expired on or before the effective date of this act shall serve until a successor has been appointed and qualified but no longer than six months after the effective date of this act.
+Section 18. Each rule and regulation of the board in effect on the effective date of this act, and not inconsistent with this act, shall remain in effect after such date until repealed or amended by the board, provided that the board shall immediately initiate the repeal or amendment of any rule or regulation which is inconsistent with the provisions of this act. Each fee of the board in effect on the effective date of this act, and not inconsistent with this act, shall remain in effect after such date until repealed or amended in accordance with the provisions of this act.
+Section 19. Any person who holds a valid license issued by the State Board of Psychologist Examiners under the act of March 23, 1972 (P.L.136, No.52), referred to as the Psychologists License Act, relating to the practice of psychology, prior to the effective date of this amendatory act shall, on and after the effective date hereof, be deemed to be licensed by the State Board of Psychology as provided for in this amendatory act.
+Section 20. (20 repealed June 23, 2016, P.L.379, No.53)
