@@ -1,0 +1,6 @@
+# WILDWOOD PARK
+Act of May 10, 1927, P.L. 883, No. 450
+AN ACT
+Authorizing the board of trustees of Harrisburg State Hospital to convey certain lands, or rights of way over lands, owned or acquired by it, or in the name of the Commonwealth of Pennsylvania for it, in or near the City of Harrisburg, Pennsylvania, and to acquire other lands or rights of way in exchange therefor, and to agree upon the compensation for so doing, in connection with the opening of a parkway from Reservoir Park in the City of Harrisburg to Wildwood Park in the same city.
+Whereas, The board of trustees of Harrisburg State Hospital, or the Commonwealth of Pennsylvania, whichever may be the legal owner, has purchased and acquired lands in the name of the said board, or in the name of the Commonwealth of Pennsylvania, however the same may be, which are now used as a site, or parts of a site, for the Harrisburg State Hospital at Harrisburg, Pennsylvania; and
+Whereas, The City of Harrisburg is desirous of opening a parkway from Reservoir Park to Wildwood Park, both in the same city, and, in so doing, it will be necessary to pass through certain of the said lands, and no power exists in the said city to open the said parkway through the said lands, and no power exists in one to grant permission or convey the same or negotiate the terms and conditions for so doing; now, therefore,
