@@ -1,0 +1,5 @@
+# CAPITAL BUDGET ACT OF 1983 - 1984, SUPPLEMENT
+Act of May. 18, 1984, P.L. 263, No. 62
+A SUPPLEMENT
+To the act of July 11, 1983 (P.L.422, No.2A), entitled "An act providing for the capital budget for the fiscal year 1983-1984," itemizing public improvement projects, furniture and equipment projects, redevelopment assistance projects and transportation assistance projects to be constructed or acquired or assisted by the Department of General Services, the Department of Transportation, the Department of Community Affairs or the Pennsylvania Fish Commission, together with their estimated financial cost; authorizing the incurring of debt without the approval of the electors for the purpose of financing the projects to be constructed or acquired or assisted by the Department of General Services, the Department of Transportation or the Department of Community Affairs; stating the estimated useful life of the projects; authorizing issuing officials to undertake limited temporary borrowing through negotiated settlements; and making an appropriation.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
