@@ -1,0 +1,11 @@
+APPENDIX
+-------
+Supplementary Provisions of Amendatory Statutes
+-------
+1985, DECEMBER 20, P.L.529, NO.119
+Section 2. Persons who are currently members of the Governor's Council On Drug and Alcohol Abuse, on the effective date of this act, shall serve as members of the Pennsylvania Advisory Council on Drug and Alcohol Abuse provided for in this act until their successors are duly appointed. All rules and regulations of the department and all bylaws of the council as of December 31, 1985, shall continue in effect until repealed or revised.
+Section 3. This act, with respect to the Governor's Council On Drug and Alcohol Abuse, renamed the Pennsylvania Advisory Council on Drug and Alcohol Abuse, shall constitute the legislation required to reestablish an agency pursuant to the act of December 22, 1981 (P.L.508, No.142), known as the Sunset Act.
+Section 4. The Governor's Council On Drug and Alcohol Abuse, renamed the Pennsylvania Advisory Council on Drug and Alcohol Abuse, shall continue together with its statutory functions and duties until December 31, 1991, when it shall terminate and go out of existence unless reestablished or continued by the General Assembly. Evaluation and review, termination, reestablishment and continuation of the agency beyond December 31, 1991, shall be conducted pursuant to the act of December 22, 1981 (P.L.508, No.142), known as the Sunset Act.
+1997, NOVEMBER 26, P.L.501, NO.53
+Section 5. Nothing in this act shall relieve, restrict or expand the obligations of any insurer, health maintenance organization, third-party administrators, hospital plan corporation or health services plan corporation doing business in this Commonwealth with respect to the coverage of drug and alcohol benefits, as set forth in Article VI-A of the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, section 2334 of the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, the act of December 29, 1972 (P.L.1701, No.364), known as the Health Maintenance Organization Act, or 40 Pa.C.S. Chs. 61 (relating to hospital plan corporations) and 63 (relating to professional health services plan corporations).
+Explanatory Note. Act 53 amended sections 2, 5 and 13 and added section 12.1 of Act 63.
