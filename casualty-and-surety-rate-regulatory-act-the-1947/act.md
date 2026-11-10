@@ -1,0 +1,6 @@
+# CASUALTY AND SURETY RATE REGULATORY ACT, THE
+Act of Jun. 11, 1947, P.L. 538, No. 246
+AN ACT
+Relating to the regulation of rates for insurance which may be written by stock or mutual casualty insurance companies, associations or exchanges, including fidelity, surety and guaranty bonds and all other forms of motor vehicle insurance, and title insurance; to rating and advisory organizations; conferring on the Insurance Commissioner the power and duty of supervising and regulating persons, associations, companies and corporations, and of enforcing the provisions of this act; prescribing and regulating the practice and procedure before the commissioner, and procedure for review by the courts; giving the Court of Common Pleas of Dauphin County exclusive jurisdiction over certain proceedings; prescribing penalties and providing for enforcement thereof, and repealing inconsistent acts.
+Compiler's Note: Section 12 of Act 150 of 1998 provided that Act 246 is repealed insofar as it is inconsistent with the addition Article V-A of Act 284 of 1921 by Act 150.
+Compiler's Note: Section 17 of Act 372 of 1953 provided that Act 246 is repealed insofar as it applies to the rates for title insurance but not insofar as it makes title insurers subject to the provisions of Act 372.
