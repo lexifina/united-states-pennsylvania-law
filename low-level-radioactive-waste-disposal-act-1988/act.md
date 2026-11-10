@@ -1,0 +1,4 @@
+# LOW-LEVEL RADIOACTIVE WASTE DISPOSAL ACT
+Act of Feb. 9, 1988, P.L. 31, No. 12
+AN ACT
+Providing for low-level radioactive waste disposal; further providing for powers and duties of the Department of Environmental Resources and the Environmental Quality Board; providing for the siting of low-level radioactive waste disposal facilities and for the licensing of operators thereof; establishing certain funds and accounts for the benefit of host municipalities and the general public; establishing the Low-Level Waste Advisory Committee and providing for its powers and duties; providing for membership on the Appalachian States Low-Level Radioactive Waste Commission; requiring certain financial assurances; providing enforcement procedures; providing penalties; making repeals; and making appropriations.
