@@ -1,0 +1,12 @@
+APPENDIX
+-------
+Supplementary Provisions of Amendatory Statutes
+-------
+1985, DECEMBER 20, P.L.398, NO.108
+Section 11. This act, with respect to the State Board of Osteopathic Medical Examiners, shall constitute the legislation required to reestablish an agency pursuant to the act of December 22, 1981 (P.L.508, No.142), known as the Sunset Act.
+Compiler's Note: Act 108 added or amended sections 2.1, 6, 6.1, 8, 10 and 11, repealed section 13 and added or amended sections 13.1, 14, 14.1, 14.2, 15, 16.1, 16.2, 16.3 and 16.4 of Act 261.
+Section 13. The presently confirmed members of the State Board of Osteopathic Medical Examiners constituted under section 464 of the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, as of December 31, 1985, shall continue to serve as board members until their present terms of office expire, provided that any present board member whose term has expired on or before the effective date of this act shall serve until a successor has been appointed and qualified but no longer than six months after the effective date of this act.
+Section 14. Each rule and regulation of the board in effect on December 31, 1985, and not inconsistent with this act, shall remain in effect after such date until repealed or amended by the board, provided that the board shall immediately initiate the repeal or amendment of any rule or regulation which is inconsistent with the provisions of this act. Each fee of the board in effect on December 31, 1985, and not inconsistent with this act, shall remain in effect after such date until repealed or amended in accordance with the provisions of this act.
+Section 15. Any person who holds a valid license issued by the State Board of Osteopathic Medical Examiners under the act of October 5, 1978 (P.L.1109, No.261), known as the Osteopathic Medical Practice Act, prior to the effective date of this amendatory act shall, on and after the effective date hereof, be deemed to be licensed by the State Board of Osteopathic Medicine as provided for in this amendatory act.
+2011, DECEMBER 22, P.L.581, NO.126
+Section 3. The State Board of Osteopathic Medicine shall promulgate regulations to carry out the provisions of this act within 12 months of the effective date of section 3. Pending the promulgation of regulations, the board shall promulgate a statement of policy setting forth the application form for initial licensure under Act 126. The statement of policy shall expire upon the approval of the final regulations.
