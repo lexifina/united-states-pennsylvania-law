@@ -1,0 +1,9 @@
+APPENDIX
+-------
+Supplementary Provisions of Amendatory Statutes
+-------
+1980, OCTOBER 10, P.L.807, NO.154
+Section 7. To the full extent provided by section 529 of the Surface Mining Control and Reclamation Act of 1977 (Public Law 95-87), the surface mining of anthracite shall continue to be governed by the Pennsylvania law in effect on August 3, 1977.
+Compiler's Note: Act 154 amended the title and added or amended sections 1, 3, 3.1, 3.2, 3.3, 4, 5, 6, 6.1, 7, 8, 9, 10, 11, 12, 13, 14, 15 and 16 of Act 318.
+Section 8. In order to maintain primary jurisdiction over surface coal mining in Pennsylvania pursuant to the Surface Mining Control and Reclamation Act of 1977, Public Law 95-87, the Environmental Quality Board shall have the authority to adopt initial regulations on an emergency basis in accordance with section 204(3) (relating to omission of notice of proposed rule making) of the act of July 31, 1968 (P.L.769, No.240), referred to as the Commonwealth Documents Law. Provided, however, within 30 days after the Secretary of the United States Department of Interior grants such primary jurisdiction to Pennsylvania, the Environmental Quality Board shall repropose the regulations adopted on an emergency basis, shall submit the regulations to the Senate Environmental Resources and House Mines and Energy Management Committees of the General Assembly for their review and comments, and shall schedule public hearings within 90 days after such grant of primary jurisdiction for the purpose of hearing public comment on any appropriate revisions.
+At least 30 days prior to consideration by the Environmental Quality Board of any revised regulations or any new regulations under this act other than those initial regulations promulgated on an emergency basis, the department shall submit such regulation to the Senate Environmental Resources and House Mines and Energy Management Committees of the General Assembly for their review and comment.
