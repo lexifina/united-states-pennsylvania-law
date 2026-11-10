@@ -1,0 +1,4 @@
+# RELATED TO TAXATION; UNIFORM ASSESSMENT IN CITIES OF THE SECOND CLASS A
+Act of Apr. 26, 1935, P.L. 90, No. 39
+AN ACT
+To promote uniformity in the assessment and taxation of properties and persons within the territorial limits of cities of the second class A, by providing that city and school taxes within such territorial limits shall be assessed, levied, and collected upon the basis of the assessments for taxation for county purposes; and requiring the furnishing of tax duplicates by the county taxing authorities to such cities and to school districts coterminous therewith; abolishing the department of assessors in cities of the second class A; consolidating tax statements covering city, school, county, and poor taxes therein, and making uniform the time for levy and collection of said taxes respectively, and regulating the discounts therefrom and penalties thereon.
