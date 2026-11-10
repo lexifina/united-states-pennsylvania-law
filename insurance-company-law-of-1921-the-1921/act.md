@@ -1,0 +1,8 @@
+# "INSURANCE COMPANY LAW OF 1921, THE"
+Act of May 17, 1921, P.L. 682, No. 284
+AN ACT
+Relating to insurance; amending, revising, and consolidating the law providing for the incorporation of insurance companies, and the regulation, supervision, and protection of home and foreign insurance companies, Lloyds associations, reciprocal and inter-insurance exchanges, and fire insurance rating bureaus, and the regulation and supervision of insurance carried by such companies, associations, and exchanges, including insurance carried by the State Workers' Insurance Fund; providing penalties; and repealing existing laws. (Title amended Oct. 22, 2026, P.L.679, No.85)
+Compiler's Note: Section 5(b) of Act 147 of 2002 provided that Act 284 is repealed insofar as it is inconsistent with Act 147.
+Compiler's Note: Section 301(a)(7) of Act 58 of 1996, which created the Department of Community and Economic Development and abolished the Department of Community Affairs, provided that the Community Development Block Grant Program under Act 284 is transferred from the Department of Community Affairs to the Department of Community and Economic Development.
+Section 301(a)(16) of Act 58 of 1996 provided that all other powers and duties delegated to the Department of Community Affairs not otherwise expressly transferred elsewhere by Act 58 and currently performed by the Department of Community Affairs under Act 284 are transferred from the Department of Community Affairs to the Department of Community and Economic Development.
+Compiler's Note: Section 401(b) of Act 198 of 1990 provided that the provisions of The Insurance Company Law of 1921 that have not been repealed by Act 198 shall control over the provisions of Title 15.
