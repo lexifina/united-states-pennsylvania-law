@@ -1,0 +1,4 @@
+# "PENNSYLVANIA OCCUPATIONAL DISEASE ACT, THE"
+Act of Jun. 21, 1939, P.L. 566, No. 284
+AN ACT
+Defining the liability of an employer to pay damages for occupational disease contracted by an employe arising out of and in the course of employment; establishing an elective schedule of compensation; providing procedure for the determination of liability and compensation thereunder; imposing duties on the Department of Labor and Industry, the Workmen's Compensation Board, Workmen's Compensation Referees, and deans of medical schools; creating a medical board to determine controverted medical issues; establishing an Occupational Disease Fund in custody of the State Workmen's Insurance Board; imposing upon the Commonwealth a part of the compensation payable for certain occupational diseases; making an appropriation; and prescribing penalties.
