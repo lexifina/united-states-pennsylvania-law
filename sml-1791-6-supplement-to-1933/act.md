@@ -1,0 +1,4 @@
+# SML. 1791 6 - SUPPLEMENT TO
+Act of Jun. 1, 1933, P.L. 1150, No. 286
+A SUPPLEMENT
+To an act, approved May sixth, one thousand nine hundred and thirty-one (Pamphlet Laws, ninety-nine), entitled "An act to amend section seven of the act, approved the fifth day of March, one thousand seven hundred and ninety-one (three Smith's Laws, six), entitled 'An act to enable the Governor to appoint Notaries Public, and for other purposes therein mentioned,' prescribing the form of notary seal," by providing that the presence of the arms of this Commonwealth on the seal of a notary public reappointed after the effective date of the act to which this is a supplement, and prior to the effective date of this act, shall not invalidate said seal, or the notarial acts, instruments or attestations authenticated by such seal.
