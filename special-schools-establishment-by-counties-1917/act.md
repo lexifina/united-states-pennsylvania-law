@@ -1,0 +1,4 @@
+# SPECIAL SCHOOLS, ESTABLISHMENT BY COUNTIES
+Act of Jul. 5, 1917, P.L. 693, No. 256
+AN ACT
+Authorizing and empowering the several counties of this Commonwealth to establish and maintain schools for the care and education of children, under the jurisdiction of the courts of quarter sessions of the peace, or other courts, sitting as juvenile courts, and to acquire land therefor by purchase or by condemnation; defining the scope and character of such schools; regulating the proceedings for the establishment, maintenance and management thereof; authorizing the county commissioners to make appropriation, levy taxes, and to incur indebtedness therefor; and providing that all such schools heretofore established by any county shall be continued and maintained under the authority of this act; removing the persons in charge thereof; and providing that any property heretofore acquired for any such schools shall be held and used for the schools provided for in this act.
