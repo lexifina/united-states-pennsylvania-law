@@ -1,0 +1,4 @@
+# BANKING CODE OF 1965
+Act of Nov. 30, 1965, P.L. 847, No. 356
+AN ACT
+Relating to and regulating the business of banking and the exercise by corporations of fiduciary powers; affecting persons engaged in the business of banking and corporations exercising fiduciary powers and affiliates of such persons; affecting the shareholders of such persons and the directors, trustees, officers, attorneys and employes of such persons and of the affiliates of such persons; affecting national banks located in the Commonwealth; affecting persons dealing with persons engaged in the business of banking, corporations exercising fiduciary powers and national banks; conferring powers and imposing duties on the Banking Board, on certain departments and officers of the Commonwealth and on courts, prothonotaries, clerks and recorders of deeds; providing penalties; and repealing certain acts and parts of acts.
