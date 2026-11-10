@@ -1,0 +1,6 @@
+# SURETY BONDS FOR SHERIFF AND CORONER
+Act of Jun. 15, 1939, P.L. 359, No. 212
+AN ACT
+Relating to recognizances and official bonds of present and future sheriffs and coroners and to their sureties thereon; imposing the expense of corporate suretyships on such obligations upon the several counties and various duties upon the courts of common pleas and county officers thereof; authorizing the substitution of approved surety companies for individual or corporate sureties upon such obligations and the release of any surety upon any such recognizance by such court upon certain conditions; dispensing with sureties on such recognizances but providing for the acknowledgment, recording and indexing of same as liens on certain real estate; regulating such liens and releases therefrom; providing for refunds to sheriffs and coroners of certain premiums paid to sureties on their official bonds and recognizances; and repealing inconsistent laws, except as to existing claims or pending suits thereunder, subject to certain limitations.
+Compiler's Note: Section 2901 of Act 130 of 1955 provided that Act 212 is repealed insofar as it relates to counties of the third through eighth class.
+Compiler's Note: Section 3301 of Act 230 of 1953 provided that Act 221 is repealed insofar as it relates to counties of the second class.
