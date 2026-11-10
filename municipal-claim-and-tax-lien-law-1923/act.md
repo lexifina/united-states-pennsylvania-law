@@ -1,0 +1,4 @@
+# MUNICIPAL CLAIM AND TAX LIEN LAW
+Act of May 16, 1923, P.L. 207, No. 153
+AN ACT
+Providing when, how, upon what property, and to what extent, liens shall be allowed for taxes and for municipal improvements, for the removal of nuisances, and for water rents or rates, sewer rates, and lighting rates; for the procedure upon claims filed therefor; the methods for preserving such liens and enforcing payment of such claims; the effect of judicial sales of the properties liened; the distribution of the proceeds of such sales, and the redemption of the property therefrom; for the lien and collection of certain taxes heretofore assessed, and of claims for municipal improvements made and nuisances removed, within six months before the passage of this act; and for the procedure on tax and municipal claims filed under other and prior acts of Assembly.
