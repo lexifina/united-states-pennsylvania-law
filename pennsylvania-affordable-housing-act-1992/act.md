@@ -1,0 +1,19 @@
+# PENNSYLVANIA AFFORDABLE HOUSING ACT
+Act of Dec. 18, 1992, P.L. 1376, No. 172
+AN ACT
+Providing for the establishment and administration of an affordable housing program; and imposing additional powers and duties on the Department of Community Affairs.
+Compiler's Note: Section 301(a)(6) of Act 58 of 1996, which created the Department of Community and Economic Development and abolished the Department of Community Affairs, provided that the HOME program under Act 172 is transferred from the Department of Community Affairs to the Department of Community and Economic Development.
+The General Assembly finds and declares as follows:
+(a) (1) Many Pennsylvania households live at the poverty income level or below, and such households need financial assistance to ensure their ability to pay for safe and decent housing.
+(2) Homelessness caused by the inability to afford housing has been the experience of thousands of this Commonwealth's residents, and it is growing particularly among families.
+(3) Many households are living in overcrowded housing and need a larger housing unit to accommodate their families.
+(4) Pennsylvania's housing stock is among the nation's oldest. Over 44% of the units in this Commonwealth were built prior to 1940, compared to 26% nationally.
+(5) Substandard housing units need to be rehabilitated or replaced.
+(6) In substantial portions of this Commonwealth, the median price of a home has increased faster than the median household income, contributing to the growing problems of housing affordability for low-income and moderate-income households.
+(7) In many areas, median gross rents have increased at a greater rate than the increase in household income, resulting in a greater proportion of total income spent on housing.
+(8) By working in partnership with private, nonprofit and other public sector entities, the Commonwealth can leverage and help maximize available resources.
+(9) The Cranston-Gonzalez National Affordable Housing Act (Public Law 101-625, 42 U.S.C. § 12701 et seq.), also known as the National Affordable Housing Act of 1990 (NAHA), has established Federal requirements for the preparation of a Statewide Comprehensive Housing Affordability Strategy (CHAS). The Commonwealth's CHAS is a comprehensive planning document that must be submitted to and approved by the United States Department of Housing and Urban Development (HUD) to receive direct funding under most HUD housing and community development programs or to permit such funds to go to projects and activities within this Commonwealth.
+(10) The National Affordable Housing Act of 1990 has further authorized and Congress has appropriated funds for various programs which are subject to Comprehensive Housing Affordability Strategy requirements.
+(b) Now, therefore, the General Assembly declares that it is the policy of the Commonwealth to promote the health, safety and welfare of its inhabitants and to address its housing needs by providing assistance for affordable housing through the renovation of blighted buildings, the conversion of obsolete buildings and the construction of single-family and multifamily housing.
+(c) It is further declared that it is the intent of this act to encourage the maximization of resources through partnerships among the Commonwealth, other public sector entities, nonprofit organizations and the private sector.
+(d) To these ends, this act establishes State and regional advisory committees which will serve in an advisory capacity to the Department of Community Affairs in the development and implementation of State housing policy, including, but not limited to, the applicable programs of the National Affordable Housing Act of 1990 and the HOME Investment Trust Fund and in the preparation of the Commonwealth's Comprehensive Housing Affordability Strategy.
