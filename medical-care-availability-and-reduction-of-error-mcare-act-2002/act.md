@@ -1,0 +1,4 @@
+# MEDICAL CARE AVAILABILITY AND REDUCTION OF ERROR (MCARE) ACT
+Act of Mar. 20, 2002, P.L. 154, No. 13
+AN ACT
+Reforming the law on medical professional liability; providing for patient safety and reporting; establishing the Patient Safety Authority and the Patient Safety Trust Fund; abrogating regulations; providing for medical professional liability informed consent, damages, expert qualifications, limitations of actions and medical records; establishing the Interbranch Commission on Venue; providing for medical professional liability insurance; establishing the Medical Care Availability and Reduction of Error Fund; providing for medical professional liability claims; establishing the Joint Underwriting Association; regulating medical professional liability insurance; providing for medical licensure regulation; providing for administration; imposing penalties; and making repeals.
