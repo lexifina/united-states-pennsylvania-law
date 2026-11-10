@@ -1,0 +1,5 @@
+# FIRST CLASS CITIES, AUTHORIZED TO ENACT ZONING ORDINANCES
+Act of May 6, 1929, P.L. 1551, No. 469
+AN ACT
+Authorizing cities of the first class to adopt and enforce zoning ordinances; regulating and restricting the height, location, size, bulk and use of buildings and/or land, the areas to be occupied by buildings in proportion to the size of the lots upon which they stand, the size of courts, yards and other open spaces appurtenant thereto, and the density of population, and for these purposes to establish districts and boundaries; to designate and regulate residential, commercial and industrial or other uses within such districts and boundaries; and providing for the appointment of a zoning commission and a board of adjustment, the creation of a bureau of zoning, and setting forth the duties and functions of said commission, board and bureau; providing for the administration and enforcement of rules and ordinances authorized by this act, and penalties for violations thereof.
+GRANT OF POWER
