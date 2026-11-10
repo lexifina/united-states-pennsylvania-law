@@ -1,0 +1,4 @@
+# STREETS, FIRST CLASS CITIES
+Act of May 29, 1935, P.L. 255, No. 110
+AN ACT
+Providing for the laying out, widening, extending, and relocating by cities of the first class of highways and streets connecting with, or used as direct approaches to, bridges crossing streams or tunnels under streams, which form boundaries between this and any other state, and for the construction thereof and of appurtenances thereto; authorizing the acquisition by gift, purchase, or condemnation, of land and property therefor, and of additional land and property in connection therewith not needed for actual construction; providing for the acquisition of a fee simple title; authorizing the use, sale, or leasing, subject to restrictions by the city, of additional land and property acquired; and the erection, occupation, use, sale, or leasing of buildings and structures thereon by the city; and authorizing and prescribing the procedure for the assessment of damages and benefits.
