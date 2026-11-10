@@ -1,0 +1,69 @@
+# STORAGE TANK AND SPILL PREVENTION ACT (Act of Jul. 6, 1989, P.L. 169, No. 32)
+
+STORAGE TANK AND SPILL PREVENTION ACT · 1 versions, from 2026-11-10 (latest in force: 2026-11-10) · <https://www.palegis.us/statutes/unconsolidated/law-information?sessYr=1989&sessInd=0&actNum=0032.&plPageNum=0169>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Title and preamble | [act.md](act.md) | 0 |  |
+| Sec. 101 | [sec-00101.md](sec-00101.md) | 0 |  |
+| Sec. 102 | [sec-00102.md](sec-00102.md) | 0 |  |
+| Sec. 103 | [sec-00103.md](sec-00103.md) | 0 |  |
+| Sec. 104 | [sec-00104.md](sec-00104.md) | 0 |  |
+| Sec. 105 | [sec-00105.md](sec-00105.md) | 0 |  |
+| Sec. 106 | [sec-00106.md](sec-00106.md) | 0 |  |
+| Sec. 107 | [sec-00107.md](sec-00107.md) | 0 |  |
+| Sec. 108 | [sec-00108.md](sec-00108.md) | 0 |  |
+| Sec. 109 | [sec-00109.md](sec-00109.md) | 0 |  |
+| Sec. 110 | [sec-00110.md](sec-00110.md) | 0 |  |
+| Sec. 301 | [sec-00301.md](sec-00301.md) | 0 |  |
+| Sec. 302 | [sec-00302.md](sec-00302.md) | 0 |  |
+| Sec. 303 | [sec-00303.md](sec-00303.md) | 0 |  |
+| Sec. 304 | [sec-00304.md](sec-00304.md) | 0 |  |
+| Sec. 305 | [sec-00305.md](sec-00305.md) | 0 |  |
+| Sec. 306 | [sec-00306.md](sec-00306.md) | 0 |  |
+| Sec. 501 | [sec-00501.md](sec-00501.md) | 0 |  |
+| Sec. 502 | [sec-00502.md](sec-00502.md) | 0 |  |
+| Sec. 503 | [sec-00503.md](sec-00503.md) | 0 |  |
+| Sec. 504 | [sec-00504.md](sec-00504.md) | 0 |  |
+| Sec. 505 | [sec-00505.md](sec-00505.md) | 0 |  |
+| Sec. 506 | [sec-00506.md](sec-00506.md) | 0 |  |
+| Sec. 507 | [sec-00507.md](sec-00507.md) | 0 |  |
+| Sec. 701 | [sec-00701.md](sec-00701.md) | 0 |  |
+| Sec. 702 | [sec-00702.md](sec-00702.md) | 0 |  |
+| Sec. 703 | [sec-00703.md](sec-00703.md) | 0 |  |
+| Sec. 704 | [sec-00704.md](sec-00704.md) | 0 |  |
+| Sec. 705 | [sec-00705.md](sec-00705.md) | 0 |  |
+| Sec. 706 | [sec-00706.md](sec-00706.md) | 0 |  |
+| Sec. 707 | [sec-00707.md](sec-00707.md) | 0 |  |
+| Sec. 708 | [sec-00708.md](sec-00708.md) | 0 |  |
+| Sec. 709 | [sec-00709.md](sec-00709.md) | 0 |  |
+| Sec. 710 | [sec-00710.md](sec-00710.md) | 0 |  |
+| Sec. 711 | [sec-00711.md](sec-00711.md) | 0 |  |
+| Sec. 712 | [sec-00712.md](sec-00712.md) | 0 |  |
+| Sec. 713 | [sec-00713.md](sec-00713.md) | 0 |  |
+| Sec. 901 | [sec-00901.md](sec-00901.md) | 0 |  |
+| Sec. 902 | [sec-00902.md](sec-00902.md) | 0 |  |
+| Sec. 903 | [sec-00903.md](sec-00903.md) | 0 |  |
+| Sec. 904 | [sec-00904.md](sec-00904.md) | 0 |  |
+| Sec. 1101 | [sec-01101.md](sec-01101.md) | 0 |  |
+| Sec. 1102 | [sec-01102.md](sec-01102.md) | 0 |  |
+| Sec. 1301 | [sec-01301.md](sec-01301.md) | 0 |  |
+| Sec. 1302 | [sec-01302.md](sec-01302.md) | 0 |  |
+| Sec. 1303 | [sec-01303.md](sec-01303.md) | 0 |  |
+| Sec. 1304 | [sec-01304.md](sec-01304.md) | 0 |  |
+| Sec. 1305 | [sec-01305.md](sec-01305.md) | 0 |  |
+| Sec. 1306 | [sec-01306.md](sec-01306.md) | 0 |  |
+| Sec. 1307 | [sec-01307.md](sec-01307.md) | 0 |  |
+| Sec. 1308 | [sec-01308.md](sec-01308.md) | 0 |  |
+| Sec. 1309 | [sec-01309.md](sec-01309.md) | 0 |  |
+| Sec. 1310 | [sec-01310.md](sec-01310.md) | 0 |  |
+| Sec. 1311 | [sec-01311.md](sec-01311.md) | 0 |  |
+| Sec. 1312 | [sec-01312.md](sec-01312.md) | 0 |  |
+| Sec. 1313 | [sec-01313.md](sec-01313.md) | 0 |  |
+| Sec. 1314 | [sec-01314.md](sec-01314.md) | 0 |  |
+| Sec. 1315 | [sec-01315.md](sec-01315.md) | 0 |  |
+| Sec. 2101 | [sec-02101.md](sec-02101.md) | 0 |  |
+| Sec. 2102 | [sec-02102.md](sec-02102.md) | 0 |  |
+| Sec. 2103 | [sec-02103.md](sec-02103.md) | 0 |  |
+| Sec. 2104 | [sec-02104.md](sec-02104.md) | 0 |  |
+| Sec. 2105 | [sec-02105.md](sec-02105.md) | 0 |  |
