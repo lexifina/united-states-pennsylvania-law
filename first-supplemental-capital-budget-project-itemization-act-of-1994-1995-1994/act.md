@@ -1,0 +1,5 @@
+# FIRST SUPPLEMENTAL CAPITAL BUDGET PROJECT ITEMIZATION ACT OF 1994-1995
+Act of Dec. 12, 1994, P.L. 962, No. 136
+A SUPPLEMENT
+To the act of June 16, 1994 (P.L.344, No.50), entitled "An act providing for the capital budget for the fiscal year 1994-1995," itemizing an additional fiscal year 1994-1995 public improvement project; itemizing an additional fiscal year 1994-1995 redevelopment assistance project and itemizing fiscal year 1994-1995 capital budget projects in the categories of highway and airport projects to be constructed or acquired by the Department of Environmental Resources, the Department of Community Affairs or the Department of Transportation, together with their estimated financial costs; stating the estimated useful life of the projects; making appropriations for the additional public improvement project and redevelopment assistance project; authorizing the incurring of debt without the approval of the electors for the purpose of financing the additional public improvement project and the additional redevelopment assistance project; and making a repeal.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
