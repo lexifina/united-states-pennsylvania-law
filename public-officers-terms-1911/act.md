@@ -1,0 +1,5 @@
+# PUBLIC OFFICERS - TERMS
+Act of Mar. 2, 1911, P.L. 8, No. 7
+AN ACT
+To carry into complete operation the amendments to sections eight and twenty-one of article four, sections eleven and twelve of article five, sections two and three of article eight, section one of article twelve, and sections two and seven of article fourteen of the Constitution of the Commonwealth of Pennsylvania, adopted November second, one thousand nine hundred and nine; preventing any hiatus in the terms of offices affected thereby; fixing the time when the terms of certain officers shall hereafter begin; validating the official acts of certain officers during their extended terms, and defining the term "public officer" as used in this act.
+Whereas, The schedule for the amendments to sections eight and twenty-one of article four, sections eleven and twelve of article five, sections two and three of article eight, section one of article twelve, and sections two and seven of article fourteen of the Constitution of the Commonwealth of Pennsylvania, adopted November second, one thousand nine hundred and nine, does not carry said amendments into complete operation; now, therefore,--
