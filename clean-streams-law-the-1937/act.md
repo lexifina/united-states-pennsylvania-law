@@ -1,0 +1,5 @@
+# CLEAN STREAMS LAW, THE
+Act of Jun. 22, 1937, P.L. 1987, No. 394
+AN ACT
+To preserve and improve the purity of the waters of the Commonwealth for the protection of public health, animal and aquatic life, and for industrial consumption, and recreation; empowering and directing the creation of indebtedness or the issuing of non-debt revenue bonds by political subdivisions to provide works to abate pollution; providing protection of water supply and water quality; providing for the jurisdiction of courts in the enforcement thereof; providing additional remedies for abating pollution of waters; imposing certain penalties; repealing certain acts; regulating discharges of sewage and industrial wastes; regulating the operation of mines and regulating the impact of mining upon water quality, supply and quantity; placing responsibilities upon landowners and land occupiers and to maintain primary jurisdiction over surface coal mining in Pennsylvania.
+(Title amended Oct. 10, 1980, P.L.894, No.157)
