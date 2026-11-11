@@ -1,0 +1,7 @@
+# BREACH OF PERSONAL INFORMATION NOTIFICATION ACT - NOTIFICATION OF THE BREACH OF THE SECURITY OF THE SYSTEM, NOTIFICATION OF CONSUMER REPORTING AGENCIES, CREDIT REPORTING AND MONITORING
+
+BREACH OF PERSONAL INFORMATION NOTIFICATION ACT - NOTIFICATION OF THE BREACH OF THE SECURITY OF THE SYSTEM, NOTIFICATION OF CONSUMER REPORTING AGENCIES, CREDIT REPORTING AND MONITORING · 1 versions, from 2024-09-26 (latest in force: 2024-09-26) · <https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?iFrame=true&txtType=HTM&SessYr=2024&SessInd=0&ActNum=0033.>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Amendment instrument | [text.md](text.md) | 0 |  |

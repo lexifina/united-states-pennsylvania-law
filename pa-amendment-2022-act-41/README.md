@@ -1,0 +1,7 @@
+# MUNICIPALITIES (53 PA.C.S.) - MUNICIPAL BOUNDARY CHANGE, CHANGES IN ASSESSED VALUATION, ABSTRACTS OF BUILDING AND DEMOLITION PERMITS TO BE FORWARDED TO THE COUNTY ASSESSMENT OFFICE AND REPEALS
+
+MUNICIPALITIES (53 PA.C.S.) - MUNICIPAL BOUNDARY CHANGE, CHANGES IN ASSESSED VALUATION, ABSTRACTS OF BUILDING AND DEMOLITION PERMITS TO BE FORWARDED TO THE COUNTY ASSESSMENT OFFICE AND REPEALS · 1 versions, from 2022-09-05 (latest in force: 2022-09-05) · <https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?iFrame=true&txtType=HTM&SessYr=2022&SessInd=0&ActNum=0041.>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Amendment instrument | [text.md](text.md) | 0 |  |

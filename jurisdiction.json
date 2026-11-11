@@ -1,0 +1,15 @@
+{
+  "path": "us-pa",
+  "code": "PA",
+  "name": "Pennsylvania",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-pennsylvania-law",
+  "build": {
+    "status": "partial",
+    "acts": 3810,
+    "current_text_acts": 3510,
+    "amendment_instruments": 300,
+    "history": "Current-text baseline plus separately labelled as-enacted amendment instruments; earlier consolidated history remains incomplete."
+  },
+  "register_date": "2026-10-30"
+}
