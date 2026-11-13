@@ -1,5 +1,10 @@
 # Pennsylvania law in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Pennsylvania law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Pennsylvania, United States, which global-law reads at `united-states/pennsylvania/acts/`.
 
 This repository contains the Constitution, 52 Pennsylvania Consolidated Statutes titles with section text, and six unconsolidated statutes published by the Pennsylvania General Assembly. It has one available current-text version per act, not a reconstructed amendment history. The unconsolidated statutes are the Landlord and Tenant Act of 1951, Payment of the Wages of Labor (1859), Employment of Labor Regulated (1887), Liquor Code (1951), Pennsylvania Labor Relations Act (1937), and Pennsylvania Labor Mediation Act (1937).
